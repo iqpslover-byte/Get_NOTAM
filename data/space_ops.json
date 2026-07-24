@@ -1,0 +1,99 @@
+{
+ "generated_utc": "2026-07-24T14:33:44Z",
+ "source": "https://tfr.faa.gov (SPACE OPERATIONS)",
+ "count": 2,
+ "tfrs": [
+  {
+   "notam_id": "6/7491",
+   "code_type": "91.143",
+   "effective_utc": "2026-07-25T22:30:00",
+   "expires_utc": "2026-07-26T00:54:00",
+   "alt_lower": "0",
+   "alt_upper": "999",
+   "areas": [
+    [
+     [
+      25.933333,
+      -97.166667
+     ],
+     [
+      26.016667,
+      -97.2
+     ],
+     [
+      26.1,
+      -97.033333
+     ],
+     [
+      26.1,
+      -96.916667
+     ],
+     [
+      26.0,
+      -96.916667
+     ],
+     [
+      26.0,
+      -97.0
+     ],
+     [
+      25.933333,
+      -97.166667
+     ]
+    ]
+   ],
+   "type": "SPACE OPERATIONS",
+   "facility": "ZHU",
+   "state": "TX",
+   "description": "Boca Chica, TX, Saturday, July 25, 2026 through Saturday, July 25, 2026 Local",
+   "creation_date": "07/21/2026",
+   "detail_page": "https://tfr.faa.gov/tfr3/?page=detail_6_7491"
+  },
+  {
+   "notam_id": "6/7490",
+   "code_type": "91.143",
+   "effective_utc": "2026-07-24T22:30:00",
+   "expires_utc": "2026-07-25T00:54:00",
+   "alt_lower": "0",
+   "alt_upper": "999",
+   "areas": [
+    [
+     [
+      25.933333,
+      -97.166667
+     ],
+     [
+      26.016667,
+      -97.2
+     ],
+     [
+      26.1,
+      -97.033333
+     ],
+     [
+      26.1,
+      -96.916667
+     ],
+     [
+      26.0,
+      -96.916667
+     ],
+     [
+      26.0,
+      -97.0
+     ],
+     [
+      25.933333,
+      -97.166667
+     ]
+    ]
+   ],
+   "type": "SPACE OPERATIONS",
+   "facility": "ZHU",
+   "state": "TX",
+   "description": "Boca Chica, TX, Friday, July 24, 2026 through Friday, July 24, 2026 Local",
+   "creation_date": "07/21/2026",
+   "detail_page": "https://tfr.faa.gov/tfr3/?page=detail_6_7490"
+  }
+ ]
+}

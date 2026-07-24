@@ -1,0 +1,39 @@
+name: fetch-space-tfr
+
+# FAA tfr.faa.gov の SPACE OPERATIONS（打上げ空域）を定期取得し data/ をコミットする。
+on:
+  schedule:
+    - cron: '17 * * * *'      # 毎時17分（打上げ前後に頻度を上げたい場合は分を増やす）
+  workflow_dispatch:            # 手動実行も可
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-space-tfr
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch SPACE OPERATIONS TFRs
+        run: python fetch_notam.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/space_ops.json
+          if git diff --cached --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "data: update SPACE OPERATIONS TFRs ($(date -u +%FT%TZ))"
+            git push
+          fi
