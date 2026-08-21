@@ -1,0 +1,59 @@
+name: probe-faa-browser
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Playwright Chromium
+        run: npm i -D playwright@1.47.0 && npx playwright install --with-deps chromium
+
+      - name: Probe with real browser
+        run: |
+          cat > probe.mjs <<'JSEOF'
+          import { chromium } from 'playwright';
+          const b = await chromium.launch();
+          const ctx = await b.newContext({ locale: 'en-US', timezoneId: 'America/New_York' });
+          const p = await ctx.newPage();
+          try {
+            const r = await p.goto('https://notams.aim.faa.gov/notamSearch/nsapp.html', { waitUntil: 'domcontentloaded', timeout: 60000 });
+            console.log('BROWSER GET nsapp.html status =', r ? r.status() : 'null');
+            console.log('TITLE =', await p.title());
+            const body = (await p.content()).slice(0, 300);
+            console.log('BODY HEAD =', body.replace(/\s+/g, ' '));
+          } catch (e) {
+            console.log('BROWSER GET failed:', e.message);
+            await b.close();
+            process.exit(0);
+          }
+          const out = await p.evaluate(async () => {
+            const form = new URLSearchParams({
+              searchType: '0', designatorsForLocation: 'NZZC', designatorForAccountable: '',
+              latDegrees: '', latMinutes: '0', latSeconds: '0', longDegrees: '', longMinutes: '0', longSeconds: '0',
+              radius: '10', sortColumns: '5 false', sortDirection: 'true',
+              designatorForNotamNumberSearch: '', notamNumber: '', radiusSearchOnDesignator: 'false',
+              radiusSearchDesignator: '', latitudeDirection: 'N', longitudeDirection: 'W',
+              freeFormText: '', flightPathText: '', flightPathDivertAirfields: '', flightPathBuffer: '4',
+              flightPathIncludeNavaids: 'true', flightPathIncludeArtcc: 'false', flightPathIncludeTfr: 'true',
+              flightPathIncludeRegulatory: 'false', flightPathResultsType: 'All NOTAMs',
+              archiveDate: '', archiveDesignator: '', offset: '0', notamsOnly: 'false', filters: ''
+            });
+            const res = await fetch('/notamSearch/search', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8', 'X-Requested-With': 'XMLHttpRequest' },
+              body: form.toString()
+            });
+            const t = await res.text();
+            return { status: res.status, len: t.length, head: t.slice(0, 900) };
+          });
+          console.log('IN-PAGE POST /notamSearch/search status =', out.status, 'len =', out.len);
+          console.log('BODY =', out.head);
+          await b.close();
+          JSEOF
+          node probe.mjs
