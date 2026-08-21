@@ -1,0 +1,58 @@
+name: probe-faa-notamsearch
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Runner egress IP
+        run: curl -s -m 20 https://api.ipify.org; echo
+
+      - name: Control - tfr.faa.gov (known working)
+        run: |
+          curl -s -m 30 -o /tmp/tfr.xml -w "tfr.faa.gov  HTTP=%{http_code} SIZE=%{size_download}\n" \
+            "https://tfr.faa.gov/tfr3/export/xml" || true
+          head -c 200 /tmp/tfr.xml; echo
+
+      - name: A - GET notamSearch top page
+        run: |
+          curl -s -m 30 -o /tmp/a.html -w "GET /notamSearch/  HTTP=%{http_code} SIZE=%{size_download}\n" \
+            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0 Safari/537.36" \
+            -H "Accept: text/html,application/xhtml+xml" \
+            "https://notams.aim.faa.gov/notamSearch/" || true
+          head -c 400 /tmp/a.html; echo
+
+      - name: B - POST notamSearch/search (NZZC)
+        run: |
+          curl -s -m 45 -o /tmp/b.json -w "POST search NZZC  HTTP=%{http_code} SIZE=%{size_download}\n" \
+            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0 Safari/537.36" \
+            -H "Content-Type: application/x-www-form-urlencoded; charset=UTF-8" \
+            -H "Accept: application/json, text/javascript, */*; q=0.01" \
+            -H "X-Requested-With: XMLHttpRequest" \
+            -H "Origin: https://notams.aim.faa.gov" \
+            -H "Referer: https://notams.aim.faa.gov/notamSearch/nsapp.html" \
+            --data "searchType=0&designatorsForLocation=NZZC&designatorForAccountable=&latDegrees=&latMinutes=0&latSeconds=0&longDegrees=&longMinutes=0&longSeconds=0&radius=10&sortColumns=5+false&sortDirection=true&designatorForNotamNumberSearch=&notamNumber=&radiusSearchOnDesignator=false&radiusSearchDesignator=&latitudeDirection=N&longitudeDirection=W&freeFormText=&flightPathText=&flightPathDivertAirfields=&flightPathBuffer=4&flightPathIncludeNavaids=true&flightPathIncludeArtcc=false&flightPathIncludeTfr=true&flightPathIncludeRegulatory=false&flightPathResultsType=All+NOTAMs&archiveDate=&archiveDesignator=&offset=0&notamsOnly=false&filters=" \
+            "https://notams.aim.faa.gov/notamSearch/search" || true
+          head -c 1200 /tmp/b.json; echo
+
+      - name: C - POST notamSearch/search (ZBPE, China)
+        run: |
+          curl -s -m 45 -o /tmp/c.json -w "POST search ZBPE  HTTP=%{http_code} SIZE=%{size_download}\n" \
+            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0 Safari/537.36" \
+            -H "Content-Type: application/x-www-form-urlencoded; charset=UTF-8" \
+            -H "Accept: application/json, text/javascript, */*; q=0.01" \
+            -H "X-Requested-With: XMLHttpRequest" \
+            -H "Origin: https://notams.aim.faa.gov" \
+            -H "Referer: https://notams.aim.faa.gov/notamSearch/nsapp.html" \
+            --data "searchType=0&designatorsForLocation=ZBPE&designatorForAccountable=&latDegrees=&latMinutes=0&latSeconds=0&longDegrees=&longMinutes=0&longSeconds=0&radius=10&sortColumns=5+false&sortDirection=true&designatorForNotamNumberSearch=&notamNumber=&radiusSearchOnDesignator=false&radiusSearchDesignator=&latitudeDirection=N&longitudeDirection=W&freeFormText=&flightPathText=&flightPathDivertAirfields=&flightPathBuffer=4&flightPathIncludeNavaids=true&flightPathIncludeArtcc=false&flightPathIncludeTfr=true&flightPathIncludeRegulatory=false&flightPathResultsType=All+NOTAMs&archiveDate=&archiveDesignator=&offset=0&notamsOnly=false&filters=" \
+            "https://notams.aim.faa.gov/notamSearch/search" || true
+          head -c 1200 /tmp/c.json; echo
+
+      - name: D - GET createNotamPdf (single notam by transaction id)
+        run: |
+          curl -s -m 30 -o /tmp/d.pdf -w "GET createNotamPdf  HTTP=%{http_code} SIZE=%{size_download} TYPE=%{content_type}\n" \
+            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0 Safari/537.36" \
+            "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82150838" || true
+          head -c 200 /tmp/d.pdf; echo
