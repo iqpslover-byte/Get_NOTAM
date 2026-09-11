@@ -1,13 +1,13 @@
 {
- "generated_utc": "2026-09-11T09:43:08Z",
+ "generated_utc": "2026-09-11T14:27:14Z",
  "source": "https://tfr.faa.gov (SPACE OPERATIONS)",
  "count": 4,
  "tfrs": [
   {
-   "notam_id": "6/2265",
+   "notam_id": "6/2428",
    "code_type": "91.143",
-   "effective_utc": "2026-09-14T13:00:00",
-   "expires_utc": "2026-09-14T15:00:00",
+   "effective_utc": "2026-09-15T13:00:00",
+   "expires_utc": "2026-09-15T15:00:00",
    "alt_lower": "0",
    "alt_upper": "910",
    "areas": [
@@ -165,9 +165,9 @@
    "type": "SPACE OPERATIONS",
    "facility": "ZBW",
    "state": "ME",
-   "description": "65 ZBW AIRSPACE 35NM SW PRESQUE ISLE, ME, Monday, September 14, 2026 UTC",
-   "creation_date": "09/10/2026",
-   "detail_page": "https://tfr.faa.gov/tfr3/?page=detail_6_2265"
+   "description": "28 ZBW AIRSPACE 35NM SW PRESQUE ISLE, ME, Tuesday, September 15, 2026 UTC",
+   "creation_date": "09/11/2026",
+   "detail_page": "https://tfr.faa.gov/tfr3/?page=detail_6_2428"
   },
   {
    "notam_id": "6/2193",
