@@ -53,4 +53,80 @@ GitHub Actions（`.github/workflows/fetch.yml`）が毎時実行してコミッ�
 ## 対象範囲
 
 - **米国のみ**（tfr.faa.gov は FAA）。国際打上げ・海外FIRの再突入NOTAMは含まない。
-- 国際対応は将来、地域別ソース（autorouter=欧州EAD / DINS など）を別途追加する想定。
+- 国際対応は下の `fetch_notices.py`（space-notices.com）で補う。
+
+---
+
+# もうひとつの取得系統：space-notices.com（各国のNOTAM・航行警報）
+
+`fetch_notices.py` → `data/notices.json`
+
+FAA の TFR が米国だけなのに対し、こちらは**中国・ニュージーランド・日本を含む各国の NOTAM**を持つ。
+打上げとの紐づけ（どの便の空域か）と、電文全文・多角形・有効期間が揃った形で取れる。
+
+## なぜここから取るか
+
+各国の一次ソースは、いずれも自動取得の道が塞がっている。
+
+| 経路 | 状態 |
+|---|---|
+| FAA NOTAM Search (`notams.aim.faa.gov`) | 家庭回線・Actions・実ブラウザすべて **403**（Akamai のデータセンター遮断） |
+| FAA 公式API (`external-api.faa.gov`) | **401**＝到達はするが認証キーが要る（申請が必要・未取得） |
+| Airways NZ の IFIS | **規約で自動取得を明確に禁止** |
+| Flight Advisor NZ | データは素で返るが**規約が IFIS と同文で禁止** |
+
+space-notices.com は `robots.txt` が全許可で、各通知に一次ソース（FAA／NGA）へのリンクを明示している。
+
+## 取得の作法（節度）
+
+- **差分取得**。`sitemap.xml` の `lastmod` と `data/_notices_cache.json` を突き合わせ、
+  新規・更新のものだけ取りに行く。普段の実行は数件で済む
+- 1件ごとに間隔を空ける（`NOTICES_SLEEP`・既定 0.4 秒／Actions では 0.6 秒）
+- 1回の実行の上限は `NOTICES_MAX_FETCH`（既定 200 件）。未取得が残れば次の実行で埋まる
+- User-Agent にアプリ名と連絡先を名乗る
+- **Actions は3時間おき**（`fetch_notices.yml`）。TFR 側の毎時とは別系統
+
+## 出力
+
+```json
+{
+  "generated_utc": "...Z",
+  "source": "space-notices.com",
+  "total_known": 1188,
+  "pending": 0,
+  "count": N,
+  "notices": [
+    {
+      "id": "notam-NZZC-B4624/26",
+      "name": "B4624/26",
+      "kind": "NOTAM",                 // NOTAM / NAVWARNING / LNM / BNM / INFOPAGE
+      "reason": "ROCKET LAUNCH",
+      "cancelled": false,              // 取消＝打上げスリップの一次証拠
+      "height": "Unlimited",
+      "raw": "B4624/26 NOTAMN\r\nQ) ...",   // 電文全文
+      "areas": [ [ [lat,lon], ... ] ], // [lat,lon]十進度・西経/南緯は負（TFR側と同じ向き）
+      "markers": [ [lat,lon], ... ],
+      "dates": [ {"start":"...Z","end":"...Z"} ],   // くり返す時間帯は展開済み
+      "launches": [ {"id":"launch-...","title":"Owl By The Dozen (StriX Launch 12)"} ],
+      "source": {"name":"US Federal Aviation Administration","link":"https://notams.aim.faa.gov/..."},
+      "page": "https://space-notices.com/notice/..."
+    }
+  ]
+}
+```
+
+- **期限切れは落とす**。最後の `end` が `NOTICES_KEEP_DAYS`（既定30日）より古いものは出力に入れない。
+  中身は `data/_notices_cache.json` に残るので再取得はしない
+- `_notices_cache.json` は取得済み全件（sitemap から消えたものは落とす）
+
+## 表示するときの約束
+
+アプリ側に **出典を必ず出す**。通知そのものの出所（`source.name`＝FAA／NGA）と、
+経由した `space-notices.com` の両方。`page` と `source.link` をリンクにする。
+
+## 実行
+
+```bash
+python fetch_notices.py                      # 差分のみ（上限200件）
+NOTICES_MAX_FETCH=1200 python fetch_notices.py   # 初回の全件取得
+```

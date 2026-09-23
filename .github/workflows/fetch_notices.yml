@@ -1,0 +1,48 @@
+name: fetch-space-notices
+
+# space-notices.com の打上げ関連通知（各国のNOTAM・航行警報）を差分取得し data/ をコミットする。
+# 1回の実行では取りに行く件数に上限があるので、未取得が残っていれば次の実行で埋まる。
+on:
+  schedule:
+    - cron: '43 */3 * * *'      # 3時間おき（相手サイトへの節度・差分だけなので普段は数件）
+  workflow_dispatch:
+    inputs:
+      max_fetch:
+        description: '1回の実行で取りに行く上限件数'
+        required: false
+        default: '200'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-space-notices
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch launch notices
+        env:
+          NOTICES_MAX_FETCH: ${{ github.event.inputs.max_fetch || '200' }}
+          NOTICES_SLEEP: '0.6'
+        run: python fetch_notices.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/notices.json data/_notices_cache.json
+          if git diff --cached --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "data: update launch notices ($(date -u +%FT%TZ))"
+            git push
+          fi
