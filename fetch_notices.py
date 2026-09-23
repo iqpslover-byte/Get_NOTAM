@@ -215,10 +215,18 @@ def main():
             print("  ! %s : %s" % (url, e), file=sys.stderr)
         time.sleep(SLEEP)
 
-    # sitemap から消えたものはキャッシュからも落とす
+    # 一度取ったものは消さない。sitemap から消えたら、消えた日の印だけ付ける
     alive = {u for u, _ in entries}
-    for u in [u for u in cache if u not in alive]:
-        cache.pop(u, None)
+    today = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d")
+    gone = 0
+    for u, v in cache.items():
+        if u in alive:
+            v.pop("gone", None)
+        else:
+            gone += 1
+            v.setdefault("gone", today)
+    if gone:
+        print("sitemap から消えたが保持している: %d 件" % gone)
 
     os.makedirs(os.path.dirname(CACHE_PATH), exist_ok=True)
     # 1通知1行。中身が変わった行だけが git の差分になる（1行JSONだと毎回全体が差分になる）

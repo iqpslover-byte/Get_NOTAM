@@ -117,7 +117,9 @@ space-notices.com は `robots.txt` が全許可で、各通知に一次ソース
 
 - **期限切れは落とす**。最後の `end` が `NOTICES_KEEP_DAYS`（既定30日）より古いものは出力に入れない。
   中身は `data/_notices_cache.json` に残るので再取得はしない
-- `_notices_cache.json` は取得済み全件（sitemap から消えたものは落とす）
+- `_notices_cache.json` は**取得済み全件の保管庫**。一度取ったものは消さない。
+  サイト側の sitemap から消えたものは `"gone":"YYYY-MM-DD"` の印を付けて残す
+  （向こうの都合でこちらの記録が欠けないように）。過去の電文はここから読める
 
 ## 表示するときの約束
 
