@@ -2,9 +2,11 @@ name: fetch-space-tfr
 
 # FAA tfr.faa.gov の SPACE OPERATIONS（打上げ空域）を定期取得し data/ をコミットする。
 on:
-  schedule:
-    - cron: '17 * * * *'      # 毎時17分（打上げ前後に頻度を上げたい場合は分を増やす）
-  workflow_dispatch:            # 手動実行も可
+  # 定期実行は停止（2026-09-23）。アプリは notices.json へ一本化したのでこのデータは読んでいない。
+  # 戻すときは下の cron を有効にする。
+  # schedule:
+  #   - cron: '17 * * * *'
+  workflow_dispatch:            # 手動実行だけ残す
 
 permissions:
   contents: write
