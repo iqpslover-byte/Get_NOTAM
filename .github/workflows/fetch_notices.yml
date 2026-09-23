@@ -4,7 +4,7 @@ name: fetch-space-notices
 # 1回の実行では取りに行く件数に上限があるので、未取得が残っていれば次の実行で埋まる。
 on:
   schedule:
-    - cron: '43 */3 * * *'      # 3時間おき（相手サイトへの節度・差分だけなので普段は数件）
+    - cron: '43 * * * *'        # 毎時43分（他の Get_* と同じ毎時。分は重ならないようずらす）
   workflow_dispatch:
     inputs:
       max_fetch:
