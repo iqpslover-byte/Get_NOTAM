@@ -109,7 +109,8 @@ space-notices.com は `robots.txt` が全許可で、各通知に一次ソース
       "dates": [ {"start":"...Z","end":"...Z"} ],   // くり返す時間帯は展開済み
       "launches": [ {"id":"launch-...","title":"Owl By The Dozen (StriX Launch 12)"} ],
       "source": {"name":"US Federal Aviation Administration","link":"https://notams.aim.faa.gov/..."},
-      "page": "https://space-notices.com/notice/..."
+      "page": "https://space-notices.com/notice/...",
+      "updated": "...Z"                 // サイトがこの通知を最後に更新した時刻（最新の電文を選ぶのに使う）
     }
   ]
 }

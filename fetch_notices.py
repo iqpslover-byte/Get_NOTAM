@@ -112,7 +112,7 @@ def extract_notice(html):
 
 # ---------------------------------------------------------------- 整形
 
-def _norm(notice, page_url):
+def _norm(notice, page_url, lastmod=""):
     """サイトの notice を、アプリが読む形へ。座標は [lat, lon]（西経・南緯は負）。"""
     areas = []
     for ring in (notice.get("areas") or []):
@@ -150,6 +150,9 @@ def _norm(notice, page_url):
                      for e in (notice.get("entries") or []) if e.get("id")],
         "source": {"name": src.get("name"), "link": src.get("link")},
         "page": page_url,
+        # サイトがこの通知を最後に更新した時刻。同じ打上げに電文が何通もあるとき、
+        # どれが最新か（＝今いちばん確からしい窓か）をアプリが選ぶために要る
+        "updated": lastmod,
     }
 
 
@@ -197,6 +200,12 @@ def main():
         return 1
 
     cache = load_cache()
+    # updated を持たない古いキャッシュは、保存してある lastmod から補う（取り直さない）
+    for v in cache.values():
+        n = v.get("notice") or {}
+        if n and not n.get("updated"):
+            n["updated"] = v.get("lastmod", "")
+
     todo = [(u, lm) for u, lm in entries
             if u not in cache or cache[u].get("lastmod") != lm]
     print("取りに行く: %d 件（上限 %d）" % (len(todo), MAX_FETCH))
@@ -208,7 +217,7 @@ def main():
             notice = extract_notice(html)
             if not notice:
                 raise ValueError("notice を取り出せない")
-            cache[url] = {"lastmod": lastmod, "notice": _norm(notice, url)}
+            cache[url] = {"lastmod": lastmod, "notice": _norm(notice, url, lastmod)}
             fetched += 1
         except Exception as e:
             failed += 1

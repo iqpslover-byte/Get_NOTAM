@@ -1,6 +1,6 @@
 {
 "count": 247,
-"generated_utc": "2026-09-23T11:10:02Z",
+"generated_utc": "2026-09-23T11:23:50Z",
 "notices": [
 {
 "areas": [
@@ -51,7 +51,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82186983",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-08-22T14:44:23.035Z"
 },
 {
 "areas": [
@@ -102,7 +103,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82187033",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-08-22T14:44:14.336Z"
 },
 {
 "areas": [
@@ -153,7 +155,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82187960",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-08-22T17:51:18.894Z"
 },
 {
 "areas": [
@@ -248,7 +251,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2414&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-08-23T17:23:14.299Z"
 },
 {
 "areas": [
@@ -411,7 +415,8 @@
 "source": {
 "link": "https://tfr.faa.gov/tfr3/?page=detail_6_6701",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-08-20T00:27:01.198Z"
 },
 {
 "areas": [
@@ -562,7 +567,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=C&msgSqncNumber=161&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-08-12T20:16:13.838Z"
 },
 {
 "areas": [
@@ -713,7 +719,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=C&msgSqncNumber=168&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-08-12T20:16:05.805Z"
 },
 {
 "areas": [
@@ -846,7 +853,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2289&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-08-10T08:19:50.095Z"
 },
 {
 "areas": [
@@ -971,7 +979,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=540&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-08-10T05:48:04.150Z"
 },
 {
 "areas": [
@@ -1096,7 +1105,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82067770",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-08-11T15:55:06.767Z"
 },
 {
 "areas": [
@@ -1183,7 +1193,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82161690",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-08-20T05:01:14.650Z"
 },
 {
 "areas": [
@@ -1234,7 +1245,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82245540",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-08-28T02:38:20.791Z"
 },
 {
 "areas": [
@@ -1285,7 +1297,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82245547",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-08-28T02:38:25.556Z"
 },
 {
 "areas": [
@@ -1336,7 +1349,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82245569",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-08-28T02:38:32.396Z"
 },
 {
 "areas": [
@@ -1387,7 +1401,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82245498",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-08-28T02:38:08.044Z"
 },
 {
 "areas": [
@@ -1438,7 +1453,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82245524",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-08-28T02:38:13.380Z"
 },
 {
 "areas": [
@@ -1551,7 +1567,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=C&msgSqncNumber=178&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-08-20T00:48:02.093Z"
 },
 {
 "areas": [
@@ -1602,7 +1619,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=A&msgSqncNumber=1608&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-08-19T04:00:25.708Z"
 },
 {
 "areas": [
@@ -1681,7 +1699,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=81830454",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-07-20T10:00:13.975Z"
 },
 {
 "areas": [
@@ -1760,7 +1779,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=81830549",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-07-20T10:00:26.797Z"
 },
 {
 "areas": [
@@ -1923,7 +1943,8 @@
 "source": {
 "link": "https://tfr.faa.gov/tfr3/?page=detail_6_9976",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-01T19:31:01.889Z"
 },
 {
 "areas": [
@@ -2086,7 +2107,8 @@
 "source": {
 "link": "https://tfr.faa.gov/tfr3/?page=detail_6_7111",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-08-22T19:53:01.392Z"
 },
 {
 "areas": [
@@ -2149,7 +2171,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82339559",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-06T00:57:03.240Z"
 },
 {
 "areas": [
@@ -2200,7 +2223,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82339574",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-06T01:04:34.116Z"
 },
 {
 "areas": [
@@ -2251,7 +2275,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82339591",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-06T01:04:41.894Z"
 },
 {
 "areas": [
@@ -2314,7 +2339,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82339646",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-06T01:21:09.241Z"
 },
 {
 "areas": [
@@ -2365,7 +2391,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82339656",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-06T01:22:35.336Z"
 },
 {
 "areas": [
@@ -2416,7 +2443,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82339661",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-06T01:28:34.868Z"
 },
 {
 "areas": [
@@ -2467,7 +2495,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82296220",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-02T03:52:13.694Z"
 },
 {
 "areas": [
@@ -2518,7 +2547,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82296222",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-02T03:52:08.251Z"
 },
 {
 "areas": [
@@ -2569,7 +2599,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82345060",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-07T01:36:29.800Z"
 },
 {
 "areas": [
@@ -2632,7 +2663,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82344646",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-07T00:26:57.768Z"
 },
 {
 "areas": [
@@ -2683,7 +2715,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82344647",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-07T00:33:21.370Z"
 },
 {
 "areas": [
@@ -2734,7 +2767,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82344678",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-07T00:33:28.931Z"
 },
 {
 "areas": [
@@ -2793,7 +2827,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82364932",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-09T00:48:55.963Z"
 },
 {
 "areas": [
@@ -2852,7 +2887,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82364946",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-09T00:49:11.006Z"
 },
 {
 "areas": [
@@ -2943,7 +2979,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82364936",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-09T00:49:00.860Z"
 },
 {
 "areas": [
@@ -2994,7 +3031,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82345133",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-07T02:04:12.548Z"
 },
 {
 "areas": [
@@ -3045,7 +3083,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82345130",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-07T02:04:07.251Z"
 },
 {
 "areas": [
@@ -3096,7 +3135,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82345907",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-07T05:48:29.803Z"
 },
 {
 "areas": [
@@ -3151,7 +3191,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82355340",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-08T10:12:31.561Z"
 },
 {
 "areas": [
@@ -3202,7 +3243,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82355361",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-08T10:12:24.592Z"
 },
 {
 "areas": [
@@ -3265,7 +3307,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82365804",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-09T03:41:06.810Z"
 },
 {
 "areas": [
@@ -3316,7 +3359,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82365810",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-09T03:42:39.513Z"
 },
 {
 "areas": [
@@ -3367,7 +3411,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82365820",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-09T03:48:39.373Z"
 },
 {
 "areas": [
@@ -3422,7 +3467,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82358180",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-08T13:54:08.258Z"
 },
 {
 "areas": [
@@ -3473,7 +3519,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82358159",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-08T13:54:00.442Z"
 },
 {
 "areas": [],
@@ -3505,7 +3552,8 @@
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-01T13:54:00.593Z"
 },
 {
 "areas": [
@@ -3568,7 +3616,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82378142",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-10T02:22:38.292Z"
 },
 {
 "areas": [
@@ -3619,7 +3668,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82378203",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-10T02:46:46.037Z"
 },
 {
 "areas": [
@@ -3670,7 +3720,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82378219",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-10T02:46:54.233Z"
 },
 {
 "areas": [
@@ -3833,7 +3884,8 @@
 "source": {
 "link": "https://tfr.faa.gov/tfr3/?page=detail_6_0427",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-02T18:09:01.119Z"
 },
 {
 "areas": [
@@ -3888,7 +3940,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82380747",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-10T10:00:55.767Z"
 },
 {
 "areas": [
@@ -3939,7 +3992,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82380784",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-10T10:00:49.268Z"
 },
 {
 "areas": [
@@ -4006,7 +4060,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82269153",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-08-31T05:42:05.258Z"
 },
 {
 "areas": [
@@ -4065,7 +4120,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82385439",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-10T16:24:48.527Z"
 },
 {
 "areas": [
@@ -4124,7 +4180,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82385468",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-10T16:24:54.629Z"
 },
 {
 "areas": [
@@ -4243,7 +4300,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82383838",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-10T14:19:58.018Z"
 },
 {
 "areas": [
@@ -4306,7 +4364,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82250280",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-08-28T13:52:15.329Z"
 },
 {
 "areas": [
@@ -4377,7 +4436,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82250438",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-08-28T13:52:23.715Z"
 },
 {
 "areas": [],
@@ -4409,7 +4469,8 @@
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-08T13:48:42.491Z"
 },
 {
 "areas": [
@@ -4468,7 +4529,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82403816",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-12T09:52:50.167Z"
 },
 {
 "areas": [
@@ -4527,7 +4589,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82403776",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-12T09:50:24.674Z"
 },
 {
 "areas": [
@@ -4646,7 +4709,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82383812",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-10T14:17:57.818Z"
 },
 {
 "areas": [
@@ -4697,7 +4761,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82371371",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-09T14:21:03.802Z"
 },
 {
 "areas": [
@@ -4748,7 +4813,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82382855",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-10T13:09:03.320Z"
 },
 {
 "areas": [
@@ -4799,7 +4865,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82379121",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-10T06:29:00.125Z"
 },
 {
 "areas": [
@@ -4850,7 +4917,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82379122",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-10T06:28:55.435Z"
 },
 {
 "areas": [
@@ -4969,7 +5037,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82383869",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-10T14:21:57.744Z"
 },
 {
 "areas": [
@@ -5020,7 +5089,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82367339",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-09T08:10:20.376Z"
 },
 {
 "areas": [
@@ -5071,7 +5141,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82368706",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-09T11:10:18.091Z"
 },
 {
 "areas": [
@@ -5234,7 +5305,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82367356",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-09T08:10:15.357Z"
 },
 {
 "areas": [
@@ -5397,7 +5469,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82391758",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-11T06:38:05.978Z"
 },
 {
 "areas": [
@@ -5448,7 +5521,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82366407",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-09T05:46:05.314Z"
 },
 {
 "areas": [
@@ -5507,7 +5581,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82420075",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-14T14:40:18.885Z"
 },
 {
 "areas": [
@@ -5558,7 +5633,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82420080",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-14T14:40:05.024Z"
 },
 {
 "areas": [
@@ -5609,7 +5685,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82388135",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-10T20:30:30.446Z"
 },
 {
 "areas": [
@@ -5738,7 +5815,8 @@
 "source": {
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
-}
+},
+"updated": "2026-09-01T22:15:18.614Z"
 },
 {
 "areas": [
@@ -5867,7 +5945,8 @@
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
-}
+},
+"updated": "2026-09-01T22:16:08.296Z"
 },
 {
 "areas": [
@@ -5974,7 +6053,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82322534",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-04T00:44:53.534Z"
 },
 {
 "areas": [],
@@ -6026,7 +6106,8 @@
 "source": {
 "link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
 "name": "Cadena OIS"
-}
+},
+"updated": "2026-09-01T13:40:00.866Z"
 },
 {
 "areas": [
@@ -6113,7 +6194,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2551&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-05T10:15:07.759Z"
 },
 {
 "areas": [
@@ -6192,7 +6274,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82319493",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-03T18:28:30.513Z"
 },
 {
 "areas": [
@@ -6283,7 +6366,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82315864",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-03T13:40:30.128Z"
 },
 {
 "areas": [
@@ -6334,7 +6418,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82368807",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-09T11:10:06.752Z"
 },
 {
 "areas": [
@@ -6385,7 +6470,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82391128",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-11T04:41:01.202Z"
 },
 {
 "areas": [
@@ -6444,7 +6530,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82391127",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-11T04:40:55.779Z"
 },
 {
 "areas": [
@@ -6495,7 +6582,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82414119",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-14T01:38:54.288Z"
 },
 {
 "areas": [
@@ -6546,7 +6634,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2641&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-12T16:13:46.168Z"
 },
 {
 "areas": [
@@ -6605,7 +6694,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82420231",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-14T14:52:00.426Z"
 },
 {
 "areas": [
@@ -6656,7 +6746,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82420161",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-14T14:46:00.641Z"
 },
 {
 "areas": [
@@ -6715,7 +6806,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2636&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-12T06:56:21.563Z"
 },
 {
 "areas": [
@@ -6766,7 +6858,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82438450",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-16T01:02:30.918Z"
 },
 {
 "areas": [
@@ -6817,7 +6910,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2680&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-16T16:05:46.093Z"
 },
 {
 "areas": [
@@ -6868,7 +6962,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82428060",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-15T07:16:16.406Z"
 },
 {
 "areas": [
@@ -6927,7 +7022,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82438600",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-16T01:20:58.069Z"
 },
 {
 "areas": [
@@ -6978,7 +7074,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82438598",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-16T01:20:48.794Z"
 },
 {
 "areas": [],
@@ -7010,7 +7107,8 @@
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-16T13:36:43.834Z"
 },
 {
 "areas": [
@@ -7081,7 +7179,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82346322",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-07T07:00:29.328Z"
 },
 {
 "areas": [
@@ -7152,7 +7251,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82250504",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-08-28T13:52:06.006Z"
 },
 {
 "areas": [
@@ -7335,7 +7435,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82346437",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-07T07:36:34.446Z"
 },
 {
 "areas": [
@@ -7398,7 +7499,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82462914",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-17T20:39:03.048Z"
 },
 {
 "areas": [
@@ -7449,7 +7551,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82462956",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-17T20:42:39.055Z"
 },
 {
 "areas": [
@@ -7500,7 +7603,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82462983",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-17T20:42:47.660Z"
 },
 {
 "areas": [
@@ -7559,7 +7663,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82441804",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-16T10:00:26.063Z"
 },
 {
 "areas": [
@@ -7610,7 +7715,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82441833",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-16T10:06:24.430Z"
 },
 {
 "areas": [
@@ -7661,7 +7767,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82391387",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-11T05:17:02.534Z"
 },
 {
 "areas": [
@@ -7712,7 +7819,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82391386",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-11T05:16:56.029Z"
 },
 {
 "areas": [
@@ -7825,7 +7933,8 @@
 "source": {
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
-}
+},
+"updated": "2026-09-11T21:10:07.392Z"
 },
 {
 "areas": [],
@@ -7877,7 +7986,8 @@
 "source": {
 "link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
 "name": "Cadena OIS"
-}
+},
+"updated": "2026-09-04T17:10:03.313Z"
 },
 {
 "areas": [
@@ -7960,7 +8070,8 @@
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
-}
+},
+"updated": "2026-09-13T16:48:06.264Z"
 },
 {
 "areas": [
@@ -8043,7 +8154,8 @@
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
-}
+},
+"updated": "2026-09-13T16:48:18.572Z"
 },
 {
 "areas": [
@@ -8156,7 +8268,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=861&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-08T06:56:05.840Z"
 },
 {
 "areas": [
@@ -8285,7 +8398,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2516&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-11T04:39:48.007Z"
 },
 {
 "areas": [
@@ -8406,7 +8520,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2517&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-11T04:46:09.425Z"
 },
 {
 "areas": [
@@ -8485,7 +8600,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=A&msgSqncNumber=1783&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-08T07:32:01.858Z"
 },
 {
 "areas": [
@@ -8564,7 +8680,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=862&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-08T07:20:25.327Z"
 },
 {
 "areas": [
@@ -8643,7 +8760,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82344087",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-06T21:50:53.427Z"
 },
 {
 "areas": [
@@ -8726,7 +8844,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82349893",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-07T15:26:53.726Z"
 },
 {
 "areas": [
@@ -8797,7 +8916,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82223783",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-03T19:32:45.825Z"
 },
 {
 "areas": [
@@ -8860,7 +8980,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82355290",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-08T10:18:53.827Z"
 },
 {
 "areas": [
@@ -8923,7 +9044,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82355539",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-08T10:54:54.325Z"
 },
 {
 "areas": [
@@ -8974,7 +9096,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82438948",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-16T02:46:38.638Z"
 },
 {
 "areas": [
@@ -9025,7 +9148,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82465551",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-18T03:53:29.808Z"
 },
 {
 "areas": [
@@ -9088,7 +9212,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82463119",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-17T21:03:03.075Z"
 },
 {
 "areas": [
@@ -9139,7 +9264,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82463136",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-17T21:06:48.840Z"
 },
 {
 "areas": [
@@ -9190,7 +9316,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82463141",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-17T21:06:58.635Z"
 },
 {
 "areas": [
@@ -9241,7 +9368,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82438947",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-16T02:46:31.519Z"
 },
 {
 "areas": [
@@ -9300,7 +9428,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82447111",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-16T16:42:24.783Z"
 },
 {
 "areas": [
@@ -9351,7 +9480,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82447177",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-16T16:48:24.537Z"
 },
 {
 "areas": [
@@ -9406,7 +9536,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82448782",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-16T19:00:32.943Z"
 },
 {
 "areas": [
@@ -9457,7 +9588,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82448831",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-16T19:00:24.567Z"
 },
 {
 "areas": [
@@ -9508,7 +9640,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82452626",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-17T04:14:08.380Z"
 },
 {
 "areas": [
@@ -9559,7 +9692,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82452645",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-17T04:14:14.291Z"
 },
 {
 "areas": [
@@ -9622,7 +9756,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82452682",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-17T04:14:20.769Z"
 },
 {
 "areas": [
@@ -9677,7 +9812,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82457493",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-17T12:59:09.099Z"
 },
 {
 "areas": [
@@ -9728,7 +9864,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82457469",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-17T12:59:00.463Z"
 },
 {
 "areas": [],
@@ -9760,7 +9897,8 @@
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-11T19:52:43.399Z"
 },
 {
 "areas": [
@@ -9839,7 +9977,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82399009",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-11T17:52:44.245Z"
 },
 {
 "areas": [
@@ -9894,7 +10033,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82478588",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-19T09:51:01.639Z"
 },
 {
 "areas": [
@@ -10015,7 +10155,8 @@
 "source": {
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
-}
+},
+"updated": "2026-09-08T20:55:45.644Z"
 },
 {
 "areas": [
@@ -10136,7 +10277,8 @@
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
-}
+},
+"updated": "2026-09-08T20:48:06.513Z"
 },
 {
 "areas": [
@@ -10257,7 +10399,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=625&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-11T07:16:01.952Z"
 },
 {
 "areas": [
@@ -10356,7 +10499,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82399433",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-11T18:40:34.829Z"
 },
 {
 "areas": [
@@ -10407,7 +10551,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82478585",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-19T09:50:48.616Z"
 },
 {
 "areas": [
@@ -10490,7 +10635,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2626&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-11T07:00:23.358Z"
 },
 {
 "areas": [
@@ -10545,7 +10691,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82375703",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-09T20:28:53.571Z"
 },
 {
 "areas": [
@@ -10600,7 +10747,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82396089",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-11T13:38:06.895Z"
 },
 {
 "areas": [
@@ -10675,7 +10823,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82439365",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-16T03:54:06.130Z"
 },
 {
 "areas": [
@@ -10754,7 +10903,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82373506",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-09T17:04:06.861Z"
 },
 {
 "areas": [
@@ -10805,7 +10955,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82468261",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-18T10:11:31.068Z"
 },
 {
 "areas": [
@@ -10864,7 +11015,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82468398",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-18T10:29:29.756Z"
 },
 {
 "areas": [
@@ -10959,7 +11111,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2726&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-20T11:55:52.593Z"
 },
 {
 "areas": [
@@ -11010,7 +11163,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82468716",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-18T11:01:18.629Z"
 },
 {
 "areas": [
@@ -11061,7 +11215,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82468732",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-18T11:01:09.465Z"
 },
 {
 "areas": [
@@ -11152,7 +11307,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82366767",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-09T06:40:58.435Z"
 },
 {
 "areas": [
@@ -11203,7 +11359,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82388751",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-10T21:36:49.293Z"
 },
 {
 "areas": [
@@ -11294,7 +11451,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82355579",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-08T10:46:05.931Z"
 },
 {
 "areas": [
@@ -11385,7 +11543,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82360191",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-08T16:26:05.114Z"
 },
 {
 "areas": [
@@ -11452,7 +11611,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82223801",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-03T19:32:38.142Z"
 },
 {
 "areas": [
@@ -11543,7 +11703,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82226607",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-08-26T15:26:05.897Z"
 },
 {
 "areas": [
@@ -11672,7 +11833,8 @@
 "source": {
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
-}
+},
+"updated": "2026-09-09T17:25:42.532Z"
 },
 {
 "areas": [
@@ -11801,7 +11963,8 @@
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
-}
+},
+"updated": "2026-09-09T17:00:10.999Z"
 },
 {
 "areas": [
@@ -11930,7 +12093,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=629&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-15T03:48:01.441Z"
 },
 {
 "areas": [
@@ -12037,7 +12201,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82462226",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-17T19:21:34.494Z"
 },
 {
 "areas": [
@@ -12124,7 +12289,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2656&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-21T18:33:26.288Z"
 },
 {
 "areas": [
@@ -12199,7 +12365,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82399924",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-11T19:42:31.200Z"
 },
 {
 "areas": [
@@ -12290,7 +12457,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82417157",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-14T10:54:29.642Z"
 },
 {
 "areas": [
@@ -12381,7 +12549,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82417500",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-14T11:18:29.993Z"
 },
 {
 "areas": [
@@ -12484,7 +12653,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82435041",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-21T13:46:05.764Z"
 },
 {
 "areas": [
@@ -12749,7 +12919,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=897&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-17T21:47:32.490Z"
 },
 {
 "areas": [
@@ -12856,7 +13027,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82435214",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-21T13:49:03.869Z"
 },
 {
 "areas": [
@@ -13015,7 +13187,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2687&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-17T20:30:32.516Z"
 },
 {
 "areas": [
@@ -13090,7 +13263,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82441472",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-17T16:44:10.571Z"
 },
 {
 "areas": [
@@ -13255,7 +13429,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2688&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-17T22:19:56.175Z"
 },
 {
 "areas": [
@@ -13420,7 +13595,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=637&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-17T05:45:35.290Z"
 },
 {
 "areas": [
@@ -13519,7 +13695,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82452121",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-17T02:48:30.329Z"
 },
 {
 "areas": [
@@ -13586,7 +13763,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82452173",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-17T02:55:53.353Z"
 },
 {
 "areas": [
@@ -13741,7 +13919,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2686&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-17T20:44:05.821Z"
 },
 {
 "areas": [
@@ -13836,7 +14015,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82450540",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-16T22:12:31.121Z"
 },
 {
 "areas": [
@@ -13931,7 +14111,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82450597",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-16T22:16:54.089Z"
 },
 {
 "areas": [
@@ -14066,7 +14247,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82435551",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-15T19:06:06.908Z"
 },
 {
 "areas": [],
@@ -14098,7 +14280,8 @@
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-19T19:38:43.369Z"
 },
 {
 "areas": [
@@ -14173,7 +14356,8 @@
 "source": {
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
-}
+},
+"updated": "2026-09-03T22:10:18.076Z"
 },
 {
 "areas": [
@@ -14248,7 +14432,8 @@
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
-}
+},
+"updated": "2026-09-03T22:00:11.606Z"
 },
 {
 "areas": [
@@ -14373,7 +14558,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2662&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-15T07:23:04.908Z"
 },
 {
 "areas": [
@@ -14502,7 +14688,8 @@
 "source": {
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
-}
+},
+"updated": "2026-09-16T21:05:51.872Z"
 },
 {
 "areas": [],
@@ -14554,7 +14741,8 @@
 "source": {
 "link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
 "name": "Cadena OIS"
-}
+},
+"updated": "2026-09-21T18:08:09.398Z"
 },
 {
 "areas": [
@@ -14683,7 +14871,8 @@
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
-}
+},
+"updated": "2026-09-16T21:32:08.831Z"
 },
 {
 "areas": [
@@ -14790,7 +14979,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82509010",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-22T15:43:25.674Z"
 },
 {
 "areas": [
@@ -14877,7 +15067,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2728&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-21T03:19:29.979Z"
 },
 {
 "areas": [
@@ -14956,7 +15147,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82498533",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-21T18:39:30.791Z"
 },
 {
 "areas": [
@@ -15047,7 +15239,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82494639",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-21T13:12:09.323Z"
 },
 {
 "areas": [
@@ -15150,7 +15343,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82495051",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-21T13:45:58.478Z"
 },
 {
 "areas": [
@@ -15273,7 +15467,8 @@
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
-}
+},
+"updated": "2026-09-17T17:15:06.368Z"
 },
 {
 "areas": [
@@ -15538,7 +15733,8 @@
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
-}
+},
+"updated": "2026-09-17T17:45:08.498Z"
 },
 {
 "areas": [
@@ -15645,7 +15841,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82495117",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-21T13:48:58.081Z"
 },
 {
 "areas": [
@@ -15728,7 +15925,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82506810",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-22T13:22:25.909Z"
 },
 {
 "areas": [
@@ -15887,7 +16085,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2697&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-17T20:30:23.516Z"
 },
 {
 "areas": [
@@ -15962,7 +16161,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82460332",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-17T16:43:54.592Z"
 },
 {
 "areas": [
@@ -16121,7 +16321,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82465186",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-18T03:00:16.077Z"
 },
 {
 "areas": [
@@ -16256,7 +16457,8 @@
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
-}
+},
+"updated": "2026-09-17T19:00:09.824Z"
 },
 {
 "areas": [
@@ -16351,7 +16553,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82498750",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-21T19:03:30.929Z"
 },
 {
 "areas": [
@@ -16490,7 +16693,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82462868",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-17T20:33:05.950Z"
 },
 {
 "areas": [],
@@ -16542,7 +16746,8 @@
 "source": {
 "link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
 "name": "Cadena OIS"
-}
+},
+"updated": "2026-09-21T18:10:51.704Z"
 },
 {
 "areas": [
@@ -16671,7 +16876,8 @@
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
-}
+},
+"updated": "2026-09-21T17:15:10.153Z"
 },
 {
 "areas": [
@@ -16834,7 +17040,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82508932",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-22T15:37:56.981Z"
 },
 {
 "areas": [
@@ -16997,7 +17204,8 @@
 "source": {
 "link": "https://tfr.faa.gov/tfr3/?page=detail_6_4585",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-22T15:40:50.452Z"
 },
 {
 "areas": [
@@ -17146,7 +17354,8 @@
 "source": {
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
-}
+},
+"updated": "2026-09-21T19:31:01.396Z"
 },
 {
 "areas": [
@@ -17295,7 +17504,8 @@
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
-}
+},
+"updated": "2026-09-21T19:15:10.684Z"
 },
 {
 "areas": [
@@ -17416,7 +17626,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2729&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-21T06:19:28.373Z"
 },
 {
 "areas": [
@@ -17536,7 +17747,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2730&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-21T06:34:40.890Z"
 },
 {
 "areas": [
@@ -17615,7 +17827,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82457748",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-17T13:20:30.517Z"
 },
 {
 "areas": [
@@ -17694,7 +17907,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82457874",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-17T13:38:30.442Z"
 },
 {
 "areas": [
@@ -17887,7 +18101,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=845&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-15T13:25:27.354Z"
 },
 {
 "areas": [
@@ -18058,7 +18273,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=870&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-10T03:55:29.796Z"
 },
 {
 "areas": [
@@ -18229,7 +18445,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=C&msgSqncNumber=201&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-15T13:32:25.403Z"
 },
 {
 "areas": [
@@ -18400,7 +18617,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=C&msgSqncNumber=228&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-10T13:16:01.874Z"
 },
 {
 "areas": [
@@ -18571,7 +18789,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2506&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-15T13:24:57.138Z"
 },
 {
 "areas": [
@@ -18724,7 +18943,8 @@
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=608&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
-}
+},
+"updated": "2026-09-06T04:16:24.080Z"
 },
 {
 "areas": [
@@ -18879,7 +19099,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82462515",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-09-17T19:54:13.030Z"
 },
 {
 "areas": [
@@ -19084,7 +19305,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=81127965",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-05-19T16:50:24.151Z"
 },
 {
 "areas": [
@@ -19259,7 +19481,8 @@
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=81811351",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-07-17T18:14:21.251Z"
 },
 {
 "areas": [
@@ -19511,7 +19734,8 @@
 "source": {
 "link": "https://compass.atfm.aero/public_svcdynamic/getfile?download=false&fileuuid=7aa52e49-4b1f-4d9f-9901-3f1c30d17d7c",
 "name": "COMPASS"
-}
+},
+"updated": "2026-05-01T19:21:21.067Z"
 },
 {
 "areas": [
@@ -19847,7 +20071,8 @@
 "source": {
 "link": "https://compass.atfm.aero/public_svcdynamic/getfile?download=false&fileuuid=a4a00dcf-0762-4af4-85f5-64d101859cf2",
 "name": "COMPASS"
-}
+},
+"updated": "2026-07-07T17:56:44.183Z"
 },
 {
 "areas": [
@@ -20013,7 +20238,8 @@
 "source": {
 "link": "https://compass.atfm.aero/public_svcdynamic/getfile?download=false&fileuuid=7aa52e49-4b1f-4d9f-9901-3f1c30d17d7c",
 "name": "COMPASS"
-}
+},
+"updated": "2026-05-01T20:36:53.369Z"
 },
 {
 "areas": [
@@ -20519,7 +20745,8 @@
 "source": {
 "link": "https://compass.atfm.aero/public_svcdynamic/getfile?download=false&fileuuid=a4a00dcf-0762-4af4-85f5-64d101859cf2",
 "name": "COMPASS"
-}
+},
+"updated": "2026-07-07T18:22:29.844Z"
 },
 {
 "areas": [
@@ -20565,7 +20792,8 @@
 "source": {
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
-}
+},
+"updated": "2026-04-23T14:04:24.726Z"
 },
 {
 "areas": [],
@@ -20588,7 +20816,8 @@
 "source": {
 "link": "https://www.blueorigin.com/missions/ng-2",
 "name": "Blue Origin Website"
-}
+},
+"updated": "2026-04-23T14:04:24.726Z"
 },
 {
 "areas": [],
@@ -20611,7 +20840,8 @@
 "source": {
 "link": "https://www.cadenaois.org/vpublic_anspdetail.jsp?view=3",
 "name": "Cadena OIS"
-}
+},
+"updated": "2026-04-23T14:04:24.726Z"
 },
 {
 "areas": [],
@@ -20634,7 +20864,8 @@
 "source": {
 "link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
 "name": "Cadena OIS"
-}
+},
+"updated": "2026-04-23T14:04:24.726Z"
 },
 {
 "areas": [],
@@ -20657,7 +20888,8 @@
 "source": {
 "link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
 "name": "Cadena OIS"
-}
+},
+"updated": "2026-07-24T11:55:01.132Z"
 },
 {
 "areas": [],
@@ -20680,7 +20912,8 @@
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-07-24T19:40:05.498Z"
 },
 {
 "areas": [],
@@ -20703,7 +20936,8 @@
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
-}
+},
+"updated": "2026-07-23T21:42:01.846Z"
 },
 {
 "areas": [],
@@ -20726,7 +20960,8 @@
 "source": {
 "link": "https://www.spacex.com/launches/mpower-f",
 "name": "SpaceX Website"
-}
+},
+"updated": "2026-09-13T19:53:28.292Z"
 },
 {
 "areas": [],
@@ -20749,7 +20984,8 @@
 "source": {
 "link": "https://www.spacex.com/launches/sl-15-25",
 "name": "SpaceX Website"
-}
+},
+"updated": "2026-09-22T14:42:21.462Z"
 },
 {
 "areas": [],
@@ -20772,7 +21008,8 @@
 "source": {
 "link": "https://www.spacex.com/launches/sl-15-27",
 "name": "SpaceX Website"
-}
+},
+"updated": "2026-09-20T03:49:55.882Z"
 },
 {
 "areas": [],
@@ -20795,7 +21032,8 @@
 "source": {
 "link": "https://www.spacex.com/launches/starship-flight-10",
 "name": "SpaceX Website"
-}
+},
+"updated": "2026-04-23T14:04:24.726Z"
 },
 {
 "areas": [],
@@ -20818,7 +21056,8 @@
 "source": {
 "link": "https://www.spacex.com/launches/starship-flight-11",
 "name": "SpaceX Website"
-}
+},
+"updated": "2026-04-23T14:04:24.726Z"
 },
 {
 "areas": [],
@@ -20841,7 +21080,8 @@
 "source": {
 "link": "https://www.spacex.com/launches/starship-flight-12",
 "name": "SpaceX Website"
-}
+},
+"updated": "2026-05-23T02:03:01.295Z"
 },
 {
 "areas": [],
@@ -20864,7 +21104,8 @@
 "source": {
 "link": "https://www.spacex.com/launches/starship-flight-13",
 "name": "SpaceX Website"
-}
+},
+"updated": "2026-07-25T01:29:05.789Z"
 },
 {
 "areas": [],
@@ -20887,7 +21128,8 @@
 "source": {
 "link": "https://www.spacex.com/launches/starship-flight-14",
 "name": "SpaceX Website"
-}
+},
+"updated": "2026-09-17T17:10:29.331Z"
 },
 {
 "areas": [],
@@ -20910,7 +21152,8 @@
 "source": {
 "link": "https://spacex.com/launches/mission/?missionId=starship-flight-6",
 "name": "SpaceX Website"
-}
+},
+"updated": "2026-04-23T14:04:24.726Z"
 },
 {
 "areas": [],
@@ -20933,7 +21176,8 @@
 "source": {
 "link": null,
 "name": null
-}
+},
+"updated": "2026-04-23T14:04:24.726Z"
 },
 {
 "areas": [],
@@ -20956,7 +21200,8 @@
 "source": {
 "link": "https://www.spacex.com/launches/ussf153",
 "name": "SpaceX Website"
-}
+},
+"updated": "2026-09-10T17:26:55.313Z"
 },
 {
 "areas": [],
@@ -20979,7 +21224,8 @@
 "source": {
 "link": "https://www.spacex.com/launches/ussf259",
 "name": "SpaceX Website"
-}
+},
+"updated": "2026-09-17T05:29:29.479Z"
 },
 {
 "areas": [],
@@ -21002,7 +21248,8 @@
 "source": {
 "link": "https://www.spacex.com/launches/ussf385",
 "name": "SpaceX Website"
-}
+},
+"updated": "2026-09-16T17:14:29.503Z"
 }
 ],
 "pending": 0,
