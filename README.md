@@ -84,7 +84,7 @@ space-notices.com は `robots.txt` が全許可で、各通知に一次ソース
 - 1件ごとに間隔を空ける（`NOTICES_SLEEP`・既定 0.4 秒／Actions では 0.6 秒）
 - 1回の実行の上限は `NOTICES_MAX_FETCH`（既定 200 件）。未取得が残れば次の実行で埋まる
 - User-Agent にアプリ名と連絡先を名乗る
-- **Actions は3時間おき**（`fetch_notices.yml`）。TFR 側の毎時とは別系統
+- **Actions は毎時43分**（`fetch_notices.yml`）。他の Get_* と同じ毎時で、分だけずらしている
 
 ## 出力
 
