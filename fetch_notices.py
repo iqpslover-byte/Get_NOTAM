@@ -33,6 +33,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT_PATH = os.path.join(HERE, "data", "notices.json")
 CACHE_PATH = os.path.join(HERE, "data", "_notices_cache.json")
 ENTRY_CACHE_PATH = os.path.join(HERE, "data", "_entries_cache.json")
+DIGEST_PATH = os.path.join(HERE, "_new_notices.md")   # 新しい通知のお知らせ本文（コミットしない）
 
 TIMEOUT = 30
 SLEEP = float(os.environ.get("NOTICES_SLEEP", "0.4"))       # 1件ごとの間隔（秒）
@@ -164,6 +165,64 @@ def _last_end(rec):
     return max(ends) if ends else None
 
 
+def _jst(iso):
+    """ISO(UTC) → 「9/28 21:15」。日本時間。"""
+    if not iso:
+        return ""
+    try:
+        t = datetime.datetime.strptime(iso[:19], "%Y-%m-%dT%H:%M:%S") + datetime.timedelta(hours=9)
+        return "%d/%d %02d:%02d" % (t.month, t.day, t.hour, t.minute)
+    except Exception:
+        return ""
+
+
+def write_notice_digest(fresh, path):
+    """新しく見つけた通知のお知らせ本文（Markdown）を書く。無ければ何も書かない。"""
+    live = []
+    now = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.000Z")
+    for n in fresh:
+        ends = [d.get("end") for d in (n.get("dates") or []) if d.get("end")]
+        if ends and max(ends) < now:
+            continue                       # もう終わっているものは知らせない
+        live.append(n)
+    if not live:
+        return 0
+
+    names = []
+    for n in live:
+        for l in (n.get("launches") or []):
+            if l.get("title") and l["title"] not in names:
+                names.append(l["title"])
+    head = "新しい通知 %d件" % len(live)
+    if names:
+        head += "（%s%s）" % (names[0], " ほか" if len(names) > 1 else "")
+
+    lines = [head, ""]
+    for n in sorted(live, key=lambda x: ((x.get("dates") or [{}])[0].get("start") or "")):
+        ds = [d for d in (n.get("dates") or []) if d.get("start") and d.get("end")]
+        kind = "NOTAM" if n.get("kind") in ("NOTAM", "TFR") else "航行警報"
+        lines.append("### %s %s" % (kind, n.get("name") or ""))
+        if n.get("reason"):
+            lines.append(n["reason"])
+        for l in (n.get("launches") or []):
+            if l.get("title"):
+                lines.append("🚀 %s" % l["title"])
+        if ds:
+            spare = len(ds) - 1
+            a, b = _jst(ds[0]["start"]), _jst(ds[0]["end"])
+            if a[:a.find(" ")] == b[:b.find(" ")]:
+                b = b[b.find(" ") + 1:]        # 同じ日なら終わりの日付は省く
+            lines.append("%s〜%s JST%s" % (a, b,
+                                          ("　予備 %d日" % spare) if spare > 0 else "　この日だけ"))
+        lines.append("区域 %d件" % len(n.get("areas") or []))
+        if n.get("page"):
+            lines.append(n["page"])
+        lines.append("")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
+    return len(live)
+
+
 def _write_if_changed(path, text):
     """中身が同じなら書かない。生成時刻だけ動いてコミットが積まれるのを防ぐ。"""
     if os.path.exists(path):
@@ -264,12 +323,16 @@ def main():
     print("取りに行く: %d 件（上限 %d）" % (len(todo), MAX_FETCH))
 
     fetched = failed = 0
+    fresh = []          # 今回はじめて見つけた通知（お知らせに使う。改訂は入れない）
     for url, lastmod in todo[:MAX_FETCH]:
+        is_new = url not in cache
         try:
             html = _get(url)
             notice = extract_notice(html)
             if not notice:
                 raise ValueError("notice を取り出せない")
+            if is_new:
+                fresh.append(_norm(notice, url, lastmod))
             cache[url] = {"lastmod": lastmod, "notice": _norm(notice, url, lastmod),
                           # どこで見つけたか。打上げのページ由来は sitemap に載らないので
                           # 「サイトから消えた」の判定から外す
@@ -338,9 +401,13 @@ def main():
     changed = _write_if_changed(
         OUT_PATH, json.dumps(out, ensure_ascii=False, sort_keys=True, indent=0))
 
+    told = write_notice_digest(fresh, DIGEST_PATH)
+
     print("取得 %d 件 / 失敗 %d 件 / 保有 %d 件 → 出力 %d 件（未取得 %d 件）%s"
           % (fetched, failed, len(cache), len(notices), out["pending"],
              "" if changed else " ※変更なし"))
+    if told:
+        print("お知らせに出す新しい通知: %d 件 → %s" % (told, os.path.basename(DIGEST_PATH)))
     return 0
 
 

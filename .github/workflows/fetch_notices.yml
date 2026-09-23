@@ -14,6 +14,7 @@ on:
 
 permissions:
   contents: write
+  issues: write        # 新しい通知のお知らせを Issue で出す（GitHub がメールを送る）
 
 concurrency:
   group: fetch-space-notices
@@ -39,10 +40,25 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/notices.json data/_notices_cache.json
+          git add data/notices.json data/_notices_cache.json data/_entries_cache.json
           if git diff --cached --quiet; then
             echo "変更なし"
           else
             git commit -m "data: update launch notices ($(date -u +%FT%TZ))"
             git push
           fi
+
+      # 新しい通知が出たら Issue を立てる。GitHub がメールとスマホ通知を送るので、
+      # 自前のサーバも鍵も要らない。知らせるのが目的なので、立てたらすぐ閉じる。
+      - name: Notify new notices
+        if: ${{ hashFiles('_new_notices.md') != '' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          title=$(head -1 _new_notices.md)
+          tail -n +2 _new_notices.md > body.md
+          echo "" >> body.md
+          echo "@${{ github.repository_owner }}" >> body.md
+          url=$(gh issue create --title "$title" --body-file body.md --label notice)
+          echo "$url"
+          gh issue close "$url" --comment "お知らせのみ（自動）"
