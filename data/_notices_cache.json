@@ -8073,38 +8073,22 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-cadenaois-advisory-2750": {
-"lastmod": "2026-09-21T18:10:51.704Z",
+"lastmod": "2026-09-23T11:09:04.754Z",
 "notice": {
 "areas": [],
 "cancelled": false,
 "dates": [
 {
-"end": "2026-09-30T20:43:00.000Z",
-"start": "2026-09-30T16:00:00.000Z"
+"end": "2026-10-10T20:43:00.000Z",
+"start": "2026-10-10T16:00:00.000Z"
 },
 {
-"end": "2026-10-01T20:43:00.000Z",
-"start": "2026-10-01T16:00:00.000Z"
+"end": "2026-10-11T20:43:00.000Z",
+"start": "2026-10-11T16:00:00.000Z"
 },
 {
-"end": "2026-10-02T20:43:00.000Z",
-"start": "2026-10-02T16:00:00.000Z"
-},
-{
-"end": "2026-10-03T20:43:00.000Z",
-"start": "2026-10-03T16:00:00.000Z"
-},
-{
-"end": "2026-10-04T20:43:00.000Z",
-"start": "2026-10-04T16:00:00.000Z"
-},
-{
-"end": "2026-10-05T20:43:00.000Z",
-"start": "2026-10-05T16:00:00.000Z"
-},
-{
-"end": "2026-10-06T20:43:00.000Z",
-"start": "2026-10-06T16:00:00.000Z"
+"end": "2026-10-12T20:43:00.000Z",
+"start": "2026-10-12T16:00:00.000Z"
 }
 ],
 "height": null,
@@ -8119,18 +8103,75 @@
 "markers": [],
 "name": "Cadena OIS Advisory 2750",
 "page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2750",
-"raw": "Primary Launch Day\t30 SEP\t1600Z-2043Z\nBackup Launch Day\t01 OCT\t1600Z-2043Z\nBackup Launch Day\t02 OCT\t1600Z-2043Z\nBackup Launch Day\t03 OCT\t1600Z-2043Z\nBackup Launch Day\t04 OCT\t1600Z-2043Z\nBackup Launch Day\t05 OCT\t1600Z-2043Z\nBackup Launch Day\t06 OCT\t1600Z-2043Z\n",
+"raw": "Primary Launch Day\t10 OCT\t1600Z-2043Z\nBackup Launch Day\t11 OCT\t1600Z-2043Z\nBackup Launch Day\t12 OCT\t1600Z-2043Z\n",
 "reason": "SpaceX Starlink 15-25",
 "source": {
 "link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
 "name": "Cadena OIS"
 },
-"updated": "2026-09-21T18:10:51.704Z"
+"updated": "2026-09-23T11:09:04.754Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/infopage-cadenaois-advisory-2755": {
+"lastmod": "2026-09-23T11:11:04.028Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-01T15:50:00.000Z",
+"start": "2026-10-01T15:00:00.000Z"
+},
+{
+"end": "2026-10-02T15:28:00.000Z",
+"start": "2026-10-02T14:38:00.000Z"
+},
+{
+"end": "2026-10-03T15:05:00.000Z",
+"start": "2026-10-03T14:15:00.000Z"
+},
+{
+"end": "2026-10-04T14:42:00.000Z",
+"start": "2026-10-04T13:52:00.000Z"
+},
+{
+"end": "2026-10-05T14:20:00.000Z",
+"start": "2026-10-05T13:30:00.000Z"
+},
+{
+"end": "2026-10-06T13:54:00.000Z",
+"start": "2026-10-06T13:04:00.000Z"
+},
+{
+"end": "2026-10-07T13:32:00.000Z",
+"start": "2026-10-07T12:42:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-cadenaois-advisory-2755",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-18441371-8b2e-457c-afb5-1ec1b11ab630",
+"title": "Crew-13"
+}
+],
+"markers": [],
+"name": "Cadena OIS Advisory 2755",
+"page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2755",
+"raw": "Primary Launch Day\t01 OCT\t1500Z-1550Z\nBackup Launch Day\t02 OCT\t1438Z-1528Z\nBackup Launch Day\t03 OCT\t1415Z-1505Z\nBackup Launch Day\t04 OCT\t1352Z-1442Z\nBackup Launch Day\t05 OCT\t1330Z-1420Z\nBackup Launch Day\t06 OCT\t1304Z-1354Z\nBackup Launch Day\t07 OCT\t1242Z-1332Z\n",
+"reason": "NASA CREW-13",
+"source": {
+"link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
+"name": "Cadena OIS"
+},
+"updated": "2026-09-23T11:11:04.028Z"
 },
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-cadenaois-advisory-2756": {
-"lastmod": "2026-09-21T19:31:01.426Z",
+"lastmod": "2026-09-23T11:18:04.256Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -8182,9 +8223,9 @@
 "link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
 "name": "Cadena OIS"
 },
-"updated": "2026-09-21T19:31:01.426Z"
+"updated": "2026-09-23T11:18:04.256Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-blue-orgin-ng-3-bluebird-7": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -8368,6 +8409,43 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-08T13:48:42.491Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-nasa-crew-13": {
+"lastmod": "2026-09-22T19:50:43.623Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-01T15:50:00.000Z",
+"start": "2026-10-01T15:00:00.000Z"
+},
+{
+"end": "2026-10-02T15:28:00.000Z",
+"start": "2026-10-02T14:38:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-spacex-nasa-crew-13",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-18441371-8b2e-457c-afb5-1ec1b11ab630",
+"title": "Crew-13"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-nasa-crew-13",
+"raw": "SPACEX NASA CREW-13, CAPE CANAVERAL SFS, FL\nPRIMARY:\t10/01/26\t1500Z-1550Z\nBACKUP:\t\t10/02/26\t1438Z-1528Z",
+"reason": "SPACEX NASA CREW-13, CAPE CANAVERAL SFS, FL",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-22T19:50:43.623Z"
 },
 "via": "sitemap"
 },
@@ -8613,7 +8691,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-stratolaunch-helena": {
-"lastmod": "2026-09-03T22:41:45.099Z",
+"lastmod": "2026-09-22T19:50:42.554Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -8645,12 +8723,12 @@
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-03T22:41:45.099Z"
+"updated": "2026-09-22T19:50:42.554Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-transporter-18": {
-"lastmod": "2026-09-21T19:31:01.426Z",
+"lastmod": "2026-09-22T19:50:45.211Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -8682,9 +8760,37 @@
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-21T19:31:01.426Z"
+"updated": "2026-09-22T19:50:45.211Z"
 },
-"via": "entry"
+"via": "sitemap"
+},
+"https://space-notices.com/notice/infopage-spacex-crew13": {
+"lastmod": "2026-09-22T22:07:21.403Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": null,
+"id": "infopage-spacex-crew13",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-18441371-8b2e-457c-afb5-1ec1b11ab630",
+"title": "Crew-13"
+}
+],
+"markers": [],
+"name": "SpaceX Mission Page",
+"page": "https://space-notices.com/notice/infopage-spacex-crew13",
+"raw": "$22",
+"reason": null,
+"source": {
+"link": "https://www.spacex.com/launches/crew13",
+"name": "SpaceX Website"
+},
+"updated": "2026-09-22T22:07:21.403Z"
+},
+"via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-spacex-mpower-f": {
 "lastmod": "2026-09-13T19:53:28.292Z",
@@ -13421,7 +13527,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-53866": {
-"lastmod": "2026-09-17T19:00:09.824Z",
+"lastmod": "2026-09-22T19:00:12.713Z",
 "notice": {
 "areas": [
 [
@@ -13556,7 +13662,7 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-09-17T19:00:09.824Z"
+"updated": "2026-09-22T19:00:12.713Z"
 },
 "via": "sitemap"
 },
@@ -22012,7 +22118,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%202749%2F26": {
-"lastmod": "2026-09-22T13:22:25.935Z",
+"lastmod": "2026-09-23T13:45:27.414Z",
 "notice": {
 "areas": [
 [
@@ -22177,12 +22283,12 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2749&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-09-22T13:22:25.935Z"
+"updated": "2026-09-23T13:45:27.414Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%202750%2F26": {
-"lastmod": "2026-09-22T13:22:25.935Z",
+"lastmod": "2026-09-23T03:51:03.734Z",
 "notice": {
 "areas": [
 [
@@ -22337,12 +22443,12 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2750&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-09-22T13:22:25.935Z"
+"updated": "2026-09-23T03:51:03.734Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%202751%2F26": {
-"lastmod": "2026-09-22T13:22:25.935Z",
+"lastmod": "2026-09-23T03:59:27.831Z",
 "notice": {
 "areas": [
 [
@@ -22501,12 +22607,12 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2751&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-09-22T13:22:25.935Z"
+"updated": "2026-09-23T03:59:27.831Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%202761%2F26": {
-"lastmod": "2026-09-22T13:22:25.935Z",
+"lastmod": "2026-09-23T13:45:17.108Z",
 "notice": {
 "areas": [
 [
@@ -22665,9 +22771,9 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2761&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-09-22T13:22:25.935Z"
+"updated": "2026-09-23T13:45:17.108Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%203425%2F25": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -31606,7 +31712,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20IV%20922%2F26": {
-"lastmod": "2026-09-22T13:22:25.935Z",
+"lastmod": "2026-09-23T04:08:48.059Z",
 "notice": {
 "areas": [
 [
@@ -31871,9 +31977,9 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=922&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-09-22T13:22:25.935Z"
+"updated": "2026-09-23T04:08:48.059Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20211%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -33078,7 +33184,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20657%2F26": {
-"lastmod": "2026-09-22T13:22:25.935Z",
+"lastmod": "2026-09-23T13:45:28.506Z",
 "notice": {
 "areas": [
 [
@@ -33237,9 +33343,9 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=657&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-09-22T13:22:25.935Z"
+"updated": "2026-09-23T13:45:28.506Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20813%2F23": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -48280,6 +48386,154 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-MUFH-A3392%2F26": {
+"lastmod": "2026-09-23T16:13:41.347Z",
+"notice": {
+"areas": [
+[
+[
+21.3,
+-85.6333
+],
+[
+22.0,
+-86.0
+],
+[
+22.0167,
+-86.0
+],
+[
+21.7167,
+-84.9333
+],
+[
+21.3333,
+-83.6833
+],
+[
+20.4833,
+-82.4833
+],
+[
+20.0,
+-79.25
+],
+[
+20.0,
+-80.65
+],
+[
+20.2,
+-81.2333
+],
+[
+20.6333,
+-82.8167
+],
+[
+20.8833,
+-84.1167
+],
+[
+21.2833,
+-85.5833
+],
+[
+21.3,
+-85.6333
+]
+],
+[
+[
+21.8333,
+-84.9667
+],
+[
+21.3667,
+-82.9667
+],
+[
+20.6,
+-80.5667
+],
+[
+20.0,
+-78.9167
+],
+[
+20.0,
+-82.0
+],
+[
+20.6333,
+-84.0
+],
+[
+21.15,
+-85.5667
+],
+[
+22.0,
+-86.0
+],
+[
+21.8333,
+-84.9667
+]
+],
+[
+[
+18.5,
+-75.0
+],
+[
+18.55,
+-74.9333
+],
+[
+19.1167,
+-76.5
+],
+[
+19.2333,
+-76.8167
+],
+[
+18.5,
+-75.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-04T14:08:00.000Z",
+"start": "2026-09-28T12:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MUFH-A3392/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "A3392/26",
+"page": "https://space-notices.com/notice/notam-MUFH-A3392%2F26",
+"raw": "A3392/26 NOTAMN\nQ)MUFH/QRDXX/IV/BO/W/000/999/\nA)MUFH B)2609281215 C)2610041408\nD)1215/1408 DLY\nE)DANGER ZONE NOTICE DUE TO SPACE LAUNCH FROM BOCA CHICA IN THE  \n  AREA \n  AHA-B2 MUFH\n  2118N08538W 2200N08600W 2201N08600W 2143N08456W 2120N08341W\n  2029N08229W 2000N07915W 2000N08039W  2012N08114W 2038N08249W\n  2053N08407W 2117N08535W\n  MUFH POINTS 1\n  2150N08458W 2122N08258W 2036N08034W 2000N07855W 2000N08200W\n  2038N08400W 2109N08534W 2200N08600W\n  MUFH POINTS 2\n  1830N07500W 1833N07456W 1907N07630W 1914N07649W\n  \n  BACKUP LAUNCH DATES \n  SEP 29 1215/1408 UTC\n  SEP 30 1215/1408 UTC\n  OCT 01 1215/1408 UTC\n  OCT 02 1215/1408 UTC\n  OCT 03 1215/1408 UTC\n  OCT 04 1215/1408 UTC\nF)SFC G)UNL",
+"reason": "DANGER ZONE NOTICE DUE TO SPACE LAUNCH FROM BOCA CHICA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82523692",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-23T16:13:41.347Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/notam-MUFH-A3619%2F25": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -60343,7 +60597,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-TNCF-A0540%2F26": {
-"lastmod": "2026-09-22T13:22:25.935Z",
+"lastmod": "2026-09-23T11:58:55.544Z",
 "notice": {
 "areas": [
 [
@@ -60448,9 +60702,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82519617",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-22T13:22:25.935Z"
+"updated": "2026-09-23T11:58:55.544Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-TTZP-A0263%2F25": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -65061,7 +65315,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-TTZP-A1483%2F26": {
-"lastmod": "2026-09-22T13:22:25.935Z",
+"lastmod": "2026-09-23T14:09:31.354Z",
 "notice": {
 "areas": [
 [
@@ -65116,7 +65370,159 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82521408",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-22T13:22:25.935Z"
+"updated": "2026-09-23T14:09:31.354Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-TTZP-A1487%2F26": {
+"lastmod": "2026-09-23T16:13:41.317Z",
+"notice": {
+"areas": [
+[
+[
+12.1333,
+-62.3
+],
+[
+12.8,
+-63.6167
+],
+[
+14.5833,
+-64.7333
+],
+[
+13.1167,
+-61.8
+],
+[
+12.1333,
+-62.3
+]
+],
+[
+[
+11.6667,
+-61.3833
+],
+[
+12.4833,
+-60.4833
+],
+[
+11.6667,
+-61.3833
+]
+],
+[
+[
+11.9333,
+-59.4
+],
+[
+10.7333,
+-57.0667
+],
+[
+10.0667,
+-58.0
+],
+[
+11.6667,
+-61.3833
+],
+[
+11.9333,
+-59.4
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T15:50:00.000Z",
+"start": "2026-09-28T12:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-TTZP-A1487/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "A1487/26",
+"page": "https://space-notices.com/notice/notam-TTZP-A1487%2F26",
+"raw": "A1487/26 NOTAMN\r\nQ) TTZP/QXXXX/IV/NBO/W/000/999/1450N05112W999\r\nA) TTZP\r\nB) 2609281215 C) 2609281550\r\nE) DEBRIS RESPONSE AREAS HAVE BEEN DEFINED WITHIN THE PIARCO FIR DUE\r\nTO THE LAUNCH OF THE &apos;SPACE X STARSHIP FLIGHT 14&apos; ROCKET. THE AREA\r\nIS BOUNDED BY THE FOLLOWING COORDINATES:\r\nDEBRIS RESPONSE AREA &apos;A&apos;: 1208N06218W - 1248N06337W - 1435N06444W -\r\n1307N06148W - 1208N06218W\r\nDEBRIS RESPONSE AREA &apos;D&apos;:  1140N06123W - 1229N06029W THEN ALONG THE\r\nCLOCKWISE ARC OF A CIRCLE OF 68NM RADIUS CENTRED ON 130430N0592902W\r\n(DVOR BGI) TO 1156N05924W - 1044N05704W - 1004N05800W - 1140N06123W\r\nPRIMARY LAUNCH DATE: 260928\r\nBACK-UP DATES: 260929 260930 261001 261002 261003 261004\r\nF) SFC G) UNL",
+"reason": "SPACE X STARSHIP FLIGHT 14",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82522851",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-23T16:13:41.317Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-TTZP-A1489%2F26": {
+"lastmod": "2026-09-23T16:13:41.347Z",
+"notice": {
+"areas": [
+[
+[
+12.4833,
+-60.4833
+],
+[
+12.35,
+-60.3667
+],
+[
+11.6667,
+-61.3833
+],
+[
+12.1333,
+-62.3
+],
+[
+13.1167,
+-61.8
+],
+[
+12.4833,
+-60.4833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T15:50:00.000Z",
+"start": "2026-09-28T12:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-TTZP-A1489/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "A1489/26",
+"page": "https://space-notices.com/notice/notam-TTZP-A1489%2F26",
+"raw": "A1489/26 NOTAMN\r\nQ) TTZP/QXXXX/IV/NBO/W/135/999/1450N05112W999\r\nA) TTZP\r\nB) 2609281215 C) 2609281550\r\nE) DEBRIS RESPONSE AREAS, HAVE BEEN DEFINED WITHIN THE PIARCO FIR\r\nDUE TO THE LAUNCH OF THE &apos;SPACE X STARSHIP FLIGHT 14&apos; ROCKET. THE\r\nAREA IS BOUNDED BY THE FOLLOWING COORDINATES:\r\n1229N06029W - 1221N06022W - 1140N06123W - 1208N06218W - 1307N06148W\r\n- 1229N06029W\r\nPRIMARY LAUNCH DATE: 260928\r\nBACK-UP DATES: 260929 260930 261001 261002 261003 261004\r\nF) FL135 G) UNL",
+"reason": "SPACE X STARSHIP FLIGHT 14",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82523495",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-23T16:13:41.347Z"
 },
 "via": "entry"
 },
@@ -82793,7 +83199,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F300-26": {
-"lastmod": "2026-09-22T15:43:25.695Z",
+"lastmod": "2026-09-23T12:52:00.555Z",
 "notice": {
 "areas": [
 [
@@ -82844,12 +83250,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82520310",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-22T15:43:25.695Z"
+"updated": "2026-09-23T12:52:00.555Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F301-26": {
-"lastmod": "2026-09-22T15:43:25.695Z",
+"lastmod": "2026-09-23T12:52:12.072Z",
 "notice": {
 "areas": [
 [
@@ -82904,9 +83310,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82520308",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-22T15:43:25.695Z"
+"updated": "2026-09-23T12:52:12.072Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLHW-A0063%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -104709,6 +105115,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-FDC-6%2F4585": {
+"gone": "2026-09-23",
 "lastmod": "2026-09-22T15:40:50.452Z",
 "notice": {
 "areas": [
@@ -106641,7 +107048,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZHU-6%2F4810": {
-"lastmod": "2026-09-22T15:40:50.481Z",
+"lastmod": "2026-09-22T23:12:50.400Z",
 "notice": {
 "areas": [
 [
@@ -106804,7 +107211,175 @@
 "link": "https://tfr.faa.gov/tfr3/?page=detail_6_4810",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-22T15:40:50.481Z"
+"updated": "2026-09-22T23:12:50.400Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tfr-ZHU-6%2F5082": {
+"lastmod": "2026-09-22T23:12:50.428Z",
+"notice": {
+"areas": [
+[
+[
+26.03884,
+-97.1558
+],
+[
+26.03804,
+-97.14676
+],
+[
+26.03567,
+-97.13807
+],
+[
+26.03182,
+-97.13006
+],
+[
+26.02664,
+-97.12303
+],
+[
+26.02033,
+-97.11727
+],
+[
+26.01313,
+-97.11299
+],
+[
+26.00532,
+-97.11036
+],
+[
+25.99719,
+-97.10947
+],
+[
+25.98907,
+-97.11037
+],
+[
+25.98126,
+-97.11301
+],
+[
+25.97406,
+-97.11729
+],
+[
+25.96775,
+-97.12305
+],
+[
+25.96258,
+-97.13007
+],
+[
+25.95873,
+-97.13808
+],
+[
+25.95636,
+-97.14677
+],
+[
+25.95556,
+-97.1558
+],
+[
+25.95636,
+-97.16483
+],
+[
+25.95873,
+-97.17352
+],
+[
+25.96258,
+-97.18153
+],
+[
+25.96775,
+-97.18855
+],
+[
+25.97406,
+-97.19431
+],
+[
+25.98126,
+-97.19859
+],
+[
+25.98907,
+-97.20123
+],
+[
+25.99719,
+-97.20213
+],
+[
+26.00532,
+-97.20124
+],
+[
+26.01313,
+-97.19861
+],
+[
+26.02033,
+-97.19433
+],
+[
+26.02664,
+-97.18857
+],
+[
+26.03182,
+-97.18154
+],
+[
+26.03567,
+-97.17353
+],
+[
+26.03804,
+-97.16484
+],
+[
+26.03884,
+-97.1558
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-07T05:00:00.000Z",
+"start": "2026-09-23T05:00:00.000Z"
+}
+],
+"height": "10000FT",
+"id": "tfr-ZHU-6/5082",
+"kind": "TFR",
+"launches": [
+{
+"id": "collection-starbase-testing",
+"title": "Testing Notices"
+}
+],
+"markers": [],
+"name": "FDC 6/5082",
+"page": "https://space-notices.com/notice/tfr-ZHU-6%2F5082",
+"raw": "!FDC 6/5082 ZHU TX..AIRSPACE BROWNSVILLE, TX..TEMPORARY FLIGHT RESTRICTIONS. PURSUANT TO 14 CFR SECTION 91.137(A)(1) LAUNCH REHERSAL WI AN AREA DEFINED AS 2.5NM RADIUS OF 255950N970921W (BRO061012.6) SFC-10000FT AGL ONLY RELIEF ACFT OPS UNDER DIRECTION OF SPACEX ARE AUTH IN THE AIRSPACE. SPACEX, KYLE HURN TEL 956-346-8311 IS IN CHARGE OF ON SCENE EMERG RESPONSE ACTIVITY. HOUSTON/ZHU/ARTCC TEL 281-230-5560 IS THE FAA CDN FAC. 2609230500-2610070500",
+"reason": "LAUNCH REHERSAL",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82524216",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-22T23:12:50.428Z"
 },
 "via": "entry"
 },
