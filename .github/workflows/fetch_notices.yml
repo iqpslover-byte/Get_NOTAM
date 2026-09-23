@@ -11,6 +11,10 @@ on:
         description: '1回の実行で取りに行く上限件数'
         required: false
         default: '200'
+      test_notify:
+        description: 'お知らせのテスト送信（新しい通知が無くても1通送る）'
+        required: false
+        default: 'false'
 
 permissions:
   contents: write
@@ -47,6 +51,19 @@ jobs:
             git commit -m "data: update launch notices ($(date -u +%FT%TZ))"
             git push
           fi
+
+      # 届くかどうかの確認用。手動実行で test_notify=true にすると1通送る。
+      # ★自分で gh から立てた Issue は自分に通知されない（作成者＝自分）。
+      #   必ず Actions（github-actions[bot]）から立てて確かめること。
+      - name: Make test digest
+        if: ${{ github.event.inputs.test_notify == 'true' }}
+        run: |
+          {
+            echo "【テスト】お知らせが届くかの確認"
+            echo ""
+            echo "これは新しい通知のお知らせが届くかを確かめるためのものです。"
+            echo "届いたら、この仕組みは動いています。"
+          } > _new_notices.md
 
       # 新しい通知が出たら Issue を立てる。GitHub がメールとスマホ通知を送るので、
       # 自前のサーバも鍵も要らない。知らせるのが目的なので、立てたらすぐ閉じる。
