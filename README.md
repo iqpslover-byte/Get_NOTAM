@@ -81,6 +81,11 @@ space-notices.com は `robots.txt` が全許可で、各通知に一次ソース
 
 - **差分取得**。`sitemap.xml` の `lastmod` と `data/_notices_cache.json` を突き合わせ、
   新規・更新のものだけ取りに行く。普段の実行は数件で済む
+- ★**sitemap だけでは取りこぼす**。新しい通知が sitemap に載るまで遅れがあり、
+  実測で 14 件が漏れていた（`A0540/26`＝STARSHIP FLT 14 LAUNCH MALFUNCTION など）。
+  そこで **打上げのページ（`/entry/`・49件）からも通知を辿る**。こちらも `lastmod` で
+  差分を取り、1回に見る数は `NOTICES_MAX_ENTRY`（既定12件）まで。
+  どこで見つけたかは `via`（sitemap / entry）に残す
 - 1件ごとに間隔を空ける（`NOTICES_SLEEP`・既定 0.4 秒／Actions では 0.6 秒）
 - 1回の実行の上限は `NOTICES_MAX_FETCH`（既定 200 件）。未取得が残れば次の実行で埋まる
 - User-Agent にアプリ名と連絡先を名乗る

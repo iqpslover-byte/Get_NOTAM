@@ -32,15 +32,18 @@ UA = "OP's LAB Maps / Get_NOTAM (satellite tracking hobby app; contact: iqps.lov
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT_PATH = os.path.join(HERE, "data", "notices.json")
 CACHE_PATH = os.path.join(HERE, "data", "_notices_cache.json")
+ENTRY_CACHE_PATH = os.path.join(HERE, "data", "_entries_cache.json")
 
 TIMEOUT = 30
 SLEEP = float(os.environ.get("NOTICES_SLEEP", "0.4"))       # 1件ごとの間隔（秒）
 MAX_FETCH = int(os.environ.get("NOTICES_MAX_FETCH", "200"))  # 1回の実行で取る上限
+MAX_ENTRY_FETCH = int(os.environ.get("NOTICES_MAX_ENTRY", "12"))  # 打上げのページを見る上限
 KEEP_DAYS = int(os.environ.get("NOTICES_KEEP_DAYS", "30"))   # 終了後この日数は出力に残す
 
 PUSH_RE = re.compile(r'self\.__next_f\.push\(\[1,"(.*?)"\]\)', re.S)
 LOC_RE = re.compile(r"<loc>(.*?)</loc>\s*(?:<image:image>.*?</image:image>\s*)*"
                     r"(?:<lastmod>(.*?)</lastmod>)?", re.S)
+NOTICE_IN_PAGE_RE = re.compile(r"/notice/[A-Za-z0-9%\-]+")
 
 
 def _get(url):
@@ -175,14 +178,37 @@ def _write_if_changed(path, text):
 # ---------------------------------------------------------------- 本体
 
 def read_sitemap():
-    """[(url, lastmod), ...] を /notice/ のぶんだけ返す。"""
+    """sitemap から [(通知URL, lastmod), ...] と [(打上げURL, lastmod), ...] を返す。"""
     xml = _get(SITEMAP_URL)
-    out = []
+    notices, entries = [], []
     for loc, lastmod in LOC_RE.findall(xml):
         loc = loc.strip()
+        lm = (lastmod or "").strip()
         if "/notice/" in loc:
-            out.append((loc, (lastmod or "").strip()))
+            notices.append((loc, lm))
+        elif "/entry/" in loc:
+            entries.append((loc, lm))
+    return notices, entries
+
+
+def notices_in_entry(html):
+    """打上げのページに出てくる通知のURL。
+    ★sitemap には載っていない通知がある（実測：Starship Flight 14 のページだけで8件。
+    A0540/26 や HYDROPAC 2749/26 など新しいものが sitemap に反映されていない）。
+    打上げのページからも辿らないと取りこぼす。"""
+    out = []
+    for m in NOTICE_IN_PAGE_RE.findall(html):
+        u = BASE + m
+        if u not in out:
+            out.append(u)
     return out
+
+
+def load_entry_cache():
+    if os.path.exists(ENTRY_CACHE_PATH):
+        with open(ENTRY_CACHE_PATH, encoding="utf-8") as f:
+            return json.load(f)
+    return {}
 
 
 def load_cache():
@@ -193,8 +219,8 @@ def load_cache():
 
 
 def main():
-    entries = read_sitemap()
-    print("sitemap の通知: %d 件" % len(entries))
+    entries, entry_pages = read_sitemap()
+    print("sitemap の通知: %d 件 ／ 打上げのページ: %d 件" % (len(entries), len(entry_pages)))
     if not entries:
         print("通知が 0 件。出力は変更しない。", file=sys.stderr)
         return 1
@@ -206,8 +232,35 @@ def main():
         if n and not n.get("updated"):
             n["updated"] = v.get("lastmod", "")
 
+    # 更新された打上げのページを見て、sitemap に載っていない通知を拾う
+    ecache = load_entry_cache()
+    etodo = [(u, lm) for u, lm in entry_pages if ecache.get(u) != lm]
+    extra = {}
+    epicked = 0
+    for url, lastmod in etodo[:MAX_ENTRY_FETCH]:
+        try:
+            for nu in notices_in_entry(_get(url)):
+                # 打上げのページ側の更新時刻を、その通知の版として使う
+                if extra.get(nu, "") < lastmod:
+                    extra[nu] = lastmod
+            ecache[url] = lastmod
+            epicked += 1
+        except Exception as e:
+            print("  ! %s : %s" % (url, e), file=sys.stderr)
+        time.sleep(SLEEP)
+    known = {u for u, _ in entries}
+    only_entry = [u for u in extra if u not in known]
+    if etodo:
+        print("打上げのページ: %d 件を見た（更新 %d 件）／ sitemap に無い通知 %d 件"
+              % (epicked, len(etodo), len(only_entry)))
+
     todo = [(u, lm) for u, lm in entries
             if u not in cache or cache[u].get("lastmod") != lm]
+    for u, lm in extra.items():
+        if u in known:
+            continue                      # sitemap 側で見る
+        if u not in cache or cache[u].get("lastmod") != lm:
+            todo.append((u, lm))
     print("取りに行く: %d 件（上限 %d）" % (len(todo), MAX_FETCH))
 
     fetched = failed = 0
@@ -217,19 +270,23 @@ def main():
             notice = extract_notice(html)
             if not notice:
                 raise ValueError("notice を取り出せない")
-            cache[url] = {"lastmod": lastmod, "notice": _norm(notice, url, lastmod)}
+            cache[url] = {"lastmod": lastmod, "notice": _norm(notice, url, lastmod),
+                          # どこで見つけたか。打上げのページ由来は sitemap に載らないので
+                          # 「サイトから消えた」の判定から外す
+                          "via": "sitemap" if url in known else "entry"}
             fetched += 1
         except Exception as e:
             failed += 1
             print("  ! %s : %s" % (url, e), file=sys.stderr)
         time.sleep(SLEEP)
 
-    # 一度取ったものは消さない。sitemap から消えたら、消えた日の印だけ付ける
-    alive = {u for u, _ in entries}
+    # 一度取ったものは消さない。サイトから消えたら、消えた日の印だけ付ける。
+    # ★打上げのページで見つけたものは sitemap に載っていないだけなので「消えた」ではない
+    alive = {u for u, _ in entries} | set(extra.keys())
     today = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d")
     gone = 0
     for u, v in cache.items():
-        if u in alive:
+        if u in alive or v.get("via") == "entry":
             v.pop("gone", None)
         else:
             gone += 1
@@ -241,6 +298,8 @@ def main():
     # 1通知1行。中身が変わった行だけが git の差分になる（1行JSONだと毎回全体が差分になる）
     _write_if_changed(CACHE_PATH,
                       json.dumps(cache, ensure_ascii=False, sort_keys=True, indent=0))
+    _write_if_changed(ENTRY_CACHE_PATH,
+                      json.dumps(ecache, ensure_ascii=False, sort_keys=True, indent=0))
 
     # 出力＝終わっていないもの＋終わって間もないもの
     cutoff = (datetime.datetime.now(datetime.timezone.utc)

@@ -1,6 +1,6 @@
 {
-"count": 247,
-"generated_utc": "2026-09-23T11:23:50Z",
+"count": 261,
+"generated_utc": "2026-09-23T14:33:07Z",
 "notices": [
 {
 "areas": [
@@ -12556,6 +12556,114 @@
 "areas": [
 [
 [
+32.65,
+-119.6333
+],
+[
+32.8,
+-119.4
+],
+[
+34.5667,
+-120.4
+],
+[
+34.7,
+-120.5667
+],
+[
+34.5833,
+-120.6833
+],
+[
+32.65,
+-119.6333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-26T15:19:00.000Z",
+"start": "2026-09-26T11:56:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-09/301-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7330d83b-c478-426c-8859-f9e3a335876d",
+"title": "USSF-385"
+}
+],
+"markers": [],
+"name": "09/301",
+"page": "https://space-notices.com/notice/notam-ZLA-09%2F301-26",
+"raw": "!CARF 09/301 ZLA AIRSPACE DCC SX R-3 26-62/1 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 323900N1193800W TO 324800N1192400W TO 343400N1202400W TO 344200N1203400W TO 343500N1204100W TO POINT OF ORIGIN SFC-UNL 2609261156-2609261519",
+"reason": "SX R-3 26-62/1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82520308",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-22T15:43:25.695Z"
+},
+{
+"areas": [
+[
+[
+31.5833,
+-119.15
+],
+[
+32.35,
+-119.4667
+],
+[
+32.5333,
+-119.2667
+],
+[
+31.7667,
+-118.7667
+],
+[
+31.5833,
+-119.15
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-26T15:21:00.000Z",
+"start": "2026-09-26T11:56:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-09/300-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7330d83b-c478-426c-8859-f9e3a335876d",
+"title": "USSF-385"
+}
+],
+"markers": [],
+"name": "09/300",
+"page": "https://space-notices.com/notice/notam-ZLA-09%2F300-26",
+"raw": "!CARF 09/300 ZLA AIRSPACE DCC SX R-3 26-62/1 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 313500N1190900W TO 322100N1192800W TO 323200N1191600W TO 314600N1184600W TO POINT OF ORIGIN SFC-UNL 2609261156-2609261521",
+"reason": "SX R-3 26-62/1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82520310",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-22T15:43:25.695Z"
+},
+{
+"areas": [
+[
+[
 25.9667,
 -97.1833
 ],
@@ -13265,6 +13373,62 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-17T16:44:10.571Z"
+},
+{
+"areas": [
+[
+[
+11.25,
+-56.3
+],
+[
+9.4333,
+-53.1667
+],
+[
+8.9167,
+-57.0
+],
+[
+8.9167,
+-57.55
+],
+[
+9.5167,
+-58.7833
+],
+[
+11.25,
+-56.3
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T15:50:00.000Z",
+"start": "2026-09-28T12:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-TTZP-A1483/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "A1483/26",
+"page": "https://space-notices.com/notice/notam-TTZP-A1483%2F26",
+"raw": "A1483/26 NOTAMN\r\nQ) TTZP/QRDCA/IV/BO/W/000/999/1450N05112W999\r\nA) TTZP\r\nB) 2609281215 C) 2609281550\r\nE) DANGER AREA ACTIVATED WITHIN THE PIARCO FIR DUE TO THE LAUNCH OF\r\nTHE &apos;SPACE X STARSHIP FLIGHT 14&apos; ROCKET. THE PIARCO ACC STRONGLY\r\nCAUTIONS AIRCRAFT NOT TO OPERATE WITHIN THE DANGER AREA BOUNDED BY\r\nCOORDINATES: 1115N05618W - 0926N05310W - 0855N05700W - 0855N05733W -\r\n0931N05847W - 1115N05618W\r\nPRIMARY LAUNCH DATE: 260928\r\nBACK-UP DATES: 260929 260930 261001 261002 261003 261004\r\nF) SFC G) UNL",
+"reason": "SPACE X STARSHIP FLIGHT 14",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82521408",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-22T13:22:25.935Z"
 },
 {
 "areas": [
@@ -14360,6 +14524,39 @@
 "updated": "2026-09-03T22:10:18.076Z"
 },
 {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-29T05:00:00.000Z",
+"start": "2026-09-28T23:00:00.000Z"
+},
+{
+"end": "2026-10-01T05:00:00.000Z",
+"start": "2026-09-30T23:00:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-stratolaunch-helena",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "other-stratolaunch-operation-super-kristy",
+"title": "Operation Super Kristy"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-stratolaunch-helena",
+"raw": "STRATOLAUNCH HELENA, MOJAVE AIR AND SPACEPORT, CA\nPRIMARY:\t09/28/26\t2300Z-0500Z\nBACKUP:\t\t09/30/26\t2300Z-0500Z",
+"reason": "STRATOLAUNCH HELENA, MOJAVE AIR AND SPACEPORT, CA",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-03T22:41:45.099Z"
+},
+{
 "areas": [
 [
 [
@@ -15243,6 +15440,39 @@
 "updated": "2026-09-21T13:12:09.323Z"
 },
 {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-01T20:09:00.000Z",
+"start": "2026-10-01T18:08:00.000Z"
+},
+{
+"end": "2026-10-02T20:09:00.000Z",
+"start": "2026-10-02T18:08:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-transporter-18",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-67213393-7983-4c06-8b44-b8c785a5ed79",
+"title": "Transporter 18 (Dedicated SSO Rideshare)"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-transporter-18",
+"raw": "TRANSPORTER-18, VANDENBERG SFB, CA\nPRIMARY:\t10/01/26\t1808Z-2009Z\nBACKUP:\t\t10/02/26\t1808Z-2009Z",
+"reason": "TRANSPORTER-18, VANDENBERG SFB, CA",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-21T19:31:01.426Z"
+},
+{
 "areas": [
 [
 [
@@ -15740,6 +15970,272 @@
 "areas": [
 [
 [
+25.9667,
+-97.2167
+],
+[
+26.0333,
+-97.2167
+],
+[
+26.0667,
+-97.1667
+],
+[
+26.0667,
+-97.0667
+],
+[
+26.0667,
+-96.8167
+],
+[
+26.0167,
+-96.2833
+],
+[
+26.0167,
+-95.2
+],
+[
+25.9833,
+-94.6
+],
+[
+25.9833,
+-94.0833
+],
+[
+25.4167,
+-93.1
+],
+[
+25.5167,
+-91.7667
+],
+[
+23.5333,
+-88.8667
+],
+[
+23.0667,
+-88.55
+],
+[
+22.05,
+-86.4
+],
+[
+21.6333,
+-84.9833
+],
+[
+20.9833,
+-82.6333
+],
+[
+20.7167,
+-81.7
+],
+[
+20.1167,
+-79.7333
+],
+[
+19.7667,
+-78.7833
+],
+[
+19.3833,
+-78.0667
+],
+[
+19.3167,
+-78.3
+],
+[
+19.5667,
+-79.3167
+],
+[
+19.7333,
+-79.7333
+],
+[
+20.2,
+-81.2167
+],
+[
+20.7167,
+-83.2167
+],
+[
+21.1,
+-84.9
+],
+[
+21.7167,
+-86.7
+],
+[
+21.9833,
+-87.4333
+],
+[
+22.65,
+-89.1667
+],
+[
+22.75,
+-89.6833
+],
+[
+22.9667,
+-92.6
+],
+[
+24.3,
+-95.0333
+],
+[
+25.6333,
+-96.8167
+],
+[
+25.8,
+-97.0833
+],
+[
+25.9667,
+-97.2167
+]
+],
+[
+[
+25.2,
+-92.9667
+],
+[
+25.5167,
+-93.8667
+],
+[
+25.7,
+-95.4
+],
+[
+26.0333,
+-96.5333
+],
+[
+26.0667,
+-96.8167
+],
+[
+26.0667,
+-97.0667
+],
+[
+26.0667,
+-97.1667
+],
+[
+26.0333,
+-97.2167
+],
+[
+25.9667,
+-97.2167
+],
+[
+25.8,
+-97.0833
+],
+[
+25.6833,
+-96.7833
+],
+[
+25.0333,
+-95.0833
+],
+[
+24.4833,
+-94.1333
+],
+[
+24.3333,
+-93.5333
+],
+[
+24.4167,
+-92.8667
+],
+[
+24.75,
+-92.7167
+],
+[
+25.2,
+-92.9667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T14:14:00.000Z",
+"start": "2026-09-28T12:15:00.000Z"
+},
+{
+"end": "2026-09-29T14:14:00.000Z",
+"start": "2026-09-29T12:15:00.000Z"
+},
+{
+"end": "2026-09-30T14:14:00.000Z",
+"start": "2026-09-30T12:15:00.000Z"
+},
+{
+"end": "2026-10-01T14:14:00.000Z",
+"start": "2026-10-01T12:15:00.000Z"
+},
+{
+"end": "2026-10-02T14:14:00.000Z",
+"start": "2026-10-02T12:15:00.000Z"
+},
+{
+"end": "2026-10-03T14:14:00.000Z",
+"start": "2026-10-03T12:15:00.000Z"
+},
+{
+"end": "2026-10-04T14:14:00.000Z",
+"start": "2026-10-04T12:15:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA IV 922/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "NAVAREA IV 922/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20IV%20922%2F26",
+"raw": "$22",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=922&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-09-22T13:22:25.935Z"
+},
+{
+"areas": [
+[
+[
 23.55,
 -91.45
 ],
@@ -15932,6 +16428,112 @@
 "areas": [
 [
 [
+17.0,
+-71.6667
+],
+[
+16.4333,
+-71.6667
+],
+[
+16.95,
+-73.0667
+],
+[
+17.0,
+-73.0
+],
+[
+17.0,
+-71.6667
+]
+],
+[
+[
+16.0,
+-70.4833
+],
+[
+15.8,
+-69.9333
+],
+[
+15.4,
+-68.5
+],
+[
+15.0333,
+-67.2
+],
+[
+15.5667,
+-67.0833
+],
+[
+16.0,
+-68.2167
+],
+[
+16.0,
+-70.4833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T14:45:00.000Z",
+"start": "2026-09-28T12:15:00.000Z"
+},
+{
+"end": "2026-09-29T14:45:00.000Z",
+"start": "2026-09-29T12:15:00.000Z"
+},
+{
+"end": "2026-09-30T14:45:00.000Z",
+"start": "2026-09-30T12:15:00.000Z"
+},
+{
+"end": "2026-10-01T14:45:00.000Z",
+"start": "2026-10-01T12:15:00.000Z"
+},
+{
+"end": "2026-10-02T14:45:00.000Z",
+"start": "2026-10-02T12:15:00.000Z"
+},
+{
+"end": "2026-10-03T14:45:00.000Z",
+"start": "2026-10-03T12:15:00.000Z"
+},
+{
+"end": "2026-10-04T14:45:00.000Z",
+"start": "2026-10-04T12:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-TNCF-A0540/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "A0540/26",
+"page": "https://space-notices.com/notice/notam-TNCF-A0540%2F26",
+"raw": "A0540/26 NOTAMN\r\nQ) TNCF/QRDCA/IV/BO/W/000/999/1700N07140W250\r\nA) TNCF\r\nB) 2609281215 C) 2610041445\r\nD) 1215-1445\r\nE) DEBRIS RESPONSE AREAS(DRA) WITHIN CUR FIR MAY BE ACTIVATED IF\r\nREQUIRED DUE TO STARSHIP FLT 14 LAUNCH MALFUNCTION. IF\r\nACTIVATED, DRA ESTABLISHED AS TEMPORARY DANGER AREA. DRA\r\nBOUNDED BY: 1700N07140W-1626N07140W-1657N07304W-1700N07300W\r\nAND 1600N07029W-1548N06956W-1524N06830W-1502N06712W-1534N06705W-\r\n1600N06813W. DEPARTURES WITHIN CUR TMA MAY EXPECT GND DELAYS. \r\nACFT WITHIN CUR FIR MAY EXPECT AIRBORNE HOLDING. ATC WILL ADVISE\r\nDRA ACTIVATION AND RESUMPTION OF NORMAL OPS.DRA ACTIVATION, IF\r\nREQUIRED, MAY OCCUR ON 260928. SHOULD THE LAUNCH BE POSTPONED,\r\nDRA MAY BE ACTIVATED, IF REQUIRED, ON ANY OF THE FOLLOWING\r\nBACKUP DATES: 260929, 260930, 261001, 261002, 261003, OR\r\n261004.\r\nF) SFC G) UNL",
+"reason": "STARSHIP FLT 14 LAUNCH MALFUNCTION",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82519617",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-22T13:22:25.935Z"
+},
+{
+"areas": [
+[
+[
 -24.6,
 72.1
 ],
@@ -16087,6 +16689,166 @@
 "name": "US National Geospatial-Intelligence Agency"
 },
 "updated": "2026-09-17T20:30:23.516Z"
+},
+{
+"areas": [
+[
+[
+-24.6,
+72.1
+],
+[
+-23.05,
+76.9833
+],
+[
+-21.75,
+80.95
+],
+[
+-18.9333,
+87.7
+],
+[
+-16.2333,
+93.6167
+],
+[
+-15.2667,
+95.4333
+],
+[
+-15.3,
+95.5167
+],
+[
+-15.4167,
+95.8333
+],
+[
+-15.5,
+96.2
+],
+[
+-15.5667,
+96.5667
+],
+[
+-15.5667,
+97.0333
+],
+[
+-15.55,
+97.2333
+],
+[
+-15.5,
+97.55
+],
+[
+-15.4667,
+97.7
+],
+[
+-15.4333,
+97.8333
+],
+[
+-15.4,
+97.9667
+],
+[
+-15.3667,
+98.05
+],
+[
+-15.3167,
+98.1833
+],
+[
+-15.3,
+98.2333
+],
+[
+-15.9333,
+98.5167
+],
+[
+-17.0667,
+96.6333
+],
+[
+-19.9333,
+91.0333
+],
+[
+-23.0333,
+84.1
+],
+[
+-24.9833,
+79.1
+],
+[
+-27.0667,
+73.3
+],
+[
+-24.6,
+72.1
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T14:47:00.000Z",
+"start": "2026-09-28T12:23:00.000Z"
+},
+{
+"end": "2026-09-29T14:47:00.000Z",
+"start": "2026-09-29T12:23:00.000Z"
+},
+{
+"end": "2026-09-30T14:47:00.000Z",
+"start": "2026-09-30T12:23:00.000Z"
+},
+{
+"end": "2026-10-01T14:47:00.000Z",
+"start": "2026-10-01T12:23:00.000Z"
+},
+{
+"end": "2026-10-02T14:47:00.000Z",
+"start": "2026-10-02T12:23:00.000Z"
+},
+{
+"end": "2026-10-03T14:47:00.000Z",
+"start": "2026-10-03T12:23:00.000Z"
+},
+{
+"end": "2026-10-04T14:47:00.000Z",
+"start": "2026-10-04T12:23:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2751/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2751/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202751%2F26",
+"raw": "230357Z SEP 26\nHYDROPAC 2751/26.\nINDIAN OCEAN.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   1223Z TO 1447Z DAILY 28 SEP THRU 04 OCT\n   IN AREA BOUND BY\n   24-36.00S 072-06.00E, 23-03.00S 076-59.00E,\n   21-45.00S 080-57.00E, 18-56.00S 087-42.00E,\n   16-14.00S 093-37.00E, 15-16.00S 095-26.00E,\n   15-18.00S 095-31.00E, 15-25.00S 095-50.00E,\n   15-30.00S 096-12.00E, 15-34.00S 096-34.00E,\n   15-34.00S 097-02.00E, 15-33.00S 097-14.00E,\n   15-30.00S 097-33.00E, 15-28.00S 097-42.00E,\n   15-26.00S 097-50.00E, 15-24.00S 097-58.00E,\n   15-22.00S 098-03.00E, 15-19.00S 098-11.00E,\n   15-18.00S 098-14.00E, 15-56.00S 098-31.00E,\n   17-04.00S 096-38.00E, 19-56.00S 091-02.00E,\n   23-02.00S 084-06.00E, 24-59.00S 079-06.00E,\n   27-04.00S 073-18.00E.\n2. CANCEL THIS MSG 041547Z OCT 26.//\n\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2751&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-09-22T13:22:25.935Z"
 },
 {
 "areas": [
@@ -16459,6 +17221,648 @@
 "name": "US Coast Guard"
 },
 "updated": "2026-09-17T19:00:09.824Z"
+},
+{
+"areas": [
+[
+[
+23.9167,
+144.6167
+],
+[
+26.1167,
+151.2333
+],
+[
+27.6833,
+156.3333
+],
+[
+29.4167,
+165.05
+],
+[
+30.4333,
+172.6833
+],
+[
+29.6833,
+176.2333
+],
+[
+29.2167,
+170.1667
+],
+[
+28.4667,
+164.9833
+],
+[
+26.65,
+156.25
+],
+[
+23.4667,
+144.8
+],
+[
+23.9167,
+144.6167
+]
+],
+[
+[
+23.7667,
+-156.1833
+],
+[
+24.8667,
+-159.3167
+],
+[
+27.6333,
+-167.8167
+],
+[
+29.4167,
+-175.0
+],
+[
+29.75,
+-176.5833
+],
+[
+29.8167,
+-180.0
+],
+[
+30.9333,
+-180.0
+],
+[
+31.1833,
+-175.0
+],
+[
+31.2833,
+-171.4833
+],
+[
+30.55,
+-161.25
+],
+[
+29.6167,
+-155.6667
+],
+[
+28.8167,
+-151.5833
+],
+[
+26.8833,
+-145.4333
+],
+[
+26.8333,
+-145.4667
+],
+[
+24.05,
+-154.5333
+],
+[
+23.7667,
+-156.1833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T18:33:00.000Z",
+"start": "2026-09-28T14:27:00.000Z"
+},
+{
+"end": "2026-09-29T18:33:00.000Z",
+"start": "2026-09-29T14:27:00.000Z"
+},
+{
+"end": "2026-09-30T18:33:00.000Z",
+"start": "2026-09-30T14:27:00.000Z"
+},
+{
+"end": "2026-10-01T18:33:00.000Z",
+"start": "2026-10-01T14:27:00.000Z"
+},
+{
+"end": "2026-10-02T18:33:00.000Z",
+"start": "2026-10-02T14:27:00.000Z"
+},
+{
+"end": "2026-10-03T18:33:00.000Z",
+"start": "2026-10-03T14:27:00.000Z"
+},
+{
+"end": "2026-10-04T18:33:00.000Z",
+"start": "2026-10-04T14:27:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2749/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2749/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202749%2F26",
+"raw": "230329Z SEP 26\nHYDROPAC 2749/26.\nNORTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   1427Z TO 1833Z DAILY 28 SEP THRU 04 OCT\n   IN AREAS BOUND BY:\n   A. 23-55.00N 144-37.00E, 26-07.00N 151-14.00E,\n      27-41.00N 156-20.00E, 29-25.00N 165-03.00E,\n      30-26.00N 172-41.00E, 29-41.00N 176-14.00E,\n      29-13.00N 170-10.00E, 28-28.00N 164-59.00E,\n      26-39.00N 156-15.00E, 23-28.00N 144-48.00E.\n   B. 23-46.00N 156-11.00W, 24-52.00N 159-19.00W,\n      27-38.00N 167-49.00W, 29-25.00N 175-00.00W,\n      29-45.00N 176-35.00W, 29-49.00N 180-00.00W,\n      30-56.00N 180-00.00W, 31-11.00N 175-00.00W,\n      31-17.00N 171-29.00W, 30-33.00N 161-15.00W,\n      29-37.00N 155-40.00W, 28-49.00N 151-35.00W,\n      26-53.00N 145-26.00W, 26-50.00N 145-28.00W,\n      24-03.00N 154-32.00W, 23-46.00N 156-11.00W.\n2. CANCEL THIS MSG 041933Z OCT 26.//\n\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2749&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-09-22T13:22:25.935Z"
+},
+{
+"areas": [
+[
+[
+23.9167,
+144.6167
+],
+[
+26.1167,
+151.2333
+],
+[
+27.6833,
+156.3333
+],
+[
+29.4167,
+165.05
+],
+[
+30.4333,
+172.6833
+],
+[
+30.9333,
+-180.0
+],
+[
+31.1833,
+-175.0
+],
+[
+31.2833,
+-171.4833
+],
+[
+30.55,
+-161.25
+],
+[
+29.6167,
+-155.6667
+],
+[
+28.8167,
+-151.5833
+],
+[
+26.8833,
+-145.4333
+],
+[
+26.8333,
+-145.4667
+],
+[
+24.05,
+-154.5333
+],
+[
+23.7667,
+-156.1833
+],
+[
+24.8667,
+-159.3167
+],
+[
+27.6333,
+-167.8167
+],
+[
+29.4167,
+-175.0
+],
+[
+29.75,
+-176.5833
+],
+[
+29.8167,
+-180.0
+],
+[
+29.6833,
+176.2333
+],
+[
+29.2167,
+170.1667
+],
+[
+28.4667,
+164.9833
+],
+[
+26.65,
+156.25
+],
+[
+23.4667,
+144.8
+],
+[
+23.9167,
+144.6167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T18:33:00.000Z",
+"start": "2026-09-28T14:27:00.000Z"
+},
+{
+"end": "2026-09-29T18:33:00.000Z",
+"start": "2026-09-29T14:27:00.000Z"
+},
+{
+"end": "2026-09-30T18:33:00.000Z",
+"start": "2026-09-30T14:27:00.000Z"
+},
+{
+"end": "2026-10-01T18:33:00.000Z",
+"start": "2026-10-01T14:27:00.000Z"
+},
+{
+"end": "2026-10-02T18:33:00.000Z",
+"start": "2026-10-02T14:27:00.000Z"
+},
+{
+"end": "2026-10-03T18:33:00.000Z",
+"start": "2026-10-03T14:27:00.000Z"
+},
+{
+"end": "2026-10-04T18:33:00.000Z",
+"start": "2026-10-04T14:27:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2761/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2761/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202761%2F26",
+"raw": "231328Z SEP 26\nHYDROPAC 2761/26.\nNORTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   1427Z TO 1833Z DAILY 28 SEP THRU 04 OCT\n   IN AREA BOUND BY\n   23-55.00N 144-37.00E, 26-07.00N 151-14.00E,\n   27-41.00N 156-20.00E, 29-25.00N 165-03.00E,\n   30-26.00N 172-41.00E, 30-56.00N 180-00.00W,\n   31-11.00N 175-00.00W, 31-17.00N 171-29.00W,\n   30-33.00N 161-15.00W, 29-37.00N 155-40.00W,\n   28-49.00N 151-35.00W, 26-53.00N 145-26.00W,\n   26-50.00N 145-28.00W, 24-03.00N 154-32.00W,\n   23-46.00N 156-11.00W, 24-52.00N 159-19.00W,\n   27-38.00N 167-49.00W, 29-25.00N 175-00.00W,\n   29-45.00N 176-35.00W, 29-49.00N 180-00.00W,\n   29-41.00N 176-14.00E, 29-13.00N 170-10.00E,\n   28-28.00N 164-59.00E, 26-39.00N 156-15.00E,\n   23-28.00N 144-48.00E.\n2. CANCEL HYDROPAC 2749/26.\n3. CANCEL THIS MSG 041933Z OCT 26.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2761&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-09-22T13:22:25.935Z"
+},
+{
+"areas": [
+[
+[
+23.9167,
+144.6167
+],
+[
+26.1167,
+151.2333
+],
+[
+27.6833,
+156.3333
+],
+[
+29.4167,
+165.05
+],
+[
+30.4333,
+172.6833
+],
+[
+30.9333,
+-180.0
+],
+[
+31.1833,
+-175.0
+],
+[
+31.2833,
+-171.4833
+],
+[
+30.55,
+-161.25
+],
+[
+29.6167,
+-155.6667
+],
+[
+28.8167,
+-151.5833
+],
+[
+26.8833,
+-145.4333
+],
+[
+26.8333,
+-145.4667
+],
+[
+24.05,
+-154.5333
+],
+[
+23.7667,
+-156.1833
+],
+[
+24.8667,
+-159.3167
+],
+[
+27.6333,
+-167.8167
+],
+[
+29.4167,
+-175.0
+],
+[
+29.75,
+-176.5833
+],
+[
+29.8167,
+-180.0
+],
+[
+29.6833,
+176.2333
+],
+[
+29.2167,
+170.1667
+],
+[
+28.4667,
+164.9833
+],
+[
+26.65,
+156.25
+],
+[
+23.4667,
+144.8
+],
+[
+23.9167,
+144.6167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T18:33:00.000Z",
+"start": "2026-09-28T14:27:00.000Z"
+},
+{
+"end": "2026-09-29T18:33:00.000Z",
+"start": "2026-09-29T14:27:00.000Z"
+},
+{
+"end": "2026-09-30T18:33:00.000Z",
+"start": "2026-09-30T14:27:00.000Z"
+},
+{
+"end": "2026-10-01T18:33:00.000Z",
+"start": "2026-10-01T14:27:00.000Z"
+},
+{
+"end": "2026-10-02T18:33:00.000Z",
+"start": "2026-10-02T14:27:00.000Z"
+},
+{
+"end": "2026-10-03T18:33:00.000Z",
+"start": "2026-10-03T14:27:00.000Z"
+},
+{
+"end": "2026-10-04T18:33:00.000Z",
+"start": "2026-10-04T14:27:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA XII 657/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "NAVAREA XII 657/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20657%2F26",
+"raw": "231328Z SEP 26\nNAVAREA XII 657/26.\nNORTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   1427Z TO 1833Z DAILY 28 SEP THRU 04 OCT\n   IN AREA BOUND BY\n   23-55.00N 144-37.00E, 26-07.00N 151-14.00E,\n   27-41.00N 156-20.00E, 29-25.00N 165-03.00E,\n   30-26.00N 172-41.00E, 30-56.00N 180-00.00W,\n   31-11.00N 175-00.00W, 31-17.00N 171-29.00W,\n   30-33.00N 161-15.00W, 29-37.00N 155-40.00W,\n   28-49.00N 151-35.00W, 26-53.00N 145-26.00W,\n   26-50.00N 145-28.00W, 24-03.00N 154-32.00W,\n   23-46.00N 156-11.00W, 24-52.00N 159-19.00W,\n   27-38.00N 167-49.00W, 29-25.00N 175-00.00W,\n   29-45.00N 176-35.00W, 29-49.00N 180-00.00W,\n   29-41.00N 176-14.00E, 29-13.00N 170-10.00E,\n   28-28.00N 164-59.00E, 26-39.00N 156-15.00E,\n   23-28.00N 144-48.00E.\n2. CANCEL NAVAREA XII 655/26.\n3. CANCEL THIS MSG 041933Z OCT 26.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=657&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-09-22T13:22:25.935Z"
+},
+{
+"areas": [
+[
+[
+-19.85,
+-149.0
+],
+[
+-19.3833,
+-148.8167
+],
+[
+-24.9667,
+-133.1667
+],
+[
+-26.1667,
+-129.15
+],
+[
+-27.5667,
+-123.05
+],
+[
+-28.1833,
+-118.55
+],
+[
+-28.75,
+-112.65
+],
+[
+-28.3,
+-111.0
+],
+[
+-28.4333,
+-103.4333
+],
+[
+-26.9167,
+-101.65
+],
+[
+-26.5333,
+-99.2
+],
+[
+-25.2833,
+-91.9333
+],
+[
+-23.9,
+-83.7833
+],
+[
+-27.2833,
+-82.8167
+],
+[
+-30.35,
+-82.7833
+],
+[
+-31.0333,
+-85.5667
+],
+[
+-30.6333,
+-87.5667
+],
+[
+-30.9667,
+-93.1
+],
+[
+-31.5167,
+-102.1
+],
+[
+-31.25,
+-106.8833
+],
+[
+-30.6,
+-113.0167
+],
+[
+-29.3167,
+-119.3
+],
+[
+-28.1,
+-125.1
+],
+[
+-26.1833,
+-132.8333
+],
+[
+-19.85,
+-149.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-29T01:08:00.000Z",
+"start": "2026-09-28T21:07:00.000Z"
+},
+{
+"end": "2026-09-30T01:08:00.000Z",
+"start": "2026-09-29T21:07:00.000Z"
+},
+{
+"end": "2026-10-01T01:08:00.000Z",
+"start": "2026-09-30T21:07:00.000Z"
+},
+{
+"end": "2026-10-02T01:08:00.000Z",
+"start": "2026-10-01T21:07:00.000Z"
+},
+{
+"end": "2026-10-03T01:08:00.000Z",
+"start": "2026-10-02T21:07:00.000Z"
+},
+{
+"end": "2026-10-04T01:08:00.000Z",
+"start": "2026-10-03T21:07:00.000Z"
+},
+{
+"end": "2026-10-05T01:08:00.000Z",
+"start": "2026-10-04T21:07:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2750/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2750/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202750%2F26",
+"raw": "230348Z SEP 26\nHYDROPAC 2750/26.\nSOUTH PACIFIC.\nFRENCH POLYNESIA.\nPITCAIRN ISLANDS.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   2107Z TO 0108Z DAILY 28 SEP THRU 04 OCT\n   IN AREA BOUND BY\n   19-51.00S 149-00.00W, 19-23.00S 148-49.00W,\n   24-58.00S 133-10.00W, 26-10.00S 129-09.00W,\n   27-34.00S 123-03.00W, 28-11.00S 118-33.00W,\n   28-45.00S 112-39.00W, 28-18.00S 111-00.00W,\n   28-26.00S 103-26.00W, 26-55.00S 101-39.00W,\n   26-32.00S 099-12.00W, 25-17.00S 091-56.00W,\n   23-54.00S 083-47.00W, 27-17.00S 082-49.00W,\n   30-21.00S 082-47.00W, 31-02.00S 085-34.00W,\n   30-38.00S 087-34.00W, 30-58.00S 093-06.00W,\n   31-31.00S 102-06.00W, 31-15.00S 106-53.00W,\n   30-36.00S 113-01.00W, 29-19.00S 119-18.00W,\n   28-06.00S 125-06.00W, 26-11.00S 132-50.00W.\n2. CANCEL THIS MSG 050208Z OCT 26.//\n\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2750&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-09-22T13:22:25.935Z"
 },
 {
 "areas": [
@@ -17211,6 +18615,170 @@
 "areas": [
 [
 [
+26.03884,
+-97.1558
+],
+[
+26.03804,
+-97.14676
+],
+[
+26.03567,
+-97.13807
+],
+[
+26.03182,
+-97.13006
+],
+[
+26.02664,
+-97.12303
+],
+[
+26.02033,
+-97.11727
+],
+[
+26.01313,
+-97.11299
+],
+[
+26.00532,
+-97.11036
+],
+[
+25.99719,
+-97.10947
+],
+[
+25.98907,
+-97.11037
+],
+[
+25.98126,
+-97.11301
+],
+[
+25.97406,
+-97.11729
+],
+[
+25.96775,
+-97.12305
+],
+[
+25.96258,
+-97.13007
+],
+[
+25.95873,
+-97.13808
+],
+[
+25.95636,
+-97.14677
+],
+[
+25.95556,
+-97.1558
+],
+[
+25.95636,
+-97.16483
+],
+[
+25.95873,
+-97.17352
+],
+[
+25.96258,
+-97.18153
+],
+[
+25.96775,
+-97.18855
+],
+[
+25.97406,
+-97.19431
+],
+[
+25.98126,
+-97.19859
+],
+[
+25.98907,
+-97.20123
+],
+[
+25.99719,
+-97.20213
+],
+[
+26.00532,
+-97.20124
+],
+[
+26.01313,
+-97.19861
+],
+[
+26.02033,
+-97.19433
+],
+[
+26.02664,
+-97.18857
+],
+[
+26.03182,
+-97.18154
+],
+[
+26.03567,
+-97.17353
+],
+[
+26.03804,
+-97.16484
+],
+[
+26.03884,
+-97.1558
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-07T05:00:00.000Z",
+"start": "2026-09-23T05:00:00.000Z"
+}
+],
+"height": "10000FT",
+"id": "tfr-ZHU-6/4810",
+"kind": "TFR",
+"launches": [
+{
+"id": "collection-starbase-testing",
+"title": "Testing Notices"
+}
+],
+"markers": [],
+"name": "KZHU 6/4810",
+"page": "https://space-notices.com/notice/tfr-ZHU-6%2F4810",
+"raw": "KZHU 6/4810 ZHU TX..AIRSPACE BROWNWOOD, TX..TEMPORARY FLIGHT RESTRICTIONS. PURSUANT TO 14 CFR SECTION 91.137(A)(1) LAUNCH REHERSAL WI AN AREA DEFINED AS 2.5NM RADIUS OF 255950N0970921W (BRO061012.6) SFC-10000FT AGL ONLY RELIEF ACFT OPS UNDER DIRECTION OF SPACEX ARE AUTH IN THE AIRSPACE. SPACEX, KYLE HURN TEL 956-346-8311 IS IN CHARGE OF ON SCENE EMERG RESPONSE ACTIVITY. HOUSTON/ZHU/ARTCC TEL 281-230-5560 IS THE FAA CDN FAC. 2609230500-2610070500",
+"reason": "LAUNCH REHERSAL",
+"source": {
+"link": "https://tfr.faa.gov/tfr3/?page=detail_6_4810",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-22T15:40:50.481Z"
+},
+{
+"areas": [
+[
+[
 30.466667,
 -121.7
 ],
@@ -17356,6 +18924,59 @@
 "name": "US Coast Guard"
 },
 "updated": "2026-09-21T19:31:01.396Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-01T20:09:00.000Z",
+"start": "2026-10-01T18:08:00.000Z"
+},
+{
+"end": "2026-10-02T20:09:00.000Z",
+"start": "2026-10-02T18:08:00.000Z"
+},
+{
+"end": "2026-10-03T20:09:00.000Z",
+"start": "2026-10-03T18:08:00.000Z"
+},
+{
+"end": "2026-10-04T20:09:00.000Z",
+"start": "2026-10-04T18:08:00.000Z"
+},
+{
+"end": "2026-10-05T20:09:00.000Z",
+"start": "2026-10-05T18:08:00.000Z"
+},
+{
+"end": "2026-10-06T20:09:00.000Z",
+"start": "2026-10-06T18:08:00.000Z"
+},
+{
+"end": "2026-10-07T20:09:00.000Z",
+"start": "2026-10-07T18:08:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-cadenaois-advisory-2756",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-67213393-7983-4c06-8b44-b8c785a5ed79",
+"title": "Transporter 18 (Dedicated SSO Rideshare)"
+}
+],
+"markers": [],
+"name": "Cadena OIS Advisory 2756",
+"page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2756",
+"raw": "Primary Launch Day\t01 OCT\t1808Z-2009Z\nBackup Launch Day\t02 OCT\t1808Z-2009Z\nBackup Launch Day\t03 OCT\t1808Z-2009Z\nBackup Launch Day\t04 OCT\t1808Z-2009Z\nBackup Launch Day\t05 OCT\t1808Z-2009Z\nBackup Launch Day\t06 OCT\t1808Z-2009Z\nBackup Launch Day\t07 OCT\t1808Z-2009Z\n",
+"reason": "SpaceX Transporter-18",
+"source": {
+"link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
+"name": "Cadena OIS"
+},
+"updated": "2026-09-21T19:31:01.426Z"
 },
 {
 "areas": [
@@ -21255,5 +22876,5 @@
 "pending": 0,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 1188
+"total_known": 1202
 }
