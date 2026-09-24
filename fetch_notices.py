@@ -249,6 +249,49 @@ def _fix_areas(rec):
     return rec
 
 
+# ---------------------------------------------------------------- 窓を有効期間に収める
+# ★サイトは D) 項の展開で、C)（終わり）の後ろに存在しない窓を足すことがある
+#   （SCIZ W3068/26：9/28〜10/4 の夜7回なのに 10/5〜10/6 の8回目が付いていた）。
+#   NOTAM の B)〜C) の外にはみ出した窓は落とし、はみ出した端は切る。
+_B_RE = re.compile(r"\bB\)\s*(\d{10})\b")
+_C_RE = re.compile(r"\bC\)\s*(\d{10})\b")
+
+
+def _yymmddhhmm(txt):
+    try:
+        return datetime.datetime.strptime(txt, "%y%m%d%H%M").strftime("%Y-%m-%dT%H:%M:00.000Z")
+    except ValueError:
+        return None
+
+
+def _fix_dates(rec):
+    """NOTAM の窓を B)〜C) に収める（何度かけても同じ結果）。"""
+    if rec.get("kind") != "NOTAM":
+        return rec
+    raw = rec.get("raw") or ""
+    mb, mc = _B_RE.search(raw), _C_RE.search(raw)
+    b = _yymmddhhmm(mb.group(1)) if mb else None
+    c = _yymmddhhmm(mc.group(1)) if mc else None
+    if not (b or c):
+        return rec
+    out = []
+    for d in rec.get("dates") or []:
+        st, en = d.get("start"), d.get("end")
+        if c and st and st >= c:
+            continue
+        if b and en and en <= b:
+            continue
+        d = dict(d)
+        if c and en and en > c:
+            d["end"] = c
+        if b and st and st < b:
+            d["start"] = b
+        out.append(d)
+    if out:                                   # 全部落ちるなら読み違い（書式違い）とみなして触らない
+        rec["dates"] = out
+    return rec
+
+
 # ---------------------------------------------------------------- 整形
 
 def _norm(notice, page_url, lastmod=""):
@@ -274,7 +317,7 @@ def _norm(notice, page_url, lastmod=""):
             dates.append({"start": d.get("start"), "end": d.get("end")})
 
     src = notice.get("source") or {}
-    return _fix_areas({
+    return _fix_dates(_fix_areas({
         "id": notice.get("id"),
         "name": notice.get("name"),
         "kind": notice.get("type"),          # NOTAM / NAVWARNING / LNM / BNM / INFOPAGE
@@ -292,7 +335,7 @@ def _norm(notice, page_url, lastmod=""):
         # サイトがこの通知を最後に更新した時刻。同じ打上げに電文が何通もあるとき、
         # どれが最新か（＝今いちばん確からしい窓か）をアプリが選ぶために要る
         "updated": lastmod,
-    })
+    }))
 
 
 def _last_end(rec):
@@ -510,7 +553,7 @@ def main():
     for u, v in cache.items():
         if v.get("gone"):
             continue
-        rec = _fix_areas(v.get("notice") or {})
+        rec = _fix_dates(_fix_areas(v.get("notice") or {}))
         end = _last_end(rec)
         if end is None or end >= cutoff:
             notices.append(rec)
