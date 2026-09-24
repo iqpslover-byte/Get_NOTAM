@@ -1,6 +1,6 @@
 {
-"count": 269,
-"generated_utc": "2026-09-24T17:58:41Z",
+"count": 281,
+"generated_utc": "2026-09-24T21:50:59Z",
 "notices": [
 {
 "areas": [
@@ -11458,6 +11458,174 @@
 "areas": [
 [
 [
+-39.1,
+177.6
+],
+[
+-39.1,
+177.9
+],
+[
+-38.9,
+178.3
+],
+[
+-38.9,
+178.9
+],
+[
+-39.5,
+179.0
+],
+[
+-39.65,
+177.8
+],
+[
+-39.2,
+177.4
+],
+[
+-39.1,
+177.6
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-26T02:05:00.000Z",
+"start": "2026-09-25T23:45:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZC-B4714/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-9e24bef7-c44b-4fdc-ba52-68545ce9457e",
+"title": "Owlright, Owlright, Owlright (StriX Launch 13)"
+}
+],
+"markers": [],
+"name": "B4714/26",
+"page": "https://space-notices.com/notice/notam-NZZC-B4714%2F26",
+"raw": "B4714/26 NOTAMN\r\nQ) NZZC/QRDCA/IV/BO /W /000/999/3916S17813E040\r\nA) NZZC B) 2609252345 C) 2609260205\r\nE) TEMPO DANGER AREA NZD031 (MAHIA EAST CAPE) IS PRESCRIBED AS FLW:\r\nEXCLUDING THAT AREA CO-INCIDENT WITH NZR401, ALL THAT AIRSPACE \r\nBOUNDED BY A LINE JOINING:\r\n39 06 00.00 S 177 36 00.00 E\r\n39 06 00.00 S 177 54 00.00 E\r\n38 54 00.00 S 178 18 00.00 E\r\n38 54 00.00 S 178 54 00.00 E\r\n39 30 00.00 S 179 00 00.00 E\r\n39 39 00.00 S 177 48 00.00 E\r\n39 12 00.00 S 177 24 00.00 E\r\n39 06 00.00 S 177 36 00.00 E\r\nACTIVITY: ROCKET LAUNCH\r\nUSING AGENCY: ROCKET LAB LIMITED, RANGE CONTROL CENTRE,\r\nTEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED \r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET LAUNCH",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82536732",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-21T11:40:24.418Z"
+},
+{
+"areas": [
+[
+[
+-37.75,
+-178.3
+],
+[
+-36.6,
+-172.8
+],
+[
+-38.55,
+-172.0
+],
+[
+-39.65,
+-177.6667
+],
+[
+-37.75,
+-178.3
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-26T02:05:00.000Z",
+"start": "2026-09-25T23:45:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B4715/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-9e24bef7-c44b-4fdc-ba52-68545ce9457e",
+"title": "Owlright, Owlright, Owlright (StriX Launch 13)"
+}
+],
+"markers": [],
+"name": "B4715/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B4715%2F26",
+"raw": "B4715/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3812S17510W153\r\nA) NZZO B) 2609252345 C) 2609260205\r\nE) TEMPO DANGER AREA NZD032 (NORTH CHATHAM ISLANDS) IS PRESCRIBED AS\r\nFLW:\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n37 45 36.00 S 178 18 00.00 W\r\n36 36 00.00 S 172 48 00.00 W\r\n38 33 00.00 S 172 00 00.00 W\r\n39 39 00.00 S 177 40 12.00 W\r\n37 45 36.00 S 178 18 00.00 W\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED, RANGE CONTROL CENTRE, \r\nTEL +64 28 255 11638 \r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED \r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82536742",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-21T11:40:24.418Z"
+},
+{
+"areas": [
+[
+[
+-35.4,
+-167.0
+],
+[
+-33.8,
+-160.4667
+],
+[
+-36.0,
+-159.5
+],
+[
+-37.6,
+-166.4
+],
+[
+-35.4,
+-167.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-26T02:05:00.000Z",
+"start": "2026-09-25T23:45:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B4716/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-9e24bef7-c44b-4fdc-ba52-68545ce9457e",
+"title": "Owlright, Owlright, Owlright (StriX Launch 13)"
+}
+],
+"markers": [],
+"name": "B4716/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B4716%2F26",
+"raw": "B4716/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3549S16317W187\r\nA) NZZO B) 2609252345 C) 2609260205\r\nE) TEMPO DANGER AREA NZD033 (AUCKLAND OCEANIC FIR) IS \r\nPRESCRIBED AS FLW:\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n35 24 00 S 167 00 00 W\r\n33 48 00 S 160 28 12 W\r\n36 00 00 S 159 30 00 W\r\n37 36 00 S 166 24 00 W\r\n35 24 00 S 167 00 00 W\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED, RANGE CONTROL CENTRE, \r\nTEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 \r\nUNDER A DELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82536754",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-21T11:40:24.418Z"
+},
+{
+"areas": [
+[
+[
 29.8,
 -117.65
 ],
@@ -12407,6 +12575,174 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-23T12:52:00.555Z"
+},
+{
+"areas": [
+[
+[
+-39.1,
+177.6
+],
+[
+-39.1,
+177.9
+],
+[
+-38.9,
+178.3
+],
+[
+-38.9,
+178.9
+],
+[
+-39.5,
+179.0
+],
+[
+-39.65,
+177.8
+],
+[
+-39.2,
+177.4
+],
+[
+-39.1,
+177.6
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-27T01:35:00.000Z",
+"start": "2026-09-26T23:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZC-B4718/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-9e24bef7-c44b-4fdc-ba52-68545ce9457e",
+"title": "Owlright, Owlright, Owlright (StriX Launch 13)"
+}
+],
+"markers": [],
+"name": "B4718/26",
+"page": "https://space-notices.com/notice/notam-NZZC-B4718%2F26",
+"raw": "B4718/26 NOTAMN\r\nQ) NZZC/QRDCA/IV/BO /W /000/999/3916S17813E040\r\nA) NZZC B) 2609262315 C) 2609270135\r\nE) TEMPO DANGER AREA NZD031 (MAHIA EAST CAPE) IS PRESCRIBED AS FLW:\r\nEXCLUDING THAT AREA CO-INCIDENT WITH NZR401, ALL THAT AIRSPACE \r\nBOUNDED BY A LINE JOINING:\r\n39 06 00.00 S 177 36 00.00 E\r\n39 06 00.00 S 177 54 00.00 E\r\n38 54 00.00 S 178 18 00.00 E\r\n38 54 00.00 S 178 54 00.00 E\r\n39 30 00.00 S 179 00 00.00 E\r\n39 39 00.00 S 177 48 00.00 E\r\n39 12 00.00 S 177 24 00.00 E\r\n39 06 00.00 S 177 36 00.00 E\r\nACTIVITY: ROCKET LAUNCH\r\nUSING AGENCY: ROCKET LAB LIMITED, RANGE CONTROL CENTRE,\r\nTEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED \r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET LAUNCH",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82536857",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-21T11:40:24.418Z"
+},
+{
+"areas": [
+[
+[
+-37.75,
+-178.3
+],
+[
+-36.6,
+-172.8
+],
+[
+-38.55,
+-172.0
+],
+[
+-39.65,
+-177.6667
+],
+[
+-37.75,
+-178.3
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-27T01:35:00.000Z",
+"start": "2026-09-26T23:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B4719/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-9e24bef7-c44b-4fdc-ba52-68545ce9457e",
+"title": "Owlright, Owlright, Owlright (StriX Launch 13)"
+}
+],
+"markers": [],
+"name": "B4719/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B4719%2F26",
+"raw": "B4719/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3812S17510W153\r\nA) NZZO B) 2609262315 C) 2609270135\r\nE) TEMPO DANGER AREA NZD032 (NORTH CHATHAM ISLANDS) IS PRESCRIBED AS\r\nFLW:\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n37 45 36.00 S 178 18 00.00 W\r\n36 36 00.00 S 172 48 00.00 W\r\n38 33 00.00 S 172 00 00.00 W\r\n39 39 00.00 S 177 40 12.00 W\r\n37 45 36.00 S 178 18 00.00 W\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED, RANGE CONTROL CENTRE, \r\nTEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED \r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82536893",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-21T11:40:24.418Z"
+},
+{
+"areas": [
+[
+[
+-35.4,
+-167.0
+],
+[
+-33.8,
+-160.4667
+],
+[
+-36.0,
+-159.5
+],
+[
+-37.6,
+-166.4
+],
+[
+-35.4,
+-167.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-27T01:35:00.000Z",
+"start": "2026-09-26T23:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B4720/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-9e24bef7-c44b-4fdc-ba52-68545ce9457e",
+"title": "Owlright, Owlright, Owlright (StriX Launch 13)"
+}
+],
+"markers": [],
+"name": "B4720/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B4720%2F26",
+"raw": "B4720/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3549S16317W187\r\nA) NZZO B) 2609262315 C) 2609270135\r\nE) TEMPO DANGER AREA NZD033 (AUCKLAND OCEANIC FIR) IS \r\nPRESCRIBED AS FLW:\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n35 24 00 S 167 00 00 W\r\n33 48 00 S 160 28 12 W\r\n36 00 00 S 159 30 00 W\r\n37 36 00 S 166 24 00 W\r\n35 24 00 S 167 00 00 W\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED, RANGE CONTROL CENTRE, \r\nTEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 \r\nUNDER A DELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82536930",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-21T11:40:24.418Z"
 },
 {
 "areas": [
@@ -14476,6 +14812,134 @@
 "name": "US Coast Guard"
 },
 "updated": "2026-09-03T22:00:11.606Z"
+},
+{
+"areas": [
+[
+[
+-30.0,
+-152.7667
+],
+[
+-30.0,
+-149.1833
+],
+[
+-37.1333,
+-157.9833
+],
+[
+-44.3333,
+-170.2333
+],
+[
+-42.6833,
+-171.5167
+],
+[
+-35.4,
+-159.5
+],
+[
+-30.0,
+-152.7667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-01T17:05:00.000Z",
+"start": "2026-10-01T16:05:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B4722/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-18441371-8b2e-457c-afb5-1ec1b11ab630",
+"title": "Crew-13"
+}
+],
+"markers": [],
+"name": "B4722/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B4722%2F26",
+"raw": "B4722/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3728S15852W669\r\nA) NZZO B) 2610011605 C) 2610011705\r\nE) TEMPO DANGER AREA NZD028 (AUCKLAND OCEANIC FIR) IS PRESCRIBED AS\r\nFLW:\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING\r\n30 00 00 S 152 46 00 W\r\n30 00 00 S 149 11 00 W\r\n37 08 00 S 157 59 00 W\r\n44 20 00 S 170 14 00 W\r\n42 41 00 S 171 31 00 W\r\n35 24 00 S 159 30 00 W\r\n30 00 00 S 152 46 00 W\r\nACTIVITY: SPACE DEBRIS RETURN\r\nUSING AGENCY: FOREIGN SPACE AGENCY\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED\r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION.\r\nF) SFC G) UNL",
+"reason": "SPACE DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82537703",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-23T11:11:05.891Z"
+},
+{
+"areas": [
+[
+[
+-25.2667,
+-157.3
+],
+[
+-25.3167,
+-157.0
+],
+[
+-30.0,
+-157.0
+],
+[
+-30.0,
+-155.7167
+],
+[
+-43.0,
+-158.6
+],
+[
+-60.0,
+-165.0
+],
+[
+-59.4833,
+-170.1833
+],
+[
+-42.4833,
+-162.1667
+],
+[
+-25.2667,
+-157.3
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-01T21:50:00.000Z",
+"start": "2026-10-01T19:55:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B4723/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-67213393-7983-4c06-8b44-b8c785a5ed79",
+"title": "Transporter 18 (Dedicated SSO Rideshare)"
+}
+],
+"markers": [],
+"name": "B4723/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B4723%2F26",
+"raw": "B4723/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/4238S15245W999\r\nA) NZZO B) 2610011955 C) 2610012150\r\nE) TEMPO DANGER AREA NZD029 (AUCKLAND OCEANIC FIR) IS PRESCRIBED AS\r\nFLW:\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING\r\n25 16 00 S 157 18 00 W\r\n25 19 00 S 157 00 00 W\r\n30 00 00 S 157 00 00 W\r\n30 00 00 S 155 43 00 W\r\n43 00 00 S 158 36 00 W\r\n60 00 00 S 165 00 00 W\r\n59 29 00 S 170 11 00 W\r\n42 29 00 S 162 10 00 W\r\n25 16 00 S 157 18 00 W\r\nACTIVITY: SPACE DEBRIS RETURN\r\nUSING AGENCY: FOREIGN SPACE AGENCY\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED\r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION.\r\nF) SFC G) UNL",
+"reason": "SPACE DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82537738",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-23T11:18:09.458Z"
 },
 {
 "areas": [
@@ -16757,6 +17221,302 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-21T13:48:58.081Z"
+},
+{
+"areas": [
+[
+[
+21.3,
+-85.6333
+],
+[
+22.0,
+-86.0
+],
+[
+22.0167,
+-86.0
+],
+[
+21.7167,
+-84.9333
+],
+[
+21.3333,
+-83.6833
+],
+[
+20.9833,
+-82.4833
+],
+[
+20.0,
+-79.25
+],
+[
+20.0,
+-80.65
+],
+[
+20.2,
+-81.2333
+],
+[
+20.6333,
+-82.8167
+],
+[
+20.8833,
+-84.1167
+],
+[
+21.2833,
+-85.5833
+],
+[
+21.3,
+-85.6333
+]
+],
+[
+[
+22.3,
+-86.0
+],
+[
+21.8333,
+-84.9667
+],
+[
+21.3667,
+-82.9667
+],
+[
+20.6,
+-80.5667
+],
+[
+20.0,
+-78.9167
+],
+[
+20.0,
+-82.0
+],
+[
+20.6333,
+-84.0
+],
+[
+21.15,
+-85.5667
+],
+[
+22.0,
+-86.0
+],
+[
+22.3,
+-86.0
+]
+],
+[
+[
+18.5,
+-75.0
+],
+[
+18.55,
+-74.9333
+],
+[
+19.1167,
+-76.5
+],
+[
+19.2333,
+-76.8167
+],
+[
+18.5,
+-75.0
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-10-04T14:14:00.000Z",
+"start": "2026-09-28T12:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MUFH-A3412/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "A3412/26",
+"page": "https://space-notices.com/notice/notam-MUFH-A3412%2F26",
+"raw": "A3412/26 NOTAMR A3409/26\nQ)MUFH/QRDXX/IV/BO/W/000/999/\nA)MUFH B)2609281215 C)2610041414\nD)1215/1414 DLY\nE)DANGER ZONE NOTICE DUE TO SPACE LAUNCH FROM BOCA CHICA IN THE  \n  AREA \n  AHA-B2 MUFH\n  2118N08538W 2200N08600W 2201N08600W 2143N08456W 2120N08341W\n  2059N08229W 2000N07915W 2000N08039W  2012N08114W 2038N08249W\n  2053N08407W 2117N08535W\n  MUFH POINTS 1\n  2218N08600W 2150N08458W 2122N08258W 2036N08034W 2000N07855W \n  2000N08200W 2038N08400W 2109N08534W 2200N08600W\n  MUFH POINTS 2\n  1830N07500W 1833N07456W 1907N07630W 1914N07649W\n  BACKUP LAUNCH DATES \n  SEP 29 1215/1408 UTC\n  SEP 30 1215/1408 UTC\n  OCT 01 1215/1408 UTC\n  OCT 02 1215/1408 UTC\n  OCT 03 1215/1408 UTC\n  OCT 04 1215/1408 UTC\nF)SFC G)UNL",
+"reason": "DANGER ZONE NOTICE DUE TO SPACE LAUNCH FROM BOCA CHICA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82536510",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-23T17:38:30.469Z"
+},
+{
+"areas": [
+[
+[
+21.3,
+-85.6333
+],
+[
+22.0,
+-86.0
+],
+[
+22.0167,
+-86.0
+],
+[
+21.7167,
+-84.9333
+],
+[
+21.3333,
+-83.6833
+],
+[
+20.9833,
+-82.4833
+],
+[
+20.0,
+-79.25
+],
+[
+20.0,
+-80.65
+],
+[
+20.2,
+-81.2333
+],
+[
+20.6333,
+-82.8167
+],
+[
+20.8833,
+-84.1167
+],
+[
+21.2833,
+-85.5833
+],
+[
+21.3,
+-85.6333
+]
+],
+[
+[
+22.3,
+-86.0
+],
+[
+21.8333,
+-84.9667
+],
+[
+21.3667,
+-82.9667
+],
+[
+20.6,
+-80.5667
+],
+[
+20.0,
+-78.9167
+],
+[
+20.0,
+-82.0
+],
+[
+20.6333,
+-84.0
+],
+[
+21.15,
+-85.5667
+],
+[
+22.0,
+-86.0
+],
+[
+22.3,
+-86.0
+]
+],
+[
+[
+18.5,
+-75.0
+],
+[
+18.55,
+-74.9333
+],
+[
+19.1167,
+-76.5
+],
+[
+19.2333,
+-76.8167
+],
+[
+18.5,
+-75.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-04T14:14:00.000Z",
+"start": "2026-09-28T12:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MUFH-A3414/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "A3414/26",
+"page": "https://space-notices.com/notice/notam-MUFH-A3414%2F26",
+"raw": "A3414/26 NOTAMR A3412/26\nQ)MUFH/QRDXX/IV/BO/W/000/999/\nA)MUFH B)2609281215 C)2610041414\nD)1215/1414 DLY\nE)DANGER ZONE NOTICE DUE TO SPACE LAUNCH FROM BOCA CHICA IN THE  \n  AREA \n  AHA-B2 MUFH\n  2118N08538W 2200N08600W 2201N08600W 2143N08456W 2120N08341W\n  2059N08229W 2000N07915W 2000N08039W  2012N08114W 2038N08249W\n  2053N08407W 2117N08535W\n  MUFH POINTS 1\n  2218N08600W 2150N08458W 2122N08258W 2036N08034W 2000N07855W \n  2000N08200W 2038N08400W 2109N08534W 2200N08600W\n  MUFH POINTS 2\n  1830N07500W 1833N07456W 1907N07630W 1914N07649W\n  BACKUP LAUNCH DATES \n  SEP 29 1215/1414 UTC\n  SEP 30 1215/1414 UTC\n  OCT 01 1215/1414 UTC\n  OCT 02 1215/1414 UTC\n  OCT 03 1215/1414 UTC\n  OCT 04 1215/1414 UTC\nF)SFC G)UNL",
+"reason": "DANGER ZONE NOTICE DUE TO SPACE LAUNCH FROM BOCA CHICA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82536736",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-23T17:38:30.469Z"
 },
 {
 "areas": [
@@ -19812,6 +20572,82 @@
 "areas": [
 [
 [
+-27.1,
+-149.5833
+],
+[
+-28.9,
+-148.0
+],
+[
+-30.0,
+-149.1833
+],
+[
+-30.0,
+-152.7667
+],
+[
+-27.1,
+-149.5833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-01T17:01:00.000Z",
+"start": "2026-10-01T16:06:00.000Z"
+},
+{
+"end": "2026-10-02T16:39:00.000Z",
+"start": "2026-10-02T15:44:00.000Z"
+},
+{
+"end": "2026-10-03T16:16:00.000Z",
+"start": "2026-10-03T15:21:00.000Z"
+},
+{
+"end": "2026-10-04T15:53:00.000Z",
+"start": "2026-10-04T14:58:00.000Z"
+},
+{
+"end": "2026-10-05T15:31:00.000Z",
+"start": "2026-10-05T14:36:00.000Z"
+},
+{
+"end": "2026-10-06T15:05:00.000Z",
+"start": "2026-10-06T14:10:00.000Z"
+},
+{
+"end": "2026-10-07T14:43:00.000Z",
+"start": "2026-10-07T13:48:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1269/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-18441371-8b2e-457c-afb5-1ec1b11ab630",
+"title": "Crew-13"
+}
+],
+"markers": [],
+"name": "A1269/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1269%2F26",
+"raw": "A1269/26 NOTAMN\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2837S14949W175\r\nA) NTTT\r\nB) 2610011606 C) 2610071443\r\nD) 01 1606-1701, 02 1544-1639, 03 1521-1616, 04 1458-1553, \r\n05 1436-1531, 06 1410-1505, 07 1348-1443\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF NASA CREW-13\r\n STAGE 2  IN TAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING\r\n POINTS:  2706S 14935W, 2854S 14800W, 3000S 14911W, 3000S 15246W,\r\n 2706S 14935W  \r\n\r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : NZZO \r\n\r\nTHE FRENCH VERSION OF THIS NOTAM IS C2345/26\r\n\r\nF) SFC G) UNL",
+"reason": "SPACE DEBRIS RETURN OF NASA CREW-13 STAGE 2",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82537627",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-23T11:11:05.891Z"
+},
+{
+"areas": [
+[
+[
 30.466667,
 -121.7
 ],
@@ -20160,6 +20996,86 @@
 "name": "US Coast Guard"
 },
 "updated": "2026-09-21T19:15:10.684Z"
+},
+{
+"areas": [
+[
+[
+-25.3167,
+-157.0
+],
+[
+-25.6833,
+-154.9167
+],
+[
+-30.0,
+-155.7167
+],
+[
+-30.0,
+-157.0
+],
+[
+-25.3167,
+-157.0
+],
+[
+-25.3167,
+-157.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-01T21:49:00.000Z",
+"start": "2026-10-01T19:58:00.000Z"
+},
+{
+"end": "2026-10-02T21:49:00.000Z",
+"start": "2026-10-02T19:58:00.000Z"
+},
+{
+"end": "2026-10-03T21:49:00.000Z",
+"start": "2026-10-03T19:58:00.000Z"
+},
+{
+"end": "2026-10-04T21:49:00.000Z",
+"start": "2026-10-04T19:58:00.000Z"
+},
+{
+"end": "2026-10-05T21:49:00.000Z",
+"start": "2026-10-05T19:58:00.000Z"
+},
+{
+"end": "2026-10-06T21:49:00.000Z",
+"start": "2026-10-06T19:58:00.000Z"
+},
+{
+"end": "2026-10-07T21:49:00.000Z",
+"start": "2026-10-07T19:58:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1268/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-67213393-7983-4c06-8b44-b8c785a5ed79",
+"title": "Transporter 18 (Dedicated SSO Rideshare)"
+}
+],
+"markers": [],
+"name": "A1268/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1268%2F26",
+"raw": "A1268/26 NOTAMN\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2716S15620W169\r\nA) NTTT\r\nB) 2610011958 C) 2610072149\r\nD) 1958-2149\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX\r\n TRANSPORTER 18 IN TAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING\r\n POINTS:  \r\n2519S 15700W, 2541S 15455W, 3000S 15543W, 3000S 15700W, 2519S\r\n 15700W  \r\n\r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : NZZO \r\n\r\nTHE FRENCHVERSION OF THIS NOTAM IS C 2344/26\r\n\r\nF) SFC G) UNL",
+"reason": "SPACE DEBRIS RETURN OF SPACEX TRANSPORTER 18",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82537533",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-23T11:18:09.458Z"
 },
 {
 "areas": [
@@ -23534,5 +24450,5 @@
 "pending": 0,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 1218
+"total_known": 1230
 }
