@@ -367,8 +367,12 @@ def main():
     # 出力＝終わっていないもの＋終わって間もないもの
     cutoff = (datetime.datetime.now(datetime.timezone.utc)
               - datetime.timedelta(days=KEEP_DAYS)).strftime("%Y-%m-%dT%H:%M:%S.000Z")
+    # ★サイトから消えた（gone）ものは記録には残すが配信には出さない。
+    #   取り下げ・紐づけ解除された電文が古い紐づけのまま地図に出ていた（TTZP A1487/26）
     notices = []
     for u, v in cache.items():
+        if v.get("gone"):
+            continue
         rec = v.get("notice") or {}
         end = _last_end(rec)
         if end is None or end >= cutoff:
