@@ -33183,6 +33183,176 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20655%2F26": {
+"lastmod": "2026-09-23T17:38:30.469Z",
+"notice": {
+"areas": [
+[
+[
+23.9167,
+144.6167
+],
+[
+26.1167,
+151.2333
+],
+[
+27.6833,
+156.3333
+],
+[
+29.4167,
+165.05
+],
+[
+30.4333,
+172.6833
+],
+[
+29.6833,
+176.2333
+],
+[
+29.2167,
+170.1667
+],
+[
+28.4667,
+164.9833
+],
+[
+26.65,
+156.25
+],
+[
+23.4667,
+144.8
+],
+[
+23.9167,
+144.6167
+]
+],
+[
+[
+23.7667,
+-156.1833
+],
+[
+24.8667,
+-159.3167
+],
+[
+27.6333,
+-167.8167
+],
+[
+29.4167,
+-175.0
+],
+[
+29.75,
+-176.5833
+],
+[
+29.8167,
+-180.0
+],
+[
+30.9333,
+-180.0
+],
+[
+31.1833,
+-175.0
+],
+[
+31.2833,
+-171.4833
+],
+[
+30.55,
+-161.25
+],
+[
+29.6167,
+-155.6667
+],
+[
+28.8167,
+-151.5833
+],
+[
+26.8833,
+-145.4333
+],
+[
+26.8333,
+-145.4667
+],
+[
+24.05,
+-154.5333
+],
+[
+23.7667,
+-156.1833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T18:33:00.000Z",
+"start": "2026-09-28T14:27:00.000Z"
+},
+{
+"end": "2026-09-29T18:33:00.000Z",
+"start": "2026-09-29T14:27:00.000Z"
+},
+{
+"end": "2026-09-30T18:33:00.000Z",
+"start": "2026-09-30T14:27:00.000Z"
+},
+{
+"end": "2026-10-01T18:33:00.000Z",
+"start": "2026-10-01T14:27:00.000Z"
+},
+{
+"end": "2026-10-02T18:33:00.000Z",
+"start": "2026-10-02T14:27:00.000Z"
+},
+{
+"end": "2026-10-03T18:33:00.000Z",
+"start": "2026-10-03T14:27:00.000Z"
+},
+{
+"end": "2026-10-04T18:33:00.000Z",
+"start": "2026-10-04T14:27:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA XII 655/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "NAVAREA XII 655/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20655%2F26",
+"raw": "172205Z SEP 26\nNAVAREA XII 655/26.\nNORTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   1427Z TO 1833Z DAILY 28 SEP THRU 04 OCT\n   IN AREAS BOUND BY:\n   A. 23-55.00N 144-37.00E, 26-07.00N 151-14.00E,\n      27-41.00N 156-20.00E, 29-25.00N 165-03.00E,\n      30-26.00N 172-41.00E, 29-41.00N 176-14.00E,\n      29-13.00N 170-10.00E, 28-28.00N 164-59.00E,\n      26-39.00N 156-15.00E, 23-28.00N 144-48.00E.\n   B. 23-46.00N 156-11.00W, 24-52.00N 159-19.00W,\n      27-38.00N 167-49.00W, 29-25.00N 175-00.00W,\n      29-45.00N 176-35.00W, 29-49.00N 180-00.00W,\n      30-56.00N 180-00.00W, 31-11.00N 175-00.00W,\n      31-17.00N 171-29.00W, 30-33.00N 161-15.00W,\n      29-37.00N 155-40.00W, 28-49.00N 151-35.00W,\n      26-53.00N 145-26.00W, 26-50.00N 145-28.00W,\n      24-03.00N 154-32.00W, 23-46.00N 156-11.00W.\n2. CANCEL THIS MSG 041933Z OCT 26.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=655&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-09-23T17:38:30.469Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20657%2F26": {
 "lastmod": "2026-09-23T13:45:28.506Z",
 "notice": {
@@ -39099,6 +39269,110 @@
 "updated": "2026-07-24T13:39:16.503Z"
 },
 "via": "sitemap"
+},
+"https://space-notices.com/notice/notam-MKJK-A0370%2F26": {
+"lastmod": "2026-09-23T17:38:30.469Z",
+"notice": {
+"areas": [
+[
+[
+20.0,
+-82.0
+],
+[
+20.0,
+-78.9167
+],
+[
+19.1167,
+-76.5
+],
+[
+18.5,
+-75.0
+],
+[
+17.0,
+-73.0
+],
+[
+16.9333,
+-73.05
+],
+[
+17.0,
+-73.2
+],
+[
+17.4,
+-74.2833
+],
+[
+18.6,
+-77.2
+],
+[
+19.4333,
+-80.2
+],
+[
+20.0,
+-82.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T14:08:00.000Z",
+"start": "2026-09-28T12:15:00.000Z"
+},
+{
+"end": "2026-09-29T14:08:00.000Z",
+"start": "2026-09-29T12:15:00.000Z"
+},
+{
+"end": "2026-09-30T14:08:00.000Z",
+"start": "2026-09-30T12:15:00.000Z"
+},
+{
+"end": "2026-10-01T14:08:00.000Z",
+"start": "2026-10-01T12:15:00.000Z"
+},
+{
+"end": "2026-10-02T14:08:00.000Z",
+"start": "2026-10-02T12:15:00.000Z"
+},
+{
+"end": "2026-10-03T14:08:00.000Z",
+"start": "2026-10-03T12:15:00.000Z"
+},
+{
+"end": "2026-10-04T14:08:00.000Z",
+"start": "2026-10-04T12:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MKJK-A0370/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "A0370/26",
+"page": "https://space-notices.com/notice/notam-MKJK-A0370%2F26",
+"raw": "A0370/26 NOTAMN\r\nQ) MKJK/QRTCA/IV/BO/W/000/999/1713N07808W999\r\nA) MKJK\r\nB) 2609281215 C) 2610041408\r\nD) DAILY 1215-1408\r\nE) RESTRICTED AREA (DEBRIS RESPONSE AREA) ACT DUE LAUNCH OF SPACEX STARSHIP FLT-14; \r\nALL FLT PROHIBITED WI THE FLW COORD: \r\n2000N 08200W\r\n2000N 07855W\r\n1907N 07630W\r\n1830N 07500W\r\n1700N 07300W\r\n1656N 07303W\r\n1700N 07312W\r\n1724N 07417W\r\n1836N 07712W\r\n1926N 08012W\r\n2000N 08200W.\r\nF) SFC G) UNL",
+"reason": "DEBRIS RESPONSE AREA ACT DUE LAUNCH OF SPACEX STARSHIP FLT-14",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82526618",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-23T17:38:30.469Z"
+},
+"via": "entry"
 },
 "https://space-notices.com/notice/notam-MMFO-B1827%2F26": {
 "lastmod": "2026-09-11T18:40:34.829Z",
@@ -54416,6 +54690,216 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-RJJJ-P4724%2F26": {
+"lastmod": "2026-09-22T13:17:01.666Z",
+"notice": {
+"areas": [
+[
+[
+23.4667,
+144.8
+],
+[
+23.9167,
+144.6167
+],
+[
+26.1167,
+151.2333
+],
+[
+27.6833,
+156.3333
+],
+[
+29.4167,
+165.0
+],
+[
+28.4667,
+165.0
+],
+[
+28.4667,
+164.9833
+],
+[
+27.0,
+157.7333
+],
+[
+27.0,
+155.0
+],
+[
+26.35,
+155.0
+],
+[
+23.4667,
+144.8
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T18:33:00.000Z",
+"start": "2026-09-28T14:27:00.000Z"
+},
+{
+"end": "2026-09-29T18:33:00.000Z",
+"start": "2026-09-29T14:27:00.000Z"
+},
+{
+"end": "2026-09-30T18:33:00.000Z",
+"start": "2026-09-30T14:27:00.000Z"
+},
+{
+"end": "2026-10-01T18:33:00.000Z",
+"start": "2026-10-01T14:27:00.000Z"
+},
+{
+"end": "2026-10-02T18:33:00.000Z",
+"start": "2026-10-02T14:27:00.000Z"
+},
+{
+"end": "2026-10-03T18:33:00.000Z",
+"start": "2026-10-03T14:27:00.000Z"
+},
+{
+"end": "2026-10-04T18:33:00.000Z",
+"start": "2026-10-04T14:27:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RJJJ-P4724/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "P4724/26",
+"page": "https://space-notices.com/notice/notam-RJJJ-P4724%2F26",
+"raw": "P4724/26 NOTAMN\r\nQ)RJJJ/QXXXX/IV/NBO/E/000/999/2629N15445E573\r\nA)RJJJ B)2609281427 C)2610041833\r\nD)1427/1833\r\nE)DUE TO AN AEROSPACE FLIGHT ACTIVITY, THE FLIGHT SAFETY OF THE\r\nAIRCRAFT IN FOLLOWING AREA MAY BE AFFECTED THRU SEP 28-OCT 04 2026,\r\n1427-1833 DLY\r\n\r\nAREA:\r\n2328N14448E - 2355N14437E - 2607N15114E - 2741N15620E - 2925N16500E -\r\n2828N16500E - 2828N16459E - 2700N15744E - 2700N15500E - 2621N15500E -\r\n2328N14448E\r\n\r\nALTITUDE:\r\nSFC - UNL\r\n\r\nRMK: ATC WILL NOT CLEAR IFR FLT THRU THIS AREA FOR THE FLIGHT SAFETY.\r\nTHE EXACT AFFECTED DATE WILL BE NOTIFIED BY FURTHER NOTAM RJJJ.\r\nF)SFC G)UNL",
+"reason": "DUE TO AN AEROSPACE FLIGHT ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82528799",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-22T13:17:01.666Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/notam-RJJJ-P4728%2F26": {
+"lastmod": "2026-09-17T13:38:30.471Z",
+"notice": {
+"areas": [
+[
+[
+31.6,
+128.4667
+],
+[
+31.5,
+127.4833
+],
+[
+30.15,
+127.6833
+],
+[
+30.2667,
+128.65
+],
+[
+31.6,
+128.4667
+]
+],
+[
+[
+21.6167,
+129.8833
+],
+[
+21.4833,
+128.6833
+],
+[
+21.0,
+128.75
+],
+[
+21.0,
+129.9667
+],
+[
+21.6167,
+129.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-07T04:53:00.000Z",
+"start": "2026-10-07T03:23:00.000Z"
+},
+{
+"end": "2026-10-08T04:53:00.000Z",
+"start": "2026-10-08T03:23:00.000Z"
+},
+{
+"end": "2026-10-09T04:53:00.000Z",
+"start": "2026-10-09T03:23:00.000Z"
+},
+{
+"end": "2026-10-10T04:53:00.000Z",
+"start": "2026-10-10T03:23:00.000Z"
+},
+{
+"end": "2026-10-11T04:53:00.000Z",
+"start": "2026-10-11T03:23:00.000Z"
+},
+{
+"end": "2026-10-12T04:53:00.000Z",
+"start": "2026-10-12T03:23:00.000Z"
+},
+{
+"end": "2026-10-13T04:53:00.000Z",
+"start": "2026-10-13T03:23:00.000Z"
+},
+{
+"end": "2026-10-14T04:53:00.000Z",
+"start": "2026-10-14T03:23:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RJJJ-P4728/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-e0741415-6c63-4236-9736-24a6c04485bc",
+"title": "NeonSat-2 to 6"
+}
+],
+"markers": [],
+"name": "P4728/26",
+"page": "https://space-notices.com/notice/notam-RJJJ-P4728%2F26",
+"raw": "P4728/26 NOTAMN\r\nQ)RJJJ/QXXXX/IV/NBO/E/000/999/2613N12829E323\r\nA)RJJJ B)2610070323 C)2610140453\r\nD)0323/0453\r\nE)KSLV(KOREA SPACE LAUNCH VEHICLE) WILL BE LAUNCHED AS FLW\r\n- PLANNED LAUNCH DATE       : OCT 7 2026\r\n- PLANNED LAUNCH WINDOW TIME: 0323-0423 UTC\r\n- RESERVED LAUNCH DATE      : OCT 8 2026 - OCT 14 2026\r\n\r\nTHE FLIGHT SAFETY OF THE AIRCRAFT IN FOLLOWING AREAS MAY BE AFFECTED.\r\nAREA:\r\n 1ST STAGE      : 0328-0443 UTC\r\n                  313644N1282831E - 313031N1272933E -\r\n                  300957N1274127E - 301610N1283936E -\r\n                  313644N1282831E\r\n                 VERTICAL ALTITUDE: SFC-UNL.\r\n\r\n PAYLOAD FAIRING: 0333-0453 UTC\r\n                  213759N1295350E - 212938N1284123E -\r\n                  210000N1284519E - 210000N1295842E -\r\n                  213759N1295350E\r\n                 VERTICAL ALTITUDE: SFC-UNL.\r\n\r\nRMK: ATC WILL NOT CLEAR IFR FLT THRU THIS AREA FOR THE FLIGHT SAFETY\r\nF)SFC G)UNL",
+"reason": "KSLV(KOREA SPACE LAUNCH VEHICLE) WILL BE LAUNCHED AS FLW",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82529816",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-17T13:38:30.471Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/notam-RJJJ-P5338%2F25": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -55077,6 +55561,231 @@
 "updated": "2026-09-17T02:55:53.353Z"
 },
 "via": "sitemap"
+},
+"https://space-notices.com/notice/notam-RJJJ-Q2269%2F26": {
+"lastmod": "2026-09-22T13:17:01.666Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T18:33:00.000Z",
+"start": "2026-09-28T14:27:00.000Z"
+},
+{
+"end": "2026-09-29T18:33:00.000Z",
+"start": "2026-09-29T14:27:00.000Z"
+},
+{
+"end": "2026-09-30T18:33:00.000Z",
+"start": "2026-09-30T14:27:00.000Z"
+},
+{
+"end": "2026-10-01T18:33:00.000Z",
+"start": "2026-10-01T14:27:00.000Z"
+},
+{
+"end": "2026-10-02T18:33:00.000Z",
+"start": "2026-10-02T14:27:00.000Z"
+},
+{
+"end": "2026-10-03T18:33:00.000Z",
+"start": "2026-10-03T14:27:00.000Z"
+},
+{
+"end": "2026-10-04T18:33:00.000Z",
+"start": "2026-10-04T14:27:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RJJJ-Q2269/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "Q2269/26",
+"page": "https://space-notices.com/notice/notam-RJJJ-Q2269%2F26",
+"raw": "Q2269/26 NOTAMN\r\nQ)RJJJ/QARCH/IV/BO/E/000/999/3310N14118E999\r\nA)RJJJ B)2609281427 C)2610041833\r\nD)1427/1833\r\nE)ALTN RTE ARE ESTABLISHED DUE TO AN AEROSPACE FLIGHT ACTIVITY.\r\n1.FLT PLANNED RTE IS REQ TO BE FILED AS FLW\r\n (1)A337(SAGOP - TEGOD)\r\n    (FOR RNP10)\r\n     ALTN RTE: DAGDA - A337 - NOGAK - 2340N14410E - TEGOD\r\n    (FOR NON RNP10)\r\n     ALTN RTE: DAGDA - G223 - BEGAD - NOGAK - 2340N14340E\r\n               - 2250N14400E - TEGOD\r\n (2)B452(UPDOB - ATIGO)\r\n     ALTN RTE:NOT ESTABLISHED\r\n (3)G223(KAKNI - BEEBO)\r\n     ALTN RTE:NOT ESTABLISHED\r\n\r\n2.REQ TO BE PLAN VIA ATC ROUTE OR DESIGNATED ALTERNATE ROUTE.\r\nOTHERWISE AVOID U.S. ROCKET FIRING IMPACT AREA BY AT LEAST 25NM(RNP10\r\nACFT) OR 50NM(NON-RNP10 ACFT)\r\nTHE EXACT AFFECTED DATE WILL BE NOTIFIED BY FURTHER NOTAM RJJJ.\r\n\r\n3.SEE NOTAM RJAAYNYX P4724/26\r\nF)SFC G)UNL",
+"reason": "AEROSPACE FLIGHT ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82528815",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-22T13:17:01.666Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/notam-RJJJ-Q2270%2F26": {
+"lastmod": "2026-09-22T13:17:01.666Z",
+"notice": {
+"areas": [
+[
+[
+49.80548,
+141.3
+],
+[
+49.39832,
+146.22408
+],
+[
+48.21175,
+150.76444
+],
+[
+46.34115,
+154.62238
+],
+[
+43.92013,
+157.62523
+],
+[
+41.09682,
+159.71662
+],
+[
+38.01695,
+160.92027
+],
+[
+34.81516,
+161.30276
+],
+[
+31.61239,
+160.94727
+],
+[
+28.51634,
+159.93933
+],
+[
+25.62287,
+158.36121
+],
+[
+23.01716,
+156.2914
+],
+[
+20.77416,
+153.80646
+],
+[
+18.95813,
+150.98343
+],
+[
+17.62151,
+147.90196
+],
+[
+16.80337,
+144.64529
+],
+[
+16.52792,
+141.3
+],
+[
+16.80337,
+137.95471
+],
+[
+17.62151,
+134.69804
+],
+[
+18.95813,
+131.61657
+],
+[
+20.77416,
+128.79354
+],
+[
+23.01716,
+126.3086
+],
+[
+25.62287,
+124.23879
+],
+[
+28.51634,
+122.66067
+],
+[
+31.61239,
+121.65273
+],
+[
+34.81516,
+121.29724
+],
+[
+38.01695,
+121.67973
+],
+[
+41.09682,
+122.88338
+],
+[
+43.92013,
+124.97477
+],
+[
+46.34115,
+127.97762
+],
+[
+48.21175,
+131.83556
+],
+[
+49.39832,
+136.37592
+],
+[
+49.80548,
+141.3
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-07T04:53:00.000Z",
+"start": "2026-10-07T03:18:00.000Z"
+}
+],
+"height": "0333-0453",
+"id": "notam-RJJJ-Q2270/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "Q2270/26",
+"page": "https://space-notices.com/notice/notam-RJJJ-Q2270%2F26",
+"raw": "Q2270/26 NOTAMN\r\nQ)RJJJ/QARCH/IV/BO/E/000/999/3310N14118E999\r\nA)RJJJ B)2610070318 C)2610070453\r\nE)ALTN RTE ARE ESTABLISHED DUE TO AN AEROSPACE FLIGHT ACTIVITY.\r\nFLT PLANNED RTE IS REQ TO BE FILED AS FLW\r\n\r\n (1)A1(BTN JEDAI AND RUSAR) 0318-0443 UTC\r\n    ALTN RTE: JEDAI - 3011N12845E - RUSAR\r\n (2)A586(BTN ESBIS AND RUSAR) 0318-0443 UTC\r\n    ALTN RTE: ESBIS - 3007N12734E - RUSAR\r\n (3)A590(BTN TUNTO AND GURAG) 0333-0453 UTC\r\n    ALTN RTE: (FOR NON RNP10 AIRCRAFT)\r\n              TUNTO - 2201N12757E - GURAG\r\n (4)Y27(BTN RUSAR AND YURIX) 0318-0443 UTC\r\n    ALTN RTE: ESBIS - 3007N12734E - YURIX\r\n (5)Y50(BTN JEDAI AND RUSAR) 0318-0443 UTC\r\n    ALTN RTE: JEDAI - 3011N12845E - RUSAR\r\n (6)Y579(BTN ESBIS AND RUSAR) 0318-0443 UTC\r\n    ALTN RTE: ESBIS - 3007N12734E - RUSAR\r\n\r\n2.SEE NOTAM RJAAYNYX P4728/26\r\nF)SFC G)UNL",
+"reason": "AN AEROSPACE FLIGHT ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82529825",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-22T13:17:01.666Z"
+},
+"via": "entry"
 },
 "https://space-notices.com/notice/notam-RKRR-Z0219%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
