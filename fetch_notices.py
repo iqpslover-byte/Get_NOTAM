@@ -17,6 +17,7 @@ FAA tfr.faa.gov（fetch_notam.py）が米国の TFR しか持たないのに対�
 import datetime
 import gzip
 import json
+import math
 import os
 import re
 import sys
@@ -114,6 +115,140 @@ def extract_notice(html):
         return None
 
 
+# ---------------------------------------------------------------- 円弧の組み直し
+# ★サイトは ICAO 書式の円弧（"CLOCKWISE ARC OF A CIRCLE OF 68NM RADIUS CENTRED ON ... TO ..."）を
+#   読めず、区域を「2点だけの線」と「円弧の抜けた多角形」に割る（TTZP A1487/26・A1488/26）。
+#   サイトの区域が崩れていて本文に円弧がある電文だけ、本文から区域を組み直す。
+#   FAA の TFR はサイト側で円弧・円が点になっている（22点・33点）ので触らない。
+_COORD = r"(\d{4,6}(?:\.\d+)?)\s*([NS])\s*/?\s*(\d{5,7}(?:\.\d+)?)\s*([EW])"
+_COORD_RE = re.compile(_COORD)
+_ARC_RE = re.compile(r"(ANTI-?CLOCKWISE|COUNTER-?CLOCKWISE|CLOCKWISE)\b[^0-9]{0,60}?"
+                     r"(\d+(?:\.\d+)?)\s*NM\b.{0,60}?CENT\w*\s+ON\s+" + _COORD, re.S)
+_SEP_RE = re.compile(r"\bAREA\s+'?[A-Z0-9]{1,3}'?\s*:|\bAND\b")
+_EARTH_NM = 6371000.0 / 1852.0
+
+
+def _dms(txt, lat):
+    """1830 / 183000 / 0592902 などを度へ。緯度は度2桁、経度は度3桁（桁の偶奇で判定）。"""
+    ip, _, fp = txt.partition(".")
+    dd = 2 if lat else (3 if len(ip) % 2 == 1 else 2)
+    deg = int(ip[:dd])
+    mm = int(ip[dd:dd + 2] or 0)
+    rest = ip[dd + 2:]
+    if rest:
+        sec = float(rest + ("." + fp if fp else ""))
+        return deg + mm / 60.0 + sec / 3600.0
+    return deg + (mm + (float("0." + fp) if fp else 0.0)) / 60.0
+
+
+def _pt(m, i=1):
+    la = _dms(m.group(i), True) * (1 if m.group(i + 1) == "N" else -1)
+    lo = _dms(m.group(i + 2), False) * (1 if m.group(i + 3) == "E" else -1)
+    return [round(la, 6), round(lo, 6)]
+
+
+def _bearing(c, p):
+    la1, lo1, la2, lo2 = map(math.radians, (c[0], c[1], p[0], p[1]))
+    y = math.sin(lo2 - lo1) * math.cos(la2)
+    x = math.cos(la1) * math.sin(la2) - math.sin(la1) * math.cos(la2) * math.cos(lo2 - lo1)
+    return math.degrees(math.atan2(y, x)) % 360.0
+
+
+def _dest(c, brg, nm):
+    d = nm / _EARTH_NM
+    la1, lo1, b = math.radians(c[0]), math.radians(c[1]), math.radians(brg)
+    la2 = math.asin(math.sin(la1) * math.cos(d) + math.cos(la1) * math.sin(d) * math.cos(b))
+    lo2 = lo1 + math.atan2(math.sin(b) * math.sin(d) * math.cos(la1),
+                           math.cos(d) - math.sin(la1) * math.sin(la2))
+    return [round(math.degrees(la2), 6), round(math.degrees(lo2), 6)]
+
+
+def _arc_pts(a, b, center, nm, cw, step=3.0):
+    """a から b まで、center 中心・半径 nm の円弧上の途中点（a と b は含まない）。
+    ★回る向き（cw）は使わず、常に短い方の弧を取る。TTZP A1487/26・A1488/26 は
+      "CLOCKWISE" と書くが、文字どおりだと300°の大回りになり、区域Dが回廊の外へ膨らみ
+      A1488（FL245以上）が区域D（地表から）に丸ごと入ってしまう。短い弧なら
+      「回廊からバルバドスの円の三日月を除く／その三日月だけFL245以上」で2通が噛み合う。"""
+    b0, b1 = _bearing(center, a), _bearing(center, b)
+    sweep = (b1 - b0) % 360.0
+    if sweep > 180.0:
+        sweep -= 360.0
+    n = max(1, int(abs(sweep) / step))
+    return [_dest(center, b0 + sweep * k / n, nm) for k in range(1, n)]
+
+
+def _distinct(ring):
+    return len({(round(p[0], 4), round(p[1], 4)) for p in ring})
+
+
+def _areas_from_text(raw):
+    """電文の E) 項から区域を組む。区切りは「AREA 'A':」「AND」と、始点へ戻ったところ。"""
+    t = (raw or "").replace("&apos;", "'").replace("&quot;", '"')
+    i = t.find("E)")
+    if i >= 0:
+        t = t[i + 2:]
+    j = re.search(r"\n\s*F\)", t)
+    if j:
+        t = t[:j.start()]
+    toks = []
+    arc_spans = []
+    for m in _ARC_RE.finditer(t):
+        arc_spans.append((m.start(), m.end()))
+        cw = not m.group(1).startswith(("ANTI", "COUNTER"))
+        toks.append((m.start(), "arc", (cw, float(m.group(2)), _pt(m, 3))))
+    for m in _COORD_RE.finditer(t):
+        if any(a <= m.start() < b for a, b in arc_spans):
+            continue                          # 円弧の中心は区域の角ではない
+        toks.append((m.start(), "pt", _pt(m)))
+    for m in _SEP_RE.finditer(t):
+        toks.append((m.start(), "sep", None))
+    toks.sort(key=lambda x: x[0])
+
+    rings, cur, arc = [], [], None
+
+    def flush():
+        if _distinct(cur) >= 3:
+            ring = list(cur)
+            if ring[0] != ring[-1]:
+                ring.append(list(ring[0]))
+            rings.append(ring)
+        del cur[:]
+
+    for _, kind, val in toks:
+        if kind == "sep":
+            flush()
+            arc = None
+        elif kind == "arc":
+            arc = val
+        else:
+            if arc and cur:
+                cw, nm, center = arc
+                cur.extend(_arc_pts(cur[-1], val, center, nm, cw))
+            arc = None
+            cur.append(val)
+            if len(cur) >= 4 and abs(cur[0][0] - val[0]) < 1e-4 and abs(cur[0][1] - val[1]) < 1e-4:
+                flush()
+    flush()
+    return rings
+
+
+def _fix_areas(rec):
+    """崩れた区域を直す（何度かけても同じ結果）。
+    ・2点以下しかない区域（線）は捨てる
+    ・ICAO 書式で円弧がある電文は、サイトの区域が崩れていれば本文から組み直す"""
+    areas = rec.get("areas") or []
+    broken = any(_distinct(r) < 3 for r in areas)
+    raw = rec.get("raw") or ""
+    if rec.get("kind") != "TFR" and _ARC_RE.search(raw) and (broken or not areas):
+        rebuilt = _areas_from_text(raw)
+        if rebuilt:
+            rec["areas"] = rebuilt
+            rec["areas_from"] = "text"        # 本文から組み直した印
+            return rec
+    rec["areas"] = [r for r in areas if _distinct(r) >= 3]
+    return rec
+
+
 # ---------------------------------------------------------------- 整形
 
 def _norm(notice, page_url, lastmod=""):
@@ -139,7 +274,7 @@ def _norm(notice, page_url, lastmod=""):
             dates.append({"start": d.get("start"), "end": d.get("end")})
 
     src = notice.get("source") or {}
-    return {
+    return _fix_areas({
         "id": notice.get("id"),
         "name": notice.get("name"),
         "kind": notice.get("type"),          # NOTAM / NAVWARNING / LNM / BNM / INFOPAGE
@@ -157,7 +292,7 @@ def _norm(notice, page_url, lastmod=""):
         # サイトがこの通知を最後に更新した時刻。同じ打上げに電文が何通もあるとき、
         # どれが最新か（＝今いちばん確からしい窓か）をアプリが選ぶために要る
         "updated": lastmod,
-    }
+    })
 
 
 def _last_end(rec):
@@ -375,7 +510,7 @@ def main():
     for u, v in cache.items():
         if v.get("gone"):
             continue
-        rec = v.get("notice") or {}
+        rec = _fix_areas(v.get("notice") or {})
         end = _last_end(rec)
         if end is None or end >= cutoff:
             notices.append(rec)
