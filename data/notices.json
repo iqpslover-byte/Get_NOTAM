@@ -1,6 +1,6 @@
 {
-"count": 266,
-"generated_utc": "2026-09-24T14:42:06Z",
+"count": 269,
+"generated_utc": "2026-09-24T17:58:41Z",
 "notices": [
 {
 "areas": [
@@ -13238,6 +13238,62 @@
 "areas": [
 [
 [
+12.4833,
+-60.4833
+],
+[
+12.35,
+-60.3667
+],
+[
+11.6667,
+-61.3833
+],
+[
+12.1333,
+-62.3
+],
+[
+13.1167,
+-61.8
+],
+[
+12.4833,
+-60.4833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T15:50:00.000Z",
+"start": "2026-09-28T12:15:00.000Z"
+}
+],
+"height": "13500ft",
+"id": "notam-TVSA-A1497/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "A1497/26",
+"page": "https://space-notices.com/notice/notam-TVSA-A1497%2F26",
+"raw": "$22",
+"reason": "DEBRIS RESPONSE DUE TO SPACE X STARSHIP FLIGHT 14",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82534002",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-23T17:38:30.469Z"
+},
+{
+"areas": [
+[
+[
 23.9167,
 144.6167
 ],
@@ -15641,6 +15697,302 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-23T17:34:11.053Z"
+},
+{
+"areas": [
+[
+[
+21.3,
+-85.6333
+],
+[
+22.0,
+-86.0
+],
+[
+22.0167,
+-86.0
+],
+[
+21.7167,
+-84.9333
+],
+[
+21.3333,
+-83.6833
+],
+[
+20.4833,
+-82.4833
+],
+[
+20.0,
+-79.25
+],
+[
+20.0,
+-80.65
+],
+[
+20.2,
+-81.2333
+],
+[
+20.6333,
+-82.8167
+],
+[
+20.8833,
+-84.1167
+],
+[
+21.2833,
+-85.5833
+],
+[
+21.3,
+-85.6333
+]
+],
+[
+[
+22.3,
+-86.0
+],
+[
+21.8333,
+-84.9667
+],
+[
+21.3667,
+-82.9667
+],
+[
+20.6,
+-80.5667
+],
+[
+20.0,
+-78.9167
+],
+[
+20.0,
+-82.0
+],
+[
+20.6333,
+-84.0
+],
+[
+21.15,
+-85.5667
+],
+[
+22.0,
+-86.0
+],
+[
+22.3,
+-86.0
+]
+],
+[
+[
+18.5,
+-75.0
+],
+[
+18.55,
+-74.9333
+],
+[
+19.1167,
+-76.5
+],
+[
+19.2333,
+-76.8167
+],
+[
+18.5,
+-75.0
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-10-04T14:08:00.000Z",
+"start": "2026-09-28T12:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MUFH-A3408/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "A3408/26",
+"page": "https://space-notices.com/notice/notam-MUFH-A3408%2F26",
+"raw": "A3408/26 NOTAMR A3392/26\nQ)MUFH/QRDXX/IV/BO/W/000/999/\nA)MUFH B)2609281215 C)2610041408\nD)1215/1408 DLY\nE)DANGER ZONE NOTICE DUE TO SPACE LAUNCH FROM BOCA CHICA IN THE  \n  AREA \n  AHA-B2 MUFH\n  2118N08538W 2200N08600W 2201N08600W 2143N08456W 2120N08341W\n  2029N08229W 2000N07915W 2000N08039W  2012N08114W 2038N08249W\n  2053N08407W 2117N08535W\n  MUFH POINTS 1\n  2218N08600W 2150N08458W 2122N08258W 2036N08034W 2000N07855W \n  2000N08200W 2038N08400W 2109N08534W 2200N08600W\n  MUFH POINTS 2\n  1830N07500W 1833N07456W 1907N07630W 1914N07649W\n  BACKUP LAUNCH DATES \n  SEP 29 1215/1408 UTC\n  SEP 30 1215/1408 UTC\n  OCT 01 1215/1408 UTC\n  OCT 02 1215/1408 UTC\n  OCT 03 1215/1408 UTC\n  OCT 04 1215/1408 UTC\nF)SFC G)UNL",
+"reason": "DANGER ZONE NOTICE DUE TO SPACE LAUNCH FROM BOCA CHICA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82534689",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-23T17:38:30.469Z"
+},
+{
+"areas": [
+[
+[
+21.3,
+-85.6333
+],
+[
+22.0,
+-86.0
+],
+[
+22.0167,
+-86.0
+],
+[
+21.7167,
+-84.9333
+],
+[
+21.3333,
+-83.6833
+],
+[
+20.9833,
+-82.4833
+],
+[
+20.0,
+-79.25
+],
+[
+20.0,
+-80.65
+],
+[
+20.2,
+-81.2333
+],
+[
+20.6333,
+-82.8167
+],
+[
+20.8833,
+-84.1167
+],
+[
+21.2833,
+-85.5833
+],
+[
+21.3,
+-85.6333
+]
+],
+[
+[
+22.3,
+-86.0
+],
+[
+21.8333,
+-84.9667
+],
+[
+21.3667,
+-82.9667
+],
+[
+20.6,
+-80.5667
+],
+[
+20.0,
+-78.9167
+],
+[
+20.0,
+-82.0
+],
+[
+20.6333,
+-84.0
+],
+[
+21.15,
+-85.5667
+],
+[
+22.0,
+-86.0
+],
+[
+22.3,
+-86.0
+]
+],
+[
+[
+18.5,
+-75.0
+],
+[
+18.55,
+-74.9333
+],
+[
+19.1167,
+-76.5
+],
+[
+19.2333,
+-76.8167
+],
+[
+18.5,
+-75.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-04T14:08:00.000Z",
+"start": "2026-09-28T12:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MUFH-A3409/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "A3409/26",
+"page": "https://space-notices.com/notice/notam-MUFH-A3409%2F26",
+"raw": "A3409/26 NOTAMR A3408/26\nQ)MUFH/QRDXX/IV/BO/W/000/999/\nA)MUFH B)2609281215 C)2610041408\nD)1215/1408 DLY\nE)DANGER ZONE NOTICE DUE TO SPACE LAUNCH FROM BOCA CHICA IN THE  \n  AREA \n  AHA-B2 MUFH\n  2118N08538W 2200N08600W 2201N08600W 2143N08456W 2120N08341W\n  2059N08229W 2000N07915W 2000N08039W  2012N08114W 2038N08249W\n  2053N08407W 2117N08535W\n  MUFH POINTS 1\n  2218N08600W 2150N08458W 2122N08258W 2036N08034W 2000N07855W \n  2000N08200W 2038N08400W 2109N08534W 2200N08600W\n  MUFH POINTS 2\n  1830N07500W 1833N07456W 1907N07630W 1914N07649W\n  BACKUP LAUNCH DATES \n  SEP 29 1215/1408 UTC\n  SEP 30 1215/1408 UTC\n  OCT 01 1215/1408 UTC\n  OCT 02 1215/1408 UTC\n  OCT 03 1215/1408 UTC\n  OCT 04 1215/1408 UTC\nF)SFC G)UNL",
+"reason": "DANGER ZONE NOTICE DUE TO SPACE LAUNCH FROM BOCA CHICA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82534975",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-23T17:38:30.469Z"
 },
 {
 "areas": [
@@ -23182,5 +23534,5 @@
 "pending": 0,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 1215
+"total_known": 1218
 }
