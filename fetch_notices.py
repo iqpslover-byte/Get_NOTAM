@@ -38,7 +38,7 @@ DIGEST_PATH = os.path.join(HERE, "_new_notices.md")   # 新しい通知のお知
 TIMEOUT = 30
 SLEEP = float(os.environ.get("NOTICES_SLEEP", "0.4"))       # 1件ごとの間隔（秒）
 MAX_FETCH = int(os.environ.get("NOTICES_MAX_FETCH", "200"))  # 1回の実行で取る上限
-MAX_ENTRY_FETCH = int(os.environ.get("NOTICES_MAX_ENTRY", "12"))  # 打上げのページを見る上限
+MAX_ENTRY_FETCH = int(os.environ.get("NOTICES_MAX_ENTRY", "120"))  # 打上げのページを見る上限（毎回全部見る）
 KEEP_DAYS = int(os.environ.get("NOTICES_KEEP_DAYS", "30"))   # 終了後この日数は出力に残す
 
 PUSH_RE = re.compile(r'self\.__next_f\.push\(\[1,"(.*?)"\]\)', re.S)
@@ -291,9 +291,11 @@ def main():
         if n and not n.get("updated"):
             n["updated"] = v.get("lastmod", "")
 
-    # 更新された打上げのページを見て、sitemap に載っていない通知を拾う
+    # 打上げのページを見て、sitemap に載っていない通知を拾う。
+    # ★毎回すべて読み直す。サイトはページに通知を足しても sitemap の lastmod を変えない
+    #   （Flight 14 のページは 9/23 17:38 のまま MKJK A0370/26 が増えていた）
     ecache = load_entry_cache()
-    etodo = [(u, lm) for u, lm in entry_pages if ecache.get(u) != lm]
+    etodo = list(entry_pages)
     extra = {}
     epicked = 0
     for url, lastmod in etodo[:MAX_ENTRY_FETCH]:
@@ -310,7 +312,7 @@ def main():
     known = {u for u, _ in entries}
     only_entry = [u for u in extra if u not in known]
     if etodo:
-        print("打上げのページ: %d 件を見た（更新 %d 件）／ sitemap に無い通知 %d 件"
+        print("打上げのページ: %d / %d 件を見た ／ sitemap に無い通知 %d 件"
               % (epicked, len(etodo), len(only_entry)))
 
     todo = [(u, lm) for u, lm in entries
