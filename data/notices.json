@@ -1,6 +1,6 @@
 {
-"count": 267,
-"generated_utc": "2026-09-25T17:33:51Z",
+"count": 270,
+"generated_utc": "2026-09-25T20:46:21Z",
 "notices": [
 {
 "areas": [
@@ -11498,6 +11498,62 @@
 "areas": [
 [
 [
+16.4333,
+-71.6667
+],
+[
+16.0,
+-70.5
+],
+[
+16.0,
+-68.1833
+],
+[
+16.4,
+-69.1667
+],
+[
+17.35,
+-71.7
+],
+[
+16.4333,
+-71.6667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T14:08:00.000Z",
+"start": "2026-09-28T12:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MDCS-A0575/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "A0575/26",
+"page": "https://space-notices.com/notice/notam-MDCS-A0575%2F26",
+"raw": "A0575/26 NOTAMN\r\nQ) MDCS/QRDCA/IV/BO/W/000/999/1822N06957W999\r\nA) MDCS B) 2609281215 C) 2609281408\r\nE) DUE TO SPACEX STARSHIP FLIGHT-14 SPACE OPERATIONS, \r\nA DEBRIS RESPONSE AREA (DRA) IS ESTABLISHED. \r\nALL FLIGHT OPERATIONS ARE PROHIBITED WITHIN THE AREA \r\nDESCRIBED BELOW DURING THE PERIOD OF THIS NOTAM. \r\nTHE DRA IS BOUNDED BY: \r\n1626N07140W \r\n1600N07030W \r\n1600N06811W \r\n1624N06910W \r\n1721N07142W\r\n1626N07140W \r\nAIRCRAFT SHALL AVOID THE AREA AND COMPLY WITH ATC \r\nINSTRUCTIONS. ATFM MEASURES, INCLUDING GROUND \r\nDELAYS, \r\nROUTE DEVIATIONS AND AIRBORNE HOLDING, MAY BE \r\nAPPLIED\r\nF) SFC G) UNL",
+"reason": "SPACEX STARSHIP FLIGHT-14 SPACE OPERATIONS",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82548508",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-24T18:59:45.612Z"
+},
+{
+"areas": [
+[
+[
 25.9667,
 -97.1833
 ],
@@ -12763,6 +12819,54 @@
 "name": "US National Geospatial-Intelligence Agency"
 },
 "updated": "2026-09-17T05:45:35.290Z"
+},
+{
+"areas": [
+[
+[
+27.0,
+157.7333
+],
+[
+27.0,
+155.0
+],
+[
+26.35,
+155.0
+],
+[
+27.0,
+157.7333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T18:33:00.000Z",
+"start": "2026-09-28T14:27:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-KZAK-A4685/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "A4685/26",
+"page": "https://space-notices.com/notice/notam-KZAK-A4685%2F26",
+"raw": "A4685/26 NOTAMN\nQ) KZAK/QRACA/IV/NBO/W/000/999/\nA) KZAK\nB) 2609281427\nC) 2609281833\nE) SPACEX HAS PLANNED A ROCKET LAUNCH. DEBRIS FM THIS LAUNCH WILL FALL WI AN AREA DEFINED\nAS 270000N 1574400E TO 270000N 1550000E TO 262100N 1550000E TO POINT OF ORIGIN. IN THE INTEREST OF SAFETY ALL NON-PARTICIPATING AIR TFC ARE ADZ TO AVOID THE NOTAMED AREA. IFR ACFT UNDER ATC JURISDICTION SHOULD ANTICIPATE CLR AROUND THE NOTAMED AREA.\nF) SFC\nG) UNL",
+"reason": "SPACEX HAS PLANNED A ROCKET LAUNCH. DEBRIS FM THIS LAUNCH WILL FALL WI AN AREA DEFINED AS 270000N 1574400E TO 270000N 1550000E TO 262100N 1550000E TO POINT OF ORIGIN.",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82548805",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-24T18:59:45.612Z"
 },
 {
 "areas": [
@@ -17182,6 +17286,82 @@
 "reason": "IN THE EVENT OF A DEBRIS-GENERATING SPACE LAUNCH VEHICLE MISHAP THERE IS THE POTENTIAL FOR DEBRIS FALLING",
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82546584",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-24T18:59:45.612Z"
+},
+{
+"areas": [
+[
+[
+8.15,
+-54.0
+],
+[
+8.95,
+-54.0
+],
+[
+7.0,
+-50.6333
+],
+[
+6.6667,
+-50.8667
+],
+[
+8.15,
+-54.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T16:34:00.000Z",
+"start": "2026-09-28T12:15:00.000Z"
+},
+{
+"end": "2026-09-29T16:34:00.000Z",
+"start": "2026-09-29T12:15:00.000Z"
+},
+{
+"end": "2026-09-30T16:34:00.000Z",
+"start": "2026-09-30T12:15:00.000Z"
+},
+{
+"end": "2026-10-01T16:34:00.000Z",
+"start": "2026-10-01T12:15:00.000Z"
+},
+{
+"end": "2026-10-02T16:34:00.000Z",
+"start": "2026-10-02T12:15:00.000Z"
+},
+{
+"end": "2026-10-03T16:34:00.000Z",
+"start": "2026-10-03T12:15:00.000Z"
+},
+{
+"end": "2026-10-04T16:34:00.000Z",
+"start": "2026-10-04T12:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-SOOO-G0316/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "G0316/26",
+"page": "https://space-notices.com/notice/notam-SOOO-G0316%2F26",
+"raw": "G0316/26 NOTAMN\r\nQ) SOOO/QWMLW/IV/BO /W /000/999/0756N05221W119\r\nA) SOOO B) 2609281215 C) 2610041634\r\nD) 1215-1634\r\nE) RISK OF ELEMENTS FALLOUT DURING LAUNCH OF STARSHIP 14\r\nCONTROL RESTRICTIONS AND REROUTING SET UP TO AVOID AREA\r\nLATERAL LIMITS :\r\n080900N0540000W 085700N0540000W 070000N0503800W 064000N0505200W\r\nF) SFC G) UNL",
+"reason": "RISK OF ELEMENTS FALLOUT DURING LAUNCH OF STARSHIP 14",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82547554",
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-24T18:59:45.612Z"
@@ -23242,5 +23422,5 @@
 "pending": 0,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 1236
+"total_known": 1239
 }
