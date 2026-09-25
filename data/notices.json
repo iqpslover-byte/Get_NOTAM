@@ -1,171 +1,7 @@
 {
 "count": 264,
-"generated_utc": "2026-09-25T00:53:47Z",
+"generated_utc": "2026-09-25T06:39:57Z",
 "notices": [
-{
-"areas": [
-[
-[
-25.97528,
--97.2497
-],
-[
-25.9748,
--97.24428
-],
-[
-25.97338,
--97.23907
-],
-[
-25.97107,
--97.23426
-],
-[
-25.96796,
--97.23005
-],
-[
-25.96418,
--97.2266
-],
-[
-25.95986,
--97.22403
-],
-[
-25.95517,
--97.22245
-],
-[
-25.9503,
--97.22192
-],
-[
-25.94542,
--97.22245
-],
-[
-25.94074,
--97.22403
-],
-[
-25.93642,
--97.2266
-],
-[
-25.93263,
--97.23006
-],
-[
-25.92953,
--97.23427
-],
-[
-25.92722,
--97.23907
-],
-[
-25.9258,
--97.24428
-],
-[
-25.92532,
--97.2497
-],
-[
-25.9258,
--97.25512
-],
-[
-25.92722,
--97.26033
-],
-[
-25.92953,
--97.26513
-],
-[
-25.93263,
--97.26934
-],
-[
-25.93642,
--97.2728
-],
-[
-25.94074,
--97.27537
-],
-[
-25.94542,
--97.27695
-],
-[
-25.9503,
--97.27748
-],
-[
-25.95517,
--97.27695
-],
-[
-25.95986,
--97.27537
-],
-[
-25.96418,
--97.2728
-],
-[
-25.96796,
--97.26935
-],
-[
-25.97107,
--97.26514
-],
-[
-25.97338,
--97.26033
-],
-[
-25.9748,
--97.25512
-],
-[
-25.97528,
--97.2497
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-08-26T05:00:00.000Z",
-"start": "2026-08-21T05:00:00.000Z"
-}
-],
-"height": "5000FT",
-"id": "tfr-ZHU-6/6701",
-"kind": "TFR",
-"launches": [
-{
-"id": "collection-starbase-testing",
-"title": "Testing Notices"
-}
-],
-"markers": [],
-"name": "FDC 6/6701",
-"page": "https://space-notices.com/notice/tfr-ZHU-6%2F6701",
-"raw": "FDC 6/6701 ZHU TX..AIRSPACE BROWNSVILLE, TX..TEMPORARY FLIGHT RESTRICTIONS. PURSUANT TO 14 CFR SECTION 91.137(A)(1) HIGH ENERGY TESTING WI AN AREA DEFINED AS 1.5NM RADIUS OF 255701N0971459W (BRO068007.0) SFC-5000FT AGL ONLY RELIEF ACFT OPS UNDER DIRECTION OF SPACEX SPACE EXPLORATION TECHNOLOGIES ARE AUTH IN THE AIRSPACE. SPACEX SPACE EXPLORATION TECHNOLOGIES, KYLE HURN TEL 956-346-8311 OR EMAIL KYLE.HURN@SPACEX.COM IS IN CHARGE OF ON SCENE EMERG RESPONSE ACTIVITY. HOUSTON/ZHU/ARTCC TEL 281-230-5560 IS THE FAA CDN FAC. 2608210500-2608260500",
-"reason": "HIGH ENERGY TESTING",
-"source": {
-"link": "https://tfr.faa.gov/tfr3/?page=detail_6_6701",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-08-20T00:27:01.198Z"
-},
 {
 "areas": [
 [
@@ -23111,6 +22947,30 @@
 "cancelled": false,
 "dates": [],
 "height": null,
+"id": "infopage-spacex-transporter18",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-67213393-7983-4c06-8b44-b8c785a5ed79",
+"title": "Transporter 18 (Dedicated SSO Rideshare)"
+}
+],
+"markers": [],
+"name": "SpaceX Mission Page",
+"page": "https://space-notices.com/notice/infopage-spacex-transporter18",
+"raw": "$22",
+"reason": null,
+"source": {
+"link": "https://www.spacex.com/launches/transporter18",
+"name": "SpaceX Website"
+},
+"updated": "2026-09-24T20:57:51.533Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": null,
 "id": "infopage-spacex-ussf259",
 "kind": "INFOPAGE",
 "launches": [
@@ -23158,5 +23018,5 @@
 "pending": 0,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 1232
+"total_known": 1233
 }

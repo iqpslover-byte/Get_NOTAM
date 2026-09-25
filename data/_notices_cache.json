@@ -9103,6 +9103,34 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/infopage-spacex-transporter18": {
+"lastmod": "2026-09-24T20:57:51.533Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": null,
+"id": "infopage-spacex-transporter18",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-67213393-7983-4c06-8b44-b8c785a5ed79",
+"title": "Transporter 18 (Dedicated SSO Rideshare)"
+}
+],
+"markers": [],
+"name": "SpaceX Mission Page",
+"page": "https://space-notices.com/notice/infopage-spacex-transporter18",
+"raw": "$22",
+"reason": null,
+"source": {
+"link": "https://www.spacex.com/launches/transporter18",
+"name": "SpaceX Website"
+},
+"updated": "2026-09-24T20:57:51.533Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/infopage-spacex-ussf153": {
 "gone": "2026-09-25",
 "lastmod": "2026-09-10T17:26:55.313Z",
