@@ -1,6 +1,6 @@
 {
-"count": 281,
-"generated_utc": "2026-09-24T21:50:59Z",
+"count": 264,
+"generated_utc": "2026-09-25T00:53:47Z",
 "notices": [
 {
 "areas": [
@@ -2734,270 +2734,6 @@
 "areas": [
 [
 [
-39.15,
-107.0833
-],
-[
-39.3333,
-107.1667
-],
-[
-39.2167,
-107.5833
-],
-[
-39.0333,
-107.5
-],
-[
-39.15,
-107.0833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-10T09:13:00.000Z",
-"start": "2026-09-10T08:52:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLHW-A4297/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-95eb9265-bdbe-43ad-b08c-6be7eb4e58f4",
-"title": "Yaogan 53-01 to 03/56-01 to 03"
-}
-],
-"markers": [],
-"name": "A4297/26",
-"page": "https://space-notices.com/notice/notam-ZLHW-A4297%2F26",
-"raw": "A4297/26 NOTAMN\r\nQ)ZLHW/QRDCA/IV/BO/W/000/999/3911N10719E012\r\nA)ZLHW B)2609100852 C)2609100913 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN390900E1070500-N392000E1071000-N391300E1073500-N390200E1073000, \r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82345133",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-07T02:04:12.548Z"
-},
-{
-"areas": [
-[
-[
-38.55,
-109.0667
-],
-[
-38.8167,
-109.2
-],
-[
-38.6333,
-109.85
-],
-[
-38.3667,
-109.7167
-],
-[
-38.55,
-109.0667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-10T09:17:00.000Z",
-"start": "2026-09-10T08:53:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLHW-A4298/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-95eb9265-bdbe-43ad-b08c-6be7eb4e58f4",
-"title": "Yaogan 53-01 to 03/56-01 to 03"
-}
-],
-"markers": [],
-"name": "A4298/26",
-"page": "https://space-notices.com/notice/notam-ZLHW-A4298%2F26",
-"raw": "A4298/26 NOTAMN\r\nQ)ZLHW/QRDCA/IV/BO/W/000/999/3835N10927E019\r\nA)ZLHW B)2609100853 C)2609100917 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN383300E1090400-N384900E1091200-N383800E1095100-N382200E1094300, \r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82345130",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-07T02:04:07.251Z"
-},
-{
-"areas": [
-[
-[
-30.7333,
-125.8167
-],
-[
-30.2167,
-125.5333
-],
-[
-29.8,
-126.25
-],
-[
-30.25,
-126.6167
-],
-[
-30.7333,
-125.8167
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-10T09:20:00.000Z",
-"start": "2026-09-10T08:54:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-RJJJ-P4432/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-95eb9265-bdbe-43ad-b08c-6be7eb4e58f4",
-"title": "Yaogan 53-01 to 03/56-01 to 03"
-}
-],
-"markers": [],
-"name": "P4432/26",
-"page": "https://space-notices.com/notice/notam-RJJJ-P4432%2F26",
-"raw": "P4432/26 NOTAMN\r\nQ)RJJJ/QXXXX/IV/NBO/E/000/999/3017N12605E031\r\nA)RJJJ B)2609100854 C)2609100920\r\nE)DUE TO AN AEROSPACE FLIGHT ACTIVITY, THE FLIGHT SAFETY OF THE\r\nAIRCRAFT IN FOLLOWING AREA MAY BE AFFECTED ON SEP 10 2026,\r\n0854-0920\r\n\r\nAREA:\r\n3044N12549E - 3013N12532E - 2948N12615E - 3015N12637E - 3044N12549E\r\n\r\nALTITUDE:\r\nSFC - UNL\r\n\r\nRMK: ATC WILL NOT CLEAR IFR FLT THRU THIS AREA FOR THE FLIGHT SAFETY\r\nF)SFC G)UNL",
-"reason": "AN AEROSPACE FLIGHT ACTIVITY",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82345907",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-07T05:48:29.803Z"
-},
-{
-"areas": [
-[
-[
-32.65,
--119.6333
-],
-[
-32.8,
--119.4
-],
-[
-34.5667,
--120.4
-],
-[
-34.7,
--120.5667
-],
-[
-34.5833,
--120.6833
-],
-[
-32.65,
--119.6333
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-10T19:00:00.000Z",
-"start": "2026-09-10T15:37:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLA-09/081-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-3e0456da-14b1-4ac3-b59e-35fefb1d1530",
-"title": "USSF-153"
-}
-],
-"markers": [],
-"name": "09/081",
-"page": "https://space-notices.com/notice/notam-ZLA-09%2F081-26",
-"raw": "!CARF 09/081 ZLA AIRSPACE DCC SX R-2 26-59 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 323900N1193800W TO 324800N1192400W TO 343400N1202400W TO 344200N1203400W TO 343500N1204100W TO POINT OF ORIGIN SFC-UNL 2609101537-2609101900",
-"reason": "SX R-2 26-59",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82355340",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-08T10:12:31.561Z"
-},
-{
-"areas": [
-[
-[
-31.5833,
--119.15
-],
-[
-32.35,
--119.4667
-],
-[
-32.5333,
--119.2667
-],
-[
-31.7667,
--118.7667
-],
-[
-31.5833,
--119.15
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-10T19:02:00.000Z",
-"start": "2026-09-10T15:37:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLA-09/082-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-3e0456da-14b1-4ac3-b59e-35fefb1d1530",
-"title": "USSF-153"
-}
-],
-"markers": [],
-"name": "09/082",
-"page": "https://space-notices.com/notice/notam-ZLA-09%2F082-26",
-"raw": "!CARF 09/082 ZLA AIRSPACE DCC SX R-2 26-59 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 313500N1190900W TO 322100N1192800W TO 323200N1191600W TO 314600N1184600W TO POINT OF ORIGIN SFC-UNL 2609101537-2609101902",
-"reason": "SX R-2 26-59",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82355361",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-08T10:12:24.592Z"
-},
-{
-"areas": [
-[
-[
 -39.1,
 177.6
 ],
@@ -3161,147 +2897,6 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-09T03:48:39.373Z"
-},
-{
-"areas": [
-[
-[
-32.65,
--119.6333
-],
-[
-32.8,
--119.4
-],
-[
-34.5667,
--120.4
-],
-[
-34.7,
--120.5667
-],
-[
-34.5833,
--120.6833
-],
-[
-32.65,
--119.6333
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-11T18:46:00.000Z",
-"start": "2026-09-11T15:23:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLA-09/091-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-3e0456da-14b1-4ac3-b59e-35fefb1d1530",
-"title": "USSF-153"
-}
-],
-"markers": [],
-"name": "09/091",
-"page": "https://space-notices.com/notice/notam-ZLA-09%2F091-26",
-"raw": "!CARF 09/091 ZLA AIRSPACE DCC SX R-2 26-59 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 323900N1193800W TO 324800N1192400W TO 343400N1202400W TO 344200N1203400W TO 343500N1204100W TO POINT OF ORIGIN SFC-UNL 2609111523-2609111846",
-"reason": "SX R-2 26-59",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82358180",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-08T13:54:08.258Z"
-},
-{
-"areas": [
-[
-[
-31.5833,
--119.15
-],
-[
-32.35,
--119.4667
-],
-[
-32.5333,
--119.2667
-],
-[
-31.7667,
--118.7667
-],
-[
-31.5833,
--119.15
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-11T18:48:00.000Z",
-"start": "2026-09-11T15:23:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLA-09/089-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-3e0456da-14b1-4ac3-b59e-35fefb1d1530",
-"title": "USSF-153"
-}
-],
-"markers": [],
-"name": "09/089",
-"page": "https://space-notices.com/notice/notam-ZLA-09%2F089-26",
-"raw": "!CARF 09/089 ZLA AIRSPACE DCC SX R-2 26-59 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 313500N1190900W TO 322100N1192800W TO 323200N1191600W TO 314600N1184600W TO POINT OF ORIGIN SFC-UNL 2609111523-2609111848",
-"reason": "SX R-2 26-59",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82358159",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-08T13:54:00.442Z"
-},
-{
-"areas": [],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-10T19:20:00.000Z",
-"start": "2026-09-10T15:37:00.000Z"
-},
-{
-"end": "2026-09-11T19:06:00.000Z",
-"start": "2026-09-11T15:23:00.000Z"
-}
-],
-"height": null,
-"id": "infopage-faa-operations-advisory-spacex-r2",
-"kind": "INFOPAGE",
-"launches": [
-{
-"id": "launch-3e0456da-14b1-4ac3-b59e-35fefb1d1530",
-"title": "USSF-153"
-}
-],
-"markers": [],
-"name": "FAA Operations Advisory",
-"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-r2",
-"raw": "SPACEX R2, VANDENBERG SFB, CA\nPRIMARY:\t09/10/26\t1537Z-1920Z\nBACKUP:\t\t09/11/26\t1523Z-1906Z",
-"reason": "SPACEX R2, VANDENBERG SFB, CA",
-"source": {
-"link": "https://www.fly.faa.gov/adv/adv_spt",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-01T13:54:00.593Z"
 },
 {
 "areas": [
@@ -3634,114 +3229,6 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-02T18:09:01.119Z"
-},
-{
-"areas": [
-[
-[
-32.65,
--119.6333
-],
-[
-32.8,
--119.4
-],
-[
-34.5667,
--120.4
-],
-[
-34.7,
--120.5667
-],
-[
-34.5833,
--120.6833
-],
-[
-32.65,
--119.6333
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-12T18:32:00.000Z",
-"start": "2026-09-12T15:09:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLA-09/111-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-3e0456da-14b1-4ac3-b59e-35fefb1d1530",
-"title": "USSF-153"
-}
-],
-"markers": [],
-"name": "09/111",
-"page": "https://space-notices.com/notice/notam-ZLA-09%2F111-26",
-"raw": "!CARF 09/111 ZLA AIRSPACE DCC SX R-2 26-59 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 323900N1193800W TO 324800N1192400W TO 343400N1202400W TO 344200N1203400W TO 343500N1204100W TO POINT OF ORIGIN SFC-UNL 2609121509-2609121832",
-"reason": "SX R-2 26-59",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82380747",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-10T10:00:55.767Z"
-},
-{
-"areas": [
-[
-[
-31.5833,
--119.15
-],
-[
-32.35,
--119.4667
-],
-[
-32.5333,
--119.2667
-],
-[
-31.7667,
--118.7667
-],
-[
-31.5833,
--119.15
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-12T18:34:00.000Z",
-"start": "2026-09-12T15:09:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLA-09/112-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-3e0456da-14b1-4ac3-b59e-35fefb1d1530",
-"title": "USSF-153"
-}
-],
-"markers": [],
-"name": "09/112",
-"page": "https://space-notices.com/notice/notam-ZLA-09%2F112-26",
-"raw": "!CARF 09/112 ZLA AIRSPACE DCC SX R-2 26-59 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 313500N1190900W TO 322100N1192800W TO 323200N1191600W TO 314600N1184600W TO POINT OF ORIGIN SFC-UNL 2609121509-2609121834",
-"reason": "SX R-2 26-59",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82380784",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-10T10:00:49.268Z"
 },
 {
 "areas": [
@@ -5435,687 +4922,6 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-10T20:30:30.446Z"
-},
-{
-"areas": [
-[
-[
-29.8,
--117.65
-],
-[
-29.866667,
--117.9
-],
-[
-29.583333,
--118.2
-],
-[
-29.4,
--118.133333
-],
-[
-29.25,
--118.033333
-],
-[
-29.033333,
--117.983333
-],
-[
-28.2,
--117.316667
-],
-[
-28.833333,
--117.316667
-],
-[
-29.6,
--117.266667
-],
-[
-29.8,
--117.65
-]
-],
-[
-[
-29.8,
--117.65
-],
-[
-34.466667,
--120.3
-],
-[
-34.666667,
--120.6
-],
-[
-34.65,
--120.65
-],
-[
-34.5,
--120.65
-],
-[
-29.583333,
--118.2
-],
-[
-29.866667,
--117.9
-],
-[
-29.8,
--117.65
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-10T19:20:00.000Z",
-"start": "2026-09-10T15:37:00.000Z"
-},
-{
-"end": "2026-09-11T19:06:00.000Z",
-"start": "2026-09-11T15:23:00.000Z"
-},
-{
-"end": "2026-09-12T18:52:00.000Z",
-"start": "2026-09-12T15:09:00.000Z"
-},
-{
-"end": "2026-09-13T18:38:00.000Z",
-"start": "2026-09-13T14:55:00.000Z"
-},
-{
-"end": "2026-09-14T18:24:00.000Z",
-"start": "2026-09-14T14:41:00.000Z"
-},
-{
-"end": "2026-09-15T18:10:00.000Z",
-"start": "2026-09-15T14:27:00.000Z"
-},
-{
-"end": "2026-09-16T17:57:00.000Z",
-"start": "2026-09-16T14:14:00.000Z"
-}
-],
-"height": null,
-"id": "bnm-CGD-SW BNM 9104-26",
-"kind": "BNM",
-"launches": [
-{
-"id": "launch-3e0456da-14b1-4ac3-b59e-35fefb1d1530",
-"title": "USSF-153"
-}
-],
-"markers": [],
-"name": "CGD-SW BNM 9104-26",
-"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209104-26",
-"raw": "Launch Hazard Area\nMission: Space X R-2 Launch Operations \nMessage Id: CGD-SW BNM 9104-26\n\n\n10/1537 SEP 26 to 10/1920 SEP 26. \n11/1523 SEP 26 to 11/1906 SEP 26. \n12/1509 SEP 26 to 12/1852 SEP 26. \n13/1455 SEP 26 to 13/1838 SEP 26. \n14/1441 SEP 26 to 14/1824 SEP 26. \n15/1427 SEP 26 to 15/1810 SEP 26. \n16/1414 SEP 26 to 16/1757 SEP 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
-"reason": "Launch Hazard Area - Space X R-2 Launch Operations",
-"source": {
-"link": "https://www.navcen.uscg.gov/chart",
-"name": "US Coast Guard"
-},
-"updated": "2026-09-01T22:15:18.614Z"
-},
-{
-"areas": [
-[
-[
-29.8,
--117.65
-],
-[
-34.466667,
--120.3
-],
-[
-34.666667,
--120.6
-],
-[
-34.65,
--120.65
-],
-[
-34.5,
--120.65
-],
-[
-29.583333,
--118.2
-],
-[
-29.866667,
--117.9
-],
-[
-29.8,
--117.65
-]
-],
-[
-[
-29.8,
--117.65
-],
-[
-29.866667,
--117.9
-],
-[
-29.583333,
--118.2
-],
-[
-29.4,
--118.133333
-],
-[
-29.25,
--118.033333
-],
-[
-29.033333,
--117.983333
-],
-[
-28.2,
--117.316667
-],
-[
-28.833333,
--117.316667
-],
-[
-29.6,
--117.266667
-],
-[
-29.8,
--117.65
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-10T19:20:00.000Z",
-"start": "2026-09-10T15:37:00.000Z"
-},
-{
-"end": "2026-09-11T19:06:00.000Z",
-"start": "2026-09-11T15:23:00.000Z"
-},
-{
-"end": "2026-09-12T18:52:00.000Z",
-"start": "2026-09-12T15:09:00.000Z"
-},
-{
-"end": "2026-09-13T18:38:00.000Z",
-"start": "2026-09-13T14:55:00.000Z"
-},
-{
-"end": "2026-09-14T18:24:00.000Z",
-"start": "2026-09-14T14:41:00.000Z"
-},
-{
-"end": "2026-09-15T18:10:00.000Z",
-"start": "2026-09-15T14:27:00.000Z"
-},
-{
-"end": "2026-09-16T17:57:00.000Z",
-"start": "2026-09-16T14:14:00.000Z"
-}
-],
-"height": null,
-"id": "lnm-52835",
-"kind": "LNM",
-"launches": [
-{
-"id": "launch-3e0456da-14b1-4ac3-b59e-35fefb1d1530",
-"title": "USSF-153"
-}
-],
-"markers": [],
-"name": "52835",
-"page": "https://space-notices.com/notice/lnm-52835",
-"raw": "$22",
-"reason": "Hazardous operations will be conducted for Space X, Starlink R-2 Launch operations",
-"source": {
-"link": "https://www.navcen.uscg.gov/msi",
-"name": "US Coast Guard"
-},
-"updated": "2026-09-01T22:16:08.296Z"
-},
-{
-"areas": [
-[
-[
-28.1833,
--117.3333
-],
-[
-28.8333,
--117.8167
-],
-[
-29.0333,
--117.9833
-],
-[
-29.25,
--118.0333
-],
-[
-29.4,
--118.1333
-],
-[
-29.5833,
--118.2
-],
-[
-31.5833,
--119.15
-],
-[
-31.7667,
--118.7667
-],
-[
-29.8,
--117.65
-],
-[
-29.6,
--117.2667
-],
-[
-28.8333,
--117.3167
-],
-[
-28.2,
--117.3167
-],
-[
-28.1833,
--117.3333
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-10T19:20:00.000Z",
-"start": "2026-09-10T15:37:00.000Z"
-},
-{
-"end": "2026-09-11T19:06:00.000Z",
-"start": "2026-09-11T15:23:00.000Z"
-},
-{
-"end": "2026-09-12T18:52:00.000Z",
-"start": "2026-09-12T15:09:00.000Z"
-},
-{
-"end": "2026-09-13T18:38:00.000Z",
-"start": "2026-09-13T14:55:00.000Z"
-},
-{
-"end": "2026-09-14T18:24:00.000Z",
-"start": "2026-09-14T14:41:00.000Z"
-},
-{
-"end": "2026-09-15T18:10:00.000Z",
-"start": "2026-09-15T14:27:00.000Z"
-},
-{
-"end": "2026-09-16T17:57:00.000Z",
-"start": "2026-09-16T14:14:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-MMFR-B1765/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-3e0456da-14b1-4ac3-b59e-35fefb1d1530",
-"title": "USSF-153"
-}
-],
-"markers": [],
-"name": "B1765/26",
-"page": "https://space-notices.com/notice/notam-MMFR-B1765%2F26",
-"raw": "B1765/26 NOTAMN\r\r\nQ) MMFR/QRDCA/IV/BO/W/000/999/\r\r\nA) MMFR\r\r\nB) 2609101537\r\r\nC) 2609161757\r\r\nD) 10 1537-1920, 11 1523-1906, 12 1509-1852, 13 1455-1838, 14 1441-1824,\r\r\n   15 1427-1810, 16 1414-1757 \r\r\nE) DANGEROUS AREA FOR SPACEX R-2 STAGE 1 REENTRY\r\r\n   LATERAL LIMIT AREA FORMED BY THE UNION OF THE FOLLOWING POINTS:\r\r\n   2811N 11720W\r\r\n   2850N 11749W\r\r\n   2902N 11759W\r\r\n   2915N 11802W\r\r\n   2924N 11808W\r\r\n   2935N 11812W\r\r\n   3135N 11909W\r\r\n   3146N 11846W\r\r\n   2948N 11739W\r\r\n   2936N 11716W\r\r\n   2850N 11719W\r\r\n   2812N 11719W\r\r\n   2811N 11720W\r\r\n   FIR MEXICO MMFR\r\r\nF) SFC\r\r\nG) UNL",
-"reason": "SPACEX R-2 STAGE 1 REENTRY",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82322534",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-04T00:44:53.534Z"
-},
-{
-"areas": [],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-10T19:20:00.000Z",
-"start": "2026-09-10T15:37:00.000Z"
-},
-{
-"end": "2026-09-11T19:06:00.000Z",
-"start": "2026-09-11T15:23:00.000Z"
-},
-{
-"end": "2026-09-12T18:52:00.000Z",
-"start": "2026-09-12T15:09:00.000Z"
-},
-{
-"end": "2026-09-13T18:38:00.000Z",
-"start": "2026-09-13T14:55:00.000Z"
-},
-{
-"end": "2026-09-14T18:24:00.000Z",
-"start": "2026-09-14T14:41:00.000Z"
-},
-{
-"end": "2026-09-15T18:10:00.000Z",
-"start": "2026-09-15T14:27:00.000Z"
-},
-{
-"end": "2026-09-16T18:17:00.000Z",
-"start": "2026-09-16T14:14:00.000Z"
-}
-],
-"height": null,
-"id": "infopage-cadenaois-advisory-2739",
-"kind": "INFOPAGE",
-"launches": [
-{
-"id": "launch-3e0456da-14b1-4ac3-b59e-35fefb1d1530",
-"title": "USSF-153"
-}
-],
-"markers": [],
-"name": "Cadena OIS Advisory 2739",
-"page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2739",
-"raw": "Primary Launch Day\t10 SEP\t1537Z-1920Z\nBackup Launch Day\t11 SEP\t1523Z-1906Z\nBackup Launch Day\t12 SEP\t1509Z-1852Z\nBackup Launch Day\t13 SEP\t1455Z-1838Z\nBackup Launch Day\t14 SEP\t1441Z-1824Z\nBackup Launch Day\t15 SEP\t1427Z-1810Z\nBackup Launch Day\t16 SEP\t1414Z-1777Z\n",
-"reason": "SpaceX R-2",
-"source": {
-"link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
-"name": "Cadena OIS"
-},
-"updated": "2026-09-01T13:40:00.866Z"
-},
-{
-"areas": [
-[
-[
--27.9833,
--122.7333
-],
-[
--27.15,
--120.7167
-],
-[
--38.35,
--115.0667
-],
-[
--49.15,
--107.3667
-],
-[
--59.15,
--95.5667
-],
-[
--59.9667,
--99.0833
-],
-[
--44.5667,
--114.2167
-],
-[
--27.9833,
--122.7333
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-10T21:02:00.000Z",
-"start": "2026-09-10T17:24:00.000Z"
-},
-{
-"end": "2026-09-11T20:48:00.000Z",
-"start": "2026-09-11T17:10:00.000Z"
-},
-{
-"end": "2026-09-12T20:34:00.000Z",
-"start": "2026-09-12T16:56:00.000Z"
-},
-{
-"end": "2026-09-13T20:20:00.000Z",
-"start": "2026-09-13T16:42:00.000Z"
-},
-{
-"end": "2026-09-14T20:06:00.000Z",
-"start": "2026-09-14T16:28:00.000Z"
-},
-{
-"end": "2026-09-15T19:52:00.000Z",
-"start": "2026-09-15T16:14:00.000Z"
-},
-{
-"end": "2026-09-16T19:39:00.000Z",
-"start": "2026-09-16T16:01:00.000Z"
-}
-],
-"height": null,
-"id": "nav-warning-HYDROPAC 2551/26",
-"kind": "NAVWARNING",
-"launches": [
-{
-"id": "launch-3e0456da-14b1-4ac3-b59e-35fefb1d1530",
-"title": "USSF-153"
-}
-],
-"markers": [],
-"name": "HYDROPAC 2551/26",
-"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202551%2F26",
-"raw": "021642Z SEP 26\nHYDROPAC 2551/26\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   101724Z TO 102102Z, 111710Z TO 112048Z,\n   121656Z TO 122034Z, 131642Z TO 132020Z,\n   141628Z TO 142006Z, 151614Z TO 151952Z,\n   AND 161601Z SEP TO 161939Z IN AREA \n   BOUND BY\n   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,\n   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,\n   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,\n   44-34.00S 114-13.00W.\n2. CANCEL THIS MSG 162039Z SEP 26.\n",
-"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
-"source": {
-"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2551&createdOn=26&category=14&output=html",
-"name": "US National Geospatial-Intelligence Agency"
-},
-"updated": "2026-09-05T10:15:07.759Z"
-},
-{
-"areas": [
-[
-[
--30.0,
--121.8833
-],
-[
--27.9833,
--122.7333
-],
-[
--27.15,
--120.7167
-],
-[
--28.7167,
--120.0
-],
-[
--30.0,
--120.0
-],
-[
--30.0,
--121.8833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-10T21:02:00.000Z",
-"start": "2026-09-10T17:24:00.000Z"
-},
-{
-"end": "2026-09-11T20:48:00.000Z",
-"start": "2026-09-11T17:10:00.000Z"
-},
-{
-"end": "2026-09-12T20:34:00.000Z",
-"start": "2026-09-12T16:56:00.000Z"
-},
-{
-"end": "2026-09-13T20:20:00.000Z",
-"start": "2026-09-13T16:42:00.000Z"
-},
-{
-"end": "2026-09-14T20:06:00.000Z",
-"start": "2026-09-14T16:28:00.000Z"
-},
-{
-"end": "2026-09-15T19:52:00.000Z",
-"start": "2026-09-15T16:14:00.000Z"
-},
-{
-"end": "2026-09-16T19:39:00.000Z",
-"start": "2026-09-16T16:01:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-NTTT-A1186/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-3e0456da-14b1-4ac3-b59e-35fefb1d1530",
-"title": "USSF-153"
-}
-],
-"markers": [],
-"name": "A1186/26",
-"page": "https://space-notices.com/notice/notam-NTTT-A1186%2F26",
-"raw": "A1186/26 NOTAMN\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2858S12112W113\r\nA) NTTT\r\nB) 2609101724 C) 2609161939\r\nD) 10 1724-2102, 11 1710-2048, 12 1656-2034, 13 1642-2020, \r\n14 1628-2006, 15 1614-1952, 16 1601-1939\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX R-2 IN\r\nTAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING POINTS: \r\n3000S 12153W, 2759S 12244W, 2709S 12043W, 2843S 12000W, 3000S\r\n12000W, 3000S 12153W \r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : SCIZ \r\nTHE FRENCH VERSION OF THIS NOTAM IS C2178/26\r\nF) SFC G) UNL",
-"reason": "SPACE DEBRIS RETURN OF SPACEX R-2",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82319493",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-03T18:28:30.513Z"
-},
-{
-"areas": [
-[
-[
--30.0,
--121.8833
-],
-[
--30.0,
--120.0
-],
-[
--28.7167,
--120.0
-],
-[
--38.35,
--115.0667
-],
-[
--49.15,
--107.3667
-],
-[
--59.15,
--95.5667
-],
-[
--59.9667,
--99.0833
-],
-[
--44.5667,
--114.2167
-],
-[
--30.0,
--121.8833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-10T21:02:00.000Z",
-"start": "2026-09-10T17:24:00.000Z"
-},
-{
-"end": "2026-09-11T20:48:00.000Z",
-"start": "2026-09-11T17:10:00.000Z"
-},
-{
-"end": "2026-09-12T20:34:00.000Z",
-"start": "2026-09-12T16:56:00.000Z"
-},
-{
-"end": "2026-09-13T20:20:00.000Z",
-"start": "2026-09-13T16:42:00.000Z"
-},
-{
-"end": "2026-09-14T20:06:00.000Z",
-"start": "2026-09-14T16:28:00.000Z"
-},
-{
-"end": "2026-09-15T19:52:00.000Z",
-"start": "2026-09-15T16:14:00.000Z"
-},
-{
-"end": "2026-09-16T19:39:00.000Z",
-"start": "2026-09-16T16:01:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-SCIZ-W2821/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-3e0456da-14b1-4ac3-b59e-35fefb1d1530",
-"title": "USSF-153"
-}
-],
-"markers": [],
-"name": "W2821/26",
-"page": "https://space-notices.com/notice/notam-SCIZ-W2821%2F26",
-"raw": "W2821/26 NOTAMN \r\nQ)SCIZ/QXXXX/IV/NBO/W/000/999/4526S11128W980\r\nA)SCIZ B)2609101724 C)2609161939\r\nD)10 BTN 1724-2102, 11 BTN 1710-2048, 12 BTN 1656-2034,\r\n13 BTN 1642-2020, 14 BTN 1628-2006, 15 BTN 1614-1952\r\n16 BTN 1601-1939\r\nE)ZONE...D...IN WATERS PACIFIC OCEAN DUE TO SPACE VEHICLE RE-ENTRY\r\nAND SPLASHDOWN ACTIVITY.\r\nTHE AFECCTED AREA IS BOUNDED BY NXT GEO COORD: \r\n300000S/1215300W\r\n300000S/1200000W\r\n284300S/1200000W\r\n382100S/1150400W\r\n490900S/1072200W\r\n590900S/0953400W\r\n595800S/0990500W\r\n443400S/1141300W\r\n300000S/1215300W\r\nINSTRUCTIONS SANTIAGO OCEANIC CONTROL 10024KHZ FANS 1A EQUIPPED \r\nINFO PROVIDED BY SPACE X\r\nF)SFC G)UNL",
-"reason": "SPACE VEHICLE RE-ENTRY AND SPLASHDOWN ACTIVITY",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82315864",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-03T13:40:30.128Z"
 },
 {
 "areas": [
@@ -11516,7 +10322,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82536732",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-21T11:40:24.418Z"
+"updated": "2026-09-24T18:59:56.936Z"
 },
 {
 "areas": [
@@ -11568,7 +10374,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82536742",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-21T11:40:24.418Z"
+"updated": "2026-09-24T19:02:31.754Z"
 },
 {
 "areas": [
@@ -11620,7 +10426,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82536754",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-21T11:40:24.418Z"
+"updated": "2026-09-24T19:02:42.140Z"
 },
 {
 "areas": [
@@ -12638,7 +11444,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82536857",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-21T11:40:24.418Z"
+"updated": "2026-09-24T19:13:46.465Z"
 },
 {
 "areas": [
@@ -12690,7 +11496,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82536893",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-21T11:40:24.418Z"
+"updated": "2026-09-24T19:18:16.628Z"
 },
 {
 "areas": [
@@ -12742,7 +11548,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82536930",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-21T11:40:24.418Z"
+"updated": "2026-09-24T19:22:45.305Z"
 },
 {
 "areas": [
@@ -13462,6 +12268,62 @@
 "areas": [
 [
 [
+12.4833,
+-60.4833
+],
+[
+12.35,
+-60.3667
+],
+[
+11.6667,
+-61.3833
+],
+[
+12.1333,
+-62.3
+],
+[
+13.1167,
+-61.8
+],
+[
+12.4833,
+-60.4833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T15:50:00.000Z",
+"start": "2026-09-28T12:15:00.000Z"
+}
+],
+"height": "24500ft",
+"id": "notam-TBPB-A1498/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "A1498/26",
+"page": "https://space-notices.com/notice/notam-TBPB-A1498%2F26",
+"raw": "$22",
+"reason": "DEBRIS RESPONSE AREA DUE TO THE LAUNCH OF SPACE X STARSHIP FLIGHT 14",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82539199",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-24T18:59:45.612Z"
+},
+{
+"areas": [
+[
+[
 11.25,
 -56.3
 ],
@@ -13624,7 +12486,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82534002",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-23T17:38:30.469Z"
+"updated": "2026-09-24T14:59:01.401Z"
 },
 {
 "areas": [
@@ -14871,7 +13733,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82537703",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-23T11:11:05.891Z"
+"updated": "2026-09-24T20:53:21.444Z"
 },
 {
 "areas": [
@@ -14939,7 +13801,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82537738",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-23T11:18:09.458Z"
+"updated": "2026-09-24T20:57:51.509Z"
 },
 {
 "areas": [
@@ -15912,7 +14774,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82526618",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-23T17:38:30.469Z"
+"updated": "2026-09-23T23:11:41.326Z"
 },
 {
 "areas": [
@@ -16135,7 +14997,7 @@
 ]
 ]
 ],
-"cancelled": false,
+"cancelled": true,
 "dates": [
 {
 "end": "2026-10-04T14:08:00.000Z",
@@ -16160,7 +15022,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82523692",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-23T17:34:11.053Z"
+"updated": "2026-09-24T15:41:53.022Z"
 },
 {
 "areas": [
@@ -16308,7 +15170,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82534689",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-23T17:38:30.469Z"
+"updated": "2026-09-24T15:55:25.847Z"
 },
 {
 "areas": [
@@ -16431,7 +15293,7 @@
 ]
 ]
 ],
-"cancelled": false,
+"cancelled": true,
 "dates": [
 {
 "end": "2026-10-04T14:08:00.000Z",
@@ -16456,7 +15318,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82534975",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-23T17:38:30.469Z"
+"updated": "2026-09-24T18:37:17.184Z"
 },
 {
 "areas": [
@@ -17368,7 +16230,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82536510",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-23T17:38:30.469Z"
+"updated": "2026-09-24T18:59:45.612Z"
 },
 {
 "areas": [
@@ -17516,7 +16378,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82536736",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-23T17:38:30.469Z"
+"updated": "2026-09-24T18:59:40.148Z"
 },
 {
 "areas": [
@@ -18890,7 +17752,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=655&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-09-23T17:38:30.469Z"
+"updated": "2026-09-24T00:00:26.310Z"
 },
 {
 "areas": [
@@ -19150,7 +18012,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82528799",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-22T13:17:01.666Z"
+"updated": "2026-09-24T06:43:20.439Z"
 },
 {
 "areas": [],
@@ -19203,7 +18065,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82528815",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-22T13:17:01.666Z"
+"updated": "2026-09-24T06:42:05.896Z"
 },
 {
 "areas": [
@@ -20021,7 +18883,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82529825",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-22T13:17:01.666Z"
+"updated": "2026-09-24T09:11:50.541Z"
 },
 {
 "areas": [
@@ -20642,7 +19504,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82537627",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-23T11:11:05.891Z"
+"updated": "2026-09-24T20:42:06.910Z"
 },
 {
 "areas": [
@@ -21075,7 +19937,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82537533",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-23T11:18:09.458Z"
+"updated": "2026-09-24T20:28:06.167Z"
 },
 {
 "areas": [
@@ -21457,7 +20319,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82529816",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-17T13:38:30.471Z"
+"updated": "2026-09-24T09:07:55.783Z"
 },
 {
 "areas": [
@@ -22500,160 +21362,6 @@
 "name": "US National Geospatial-Intelligence Agency"
 },
 "updated": "2026-09-15T13:24:57.138Z"
-},
-{
-"areas": [
-[
-[
-29.8,
--117.65
-],
-[
-34.4667,
--120.3
-],
-[
-34.6667,
--120.6
-],
-[
-34.65,
--120.65
-],
-[
-34.5,
--120.65
-],
-[
-29.5833,
--118.2
-],
-[
-29.8667,
--117.9
-],
-[
-29.8,
--117.65
-]
-],
-[
-[
-29.8,
--117.65
-],
-[
-29.8667,
--117.9
-],
-[
-29.5833,
--118.2
-],
-[
-29.4,
--118.1333
-],
-[
-29.25,
--118.0333
-],
-[
-29.0333,
--117.9833
-],
-[
-28.2,
--117.3167
-],
-[
-28.8333,
--117.3167
-],
-[
-29.6,
--117.2667
-],
-[
-29.8,
--117.65
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-10T19:02:00.000Z",
-"start": "2026-09-10T15:37:00.000Z"
-},
-{
-"end": "2026-09-11T18:48:00.000Z",
-"start": "2026-09-11T15:23:00.000Z"
-},
-{
-"end": "2026-09-12T18:34:00.000Z",
-"start": "2026-09-12T15:09:00.000Z"
-},
-{
-"end": "2026-09-13T18:20:00.000Z",
-"start": "2026-09-13T14:55:00.000Z"
-},
-{
-"end": "2026-09-14T18:06:00.000Z",
-"start": "2026-09-14T14:41:00.000Z"
-},
-{
-"end": "2026-09-15T17:52:00.000Z",
-"start": "2026-09-15T14:27:00.000Z"
-},
-{
-"end": "2026-09-16T17:57:00.000Z",
-"start": "2026-09-16T14:14:00.000Z"
-},
-{
-"end": "2026-10-10T19:20:00.000Z",
-"start": "2026-10-10T15:37:00.000Z"
-},
-{
-"end": "2026-10-11T19:06:00.000Z",
-"start": "2026-10-11T15:23:00.000Z"
-},
-{
-"end": "2026-10-12T18:52:00.000Z",
-"start": "2026-10-12T15:09:00.000Z"
-},
-{
-"end": "2026-10-13T18:38:00.000Z",
-"start": "2026-10-13T14:55:00.000Z"
-},
-{
-"end": "2026-10-14T18:24:00.000Z",
-"start": "2026-10-14T14:41:00.000Z"
-},
-{
-"end": "2026-10-15T18:10:00.000Z",
-"start": "2026-10-15T14:27:00.000Z"
-}
-],
-"height": null,
-"id": "nav-warning-NAVAREA XII 608/26",
-"kind": "NAVWARNING",
-"launches": [
-{
-"id": "launch-3e0456da-14b1-4ac3-b59e-35fefb1d1530",
-"title": "USSF-153"
-}
-],
-"markers": [],
-"name": "NAVAREA XII 608/26",
-"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20608%2F26",
-"raw": "011742Z SEP 26\nNAVAREA XII 608/26.\nNORTH PACIFIC.\nCALIFORNIA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   A. 101537Z TO 101902Z, ALTERNATE \n      111523Z TO 111848Z, 121509Z TO 121834Z,\n      131455Z TO 131820Z, 141441Z TO 141806Z,\n      151427Z TO 151752Z, AND 161414Z TO 161739Z SEP\n      IN AREA BOUND BY\n      29-48.00N 117-39.00W, 34-28.00N 120-18.00W,\n      34-40.00N 120-36.00W, 34-39.00N 120-39.00W,\n      34-30.00N 120-39.00W, 29-35.00N 118-12.00W,\n      29-52.00N 117-54.00W.\n   B. 101537Z TO 101920Z, ALTERNATE \n      111523Z TO 111906Z, 121509Z TO 121852Z, \n      131455Z TO 131838Z, 141441Z TO 141824Z,\n      151427Z TO 151810Z, AND 161414Z TO 161757Z SEP\n      IN AREA BOUND BY\n      29-48.00N 117-39.00W, 29-52.00N 117-54.00W,\n      29-35.00N 118-12.00W, 29-24.00N 118-08.00W,\n      29-15.00N 118-02.00W, 29-02.00N 117-59.00W,\n      28-12.00N 117-19.00W, 28-50.00N 117-19.00W,\n      29-36.00N 117-16.00W.\n2. CANCEL THIS MSG 161857Z SEP 26.",
-"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
-"source": {
-"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=608&createdOn=26&category=14&output=html",
-"name": "US National Geospatial-Intelligence Agency"
-},
-"updated": "2026-09-06T04:16:24.080Z"
 },
 {
 "areas": [
@@ -24163,6 +22871,30 @@
 "cancelled": false,
 "dates": [],
 "height": null,
+"id": "infopage-spacex-nrol97",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-4651fd8a-43de-4166-bf8f-c168b3bd1d2c",
+"title": "NROL-97"
+}
+],
+"markers": [],
+"name": "SpaceX Mission Page",
+"page": "https://space-notices.com/notice/infopage-spacex-nrol97",
+"raw": "SpaceX is targeting Thursday, October 1 for Falcon Heavy’s launch of the NROL-97 mission from Launch Complex 39A (LC-39A) at NASA’s Kennedy Space Center in Florida. Liftoff is targeted for 11:53 p.m. ET, with a backup opportunity available on Friday, October 2 at 11:48 p.m. ET.\n\nA live webcast of the NROL-97 mission will begin about 10 minutes prior to liftoff, which you can watch here and on X @SpaceX. \n\nThis is the second and fourth flight for the two first stage side boosters supporting this mission, which previously launched the GOES-U, Viasat-3 F3, and Roman Space Telescope missions. Following stage separation, Falcon Heavy’s two side boosters will land on SpaceX’s Landing Zones 1 and 2 (LZ-1 and LZ-2) at Cape Canaveral Space Force Station in Florida. ",
+"reason": null,
+"source": {
+"link": "https://www.spacex.com/launches/nrol97",
+"name": "SpaceX Website"
+},
+"updated": "2026-09-24T16:10:25.792Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": null,
 "id": "infopage-spacex-sl-15-25",
 "kind": "INFOPAGE",
 "launches": [
@@ -24379,30 +23111,6 @@
 "cancelled": false,
 "dates": [],
 "height": null,
-"id": "infopage-spacex-ussf153",
-"kind": "INFOPAGE",
-"launches": [
-{
-"id": "launch-3e0456da-14b1-4ac3-b59e-35fefb1d1530",
-"title": "USSF-153"
-}
-],
-"markers": [],
-"name": "SpaceX Mission Page",
-"page": "https://space-notices.com/notice/infopage-spacex-ussf153",
-"raw": "On Thursday, September 10 at 8:42 a.m. PT, Falcon 9 launched the USSF-153 mission from Space Launch Complex 4E (SLC-4E) at Vandenberg Space Force Base in California. \n\nThis was the 27th flight for the first stage booster supporting this mission, which previously launched Crew-7, CRS-29, PACE, Transporter-10, EarthCARE, NROL-186, Transporter-13, TRACERS, NROL-48, COSMO-SkyMED Second Generation FM3, and 16 Starlink missions. Following stage separation, the first stage landed on the Of Course I Still Love You droneship, which was stationed in the Pacific Ocean.\n\nThere was the possibility that residents of Santa Barbara, San Luis Obispo, and Ventura counties may have heard  one or more sonic booms during the launch, but what residents experienced depended on weather and other conditions.",
-"reason": null,
-"source": {
-"link": "https://www.spacex.com/launches/ussf153",
-"name": "SpaceX Website"
-},
-"updated": "2026-09-10T17:26:55.313Z"
-},
-{
-"areas": [],
-"cancelled": false,
-"dates": [],
-"height": null,
 "id": "infopage-spacex-ussf259",
 "kind": "INFOPAGE",
 "launches": [
@@ -24450,5 +23158,5 @@
 "pending": 0,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 1230
+"total_known": 1232
 }
