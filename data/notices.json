@@ -1,6 +1,6 @@
 {
-"count": 266,
-"generated_utc": "2026-09-25T12:20:18Z",
+"count": 267,
+"generated_utc": "2026-09-25T17:33:51Z",
 "notices": [
 {
 "areas": [
@@ -17074,6 +17074,122 @@
 "areas": [
 [
 [
+25.95,
+-97.1833
+],
+[
+26.0,
+-97.0
+],
+[
+26.0,
+-95.9167
+],
+[
+25.0333,
+-94.0
+],
+[
+24.5,
+-93.0
+],
+[
+24.5,
+-89.35
+],
+[
+24.0667,
+-88.55
+],
+[
+22.3,
+-86.0
+],
+[
+22.0,
+-86.0
+],
+[
+21.15,
+-85.5667
+],
+[
+22.4167,
+-89.3
+],
+[
+22.3333,
+-93.85
+],
+[
+23.4333,
+-94.25
+],
+[
+25.8833,
+-97.1667
+],
+[
+25.95,
+-97.1833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T14:52:00.000Z",
+"start": "2026-09-28T12:15:00.000Z"
+},
+{
+"end": "2026-09-29T14:52:00.000Z",
+"start": "2026-09-29T12:15:00.000Z"
+},
+{
+"end": "2026-09-30T14:52:00.000Z",
+"start": "2026-09-30T12:15:00.000Z"
+},
+{
+"end": "2026-10-01T14:52:00.000Z",
+"start": "2026-10-01T12:15:00.000Z"
+},
+{
+"end": "2026-10-02T14:52:00.000Z",
+"start": "2026-10-02T12:15:00.000Z"
+},
+{
+"end": "2026-10-03T14:52:00.000Z",
+"start": "2026-10-03T12:15:00.000Z"
+},
+{
+"end": "2026-10-04T14:52:00.000Z",
+"start": "2026-10-04T12:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MMFR-B1975/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "B1975/26",
+"page": "https://space-notices.com/notice/notam-MMFR-B1975%2F26",
+"raw": "B1975/26 NOTAMN\r\r\nQ) MMFR/QRDCA/IV/BO/W/000/999/\r\r\nA) MMFR\r\r\nB) 2609281215\r\r\nC) 2610041452\r\r\nD) DLY 1215-1452\r\r\nE) AIRSPACE LAUNCH OPERATIONS ADVISORY: IN THE EVENT OF A\r\r\n   DEBRIS-GENERATING SPACE LAUNCH VEHICLE MISHAP THERE IS THE POTENTIAL\r\r\n   FOR DEBRIS FALLING WITHIN THE AREA DEFINED AS\r\r\n   2557N 09711W - 2600N 09700W - 2600N 09555W - 2502N 09400W -\r\r\n   2430N 09300W - 2430N 08921W - 2404N 08833W - 2218N 08600W -\r\r\n   2200N 08600W - 2109N 08534W - 2225N 08918W - 2220N 09351W\r\r\n   2326N 09415W - 2553N 09710W - 2557N 09711W \r\r\n   IN THE EVENT OF A SPACE VEHICLE MISHAP, THE DEBRIS RESPONSE AREA\r\r\n   (DRA) WILL BE ACTIVATED AND THE ATC WILL PROVIDE INDIVIDUAL\r\r\n   INSTRUCTIONS TO VACATE AND REMAIN CLEAR OF THE AREA.\r\r\nF) SFC\r\r\nG) UNL",
+"reason": "IN THE EVENT OF A DEBRIS-GENERATING SPACE LAUNCH VEHICLE MISHAP THERE IS THE POTENTIAL FOR DEBRIS FALLING",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82546584",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-24T18:59:45.612Z"
+},
+{
+"areas": [
+[
+[
 23.9167,
 144.6167
 ],
@@ -23126,5 +23242,5 @@
 "pending": 0,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 1235
+"total_known": 1236
 }
