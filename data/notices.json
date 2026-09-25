@@ -1,6 +1,6 @@
 {
-"count": 264,
-"generated_utc": "2026-09-25T06:39:57Z",
+"count": 266,
+"generated_utc": "2026-09-25T12:20:18Z",
 "notices": [
 {
 "areas": [
@@ -11385,6 +11385,114 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-24T19:22:45.305Z"
+},
+{
+"areas": [
+[
+[
+32.65,
+-119.6333
+],
+[
+32.8,
+-119.4
+],
+[
+34.5667,
+-120.4
+],
+[
+34.7,
+-120.5667
+],
+[
+34.5833,
+-120.6833
+],
+[
+32.65,
+-119.6333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-27T15:05:00.000Z",
+"start": "2026-09-27T12:49:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-09/309-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7330d83b-c478-426c-8859-f9e3a335876d",
+"title": "USSF-385"
+}
+],
+"markers": [],
+"name": "09/309",
+"page": "https://space-notices.com/notice/notam-ZLA-09%2F309-26",
+"raw": "!CARF 09/309 ZLA AIRSPACE DCC SX R-3 26-62/1 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 323900N1193800W TO 324800N1192400W TO 343400N1202400W TO 344200N1203400W TO 343500N1204100W TO POINT OF ORIGIN SFC-UNL 2609271249-2609271505",
+"reason": "SX R-3 26-62/1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82542648",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-23T12:52:12.090Z"
+},
+{
+"areas": [
+[
+[
+31.5833,
+-119.15
+],
+[
+32.35,
+-119.4667
+],
+[
+32.5333,
+-119.2667
+],
+[
+31.7667,
+-118.7667
+],
+[
+31.5833,
+-119.15
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-27T15:07:00.000Z",
+"start": "2026-09-27T12:49:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-09/310-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7330d83b-c478-426c-8859-f9e3a335876d",
+"title": "USSF-385"
+}
+],
+"markers": [],
+"name": "09/310",
+"page": "https://space-notices.com/notice/notam-ZLA-09%2F310-26",
+"raw": "!CARF 09/310 ZLA AIRSPACE DCC SX R-3 26-62/1 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 313500N1190900W TO 322100N1192800W TO 323200N1191600W TO 314600N1184600W TO POINT OF ORIGIN SFC-UNL 2609271249-2609271507",
+"reason": "SX R-3 26-62/1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82542663",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-23T12:52:12.090Z"
 },
 {
 "areas": [
@@ -23018,5 +23126,5 @@
 "pending": 0,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 1233
+"total_known": 1235
 }
