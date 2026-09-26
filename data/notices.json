@@ -1,6 +1,6 @@
 {
-"count": 270,
-"generated_utc": "2026-09-25T20:46:21Z",
+"count": 256,
+"generated_utc": "2026-09-26T00:10:36Z",
 "notices": [
 {
 "areas": [
@@ -1698,342 +1698,6 @@
 "areas": [
 [
 [
--39.1,
-177.6
-],
-[
--39.1,
-177.9
-],
-[
--38.9833,
-178.2167
-],
-[
--38.9,
-178.9
-],
-[
--39.5,
-178.9
-],
-[
--39.6,
-177.75
-],
-[
--39.2,
-177.4
-],
-[
--39.1,
-177.6
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-08T04:20:00.000Z",
-"start": "2026-09-08T01:45:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-NZZC-B4420/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-b81156da-c0b8-46c8-aebd-8af8d2be83cd",
-"title": "Happily Ever Faster (BlackSky Gen-3 5)"
-}
-],
-"markers": [],
-"name": "B4420/26",
-"page": "https://space-notices.com/notice/notam-NZZC-B4420%2F26",
-"raw": "B4420/26 NOTAMN\r\nQ) NZZC/QRDCA/IV/BO /W /000/999/3912S17812E038\r\nA) NZZC B) 2609080145 C) 2609080420\r\nE) TEMPO DANGER AREA NZD025 (MAHIA EAST CAPE) IS PRESCRIBED AS FLW:\r\nEXCLUDING THAT AREA CO-INCIDENT WITH NZR401,\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n39 06 00.00 S 177 36 32.80 E\r\n39 06 00.00 S 177 54 00.00 E\r\n38 59 00.20 S 178 13 59.90 E\r\n38 54 00.00 S 178 54 00.00 E\r\n39 30 00.00 S 178 54 00.00 E\r\n39 36 00.00 S 177 45 00.00 E\r\n39 12 00.00 S 177 24 00.00 E\r\n39 06 00.00 S 177 36 32.80 E\r\nACTIVITY: ROCKET LAUNCH\r\nUSING AGENCY: ROCKET LAB LIMITED,\r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A\r\nDELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
-"reason": "ROCKET LAUNCH",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82339559",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-06T00:57:03.240Z"
-},
-{
-"areas": [
-[
-[
--36.5,
--177.5
-],
-[
--34.25,
--171.5
-],
-[
--35.75,
--170.5
-],
-[
--38.0,
--176.75
-],
-[
--36.5,
--177.5
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-08T04:20:00.000Z",
-"start": "2026-09-08T01:45:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-NZZO-B4421/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-b81156da-c0b8-46c8-aebd-8af8d2be83cd",
-"title": "Happily Ever Faster (BlackSky Gen-3 5)"
-}
-],
-"markers": [],
-"name": "B4421/26",
-"page": "https://space-notices.com/notice/notam-NZZO-B4421%2F26",
-"raw": "B4421/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3612S17359W174\r\nA) NZZO B) 2609080145 C) 2609080420\r\nE) TEMPO DANGER AREA NZD026 (AUCKLAND OCEANIC FIR) IS PRESCRIBED\r\nAS FLW: ALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n36 30 00.00 S 177 30 00.00 W\r\n34 15 00.00 S 171 30 00.00 W\r\n35 45 00.00 S 170 30 00.00 W\r\n38 00 00.00 S 176 45 00.00 W\r\n36 30 00.00 S 177 30 00.00 W\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED,\r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A\r\nDELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
-"reason": "ROCKET DEBRIS RETURN",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82339574",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-06T01:04:34.116Z"
-},
-{
-"areas": [
-[
-[
--32.5,
--165.0
-],
-[
--30.5,
--160.0
-],
-[
--32.0,
--159.0
-],
-[
--34.0,
--164.0
-],
-[
--32.5,
--165.0
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-08T04:20:00.000Z",
-"start": "2026-09-08T01:45:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-NZZO-B4422/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-b81156da-c0b8-46c8-aebd-8af8d2be83cd",
-"title": "Happily Ever Faster (BlackSky Gen-3 5)"
-}
-],
-"markers": [],
-"name": "B4422/26",
-"page": "https://space-notices.com/notice/notam-NZZO-B4422%2F26",
-"raw": "B4422/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3217S16200W156\r\nA) NZZO B) 2609080145 C) 2609080420\r\nE) TEMPO DANGER AREA NZD027 (AUCKLAND OCEANIC FIR) IS PRESCRIBED\r\nAS FLW: ALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n32 30 00.00 S 165 00 00.00 W\r\n30 30 00.00 S 160 00 00.00 W\r\n32 00 00.00 S 159 00 00.00 W\r\n34 00 00.00 S 164 00 00.00 W\r\n32 30 00.00 S 165 00 00.00 W\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED,\r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A\r\nDELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
-"reason": "ROCKET DEBRIS RETURN",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82339591",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-06T01:04:41.894Z"
-},
-{
-"areas": [
-[
-[
--39.1,
-177.6
-],
-[
--39.1,
-177.9
-],
-[
--38.9833,
-178.2167
-],
-[
--38.9,
-178.9
-],
-[
--39.5,
-178.9
-],
-[
--39.6,
-177.75
-],
-[
--39.2,
-177.4
-],
-[
--39.1,
-177.6
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-09T04:20:00.000Z",
-"start": "2026-09-09T01:30:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-NZZC-B4424/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-b81156da-c0b8-46c8-aebd-8af8d2be83cd",
-"title": "Happily Ever Faster (BlackSky Gen-3 5)"
-}
-],
-"markers": [],
-"name": "B4424/26",
-"page": "https://space-notices.com/notice/notam-NZZC-B4424%2F26",
-"raw": "B4424/26 NOTAMN\r\nQ) NZZC/QRDCA/IV/BO /W /000/999/3912S17812E038\r\nA) NZZC B) 2609090130 C) 2609090420\r\nE) TEMPO DANGER AREA NZD025 (MAHIA EAST CAPE) IS PRESCRIBED AS FLW:\r\nEXCLUDING THAT AREA CO-INCIDENT WITH NZR401,\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n39 06 00.00 S 177 36 32.80 E\r\n39 06 00.00 S 177 54 00.00 E\r\n38 59 00.20 S 178 13 59.90 E\r\n38 54 00.00 S 178 54 00.00 E\r\n39 30 00.00 S 178 54 00.00 E\r\n39 36 00.00 S 177 45 00.00 E\r\n39 12 00.00 S 177 24 00.00 E\r\n39 06 00.00 S 177 36 32.80 E\r\nACTIVITY: ROCKET LAUNCH\r\nUSING AGENCY: ROCKET LAB LIMITED,\r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A\r\nDELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
-"reason": "ROCKET LAUNCH",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82339646",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-06T01:21:09.241Z"
-},
-{
-"areas": [
-[
-[
--36.5,
--177.5
-],
-[
--34.25,
--171.5
-],
-[
--35.75,
--170.5
-],
-[
--38.0,
--176.75
-],
-[
--36.5,
--177.5
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-09T04:20:00.000Z",
-"start": "2026-09-09T01:30:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-NZZO-B4425/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-b81156da-c0b8-46c8-aebd-8af8d2be83cd",
-"title": "Happily Ever Faster (BlackSky Gen-3 5)"
-}
-],
-"markers": [],
-"name": "B4425/26",
-"page": "https://space-notices.com/notice/notam-NZZO-B4425%2F26",
-"raw": "B4425/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3612S17359W174\r\nA) NZZO B) 2609090130 C) 2609090420\r\nE) TEMPO DANGER AREA NZD026 (AUCKLAND OCEANIC FIR) IS PRESCRIBED\r\nAS FLW: ALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n36 30 00.00 S 177 30 00.00 W\r\n34 15 00.00 S 171 30 00.00 W\r\n35 45 00.00 S 170 30 00.00 W\r\n38 00 00.00 S 176 45 00.00 W\r\n36 30 00.00 S 177 30 00.00 W\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED,\r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A\r\nDELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
-"reason": "ROCKET DEBRIS RETURN",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82339656",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-06T01:22:35.336Z"
-},
-{
-"areas": [
-[
-[
--32.5,
--165.0
-],
-[
--30.5,
--160.0
-],
-[
--32.0,
--159.0
-],
-[
--34.0,
--164.0
-],
-[
--32.5,
--165.0
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-09T04:20:00.000Z",
-"start": "2026-09-09T01:30:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-NZZO-B4426/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-b81156da-c0b8-46c8-aebd-8af8d2be83cd",
-"title": "Happily Ever Faster (BlackSky Gen-3 5)"
-}
-],
-"markers": [],
-"name": "B4426/26",
-"page": "https://space-notices.com/notice/notam-NZZO-B4426%2F26",
-"raw": "B4426/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3217S16200W156\r\nA) NZZO B) 2609090130 C) 2609090420\r\nE) TEMPO DANGER AREA NZD027 (AUCKLAND OCEANIC FIR) IS PRESCRIBED\r\nAS FLW: ALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n32 30 00.00 S 165 00 00.00 W\r\n30 30 00.00 S 160 00 00.00 W\r\n32 00 00.00 S 159 00 00.00 W\r\n34 00 00.00 S 164 00 00.00 W\r\n32 30 00.00 S 165 00 00.00 W\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED,\r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A\r\nDELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
-"reason": "ROCKET DEBRIS RETURN",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82339661",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-06T01:28:34.868Z"
-},
-{
-"areas": [
-[
-[
 39.15,
 107.0833
 ],
@@ -2185,174 +1849,6 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-07T01:36:29.800Z"
-},
-{
-"areas": [
-[
-[
--39.1,
-177.6
-],
-[
--39.1,
-177.9
-],
-[
--38.9833,
-178.2167
-],
-[
--38.9,
-178.9
-],
-[
--39.5,
-178.9
-],
-[
--39.6,
-177.75
-],
-[
--39.2,
-177.4
-],
-[
--39.1,
-177.6
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-10T04:20:00.000Z",
-"start": "2026-09-10T01:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-NZZC-B4456/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-b81156da-c0b8-46c8-aebd-8af8d2be83cd",
-"title": "Happily Ever Faster (BlackSky Gen-3 5)"
-}
-],
-"markers": [],
-"name": "B4456/26",
-"page": "https://space-notices.com/notice/notam-NZZC-B4456%2F26",
-"raw": "B4456/26 NOTAMN\r\nQ) NZZC/QRDCA/IV/BO /W /000/999/3912S17812E038\r\nA) NZZC B) 2609100100 C) 2609100420\r\nE) TEMPO DANGER AREA NZD025 (MAHIA EAST CAPE) IS PRESCRIBED AS FLW:\r\nEXCLUDING THAT AREA CO-INCIDENT WITH NZR401,\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n39 06 00.00 S 177 36 32.80 E\r\n39 06 00.00 S 177 54 00.00 E\r\n38 59 00.20 S 178 13 59.90 E\r\n38 54 00.00 S 178 54 00.00 E\r\n39 30 00.00 S 178 54 00.00 E\r\n39 36 00.00 S 177 45 00.00 E\r\n39 12 00.00 S 177 24 00.00 E\r\n39 06 00.00 S 177 36 32.80 E\r\nACTIVITY: ROCKET LAUNCH\r\nUSING AGENCY: ROCKET LAB LIMITED,\r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A\r\nDELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
-"reason": "ROCKET LAUNCH",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82344646",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-07T00:26:57.768Z"
-},
-{
-"areas": [
-[
-[
--36.5,
--177.5
-],
-[
--34.25,
--171.5
-],
-[
--35.75,
--170.5
-],
-[
--38.0,
--176.75
-],
-[
--36.5,
--177.5
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-10T04:20:00.000Z",
-"start": "2026-09-10T01:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-NZZO-B4457/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-b81156da-c0b8-46c8-aebd-8af8d2be83cd",
-"title": "Happily Ever Faster (BlackSky Gen-3 5)"
-}
-],
-"markers": [],
-"name": "B4457/26",
-"page": "https://space-notices.com/notice/notam-NZZO-B4457%2F26",
-"raw": "B4457/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3612S17359W174\r\nA) NZZO B) 2609100100 C) 2609100420\r\nE) TEMPO DANGER AREA NZD026 (AUCKLAND OCEANIC FIR) IS PRESCRIBED\r\nAS FLW: ALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n36 30 00.00 S 177 30 00.00 W\r\n34 15 00.00 S 171 30 00.00 W\r\n35 45 00.00 S 170 30 00.00 W\r\n38 00 00.00 S 176 45 00.00 W\r\n36 30 00.00 S 177 30 00.00 W\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED,\r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A\r\nDELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
-"reason": "ROCKET DEBRIS RETURN",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82344647",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-07T00:33:21.370Z"
-},
-{
-"areas": [
-[
-[
--32.5,
--165.0
-],
-[
--30.5,
--160.0
-],
-[
--32.0,
--159.0
-],
-[
--34.0,
--164.0
-],
-[
--32.5,
--165.0
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-10T04:20:00.000Z",
-"start": "2026-09-10T01:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-NZZO-B4458/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-b81156da-c0b8-46c8-aebd-8af8d2be83cd",
-"title": "Happily Ever Faster (BlackSky Gen-3 5)"
-}
-],
-"markers": [],
-"name": "B4458/26",
-"page": "https://space-notices.com/notice/notam-NZZO-B4458%2F26",
-"raw": "B4458/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3217S16200W156\r\nA) NZZO B) 2609100100 C) 2609100420\r\nE) TEMPO DANGER AREA NZD027 (AUCKLAND OCEANIC FIR) IS PRESCRIBED\r\nAS FLW: ALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n32 30 00.00 S 165 00 00.00 W\r\n30 30 00.00 S 160 00 00.00 W\r\n32 00 00.00 S 159 00 00.00 W\r\n34 00 00.00 S 164 00 00.00 W\r\n32 30 00.00 S 165 00 00.00 W\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED,\r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A\r\nDELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
-"reason": "ROCKET DEBRIS RETURN",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82344678",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-07T00:33:28.931Z"
 },
 {
 "areas": [
@@ -2565,342 +2061,6 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-09T00:49:00.860Z"
-},
-{
-"areas": [
-[
-[
--39.1,
-177.6
-],
-[
--39.1,
-177.9
-],
-[
--38.9833,
-178.2167
-],
-[
--38.9,
-178.9
-],
-[
--39.5,
-178.9
-],
-[
--39.6,
-177.75
-],
-[
--39.2,
-177.4
-],
-[
--39.1,
-177.6
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-11T04:20:00.000Z",
-"start": "2026-09-11T00:30:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-NZZC-B4513/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-b81156da-c0b8-46c8-aebd-8af8d2be83cd",
-"title": "Happily Ever Faster (BlackSky Gen-3 5)"
-}
-],
-"markers": [],
-"name": "B4513/26",
-"page": "https://space-notices.com/notice/notam-NZZC-B4513%2F26",
-"raw": "B4513/26 NOTAMN\r\nQ) NZZC/QRDCA/IV/BO /W /000/999/3912S17812E038\r\nA) NZZC B) 2609110030 C) 2609110420\r\nE) TEMPO DANGER AREA NZD025 (MAHIA EAST CAPE) IS PRESCRIBED AS FLW:\r\nEXCLUDING THAT AREA CO-INCIDENT WITH NZR401,\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n39 06 00.00 S 177 36 32.80 E\r\n39 06 00.00 S 177 54 00.00 E\r\n38 59 00.20 S 178 13 59.90 E\r\n38 54 00.00 S 178 54 00.00 E\r\n39 30 00.00 S 178 54 00.00 E\r\n39 36 00.00 S 177 45 00.00 E\r\n39 12 00.00 S 177 24 00.00 E\r\n39 06 00.00 S 177 36 32.80 E\r\nACTIVITY: ROCKET LAUNCH\r\nUSING AGENCY: ROCKET LAB LIMITED,\r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A\r\nDELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
-"reason": "ROCKET LAUNCH",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82365804",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-09T03:41:06.810Z"
-},
-{
-"areas": [
-[
-[
--36.5,
--177.5
-],
-[
--34.25,
--171.5
-],
-[
--35.75,
--170.5
-],
-[
--38.0,
--176.75
-],
-[
--36.5,
--177.5
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-11T04:20:00.000Z",
-"start": "2026-09-11T00:30:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-NZZO-B4514/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-b81156da-c0b8-46c8-aebd-8af8d2be83cd",
-"title": "Happily Ever Faster (BlackSky Gen-3 5)"
-}
-],
-"markers": [],
-"name": "B4514/26",
-"page": "https://space-notices.com/notice/notam-NZZO-B4514%2F26",
-"raw": "B4514/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3612S17359W174\r\nA) NZZO B) 2609110030 C) 2609110420\r\nE) TEMPO DANGER AREA NZD026 (AUCKLAND OCEANIC FIR) IS PRESCRIBED\r\nAS FLW: ALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n36 30 00.00 S 177 30 00.00 W\r\n34 15 00.00 S 171 30 00.00 W\r\n35 45 00.00 S 170 30 00.00 W\r\n38 00 00.00 S 176 45 00.00 W\r\n36 30 00.00 S 177 30 00.00 W\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED,\r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A\r\nDELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
-"reason": "ROCKET DEBRIS RETURN",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82365810",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-09T03:42:39.513Z"
-},
-{
-"areas": [
-[
-[
--32.5,
--165.0
-],
-[
--30.5,
--160.0
-],
-[
--32.0,
--159.0
-],
-[
--34.0,
--164.0
-],
-[
--32.5,
--165.0
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-11T04:20:00.000Z",
-"start": "2026-09-11T00:30:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-NZZO-B4515/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-b81156da-c0b8-46c8-aebd-8af8d2be83cd",
-"title": "Happily Ever Faster (BlackSky Gen-3 5)"
-}
-],
-"markers": [],
-"name": "B4515/26",
-"page": "https://space-notices.com/notice/notam-NZZO-B4515%2F26",
-"raw": "B4515/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3217S16200W156\r\nA) NZZO B) 2609110030 C) 2609110420\r\nE) TEMPO DANGER AREA NZD027 (AUCKLAND OCEANIC FIR) IS PRESCRIBED\r\nAS FLW: ALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n32 30 00.00 S 165 00 00.00 W\r\n30 30 00.00 S 160 00 00.00 W\r\n32 00 00.00 S 159 00 00.00 W\r\n34 00 00.00 S 164 00 00.00 W\r\n32 30 00.00 S 165 00 00.00 W\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED,\r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A\r\nDELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
-"reason": "ROCKET DEBRIS RETURN",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82365820",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-09T03:48:39.373Z"
-},
-{
-"areas": [
-[
-[
--39.1,
-177.6
-],
-[
--39.1,
-177.9
-],
-[
--38.9833,
-178.2167
-],
-[
--38.9,
-178.9
-],
-[
--39.5,
-178.9
-],
-[
--39.6,
-177.75
-],
-[
--39.2,
-177.4
-],
-[
--39.1,
-177.6
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-12T04:05:00.000Z",
-"start": "2026-09-12T00:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-NZZC-B4528/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-b81156da-c0b8-46c8-aebd-8af8d2be83cd",
-"title": "Happily Ever Faster (BlackSky Gen-3 5)"
-}
-],
-"markers": [],
-"name": "B4528/26",
-"page": "https://space-notices.com/notice/notam-NZZC-B4528%2F26",
-"raw": "B4528/26 NOTAMN\r\nQ) NZZC/QRDCA/IV/BO /W /000/999/3912S17812E038\r\nA) NZZC B) 2609120000 C) 2609120405\r\nE) TEMPO DANGER AREA NZD025 (MAHIA EAST CAPE) IS PRESCRIBED AS FLW:\r\nEXCLUDING THAT AREA CO-INCIDENT WITH NZR401,\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n39 06 00.00 S 177 36 32.80 E\r\n39 06 00.00 S 177 54 00.00 E\r\n38 59 00.20 S 178 13 59.90 E\r\n38 54 00.00 S 178 54 00.00 E\r\n39 30 00.00 S 178 54 00.00 E\r\n39 36 00.00 S 177 45 00.00 E\r\n39 12 00.00 S 177 24 00.00 E\r\n39 06 00.00 S 177 36 32.80 E\r\nACTIVITY: ROCKET LAUNCH\r\nUSING AGENCY: ROCKET LAB LIMITED,\r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A\r\nDELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
-"reason": "ROCKET LAUNCH",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82378142",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-10T02:22:38.292Z"
-},
-{
-"areas": [
-[
-[
--36.5,
--177.5
-],
-[
--34.25,
--171.5
-],
-[
--35.75,
--170.5
-],
-[
--38.0,
--176.75
-],
-[
--36.5,
--177.5
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-12T04:05:00.000Z",
-"start": "2026-09-12T00:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-NZZO-B4529/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-b81156da-c0b8-46c8-aebd-8af8d2be83cd",
-"title": "Happily Ever Faster (BlackSky Gen-3 5)"
-}
-],
-"markers": [],
-"name": "B4529/26",
-"page": "https://space-notices.com/notice/notam-NZZO-B4529%2F26",
-"raw": "B4529/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3612S17359W174\r\nA) NZZO B) 2609120000 C) 2609120405\r\nE) TEMPO DANGER AREA NZD026 (AUCKLAND OCEANIC FIR) IS PRESCRIBED\r\nAS FLW: ALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n36 30 00.00 S 177 30 00.00 W\r\n34 15 00.00 S 171 30 00.00 W\r\n35 45 00.00 S 170 30 00.00 W\r\n38 00 00.00 S 176 45 00.00 W\r\n36 30 00.00 S 177 30 00.00 W\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED,\r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A\r\nDELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
-"reason": "ROCKET DEBRIS RETURN",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82378203",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-10T02:46:46.037Z"
-},
-{
-"areas": [
-[
-[
--32.5,
--165.0
-],
-[
--30.5,
--160.0
-],
-[
--32.0,
--159.0
-],
-[
--34.0,
--164.0
-],
-[
--32.5,
--165.0
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-12T04:05:00.000Z",
-"start": "2026-09-12T00:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-NZZO-B4530/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-b81156da-c0b8-46c8-aebd-8af8d2be83cd",
-"title": "Happily Ever Faster (BlackSky Gen-3 5)"
-}
-],
-"markers": [],
-"name": "B4530/26",
-"page": "https://space-notices.com/notice/notam-NZZO-B4530%2F26",
-"raw": "B4530/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3217S16200W156\r\nA) NZZO B) 2609120000 C) 2609120405\r\nE) TEMPO DANGER AREA NZD027 (AUCKLAND OCEANIC FIR) IS PRESCRIBED\r\nAS FLW: ALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n32 30 00.00 S 165 00 00.00 W\r\n30 30 00.00 S 160 00 00.00 W\r\n32 00 00.00 S 159 00 00.00 W\r\n34 00 00.00 S 164 00 00.00 W\r\n32 30 00.00 S 165 00 00.00 W\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED,\r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A\r\nDELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
-"reason": "ROCKET DEBRIS RETURN",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82378219",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-10T02:46:54.233Z"
 },
 {
 "areas": [
@@ -6660,258 +5820,6 @@
 "name": "US National Geospatial-Intelligence Agency"
 },
 "updated": "2026-09-08T06:56:05.840Z"
-},
-{
-"areas": [
-[
-[
--39.2,
-177.8
-],
-[
--39.15,
-178.1
-],
-[
--39.15,
-178.3
-],
-[
--39.25,
-178.3
-],
-[
--39.4,
-177.9
-],
-[
--39.25,
-177.75
-],
-[
--39.2,
-177.8
-]
-],
-[
-[
--36.5,
--177.5
-],
-[
--34.25,
--171.5
-],
-[
--35.75,
--170.5
-],
-[
--38.0,
--176.75
-],
-[
--36.5,
--177.5
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-07T23:30:00.000Z",
-"start": "2026-09-07T00:01:00.000Z"
-},
-{
-"end": "2026-09-08T23:30:00.000Z",
-"start": "2026-09-08T00:01:00.000Z"
-},
-{
-"end": "2026-09-09T23:30:00.000Z",
-"start": "2026-09-09T00:01:00.000Z"
-},
-{
-"end": "2026-09-10T23:30:00.000Z",
-"start": "2026-09-10T00:01:00.000Z"
-},
-{
-"end": "2026-09-11T23:30:00.000Z",
-"start": "2026-09-11T00:01:00.000Z"
-},
-{
-"end": "2026-09-12T23:30:00.000Z",
-"start": "2026-09-12T00:01:00.000Z"
-},
-{
-"end": "2026-09-13T23:30:00.000Z",
-"start": "2026-09-13T00:01:00.000Z"
-},
-{
-"end": "2026-09-14T23:30:00.000Z",
-"start": "2026-09-14T00:01:00.000Z"
-},
-{
-"end": "2026-09-15T23:30:00.000Z",
-"start": "2026-09-15T00:01:00.000Z"
-},
-{
-"end": "2026-09-16T23:30:00.000Z",
-"start": "2026-09-16T00:01:00.000Z"
-},
-{
-"end": "2026-09-17T23:30:00.000Z",
-"start": "2026-09-17T00:01:00.000Z"
-},
-{
-"end": "2026-09-18T23:30:00.000Z",
-"start": "2026-09-18T00:01:00.000Z"
-},
-{
-"end": "2026-09-19T23:30:00.000Z",
-"start": "2026-09-19T00:01:00.000Z"
-}
-],
-"height": null,
-"id": "nav-warning-HYDROPAC 2516/26",
-"kind": "NAVWARNING",
-"launches": [
-{
-"id": "launch-b81156da-c0b8-46c8-aebd-8af8d2be83cd",
-"title": "Happily Ever Faster (BlackSky Gen-3 5)"
-}
-],
-"markers": [],
-"name": "HYDROPAC 2516/26",
-"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202516%2F26",
-"raw": "030636Z SEP 26\nHYDROPAC 2516/26.\nSOUTH PACIFIC.\nNEW ZEALAND.\n1. HAZARDOUS OPERATIONS 0001Z TO 2330Z \n   DAILY 07 THRU 19 SEP:\n   A. ROCKET LAUNCHING IN AREA BOUND BY\n      39-12.00S 177-48.00E, 39-09.00S 178-06.00E,\n      39-09.00S 178-18.00E, 39-15.00S 178-18.00E,\n      39-24.00S 177-54.00E, 39-15.00S 177-45.00E.\n   B. SPACE DEBRIS IN AREA BOUND BY\n      36-30.00S 177-30.00W, 34-15.00S 171-30.00W,\n      35-45.00S 170-30.00W, 38-00.00S 176-45.00W.\n2. CANCEL THIS MSG 200030Z SEP 26.//\n\n\n",
-"reason": "HAZARDOUS OPERATIONS",
-"source": {
-"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2516&createdOn=26&category=14&output=html",
-"name": "US National Geospatial-Intelligence Agency"
-},
-"updated": "2026-09-11T04:39:48.007Z"
-},
-{
-"areas": [
-[
-[
--36.5,
--177.5
-],
-[
--34.25,
--171.5
-],
-[
--35.75,
--170.5
-],
-[
--38.0,
--176.75
-],
-[
--36.5,
--177.5
-]
-],
-[
-[
--32.5,
--165.0
-],
-[
--30.5,
--160.0
-],
-[
--32.0,
--159.0
-],
-[
--34.0,
--164.0
-],
-[
--32.5,
--165.0
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-07T23:30:00.000Z",
-"start": "2026-09-07T00:01:00.000Z"
-},
-{
-"end": "2026-09-08T23:30:00.000Z",
-"start": "2026-09-08T00:01:00.000Z"
-},
-{
-"end": "2026-09-09T23:30:00.000Z",
-"start": "2026-09-09T00:01:00.000Z"
-},
-{
-"end": "2026-09-10T23:30:00.000Z",
-"start": "2026-09-10T00:01:00.000Z"
-},
-{
-"end": "2026-09-11T23:30:00.000Z",
-"start": "2026-09-11T00:01:00.000Z"
-},
-{
-"end": "2026-09-12T23:30:00.000Z",
-"start": "2026-09-12T00:01:00.000Z"
-},
-{
-"end": "2026-09-13T23:30:00.000Z",
-"start": "2026-09-13T00:01:00.000Z"
-},
-{
-"end": "2026-09-14T23:30:00.000Z",
-"start": "2026-09-14T00:01:00.000Z"
-},
-{
-"end": "2026-09-15T23:30:00.000Z",
-"start": "2026-09-15T00:01:00.000Z"
-},
-{
-"end": "2026-09-16T23:30:00.000Z",
-"start": "2026-09-16T00:01:00.000Z"
-},
-{
-"end": "2026-09-17T23:30:00.000Z",
-"start": "2026-09-17T00:01:00.000Z"
-},
-{
-"end": "2026-09-18T23:30:00.000Z",
-"start": "2026-09-18T00:01:00.000Z"
-},
-{
-"end": "2026-09-19T23:30:00.000Z",
-"start": "2026-09-19T00:01:00.000Z"
-}
-],
-"height": null,
-"id": "nav-warning-HYDROPAC 2517/26",
-"kind": "NAVWARNING",
-"launches": [
-{
-"id": "launch-b81156da-c0b8-46c8-aebd-8af8d2be83cd",
-"title": "Happily Ever Faster (BlackSky Gen-3 5)"
-}
-],
-"markers": [],
-"name": "HYDROPAC 2517/26",
-"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202517%2F26",
-"raw": "030656Z SEP 26\nHYDROPAC 2517/26.\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   0001Z TO 2330Z DAILY 07 THRU 19 SEP\n   IN AREAS BOUND BY:\n   A. 36-30.00S 177-30.00W, 34-15.00S 171-30.00W,\n      35-45.00S 170-30.00W, 38-00.00S 176-45.00W.\n   B. 32-30.00S 165-00.00W, 30-30.00S 160-00.00W,\n      32-00.00S 159-00.00W, 34-00.00S 164-00.00W.\n2. CANCEL THIS MSG 200030Z SEP 26.//\n\n",
-"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
-"source": {
-"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2517&createdOn=26&category=14&output=html",
-"name": "US National Geospatial-Intelligence Agency"
-},
-"updated": "2026-09-11T04:46:09.425Z"
 },
 {
 "areas": [
@@ -11440,7 +10348,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82542648",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-23T12:52:12.090Z"
+"updated": "2026-09-25T10:30:18.577Z"
 },
 {
 "areas": [
@@ -11492,7 +10400,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82542663",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-23T12:52:12.090Z"
+"updated": "2026-09-25T10:32:30.617Z"
 },
 {
 "areas": [
@@ -11548,7 +10456,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82548508",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-24T18:59:45.612Z"
+"updated": "2026-09-25T19:25:07.336Z"
 },
 {
 "areas": [
@@ -12318,7 +11226,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82539199",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-24T18:59:45.612Z"
+"updated": "2026-09-25T00:26:01.388Z"
 },
 {
 "areas": [
@@ -12866,7 +11774,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82548805",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-24T18:59:45.612Z"
+"updated": "2026-09-25T20:02:50.663Z"
 },
 {
 "areas": [
@@ -16028,6 +14936,106 @@
 "areas": [
 [
 [
+20.0,
+-82.0
+],
+[
+20.0,
+-78.9167
+],
+[
+19.1167,
+-76.5
+],
+[
+18.5,
+-75.0
+],
+[
+17.0,
+-73.0
+],
+[
+16.9333,
+-73.05
+],
+[
+17.0,
+-73.2
+],
+[
+17.4,
+-74.2833
+],
+[
+18.6,
+-77.2
+],
+[
+19.4333,
+-80.2
+],
+[
+20.0,
+-82.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T14:14:00.000Z",
+"start": "2026-09-28T12:15:00.000Z"
+},
+{
+"end": "2026-09-29T14:14:00.000Z",
+"start": "2026-09-29T12:15:00.000Z"
+},
+{
+"end": "2026-09-30T14:14:00.000Z",
+"start": "2026-09-30T12:15:00.000Z"
+},
+{
+"end": "2026-10-01T14:14:00.000Z",
+"start": "2026-10-01T12:15:00.000Z"
+},
+{
+"end": "2026-10-02T14:14:00.000Z",
+"start": "2026-10-02T12:15:00.000Z"
+},
+{
+"end": "2026-10-03T14:14:00.000Z",
+"start": "2026-10-03T12:15:00.000Z"
+},
+{
+"end": "2026-10-04T14:14:00.000Z",
+"start": "2026-10-04T12:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MKJK-A0388/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "A0388/26",
+"page": "https://space-notices.com/notice/notam-MKJK-A0388%2F26",
+"raw": "A0388/26 NOTAMN\r\nQ) MKJK/QRTCA/IV/BO/W/000/999/1713N07808W999\r\nA) MKJK\r\nB) 2609281215 C) 2610041414\r\nD) DAILY 1215-1414\r\nE) RESTRICTED AREA (DEBRIS RESPONSE AREA) ACT DUE LAUNCH OF SPACEX STARSHIP FLT-14; \r\nALL FLT PROHIBITED WI THE FLW COORD: \r\n2000N 08200W\r\n2000N 07855W\r\n1907N 07630W\r\n1830N 07500W\r\n1700N 07300W\r\n1656N 07303W\r\n1700N 07312W\r\n1724N 07417W\r\n1836N 07712W\r\n1926N 08012W\r\n2000N 08200W.\r\nF) SFC G) UNL",
+"reason": "ACT DUE LAUNCH OF SPACEX STARSHIP FLT-14",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82549804",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-25T20:02:50.693Z"
+},
+{
+"areas": [
+[
+[
 23.55,
 -91.45
 ],
@@ -17288,7 +16296,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82546584",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-24T18:59:45.612Z"
+"updated": "2026-09-25T16:10:56.245Z"
 },
 {
 "areas": [
@@ -17364,7 +16372,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82547554",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-24T18:59:45.612Z"
+"updated": "2026-09-25T17:41:01.239Z"
 },
 {
 "areas": [
@@ -20423,6 +19431,274 @@
 "updated": "2026-09-21T06:34:40.890Z"
 },
 {
+"areas": [
+[
+[
+30.35,
+-119.933333
+],
+[
+30.333333,
+-119.516667
+],
+[
+29.783333,
+-118.816667
+],
+[
+29.416667,
+-118.75
+],
+[
+28.916667,
+-119.266667
+],
+[
+28.933333,
+-119.683333
+],
+[
+29.5,
+-120.383333
+],
+[
+29.866667,
+-120.45
+],
+[
+30.35,
+-119.933333
+]
+],
+[
+[
+30.383333,
+-119.866667
+],
+[
+31.333333,
+-120.05
+],
+[
+32.533333,
+-120.233333
+],
+[
+34.55,
+-120.7
+],
+[
+34.666667,
+-120.633333
+],
+[
+34.633333,
+-120.45
+],
+[
+32.5,
+-120.15
+],
+[
+30.683333,
+-119.8
+],
+[
+30.4,
+-119.816667
+],
+[
+30.383333,
+-119.866667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-05T09:11:00.000Z",
+"start": "2026-10-05T08:06:00.000Z"
+},
+{
+"end": "2026-10-06T09:04:00.000Z",
+"start": "2026-10-06T07:59:00.000Z"
+},
+{
+"end": "2026-10-07T08:56:00.000Z",
+"start": "2026-10-07T07:51:00.000Z"
+},
+{
+"end": "2026-10-08T08:49:00.000Z",
+"start": "2026-10-08T07:44:00.000Z"
+},
+{
+"end": "2026-10-09T08:41:00.000Z",
+"start": "2026-10-09T07:36:00.000Z"
+},
+{
+"end": "2026-10-10T08:34:00.000Z",
+"start": "2026-10-10T07:29:00.000Z"
+},
+{
+"end": "2026-10-11T08:26:00.000Z",
+"start": "2026-10-11T07:21:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SW BNM 9111-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "CGD-SW BNM 9111-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209111-26",
+"raw": "Launch Hazard Area\nMission: Space X SDA-T1A\nMessage Id: CGD-SW BNM 9111-26\n\n\n05/0806 OCT 26 to 05/0911 OCT 26. \n06/0759 OCT 26 to 06/0904 OCT 26. \n07/0751 OCT 26 to 07/0856 OCT 26. \n08/0744 OCT 26 to 08/0849 OCT 26. \n09/0736 OCT 26 to 09/0841 OCT 26. \n10/0729 OCT 26 to 10/0834 OCT 26. \n11/0721 OCT 26 to 11/0826 OCT 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
+"reason": "Launch Hazard Area - Space X SDA-T1A",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-09-25T21:20:36.673Z"
+},
+{
+"areas": [
+[
+[
+30.383333,
+-119.866667
+],
+[
+31.333333,
+-120.05
+],
+[
+32.533333,
+-120.233333
+],
+[
+34.55,
+-120.7
+],
+[
+34.666667,
+-120.633333
+],
+[
+34.633333,
+-120.45
+],
+[
+32.5,
+-120.15
+],
+[
+30.683333,
+-119.8
+],
+[
+30.4,
+-119.816667
+],
+[
+30.383333,
+-119.866667
+]
+],
+[
+[
+30.35,
+-119.933333
+],
+[
+30.333333,
+-119.516667
+],
+[
+29.783333,
+-118.816667
+],
+[
+29.416667,
+-118.75
+],
+[
+28.916667,
+-119.266667
+],
+[
+28.933333,
+-119.683333
+],
+[
+29.5,
+-120.383333
+],
+[
+29.866667,
+-120.45
+],
+[
+30.35,
+-119.933333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-05T09:11:00.000Z",
+"start": "2026-10-05T08:06:00.000Z"
+},
+{
+"end": "2026-10-06T09:04:00.000Z",
+"start": "2026-10-06T07:59:00.000Z"
+},
+{
+"end": "2026-10-07T08:56:00.000Z",
+"start": "2026-10-07T07:51:00.000Z"
+},
+{
+"end": "2026-10-08T08:49:00.000Z",
+"start": "2026-10-08T07:44:00.000Z"
+},
+{
+"end": "2026-10-09T08:41:00.000Z",
+"start": "2026-10-09T07:36:00.000Z"
+},
+{
+"end": "2026-10-10T08:34:00.000Z",
+"start": "2026-10-10T07:29:00.000Z"
+},
+{
+"end": "2026-10-11T08:26:00.000Z",
+"start": "2026-10-11T07:21:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-54442",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "54442",
+"page": "https://space-notices.com/notice/lnm-54442",
+"raw": "$22",
+"reason": "Hazardous operations will be conducted for Space X SDA-T1A Launch Operations",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-09-25T21:00:41.438Z"
+},
+{
 "areas": [],
 "cancelled": false,
 "dates": [
@@ -23080,7 +22356,7 @@
 "link": "https://www.spacex.com/launches/crew13",
 "name": "SpaceX Website"
 },
-"updated": "2026-09-22T22:07:21.403Z"
+"updated": "2026-09-25T13:27:21.838Z"
 },
 {
 "areas": [],
@@ -23368,7 +22644,7 @@
 "link": "https://www.spacex.com/launches/transporter18",
 "name": "SpaceX Website"
 },
-"updated": "2026-09-24T20:57:51.533Z"
+"updated": "2026-09-25T00:40:23.593Z"
 },
 {
 "areas": [],
@@ -23410,17 +22686,17 @@
 "markers": [],
 "name": "SpaceX Mission Page",
 "page": "https://space-notices.com/notice/infopage-spacex-ussf385",
-"raw": "SpaceX is targeting Saturday, September 26 for a Falcon 9 launch of the USSF-385 mission from Space Launch Complex 4E (SLC-4E) at Vandenberg Space Force Base in California. The three-hour launch window opens at 4:56 a.m. PT. If needed, there is a backup opportunity on Sunday, September 27 at 5:49 a.m. PT. \n\nA live webcast of the USSF-385 mission will begin about 10 minutes prior to liftoff, which you can watch here and on X @SpaceX. \n\nThis will be the 10th flight for the first stage booster supporting this mission, which previously launched NROL-95 and eight Starlink missions. Following stage separation, the first stage will land on the Of Course I Still Love You droneship, which will be stationed in the Pacific Ocean.\n\nThere is the possibility that residents of Santa Barbara, San Luis Obispo, and Ventura counties may hear  one or more sonic booms during the launch, but what residents experience will depend on weather and other conditions.",
+"raw": "SpaceX is targeting Saturday, September 26 for a Falcon 9 launch of the USSF-385 mission from Space Launch Complex 4E (SLC-4E) at Vandenberg Space Force Base in California. The three-hour launch window opens at 7:00 a.m. PT. If needed, there is a backup opportunity on Sunday, September 27 at 5:49 a.m. PT. \n\nA live webcast of the USSF-385 mission will begin about 10 minutes prior to liftoff, which you can watch here and on X @SpaceX. \n\nThis will be the 10th flight for the first stage booster supporting this mission, which previously launched NROL-95 and eight Starlink missions. Following stage separation, the first stage will land on the Of Course I Still Love You droneship, which will be stationed in the Pacific Ocean.\n\nThere is the possibility that residents of Santa Barbara, San Luis Obispo, and Ventura counties may hear  one or more sonic booms during the launch, but what residents experience will depend on weather and other conditions.",
 "reason": null,
 "source": {
 "link": "https://www.spacex.com/launches/ussf385",
 "name": "SpaceX Website"
 },
-"updated": "2026-09-16T17:14:29.503Z"
+"updated": "2026-09-25T21:57:23.563Z"
 }
 ],
 "pending": 0,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 1239
+"total_known": 1242
 }
