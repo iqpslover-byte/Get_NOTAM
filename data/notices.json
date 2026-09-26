@@ -1,6 +1,6 @@
 {
-"count": 258,
-"generated_utc": "2026-09-26T18:44:12Z",
+"count": 260,
+"generated_utc": "2026-09-26T22:13:17Z",
 "notices": [
 {
 "areas": [
@@ -9842,7 +9842,7 @@
 "link": "https://tfr.faa.gov/tfr3/?page=detail_6_5573",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-25T20:02:50.693Z"
+"updated": "2026-09-26T02:02:50.171Z"
 },
 {
 "areas": [
@@ -11753,7 +11753,7 @@
 "link": "https://tfr.faa.gov/tfr3/?page=detail_6_5574",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-25T20:02:50.693Z"
+"updated": "2026-09-26T02:02:58.398Z"
 },
 {
 "areas": [],
@@ -11846,7 +11846,7 @@
 "link": "https://tfr.faa.gov/tfr3/?page=detail_6_5575",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-25T20:02:50.693Z"
+"updated": "2026-09-26T02:08:50.471Z"
 },
 {
 "areas": [
@@ -14432,7 +14432,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82549804",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-25T20:02:50.693Z"
+"updated": "2026-09-25T22:42:30.455Z"
 },
 {
 "areas": [
@@ -14620,7 +14620,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82553794",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-25T20:02:50.693Z"
+"updated": "2026-09-26T14:10:06.294Z"
 },
 {
 "areas": [
@@ -17325,6 +17325,174 @@
 "areas": [
 [
 [
+-27.9833,
+-120.0
+],
+[
+-28.75,
+-112.65
+],
+[
+-28.3,
+-111.0
+],
+[
+-28.4333,
+-103.4333
+],
+[
+-26.9167,
+-101.65
+],
+[
+-26.5333,
+-99.2
+],
+[
+-27.9833,
+-120.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-29T01:08:00.000Z",
+"start": "2026-09-28T21:07:00.000Z"
+},
+{
+"end": "2026-09-30T01:08:00.000Z",
+"start": "2026-09-29T21:07:00.000Z"
+},
+{
+"end": "2026-10-01T01:08:00.000Z",
+"start": "2026-09-30T21:07:00.000Z"
+},
+{
+"end": "2026-10-02T01:08:00.000Z",
+"start": "2026-10-01T21:07:00.000Z"
+},
+{
+"end": "2026-10-03T01:08:00.000Z",
+"start": "2026-10-02T21:07:00.000Z"
+},
+{
+"end": "2026-10-04T01:08:00.000Z",
+"start": "2026-10-03T21:07:00.000Z"
+},
+{
+"end": "2026-10-05T01:08:00.000Z",
+"start": "2026-10-04T21:07:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-SCIZ-W3239/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "W3239/26",
+"page": "https://space-notices.com/notice/notam-SCIZ-W3239%2F26",
+"raw": "W3239/26 NOTAMN \r\nQ)SCIZ/QRDCA/IV/BO/W/000/999/2715S10932W580\r\nA)SCIZ B)2609282107 C)2610050108\r\nD)SEP 28- OCT 05 DLY  2107-0108\r\nE)ZONE ...D... IN WATERS PACIFIC OCEAN DUE TO SPACE VEHICLE RE-ENTRY\r\nAND SPLASHDOWN ACTIVITY.\r\nTHE AFECCTED AREA IS BOUNDED BY NXT GEO COORD:\r\n275905S 1200000W\r\n281100SS 1183300W\r\n284500S 1123900W\r\n281800S 1110000W\r\n282600S 1032600W\r\n265500S 1013900W\r\n263200S 0991200W\r\n234431S 1200000W\r\nINSTRUCTIONS SANTIAGO OCEANIC CONTROL 10024 KHZ FANS 1A EQUIPPED \r\nACFT LOG ON SCEZ\r\nINFO PROVIDED BY SPACE X\r\nF)SFC G)UNL",
+"reason": "SPACE VEHICLE RE-ENTRY AND SPLASHDOWN ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82555060",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-26T18:51:20.745Z"
+},
+{
+"areas": [
+[
+[
+-27.9833,
+-120.0
+],
+[
+-28.75,
+-112.65
+],
+[
+-28.3,
+-111.0
+],
+[
+-28.4333,
+-103.4333
+],
+[
+-26.9167,
+-101.65
+],
+[
+-26.5333,
+-99.2
+],
+[
+-27.9833,
+-120.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-29T01:08:00.000Z",
+"start": "2026-09-28T21:07:00.000Z"
+},
+{
+"end": "2026-09-30T01:08:00.000Z",
+"start": "2026-09-29T21:07:00.000Z"
+},
+{
+"end": "2026-10-01T01:08:00.000Z",
+"start": "2026-09-30T21:07:00.000Z"
+},
+{
+"end": "2026-10-02T01:08:00.000Z",
+"start": "2026-10-01T21:07:00.000Z"
+},
+{
+"end": "2026-10-03T01:08:00.000Z",
+"start": "2026-10-02T21:07:00.000Z"
+},
+{
+"end": "2026-10-04T01:08:00.000Z",
+"start": "2026-10-03T21:07:00.000Z"
+},
+{
+"end": "2026-10-05T01:08:00.000Z",
+"start": "2026-10-04T21:07:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-SCIZ-W3240/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "W3240/26",
+"page": "https://space-notices.com/notice/notam-SCIZ-W3240%2F26",
+"raw": "W3240/26 NOTAMN \r\nQ)SCIZ/QXXXX/IV/BO/W/000/999/2715S10932W580\r\nA)SCIZ B)2609282107 C)2610050108\r\nD)SEP 28- OCT 05 DLY  2107-0108\r\nE)ZONE ...D... IN WATERS PACIFIC OCEAN DUE TO SPACE VEHICLE RE-ENTRY\r\nAND SPLASHDOWN ACTIVITY.\r\nTHE AFECCTED AREA IS BOUNDED BY NXT GEO COORD:\r\n275905S 1200000W\r\n281100SS 1183300W\r\n284500S 1123900W\r\n281800S 1110000W\r\n282600S 1032600W\r\n265500S 1013900W\r\n263200S 0991200W\r\n234431S 1200000W\r\nINSTRUCTIONS SANTIAGO OCEANIC CONTROL 10024 KHZ FANS 1A EQUIPPED \r\nACFT LOG ON SCEZ\r\nINFO PROVIDED BY SPACE X\r\nF)SFC G)UNL",
+"reason": "SPACE X SPACE VEHICLE RE-ENTRY AND SPLASHDOWN ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82555077",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-26T18:53:41.902Z"
+},
+{
+"areas": [
+[
+[
 29.8,
 -117.65
 ],
@@ -18272,7 +18440,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=931&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-09-24T20:56:03.825Z"
+"updated": "2026-09-26T03:00:32.631Z"
 },
 {
 "areas": [
@@ -18356,7 +18524,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2791&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-09-24T20:56:03.825Z"
+"updated": "2026-09-26T03:17:38.422Z"
 },
 {
 "areas": [
@@ -18869,7 +19037,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2790&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-09-25T21:00:57.427Z"
+"updated": "2026-09-26T03:16:42.403Z"
 },
 {
 "areas": [
@@ -19071,7 +19239,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2729&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-09-21T06:19:28.373Z"
+"updated": "2026-09-26T03:49:11.112Z"
 },
 {
 "areas": [
@@ -19192,7 +19360,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2730&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-09-21T06:34:40.890Z"
+"updated": "2026-09-26T02:36:38.596Z"
 },
 {
 "areas": [
@@ -19594,7 +19762,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=671&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-09-25T21:20:52.601Z"
+"updated": "2026-09-26T03:15:24.423Z"
 },
 {
 "areas": [],
@@ -22584,17 +22752,17 @@
 "markers": [],
 "name": "SpaceX Mission Page",
 "page": "https://space-notices.com/notice/infopage-spacex-ussf385",
-"raw": "SpaceX is targeting Saturday, September 26 for a Falcon 9 launch of the USSF-385 mission from Space Launch Complex 4E (SLC-4E) at Vandenberg Space Force Base in California. The three-hour launch window opens at 7:00 a.m. PT. If needed, there is a backup opportunity on Sunday, September 27 at 5:49 a.m. PT. \n\nA live webcast of the USSF-385 mission will begin about 10 minutes prior to liftoff, which you can watch here and on X @SpaceX. \n\nThis will be the 10th flight for the first stage booster supporting this mission, which previously launched NROL-95 and eight Starlink missions. Following stage separation, the first stage will land on the Of Course I Still Love You droneship, which will be stationed in the Pacific Ocean.\n\nThere is the possibility that residents of Santa Barbara, San Luis Obispo, and Ventura counties may hear  one or more sonic booms during the launch, but what residents experience will depend on weather and other conditions.",
+"raw": "On Saturday, September 26 at 7:00 a.m. PT, Falcon 9 launched the USSF-385 mission from Space Launch Complex 4E (SLC-4E) at Vandenberg Space Force Base in California. \n\nThis was the 10th flight for the first stage booster supporting this mission, which previously launched NROL-95 and eight Starlink missions. Following stage separation, the first stage landed on the Of Course I Still Love You droneship, which was stationed in the Pacific Ocean.\n\nThere was the possibility that residents of Santa Barbara, San Luis Obispo, and Ventura counties may have heard  one or more sonic booms during the launch, but what residents experienced depended on weather and other conditions.",
 "reason": null,
 "source": {
 "link": "https://www.spacex.com/launches/ussf385",
 "name": "SpaceX Website"
 },
-"updated": "2026-09-25T21:57:23.563Z"
+"updated": "2026-09-26T17:35:22.400Z"
 }
 ],
 "pending": 0,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 1250
+"total_known": 1252
 }
