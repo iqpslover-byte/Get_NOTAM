@@ -1,6 +1,6 @@
 {
-"count": 262,
-"generated_utc": "2026-09-26T05:34:00Z",
+"count": 264,
+"generated_utc": "2026-09-26T14:45:18Z",
 "notices": [
 {
 "areas": [
@@ -15324,6 +15324,86 @@
 "areas": [
 [
 [
+17.0,
+-73.0
+],
+[
+17.0,
+-71.6667
+],
+[
+17.35,
+-71.6833
+],
+[
+18.55,
+-74.95
+],
+[
+18.5,
+-75.0
+],
+[
+17.0,
+-73.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T14:14:00.000Z",
+"start": "2026-09-28T12:15:00.000Z"
+},
+{
+"end": "2026-09-29T14:14:00.000Z",
+"start": "2026-09-29T12:15:00.000Z"
+},
+{
+"end": "2026-09-30T14:14:00.000Z",
+"start": "2026-09-30T12:15:00.000Z"
+},
+{
+"end": "2026-10-01T14:14:00.000Z",
+"start": "2026-10-01T12:15:00.000Z"
+},
+{
+"end": "2026-10-02T14:14:00.000Z",
+"start": "2026-10-02T12:15:00.000Z"
+},
+{
+"end": "2026-10-03T14:14:00.000Z",
+"start": "2026-10-03T12:15:00.000Z"
+},
+{
+"end": "2026-10-04T14:14:00.000Z",
+"start": "2026-10-04T12:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MTEG-A0046/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "A0046/26",
+"page": "https://space-notices.com/notice/notam-MTEG-A0046%2F26",
+"raw": "A0046/26 NOTAMN\r\r\nQ) MTEG/QRDCA/IV/BO/W/000/999/1734N07305W122\r\r\nA) MTEG\r\r\nB) 2609281215 C) 2610041414\r\r\nD) 1215-1414\r\r\nE) DEBRIS RESPONSE AREAS (DRA) WITHIN THE PORT-AU-PRINCE FIR MAY BE \r\r\nACTIVATED IN THE EVENT OF MALFUNCTIONS DURING THE LAUNCH OF STARSHIP \r\r\nFLIGHT 14. \r\r\nDRA IS BOUNDED BY:\r\r\n1700N07300W-1700N07140W-1721N07141W-1833N07457W-1830N07500W-1800N0742\r\r\n0W\r\r\nACTIVATED DRA WILL BE CLASSIFIED AS A TEMPORARY DANGER AREA.\r\r\nPLANNED DEPARTURES HEADING SOUTH AND SOUTHEAST WITHIN PORT-AU-PRINCE \r\r\nFIR MAY EXPECT GROUND DELAYS AND ACTIVE FLIGHTS WITHIN FIR MAY \r\r\nEXPECT AIRBORNE HOLDING. \r\r\nATC WILL ADVISE EVENTUAL DRA ACTIVATION AND WHEN NORMAL OPERATIONS \r\r\nMAY RESUME.\r\r\nPRIMARY LAUNCH DAY:260928.\r\r\nBACKUP LAUNCH DAYS:260929, 260930, 261001, 261002, 261003, AND 261004.\r\r\nF) SFC \r\r\nG) UNL",
+"reason": "DEBRIS RESPONSE AREAS (DRA) WITHIN THE PORT-AU-PRINCE FIR MAY BE ACTIVATED IN THE EVENT OF MALFUNCTIONS DURING THE LAUNCH OF STARSHIP FLIGHT 14.",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82553794",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-25T20:02:50.693Z"
+},
+{
+"areas": [
+[
+[
 21.3,
 -85.6333
 ],
@@ -18968,6 +19048,90 @@
 "reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
 "source": {
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=931&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-09-24T20:56:03.825Z"
+},
+{
+"areas": [
+[
+[
+-27.1,
+-149.5833
+],
+[
+-28.9,
+-148.0
+],
+[
+-37.1333,
+-157.9833
+],
+[
+-44.3333,
+-170.2333
+],
+[
+-42.6833,
+-171.5167
+],
+[
+-35.4,
+-159.5
+],
+[
+-27.1,
+-149.5833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-01T17:01:00.000Z",
+"start": "2026-10-01T16:06:00.000Z"
+},
+{
+"end": "2026-10-02T16:39:00.000Z",
+"start": "2026-10-02T15:44:00.000Z"
+},
+{
+"end": "2026-10-03T16:16:00.000Z",
+"start": "2026-10-03T15:21:00.000Z"
+},
+{
+"end": "2026-10-04T15:53:00.000Z",
+"start": "2026-10-04T14:58:00.000Z"
+},
+{
+"end": "2026-10-05T15:31:00.000Z",
+"start": "2026-10-05T14:36:00.000Z"
+},
+{
+"end": "2026-10-06T15:05:00.000Z",
+"start": "2026-10-06T14:10:00.000Z"
+},
+{
+"end": "2026-10-07T14:43:00.000Z",
+"start": "2026-10-07T13:48:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2791/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-18441371-8b2e-457c-afb5-1ec1b11ab630",
+"title": "Crew-13"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2791/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202791%2F26",
+"raw": "231936Z SEP 26\nHYDROPAC 2791/26.\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   011606Z TO 011701Z, 021544Z TO 021639Z,\n   031521Z TO 031616Z, 041458Z TO 041553Z,\n   051436Z TO 051531Z, 061410Z TO 061505Z\n   AND 071348Z TO 071443Z OCT\n   IN AREA BOUND BY\n   27-06.00S 149-35.00W, 28-54.00S 148-00.00W,\n   37-08.00S 157-59.00W, 44-20.00S 170-14.00W,\n   42-41.00S 171-31.00W, 35-24.00S 159-30.00W.\n2. CANCEL THIS MSG 071543Z OCT 26.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2791&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
 "updated": "2026-09-24T20:56:03.825Z"
@@ -23210,5 +23374,5 @@
 "pending": 0,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 1248
+"total_known": 1250
 }
