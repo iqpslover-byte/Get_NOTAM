@@ -1,6 +1,6 @@
 {
-"count": 256,
-"generated_utc": "2026-09-26T00:10:36Z",
+"count": 262,
+"generated_utc": "2026-09-26T05:34:00Z",
 "notices": [
 {
 "areas": [
@@ -10566,6 +10566,66 @@
 "areas": [
 [
 [
+25.9333,
+-97.1667
+],
+[
+26.0167,
+-97.2
+],
+[
+26.0667,
+-97.1167
+],
+[
+26.0667,
+-96.9167
+],
+[
+26.0,
+-96.9167
+],
+[
+26.0,
+-97.0
+],
+[
+25.9333,
+-97.1667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T14:08:00.000Z",
+"start": "2026-09-28T12:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "tfr-ZHU-6/5573",
+"kind": "TFR",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "FDC 6/5573",
+"page": "https://space-notices.com/notice/tfr-ZHU-6%2F5573",
+"raw": "$22",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://tfr.faa.gov/tfr3/?page=detail_6_5573",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-25T20:02:50.693Z"
+},
+{
+"areas": [
+[
+[
 25.9667,
 -97.2167
 ],
@@ -12414,6 +12474,66 @@
 "updated": "2026-09-15T19:06:06.908Z"
 },
 {
+"areas": [
+[
+[
+25.9333,
+-97.1667
+],
+[
+26.0167,
+-97.2
+],
+[
+26.0667,
+-97.1167
+],
+[
+26.0667,
+-96.9167
+],
+[
+26.0,
+-96.9167
+],
+[
+26.0,
+-97.0
+],
+[
+25.9333,
+-97.1667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-29T14:08:00.000Z",
+"start": "2026-09-29T12:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "tfr-ZHU-6/5574",
+"kind": "TFR",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "FDC 6/5574",
+"page": "https://space-notices.com/notice/tfr-ZHU-6%2F5574",
+"raw": "$22",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://tfr.faa.gov/tfr3/?page=detail_6_5574",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-25T20:02:50.693Z"
+},
+{
 "areas": [],
 "cancelled": false,
 "dates": [
@@ -12445,6 +12565,66 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-19T19:38:43.369Z"
+},
+{
+"areas": [
+[
+[
+25.9333,
+-97.1667
+],
+[
+26.0167,
+-97.2
+],
+[
+26.0667,
+-97.1167
+],
+[
+26.0667,
+-96.9167
+],
+[
+26.0,
+-96.9167
+],
+[
+26.0,
+-97.0
+],
+[
+25.9333,
+-97.1667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-30T14:08:00.000Z",
+"start": "2026-09-30T12:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "tfr-ZHU-6/5575",
+"kind": "TFR",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "FDC 6/5575",
+"page": "https://space-notices.com/notice/tfr-ZHU-6%2F5575",
+"raw": "$22",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://tfr.faa.gov/tfr3/?page=detail_6_5575",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-25T20:02:50.693Z"
 },
 {
 "areas": [
@@ -18682,6 +18862,120 @@
 "areas": [
 [
 [
+30.7167,
+-78.5
+],
+[
+31.8833,
+-77.1833
+],
+[
+31.7167,
+-76.95
+],
+[
+30.5167,
+-78.3167
+],
+[
+30.7167,
+-78.5
+]
+],
+[
+[
+28.65,
+-80.6167
+],
+[
+28.7167,
+-80.5333
+],
+[
+28.85,
+-80.4
+],
+[
+28.85,
+-80.3
+],
+[
+28.8333,
+-80.2667
+],
+[
+28.7333,
+-80.2667
+],
+[
+28.55,
+-80.45
+],
+[
+28.5,
+-80.55
+],
+[
+28.65,
+-80.6167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-01T15:50:00.000Z",
+"start": "2026-10-01T15:00:00.000Z"
+},
+{
+"end": "2026-10-02T15:28:00.000Z",
+"start": "2026-10-02T14:38:00.000Z"
+},
+{
+"end": "2026-10-03T15:05:00.000Z",
+"start": "2026-10-03T14:15:00.000Z"
+},
+{
+"end": "2026-10-04T14:42:00.000Z",
+"start": "2026-10-04T13:52:00.000Z"
+},
+{
+"end": "2026-10-05T14:20:00.000Z",
+"start": "2026-10-05T13:30:00.000Z"
+},
+{
+"end": "2026-10-06T13:54:00.000Z",
+"start": "2026-10-06T13:04:00.000Z"
+},
+{
+"end": "2026-10-07T13:32:00.000Z",
+"start": "2026-10-07T12:42:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA IV 931/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-18441371-8b2e-457c-afb5-1ec1b11ab630",
+"title": "Crew-13"
+}
+],
+"markers": [],
+"name": "NAVAREA IV 931/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20IV%20931%2F26",
+"raw": "251816Z SEP 26\nNAVAREA IV 931/26.\nNORTH ATLANTIC.\nFLORIDA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   011500Z TO 011550Z OCT, ALTERNATE \n   021438Z TO 021528Z, 031415Z TO 031505Z,\n   041352Z TO 041442Z, 051330Z TO 051420Z,\n   061304Z TO 061354Z, 071242Z TO 071332Z OCT\n   IN AREAS BOUND BY:\n   A. 30-43.00N 078-30.00W, 31-53.00N 077-11.00W,\n      31-43.00N 076-57.00W, 30-31.00N 078-19.00W.\n   B. 28-39.23N 080-37.57W, 28-43.14N 080-32.44W,\n      28-51.00N 080-24.00W, 28-51.00N 080-18.00W,\n      28-50.00N 080-16.00W, 28-44.00N 080-16.00W,\n      28-33.00N 080-27.00W, 28-30.30N 080-33.20W.\n2. CANCEL THIS MSG 071432Z OCT 26.",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=931&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-09-24T20:56:03.825Z"
+},
+{
+"areas": [
+[
+[
 -27.1,
 -149.5833
 ],
@@ -19106,6 +19400,90 @@
 "name": "US Coast Guard"
 },
 "updated": "2026-09-21T19:15:10.684Z"
+},
+{
+"areas": [
+[
+[
+-25.2667,
+-157.3
+],
+[
+-25.6833,
+-154.9167
+],
+[
+-43.0,
+-158.6
+],
+[
+-60.0,
+-165.0
+],
+[
+-59.4833,
+-170.1833
+],
+[
+-42.4833,
+-162.1667
+],
+[
+-25.2667,
+-157.3
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-01T21:49:00.000Z",
+"start": "2026-10-01T19:58:00.000Z"
+},
+{
+"end": "2026-10-02T21:49:00.000Z",
+"start": "2026-10-02T19:58:00.000Z"
+},
+{
+"end": "2026-10-03T21:49:00.000Z",
+"start": "2026-10-03T19:58:00.000Z"
+},
+{
+"end": "2026-10-04T21:49:00.000Z",
+"start": "2026-10-04T19:58:00.000Z"
+},
+{
+"end": "2026-10-05T21:49:00.000Z",
+"start": "2026-10-05T19:58:00.000Z"
+},
+{
+"end": "2026-10-06T21:49:00.000Z",
+"start": "2026-10-06T19:58:00.000Z"
+},
+{
+"end": "2026-10-07T21:49:00.000Z",
+"start": "2026-10-07T19:58:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2790/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-67213393-7983-4c06-8b44-b8c785a5ed79",
+"title": "Transporter 18 (Dedicated SSO Rideshare)"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2790/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202790%2F26",
+"raw": "231957Z SEP 26\nHYDROPAC 2790/26.\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   1958Z TO 2149Z DAILY 01 THRU 07 OCT\n   IN AREA BOUND BY\n   25-16.00S 157-18.00W, 25-41.00S 154-55.00W,\n   43-00.00S 158-36.00W, 60-00.00S 165-00.00W,\n   59-29.00S 170-11.00W, 42-29.00S 162-10.00W.\n2. CANCEL THIS MSG 072249Z OCT 26.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2790&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-09-25T21:00:57.427Z"
 },
 {
 "areas": [
@@ -19697,6 +20075,140 @@
 "name": "US Coast Guard"
 },
 "updated": "2026-09-25T21:00:41.438Z"
+},
+{
+"areas": [
+[
+[
+30.3833,
+-119.8667
+],
+[
+31.3333,
+-120.05
+],
+[
+32.5333,
+-120.2333
+],
+[
+34.55,
+-120.7
+],
+[
+34.6667,
+-120.6333
+],
+[
+34.6333,
+-120.45
+],
+[
+32.5,
+-120.15
+],
+[
+30.6833,
+-119.8
+],
+[
+30.4,
+-119.8167
+],
+[
+30.3833,
+-119.8667
+]
+],
+[
+[
+30.35,
+-119.9333
+],
+[
+30.3333,
+-119.5167
+],
+[
+29.7833,
+-118.8167
+],
+[
+29.4167,
+-118.75
+],
+[
+28.9167,
+-119.2667
+],
+[
+28.9333,
+-119.6833
+],
+[
+29.5,
+-120.3833
+],
+[
+29.8667,
+-120.45
+],
+[
+30.35,
+-119.9333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-05T09:11:00.000Z",
+"start": "2026-10-05T08:06:00.000Z"
+},
+{
+"end": "2026-10-06T09:04:00.000Z",
+"start": "2026-10-06T07:59:00.000Z"
+},
+{
+"end": "2026-10-07T08:56:00.000Z",
+"start": "2026-10-07T07:51:00.000Z"
+},
+{
+"end": "2026-10-08T08:49:00.000Z",
+"start": "2026-10-08T07:44:00.000Z"
+},
+{
+"end": "2026-10-09T08:41:00.000Z",
+"start": "2026-10-09T07:36:00.000Z"
+},
+{
+"end": "2026-10-10T08:34:00.000Z",
+"start": "2026-10-10T07:29:00.000Z"
+},
+{
+"end": "2026-10-11T08:26:00.000Z",
+"start": "2026-10-11T07:21:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA XII 671/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "NAVAREA XII 671/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20671%2F26",
+"raw": "250925Z SEP 26\nNAVAREA XII 671/26.\nNORTH PACIFIC.\nCALIFORNIA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING: \n   A. 050806Z TO 050852Z OCT, ALTERNATE \n      060759Z TO 060845Z, 070751Z TO 070837Z, \n      080744Z TO 080830Z, 090736Z TO 090822Z, \n      100729Z TO 100815Z AND \n      110721Z TO 110807Z OCT IN AREA BOUND BY\n      30-23.00N 119-52.00W, 31-20.00N 120-03.00W,\n      32-32.00N 120-14.00W, 34-33.00N 120-42.00W,\n      34-40.00N 120-38.00W, 34-38.00N 120-27.00W,\n      32-30.00N 120-09.00W, 30-41.00N 119-48.00W,\n      30-24.00N 119-49.00W.\n   B. 050806Z TO 050911Z OCT, ALTERNATE \n      060759Z TO 060904Z, 070751Z TO 070856Z, \n      080744Z TO 080849Z, 090736Z TO 090841Z, \n      100729Z TO 100834Z AND \n      110721Z TO 110826Z OCT IN AREA BOUND BY\n      30-21.00N 119-56.00W, 30-20.00N 119-31.00W,\n      29-47.00N 118-49.00W, 29-25.00N 118-45.00W,\n      28-55.00N 119-16.00W, 28-56.00N 119-41.00W,\n      29-30.00N 120-23.00W, 29-52.00N 120-27.00W.\n2. CANCEL THIS MSG 110926Z OCT 26.",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=671&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-09-25T21:20:52.601Z"
 },
 {
 "areas": [],
@@ -22698,5 +23210,5 @@
 "pending": 0,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 1242
+"total_known": 1248
 }
