@@ -62515,6 +62515,86 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-SMPM-A0368%2F26": {
+"lastmod": "2026-09-26T18:55:49.776Z",
+"notice": {
+"areas": [
+[
+[
+9.1,
+-55.9833
+],
+[
+9.2667,
+-54.5333
+],
+[
+8.95,
+-54.0
+],
+[
+8.15,
+-54.0
+],
+[
+9.1,
+-55.9833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T16:30:00.000Z",
+"start": "2026-09-28T12:15:00.000Z"
+},
+{
+"end": "2026-09-29T16:30:00.000Z",
+"start": "2026-09-29T12:15:00.000Z"
+},
+{
+"end": "2026-09-30T16:30:00.000Z",
+"start": "2026-09-30T12:15:00.000Z"
+},
+{
+"end": "2026-10-01T16:30:00.000Z",
+"start": "2026-10-01T12:15:00.000Z"
+},
+{
+"end": "2026-10-02T16:30:00.000Z",
+"start": "2026-10-02T12:15:00.000Z"
+},
+{
+"end": "2026-10-03T16:30:00.000Z",
+"start": "2026-10-03T12:15:00.000Z"
+},
+{
+"end": "2026-10-04T16:30:00.000Z",
+"start": "2026-10-04T12:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-SMPM-A0368/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "A0368/26",
+"page": "https://space-notices.com/notice/notam-SMPM-A0368%2F26",
+"raw": "A0368/26 NOTAMN\r\nQ)SMPM/QXXXX/IV/NBO/W/000/999/0906N05559W\r\nA)SMPM B)2609281215 C)2610041630\r\nD)1215-1630\r\nE)A DEBRIS RESPONSE AREA HAS BEEN DEFINED WITHIN THE PARAMARIBO FIR\r\n (SMPM) IN ASSOCIATION WITH THE LAUNCH OF THE SPACE X STARSHIP\r\n FLIGHT-14 FROM STARBASE, TEXAS. THE AREA IS BOUNDED BY THE FOLLOWING\r\n COORDINATES: 0906N05559W, 0916N05432W, 0857N05400W, 0809N05400W. IN\r\n THE EVENT OF A MALFUNCTION OF THE STARSHIP VEHICLE, THE DEFINED AREA\r\n MAY BECOME AFFECTED BY FALLING SPACE DEBRIS. AIRCRAFT OPERATING\r\n WITHIN OR EN-ROUTE TO THE AFFECTED AREA SHALL BE ADVISED BY ATC, IN\r\n CLOSE COORDINATION WITH ADJACENT ATS CENTRES, TO AVOID THE AREA\r\n UNTIL INFORMATION IS RECEIVED THAT THE AREA IS NO LONGER AFFECTED.\r\n AIRCRAFT OPERATORS ARE ADVISED TO CONSIDER THE ABOVE IN THEIR FLIGHT\r\n PLANNING AND, WHERE PRACTICABLE, AVOID THE AREA DURING THE PUBLISHED\r\n LAUNCH WINDOW.\r\nPRIMARY LAUNCH DATE: 260928\r\nBACK-UP DATE DATES: 260929, 260930, 261001, 261002, 261003, 261004.\r\nF)SFC G)UNL",
+"reason": "DEBRIS RESPONSE AREA IN ASSOCIATION WITH THE LAUNCH OF THE SPACE X STARSHIP FLIGHT-14",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82560270",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-26T18:55:49.776Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/notam-SOOO-G0025%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -75988,6 +76068,118 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZAK-09%2F327-26": {
+"lastmod": "2026-09-23T03:58:09.774Z",
+"notice": {
+"areas": [
+[
+[
+36.3333,
+-124.3167
+],
+[
+35.4833,
+-123.0
+],
+[
+35.3167,
+-122.1667
+],
+[
+35.55,
+-121.65
+],
+[
+35.6167,
+-121.5333
+],
+[
+35.25,
+-121.1
+],
+[
+35.0667,
+-120.8
+],
+[
+35.0,
+-120.7
+],
+[
+34.7667,
+-120.5
+],
+[
+34.65,
+-120.5333
+],
+[
+34.4,
+-120.5
+],
+[
+34.2667,
+-120.9167
+],
+[
+34.1833,
+-120.9833
+],
+[
+34.1167,
+-121.4333
+],
+[
+33.7833,
+-122.6333
+],
+[
+34.0833,
+-122.8333
+],
+[
+35.85,
+-125.5333
+],
+[
+36.5167,
+-124.9
+],
+[
+36.3333,
+-124.3167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-29T05:00:00.000Z",
+"start": "2026-09-28T23:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-09/327-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-stratolaunch-operation-super-kristy",
+"title": "Operation Super Kristy"
+}
+],
+"markers": [],
+"name": "09/327",
+"page": "https://space-notices.com/notice/notam-ZAK-09%2F327-26",
+"raw": "!CARF 09/327 ZAK AIRSPACE DCC QUEEN OF THE SKIES 26-4 STNR ALT RESERVATION WI AN AREA DEFINED AS 362000N1241900W TO 352900N1230000W TO 351900N1221000W TO 353300N1213900W TO 353700N1213200W TO 351500N1210600W TO 350400N1204800W TO 350000N1204200W TO 344600N1203000W TO 343900N1203200W TO 342400N1203000W TO 341600N1205500W TO 341100N1205900W TO 340700N1212600W TO 334700N1223800W TO 340500N1225000W TO 355100N1253200W TO 363100N1245400W TO POINT OF ORIGIN SFC-UNL 2609282300-2609290500",
+"reason": "QUEEN OF THE SKIES 26-4",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82552469",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-23T03:58:09.774Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/notam-ZAK-11%2F236": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -87333,6 +87525,118 @@
 "updated": "2026-09-25T10:32:30.617Z"
 },
 "via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZLA-09%2F328-26": {
+"lastmod": "2026-09-23T03:58:09.774Z",
+"notice": {
+"areas": [
+[
+[
+36.3333,
+-124.3167
+],
+[
+35.4833,
+-123.0
+],
+[
+35.3167,
+-122.1667
+],
+[
+35.55,
+-121.65
+],
+[
+35.6167,
+-121.5333
+],
+[
+35.25,
+-121.1
+],
+[
+35.0667,
+-120.8
+],
+[
+35.0,
+-120.7
+],
+[
+34.7667,
+-120.5
+],
+[
+34.65,
+-120.5333
+],
+[
+34.4,
+-120.5
+],
+[
+34.2667,
+-120.9167
+],
+[
+34.1833,
+-120.9833
+],
+[
+34.1167,
+-121.4333
+],
+[
+33.7833,
+-122.6333
+],
+[
+34.0833,
+-122.8333
+],
+[
+35.85,
+-125.5333
+],
+[
+36.5167,
+-124.9
+],
+[
+36.3333,
+-124.3167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-29T05:00:00.000Z",
+"start": "2026-09-28T23:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-09/328-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-stratolaunch-operation-super-kristy",
+"title": "Operation Super Kristy"
+}
+],
+"markers": [],
+"name": "09/328",
+"page": "https://space-notices.com/notice/notam-ZLA-09%2F328-26",
+"raw": "!CARF 09/328 ZLA AIRSPACE DCC QUEEN OF THE SKIES 26-4 STNR ALT RESERVATION WI AN AREA DEFINED AS 362000N1241900W TO 352900N1230000W TO 351900N1221000W TO 353300N1213900W TO 353700N1213200W TO 351500N1210600W TO 350400N1204800W TO 350000N1204200W TO 344600N1203000W TO 343900N1203200W TO 342400N1203000W TO 341600N1205500W TO 341100N1205900W TO 340700N1212600W TO 334700N1223800W TO 340500N1225000W TO 355100N1253200W TO 363100N1245400W TO POINT OF ORIGIN SFC-UNL 2609282300-2609290500",
+"reason": "QUEEN OF THE SKIES 26-4",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82552467",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-23T03:58:09.774Z"
+},
+"via": "entry"
 },
 "https://space-notices.com/notice/notam-ZLHW-A0063%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -100639,6 +100943,118 @@
 "updated": "2026-04-23T14:04:24.726Z"
 },
 "via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZOA-09%2F326-26": {
+"lastmod": "2026-09-23T03:58:09.774Z",
+"notice": {
+"areas": [
+[
+[
+36.3333,
+-124.3167
+],
+[
+35.4833,
+-123.0
+],
+[
+35.3167,
+-122.1667
+],
+[
+35.55,
+-121.65
+],
+[
+35.6167,
+-121.5333
+],
+[
+35.25,
+-121.1
+],
+[
+35.0667,
+-120.8
+],
+[
+35.0,
+-120.7
+],
+[
+34.7667,
+-120.5
+],
+[
+34.65,
+-120.5333
+],
+[
+34.4,
+-120.5
+],
+[
+34.2667,
+-120.9167
+],
+[
+34.1833,
+-120.9833
+],
+[
+34.1167,
+-121.4333
+],
+[
+33.7833,
+-122.6333
+],
+[
+34.0833,
+-122.8333
+],
+[
+35.85,
+-125.5333
+],
+[
+36.5167,
+-124.9
+],
+[
+36.3333,
+-124.3167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-29T05:00:00.000Z",
+"start": "2026-09-28T23:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZOA-09/326-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-stratolaunch-operation-super-kristy",
+"title": "Operation Super Kristy"
+}
+],
+"markers": [],
+"name": "09/326",
+"page": "https://space-notices.com/notice/notam-ZOA-09%2F326-26",
+"raw": "!CARF 09/326 ZOA AIRSPACE DCC QUEEN OF THE SKIES 26-4 STNR ALT RESERVATION WI AN AREA DEFINED AS 362000N1241900W TO 352900N1230000W TO 351900N1221000W TO 353300N1213900W TO 353700N1213200W TO 351500N1210600W TO 350400N1204800W TO 350000N1204200W TO 344600N1203000W TO 343900N1203200W TO 342400N1203000W TO 341600N1205500W TO 341100N1205900W TO 340700N1212600W TO 334700N1223800W TO 340500N1225000W TO 355100N1253200W TO 363100N1245400W TO POINT OF ORIGIN SFC-UNL 2609282300-2609290500",
+"reason": "QUEEN OF THE SKIES 26-4",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82552471",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-23T03:58:09.774Z"
+},
+"via": "entry"
 },
 "https://space-notices.com/notice/notam-ZPKM-A0660%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
