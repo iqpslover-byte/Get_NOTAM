@@ -32615,6 +32615,138 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/nav-warning-NAVAREA%20IV%20936%2F26": {
+"lastmod": "2026-09-24T14:40:50.624Z",
+"notice": {
+"areas": [
+[
+[
+30.3833,
+-79.1
+],
+[
+31.0167,
+-78.75
+],
+[
+31.6333,
+-77.8833
+],
+[
+31.4667,
+-77.7167
+],
+[
+30.65,
+-78.1667
+],
+[
+30.1833,
+-78.9167
+],
+[
+30.3833,
+-79.1
+]
+],
+[
+[
+28.65,
+-80.6333
+],
+[
+29.0667,
+-80.2667
+],
+[
+28.95,
+-80.1167
+],
+[
+28.4667,
+-80.4
+],
+[
+28.4667,
+-80.5167
+],
+[
+28.65,
+-80.6333
+]
+],
+[
+[
+37.6167,
+-71.6167
+],
+[
+40.4167,
+-68.0
+],
+[
+39.8,
+-67.1333
+],
+[
+36.8833,
+-70.7
+],
+[
+37.6167,
+-71.6167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-02T05:25:00.000Z",
+"start": "2026-10-02T03:42:00.000Z"
+},
+{
+"end": "2026-10-03T05:20:00.000Z",
+"start": "2026-10-03T03:38:00.000Z"
+},
+{
+"end": "2026-10-04T05:16:00.000Z",
+"start": "2026-10-04T03:34:00.000Z"
+},
+{
+"end": "2026-10-05T05:11:00.000Z",
+"start": "2026-10-05T03:29:00.000Z"
+},
+{
+"end": "2026-10-07T05:02:00.000Z",
+"start": "2026-10-07T03:20:00.000Z"
+},
+{
+"end": "2026-10-08T04:57:00.000Z",
+"start": "2026-10-08T03:16:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA IV 936/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-4651fd8a-43de-4166-bf8f-c168b3bd1d2c",
+"title": "NROL-97"
+}
+],
+"markers": [],
+"name": "NAVAREA IV 936/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20IV%20936%2F26",
+"raw": "260913Z SEP 26\nNAVAREA IV 936/26.\nNORTH ATLANTIC.\nFLORIDA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   020342Z TO 020525Z OCT, ALTERNATE \n   030338Z TO 030520Z, 040334Z TO 040516Z,\n   050329Z TO 050511Z, 06325Z TO 060506Z,\n   070320Z TO 070502Z, AND 080316Z TO 080457Z\n   IN AREAS BOUND BY:\n      A. 30-23.00N 079-06.00W, 31-01.00N 078-45.00W,\n         31-38.00N 077-53.00W, 31-28.00N 077-43.00W,\n         30-39.00N 078-10.00W, 30-11.00N 078-55.00W.\n      B. 28-39.52N 080-38.17W, 29-04.00N 080-16.00W,\n         28-57.00N 080-07.00W, 28-28.00N 080-24.00W,\n         28-28.00N 080-31.47W.\n      C. 37-37.00N 071-37.00W, 40-25.00N 068-00.00W,\n         39-48.00N 067-08.00W, 36-53.00N 070-42.00W.\n2. CANCEL THIS MSG 080657Z OCT 26.\n",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=936&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-09-24T14:40:50.624Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20211%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
