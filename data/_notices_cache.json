@@ -5451,6 +5451,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SE%20BNM%209075-26": {
+"gone": "2026-09-28",
 "lastmod": "2026-09-11T21:10:07.392Z",
 "notice": {
 "areas": [
@@ -5569,7 +5570,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SE%20BNM%209076-26": {
-"lastmod": "2026-09-26T18:55:49.776Z",
+"lastmod": "2026-09-27T17:44:43.616Z",
 "notice": {
 "areas": [
 [
@@ -5764,9 +5765,9 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-09-26T18:55:49.776Z"
+"updated": "2026-09-27T17:44:43.616Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SE%20BNM%209137-25": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -8299,6 +8300,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-cadenaois-advisory-2740": {
+"gone": "2026-09-28",
 "lastmod": "2026-09-04T17:10:03.313Z",
 "notice": {
 "areas": [],
@@ -8716,6 +8718,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-mpower-f": {
+"gone": "2026-09-28",
 "lastmod": "2026-09-08T13:48:42.491Z",
 "notice": {
 "areas": [],
@@ -9134,6 +9137,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-spacex-mpower-f": {
+"gone": "2026-09-28",
 "lastmod": "2026-09-13T19:53:28.292Z",
 "notice": {
 "areas": [],
@@ -13352,6 +13356,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-53575": {
+"gone": "2026-09-28",
 "lastmod": "2026-09-13T16:48:06.264Z",
 "notice": {
 "areas": [
@@ -13440,6 +13445,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-53576": {
+"gone": "2026-09-28",
 "lastmod": "2026-09-13T16:48:18.572Z",
 "notice": {
 "areas": [
@@ -15536,6 +15542,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROLANT%201783%2F26": {
+"gone": "2026-09-28",
 "lastmod": "2026-09-08T07:32:01.858Z",
 "notice": {
 "areas": [
@@ -31584,6 +31591,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20IV%20861%2F26": {
+"gone": "2026-09-28",
 "lastmod": "2026-09-08T06:56:05.840Z",
 "notice": {
 "areas": [
@@ -31702,6 +31710,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20IV%20862%2F26": {
+"gone": "2026-09-28",
 "lastmod": "2026-09-08T07:20:25.327Z",
 "notice": {
 "areas": [
@@ -32816,7 +32825,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20IV%20936%2F26": {
-"lastmod": "2026-09-24T14:40:50.624Z",
+"lastmod": "2026-09-27T02:17:59.733Z",
 "notice": {
 "areas": [
 [
@@ -32943,9 +32952,9 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=936&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-09-24T14:40:50.624Z"
+"updated": "2026-09-27T02:17:59.733Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20211%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -61247,6 +61256,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SBAO-N0060%2F26": {
+"gone": "2026-09-28",
 "lastmod": "2026-09-06T21:50:53.427Z",
 "notice": {
 "areas": [
@@ -62516,7 +62526,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SMPM-A0368%2F26": {
-"lastmod": "2026-09-26T18:55:49.776Z",
+"lastmod": "2026-09-27T19:52:14.739Z",
 "notice": {
 "areas": [
 [
@@ -62591,9 +62601,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82560270",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-26T18:55:49.776Z"
+"updated": "2026-09-27T19:52:14.739Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SOOO-G0025%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -63020,6 +63030,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SOOO-G0272%2F26": {
+"gone": "2026-09-28",
 "lastmod": "2026-09-07T15:26:53.726Z",
 "notice": {
 "areas": [
@@ -76069,7 +76080,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-09%2F327-26": {
-"lastmod": "2026-09-23T03:58:09.774Z",
+"lastmod": "2026-09-27T20:05:09.373Z",
 "notice": {
 "areas": [
 [
@@ -76176,9 +76187,257 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82552469",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-23T03:58:09.774Z"
+"updated": "2026-09-27T20:05:09.373Z"
 },
-"via": "entry"
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZAK-09%2F338-26": {
+"lastmod": "2026-09-27T22:11:00.508Z",
+"notice": {
+"areas": [
+[
+[
+28.4667,
+165.0
+],
+[
+29.4167,
+165.0
+],
+[
+29.4167,
+165.05
+],
+[
+30.4333,
+172.6833
+],
+[
+30.95,
+179.9833
+],
+[
+31.1833,
+-175.0
+],
+[
+31.2833,
+-171.4833
+],
+[
+30.55,
+-161.25
+],
+[
+29.6167,
+-155.6667
+],
+[
+28.8167,
+-151.5833
+],
+[
+26.8833,
+-145.4333
+],
+[
+26.8333,
+-145.4667
+],
+[
+24.05,
+-154.5333
+],
+[
+23.7667,
+-156.1833
+],
+[
+24.8667,
+-159.3167
+],
+[
+27.6333,
+-167.8167
+],
+[
+29.4167,
+-175.0
+],
+[
+29.75,
+-176.5833
+],
+[
+29.8,
+179.9833
+],
+[
+29.6833,
+176.2333
+],
+[
+29.2167,
+170.1667
+],
+[
+28.4667,
+165.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T18:33:00.000Z",
+"start": "2026-09-28T14:27:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-09/338-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "09/338",
+"page": "https://space-notices.com/notice/notam-ZAK-09%2F338-26",
+"raw": "!CARF 09/338 ZAK AIRSPACE DCC STARSHIP FLT 14 ASCENT STNR ALT RESERVATION REENTRY AREA WI AN AREA DEFINED AS 282800N1650000E TO 292500N1650000E TO 292500N1650300E TO 302600N1724100E TO 305700N1795900E TO 311100N1750000W TO 311700N1712900W TO 303300N1611500W TO 293700N1554000W TO 284900N1513500W TO 265300N1452600W TO 265000N1452800W TO 240300N1543200W TO 234600N1561100W TO 245200N1591900W TO 273800N1674900W TO 292500N1750000W TO 294500N1763500W TO 294800N1795900E TO 294100N1761400E TO 291300N1701000E TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL 2609281427-2609281833",
+"reason": "STARSHIP FLT 14 ASCENT",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82560783",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-27T22:11:00.508Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZAK-09%2F343-26": {
+"lastmod": "2026-09-27T22:17:29.055Z",
+"notice": {
+"areas": [
+[
+[
+28.4667,
+165.0
+],
+[
+29.4167,
+165.0
+],
+[
+29.4167,
+165.05
+],
+[
+30.4333,
+172.6833
+],
+[
+30.95,
+179.9833
+],
+[
+31.1833,
+-175.0
+],
+[
+31.2833,
+-171.4833
+],
+[
+30.55,
+-161.25
+],
+[
+29.6167,
+-155.6667
+],
+[
+28.8167,
+-151.5833
+],
+[
+26.8833,
+-145.4333
+],
+[
+26.8333,
+-145.4667
+],
+[
+24.05,
+-154.5333
+],
+[
+23.7667,
+-156.1833
+],
+[
+24.8667,
+-159.3167
+],
+[
+27.6333,
+-167.8167
+],
+[
+29.4167,
+-175.0
+],
+[
+29.75,
+-176.5833
+],
+[
+29.8,
+179.9833
+],
+[
+29.6833,
+176.2333
+],
+[
+29.2167,
+170.1667
+],
+[
+28.4667,
+165.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-29T18:33:00.000Z",
+"start": "2026-09-29T14:27:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-09/343-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "09/343",
+"page": "https://space-notices.com/notice/notam-ZAK-09%2F343-26",
+"raw": "!CARF 09/343 ZAK AIRSPACE DCC STARSHIP FLT 14 ASCENT STNR ALT RESERVATION REENTRY AREA WI AN AREA DEFINED AS 282800N1650000E TO 292500N1650000E TO 292500N1650300E TO 302600N1724100E TO 305700N1795900E TO 311100N1750000W TO 311700N1712900W TO 303300N1611500W TO 293700N1554000W TO 284900N1513500W TO 265300N1452600W TO 265000N1452800W TO 240300N1543200W TO 234600N1561100W TO 245200N1591900W TO 273800N1674900W TO 292500N1750000W TO 294500N1763500W TO 294800N1795900E TO 294100N1761400E TO 291300N1701000E TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL 2609291427-2609291833",
+"reason": "STARSHIP FLT 14 ASCENT",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82560808",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-27T22:17:29.055Z"
+},
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-11%2F236": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -78041,6 +78300,254 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-04-23T14:04:24.726Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZHN-09%2F339-26": {
+"lastmod": "2026-09-27T22:12:49.777Z",
+"notice": {
+"areas": [
+[
+[
+28.4667,
+165.0
+],
+[
+29.4167,
+165.0
+],
+[
+29.4167,
+165.05
+],
+[
+30.4333,
+172.6833
+],
+[
+30.95,
+179.9833
+],
+[
+31.1833,
+-175.0
+],
+[
+31.2833,
+-171.4833
+],
+[
+30.55,
+-161.25
+],
+[
+29.6167,
+-155.6667
+],
+[
+28.8167,
+-151.5833
+],
+[
+26.8833,
+-145.4333
+],
+[
+26.8333,
+-145.4667
+],
+[
+24.05,
+-154.5333
+],
+[
+23.7667,
+-156.1833
+],
+[
+24.8667,
+-159.3167
+],
+[
+27.6333,
+-167.8167
+],
+[
+29.4167,
+-175.0
+],
+[
+29.75,
+-176.5833
+],
+[
+29.8,
+179.9833
+],
+[
+29.6833,
+176.2333
+],
+[
+29.2167,
+170.1667
+],
+[
+28.4667,
+165.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T18:33:00.000Z",
+"start": "2026-09-28T14:27:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZHN-09/339-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "09/339",
+"page": "https://space-notices.com/notice/notam-ZHN-09%2F339-26",
+"raw": "!CARF 09/339 ZHN AIRSPACE DCC STARSHIP FLT 14 ASCENT STNR ALT RESERVATION REENTRY AREA WI AN AREA DEFINED AS 282800N1650000E TO 292500N1650000E TO 292500N1650300E TO 302600N1724100E TO 305700N1795900E TO 311100N1750000W TO 311700N1712900W TO 303300N1611500W TO 293700N1554000W TO 284900N1513500W TO 265300N1452600W TO 265000N1452800W TO 240300N1543200W TO 234600N1561100W TO 245200N1591900W TO 273800N1674900W TO 292500N1750000W TO 294500N1763500W TO 294800N1795900E TO 294100N1761400E TO 291300N1701000E TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL 2609281427-2609281833",
+"reason": "STARSHIP FLT 14 ASCENT",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82560787",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-27T22:12:49.777Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZHN-09%2F342-26": {
+"lastmod": "2026-09-27T22:17:19.613Z",
+"notice": {
+"areas": [
+[
+[
+28.4667,
+165.0
+],
+[
+29.4167,
+165.0
+],
+[
+29.4167,
+165.05
+],
+[
+30.4333,
+172.6833
+],
+[
+30.95,
+179.9833
+],
+[
+31.1833,
+-175.0
+],
+[
+31.2833,
+-171.4833
+],
+[
+30.55,
+-161.25
+],
+[
+29.6167,
+-155.6667
+],
+[
+28.8167,
+-151.5833
+],
+[
+26.8833,
+-145.4333
+],
+[
+26.8333,
+-145.4667
+],
+[
+24.05,
+-154.5333
+],
+[
+23.7667,
+-156.1833
+],
+[
+24.8667,
+-159.3167
+],
+[
+27.6333,
+-167.8167
+],
+[
+29.4167,
+-175.0
+],
+[
+29.75,
+-176.5833
+],
+[
+29.8,
+179.9833
+],
+[
+29.6833,
+176.2333
+],
+[
+29.2167,
+170.1667
+],
+[
+28.4667,
+165.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-29T18:33:00.000Z",
+"start": "2026-09-29T14:27:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZHN-09/342-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "09/342",
+"page": "https://space-notices.com/notice/notam-ZHN-09%2F342-26",
+"raw": "!CARF 09/342 ZHN AIRSPACE DCC STARSHIP FLT 14 ASCENT STNR ALT RESERVATION REENTRY AREA WI AN AREA DEFINED AS 282800N1650000E TO 292500N1650000E TO 292500N1650300E TO 302600N1724100E TO 305700N1795900E TO 311100N1750000W TO 311700N1712900W TO 303300N1611500W TO 293700N1554000W TO 284900N1513500W TO 265300N1452600W TO 265000N1452800W TO 240300N1543200W TO 234600N1561100W TO 245200N1591900W TO 273800N1674900W TO 292500N1750000W TO 294500N1763500W TO 294800N1795900E TO 294100N1761400E TO 291300N1701000E TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL 2609291427-2609291833",
+"reason": "STARSHIP FLT 14 ASCENT",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82560801",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-27T22:17:19.613Z"
 },
 "via": "sitemap"
 },
@@ -83936,6 +84443,262 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZHU-09%2F336-26": {
+"lastmod": "2026-09-27T22:11:10.646Z",
+"notice": {
+"areas": [
+[
+[
+26.0,
+-95.9167
+],
+[
+25.95,
+-95.1
+],
+[
+25.6333,
+-94.2
+],
+[
+25.4667,
+-92.9167
+],
+[
+24.5,
+-91.05
+],
+[
+24.5,
+-93.0
+],
+[
+26.0,
+-95.9167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T14:08:00.000Z",
+"start": "2026-09-28T12:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZHU-09/336-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "09/336",
+"page": "https://space-notices.com/notice/notam-ZHU-09%2F336-26",
+"raw": "!CARF 09/336 ZHU AIRSPACE DCC STARSHIP FLT 14 ASCENT STNR ALT RESERVATION ASCENT AHA A2 WI AN AREA DEFINED AS 260000N0955500W TO 255700N0950600W TO 253800N0941200W TO 252800N0925500W TO 243000N0910300W TO 243000N0930000W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL 2609281215-2609281408",
+"reason": "STARSHIP FLT 14 ASCENT",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82560773",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-27T22:11:10.646Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZHU-09%2F337-26": {
+"lastmod": "2026-09-27T22:11:16.784Z",
+"notice": {
+"areas": [
+[
+[
+25.9667,
+-97.1833
+],
+[
+26.0167,
+-97.2
+],
+[
+26.0667,
+-97.1167
+],
+[
+26.0333,
+-96.5333
+],
+[
+26.0,
+-95.9167
+],
+[
+26.0,
+-97.0
+],
+[
+25.9667,
+-97.1833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-28T14:08:00.000Z",
+"start": "2026-09-28T12:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZHU-09/337-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "09/337",
+"page": "https://space-notices.com/notice/notam-ZHU-09%2F337-26",
+"raw": "!CARF 09/337 ZHU AIRSPACE DCC STARSHIP FLT 14 ASCENT STNR ALT RESERVATION ASCENT AHA A1 WI AN AREA DEFINED AS 255800N0971100W TO 260100N0971200W TO 260400N0970700W TO 260200N0963200W TO 260000N0955500W TO 260000N0970000W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL 2609281215-2609281408",
+"reason": "STARSHIP FLT 14 ASCENT",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82560778",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-27T22:11:16.784Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZHU-09%2F340-26": {
+"lastmod": "2026-09-27T22:15:37.028Z",
+"notice": {
+"areas": [
+[
+[
+25.9667,
+-97.1833
+],
+[
+26.0167,
+-97.2
+],
+[
+26.0667,
+-97.1167
+],
+[
+26.0333,
+-96.5333
+],
+[
+26.0,
+-95.9167
+],
+[
+26.0,
+-97.0
+],
+[
+25.9667,
+-97.1833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-29T14:08:00.000Z",
+"start": "2026-09-29T12:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZHU-09/340-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "09/340",
+"page": "https://space-notices.com/notice/notam-ZHU-09%2F340-26",
+"raw": "!CARF 09/340 ZHU AIRSPACE DCC STARSHIP FLT 14 ASCENT STNR ALT RESERVATION ASCENT AHA A1 WI AN AREA DEFINED AS 255800N0971100W TO 260100N0971200W TO 260400N0970700W TO 260200N0963200W TO 260000N0955500W TO 260000N0970000W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL 2609291215-2609291408",
+"reason": "STARSHIP FLT 14 ASCENT",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82560795",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-27T22:15:37.028Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZHU-09%2F341-26": {
+"lastmod": "2026-09-27T22:15:30.580Z",
+"notice": {
+"areas": [
+[
+[
+26.0,
+-95.9167
+],
+[
+25.95,
+-95.1
+],
+[
+25.6333,
+-94.2
+],
+[
+25.4667,
+-92.9167
+],
+[
+24.5,
+-91.05
+],
+[
+24.5,
+-93.0
+],
+[
+26.0,
+-95.9167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-29T14:08:00.000Z",
+"start": "2026-09-29T12:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZHU-09/341-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+"title": "Starlink Group 31-1 (Starship Flight 14)"
+}
+],
+"markers": [],
+"name": "09/341",
+"page": "https://space-notices.com/notice/notam-ZHU-09%2F341-26",
+"raw": "!CARF 09/341 ZHU AIRSPACE DCC STARSHIP FLT 14 ASCENT STNR ALT RESERVATION ASCENT AHA A2 WI AN AREA DEFINED AS 260000N0955500W TO 255700N0950600W TO 253800N0941200W TO 252800N0925500W TO 243000N0910300W TO 243000N0930000W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL 2609291215-2609291408",
+"reason": "STARSHIP FLT 14 ASCENT",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82560792",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-27T22:15:30.580Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-ZHU-10%2F135": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -87527,7 +88290,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F328-26": {
-"lastmod": "2026-09-23T03:58:09.774Z",
+"lastmod": "2026-09-27T20:05:00.851Z",
 "notice": {
 "areas": [
 [
@@ -87634,9 +88397,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82552467",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-23T03:58:09.774Z"
+"updated": "2026-09-27T20:05:00.851Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLHW-A0063%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -98425,6 +99188,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZMA-09%2F121-26": {
+"gone": "2026-09-28",
 "lastmod": "2026-09-10T16:24:48.527Z",
 "notice": {
 "areas": [
@@ -98489,6 +99253,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZMA-09%2F152-26": {
+"gone": "2026-09-28",
 "lastmod": "2026-09-12T09:52:50.167Z",
 "notice": {
 "areas": [
@@ -100945,7 +101710,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZOA-09%2F326-26": {
-"lastmod": "2026-09-23T03:58:09.774Z",
+"lastmod": "2026-09-27T20:05:14.093Z",
 "notice": {
 "areas": [
 [
@@ -101052,9 +101817,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82552471",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-23T03:58:09.774Z"
+"updated": "2026-09-27T20:05:14.093Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZPKM-A0660%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -106881,6 +107646,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZWY-09%2F122-26": {
+"gone": "2026-09-28",
 "lastmod": "2026-09-10T16:24:54.629Z",
 "notice": {
 "areas": [
@@ -107001,6 +107767,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZWY-09%2F151-26": {
+"gone": "2026-09-28",
 "lastmod": "2026-09-12T09:50:24.674Z",
 "notice": {
 "areas": [
@@ -115066,6 +115833,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-6%2F2191": {
+"gone": "2026-09-28",
 "lastmod": "2026-09-10T14:17:57.818Z",
 "notice": {
 "areas": [
@@ -115190,6 +115958,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-6%2F2192": {
+"gone": "2026-09-28",
 "lastmod": "2026-09-10T14:19:58.018Z",
 "notice": {
 "areas": [
@@ -115314,6 +116083,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-6%2F2193": {
+"gone": "2026-09-28",
 "lastmod": "2026-09-10T14:21:57.744Z",
 "notice": {
 "areas": [
