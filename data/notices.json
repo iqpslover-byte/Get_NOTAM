@@ -1,267 +1,7 @@
 {
-"count": 256,
-"generated_utc": "2026-09-28T00:00:07Z",
+"count": 255,
+"generated_utc": "2026-09-28T14:31:47Z",
 "notices": [
-{
-"areas": [
-[
-[
-42.85,
-115.7833
-],
-[
-42.6833,
-114.4333
-],
-[
-42.3333,
-114.5
-],
-[
-42.5,
-115.85
-],
-[
-42.85,
-115.7833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-08-29T08:14:00.000Z",
-"start": "2026-08-29T01:52:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZBPE-A4013/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "A4013/26",
-"page": "https://space-notices.com/notice/notam-ZBPE-A4013%2F26",
-"raw": "A4013/26 NOTAMN\r\nQ)ZBPE/QRDCA/IV/BO/W/000/999/4235N11509E032\r\nA)ZBPE B)2608290152 C)2608290814 \r\nD)0152-0316,0700-0814\r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN425123E1154723-N424148E1142643-N422023E1143046-N423015E1155116,BAC\r\nK TO START.\r\nVERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82245540",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-08-28T02:38:20.791Z"
-},
-{
-"areas": [
-[
-[
-41.85,
-108.3833
-],
-[
-41.5167,
-106.7167
-],
-[
-40.9333,
-106.9167
-],
-[
-41.2667,
-108.5667
-],
-[
-41.85,
-108.3833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-08-29T08:14:00.000Z",
-"start": "2026-08-29T01:52:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZBPE-A4014/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "A4014/26",
-"page": "https://space-notices.com/notice/notam-ZBPE-A4014%2F26",
-"raw": "A4014/26 NOTAMN\r\nQ)ZBPE/QRDCA/IV/BO/W/000/999/4124N10739E043\r\nA)ZBPE B)2608290152 C)2608290814 \r\nD)0152-0316,0700-0814\r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN415125E1082337-N413148E1064300-N405636E1065518-N411656E1083445,BAC\r\nK TO START.\r\nVERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82245547",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-08-28T02:38:25.556Z"
-},
-{
-"areas": [
-[
-[
-41.15,
-94.4667
-],
-[
-40.8167,
-91.8
-],
-[
-40.2167,
-91.9333
-],
-[
-40.5667,
-94.6333
-],
-[
-41.15,
-94.4667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-08-29T08:14:00.000Z",
-"start": "2026-08-29T01:52:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLHW-A4015/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "A4015/26",
-"page": "https://space-notices.com/notice/notam-ZLHW-A4015%2F26",
-"raw": "A4015/26 NOTAMN\r\nQ)ZXXX/QRDCA/IV/BO/W/000/999/4041N09313E065\r\nA)ZLHW ZWUQ B)2608290152 C)2608290814 \r\nD)0152-0316,0700-0814\r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN410939E0942844-N404918E0914814-N401329E0915613-N403408E0943837,BAC\r\nK TO START.\r\nVERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82245569",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-08-28T02:38:32.396Z"
-},
-{
-"areas": [
-[
-[
-43.5,
-123.4833
-],
-[
-43.5333,
-123.0
-],
-[
-43.15,
-123.0333
-],
-[
-43.3167,
-123.5
-],
-[
-43.5,
-123.4833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-08-29T08:14:00.000Z",
-"start": "2026-08-29T01:52:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZYSH-A4011/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "A4011/26",
-"page": "https://space-notices.com/notice/notam-ZYSH-A4011%2F26",
-"raw": "A4011/26 NOTAMN\r\nQ)ZYSH/QRDCA/IV/BO/W/000/999/4319N12316E017\r\nA)ZYSH B)2608290152 C)2608290814 \r\nD)0152-0316,0700-0814\r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN433005E1232946-N433230E1230003-N430936E1230248-N431916E1233037,BAC\r\nK TO START.\r\nVERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82245498",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-08-28T02:38:08.044Z"
-},
-{
-"areas": [
-[
-[
-43.4,
-121.85
-],
-[
-43.35,
-121.2
-],
-[
-43.0,
-121.25
-],
-[
-43.0333,
-121.8833
-],
-[
-43.4,
-121.85
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-08-29T08:14:00.000Z",
-"start": "2026-08-29T01:52:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZYSH-A4012/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "A4012/26",
-"page": "https://space-notices.com/notice/notam-ZYSH-A4012%2F26",
-"raw": "A4012/26 NOTAMN\r\nQ)ZYSH/QRDCA/IV/BO/W/000/999/4312N12133E018\r\nA)ZYSH B)2608290152 C)2608290814 \r\nD)0152-0316,0700-0814\r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN432451E1215111-N432123E1211204-N430003E1211501-N430257E1215345, \r\nBACK TO START.\r\nVERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82245524",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-08-28T02:38:13.380Z"
-},
 {
 "areas": [
 [
@@ -10653,6 +10393,58 @@
 "areas": [
 [
 [
+39.25,
+89.0
+],
+[
+39.3333,
+88.45
+],
+[
+39.0833,
+88.35
+],
+[
+38.9667,
+88.9
+],
+[
+39.25,
+89.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-29T03:27:00.000Z",
+"start": "2026-09-29T02:17:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZWUQ-A4974/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A4974/26",
+"page": "https://space-notices.com/notice/notam-ZWUQ-A4974%2F26",
+"raw": "A4974/26 NOTAMN\r\nQ)ZWUQ/QRDCA/IV/BO/W/000/999/3910N08841E016\r\nA)ZWUQ B)2609290844 C)2609300327 \r\nD)0844-0954 ON 29,0217-0327 ON 30\r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY: \r\nN391500E0890000-N392041E0882739-N390505E0882158-N385847E0885428, \r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA ESTABLISHED",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82562725",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-27T11:45:49.102Z"
+},
+{
+"areas": [
+[
+[
 36.3333,
 -124.3167
 ],
@@ -11670,6 +11462,330 @@
 "name": "US Coast Guard"
 },
 "updated": "2026-09-03T22:00:11.606Z"
+},
+{
+"areas": [
+[
+[
+36.3333,
+-124.3167
+],
+[
+35.4833,
+-123.0
+],
+[
+35.3167,
+-122.1667
+],
+[
+35.55,
+-121.65
+],
+[
+35.6167,
+-121.5333
+],
+[
+35.25,
+-121.1
+],
+[
+35.0667,
+-120.8
+],
+[
+35.0,
+-120.7
+],
+[
+34.7667,
+-120.5
+],
+[
+34.65,
+-120.5333
+],
+[
+34.4,
+-120.5
+],
+[
+34.2667,
+-120.9167
+],
+[
+34.1833,
+-120.9833
+],
+[
+34.1167,
+-121.4333
+],
+[
+33.7833,
+-122.6333
+],
+[
+34.0833,
+-122.8333
+],
+[
+35.85,
+-125.5333
+],
+[
+36.5167,
+-124.9
+],
+[
+36.3333,
+-124.3167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-01T05:00:00.000Z",
+"start": "2026-09-30T23:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-09/349-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-stratolaunch-operation-super-kristy",
+"title": "Operation Super Kristy"
+}
+],
+"markers": [],
+"name": "09/349",
+"page": "https://space-notices.com/notice/notam-ZAK-09%2F349-26",
+"raw": "!CARF 09/349 ZAK AIRSPACE DCC QUEEN OF THE SKIES 26-4 STNR ALT RESERVATION WI AN AREA DEFINED AS 362000N1241900W TO 352900N1230000W TO 351900N1221000W TO 353300N1213900W TO 353700N1213200W TO 351500N1210600W TO 350400N1204800W TO 350000N1204200W TO 344600N1203000W TO 343900N1203200W TO 342400N1203000W TO 341600N1205500W TO 341100N1205900W TO 340700N1212600W TO 334700N1223800W TO 340500N1225000W TO 355100N1253200W TO 363100N1245400W TO POINT OF ORIGIN SFC-UNL 2609302300-2610010500",
+"reason": "QUEEN OF THE SKIES 26-4",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82564459",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-27T20:05:25.474Z"
+},
+{
+"areas": [
+[
+[
+36.3333,
+-124.3167
+],
+[
+35.4833,
+-123.0
+],
+[
+35.3167,
+-122.1667
+],
+[
+35.55,
+-121.65
+],
+[
+35.6167,
+-121.5333
+],
+[
+35.25,
+-121.1
+],
+[
+35.0667,
+-120.8
+],
+[
+35.0,
+-120.7
+],
+[
+34.7667,
+-120.5
+],
+[
+34.65,
+-120.5333
+],
+[
+34.4,
+-120.5
+],
+[
+34.2667,
+-120.9167
+],
+[
+34.1833,
+-120.9833
+],
+[
+34.1167,
+-121.4333
+],
+[
+33.7833,
+-122.6333
+],
+[
+34.0833,
+-122.8333
+],
+[
+35.85,
+-125.5333
+],
+[
+36.5167,
+-124.9
+],
+[
+36.3333,
+-124.3167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-01T05:00:00.000Z",
+"start": "2026-09-30T23:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-09/347-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-stratolaunch-operation-super-kristy",
+"title": "Operation Super Kristy"
+}
+],
+"markers": [],
+"name": "09/347",
+"page": "https://space-notices.com/notice/notam-ZLA-09%2F347-26",
+"raw": "!CARF 09/347 ZLA AIRSPACE DCC QUEEN OF THE SKIES 26-4 STNR ALT RESERVATION WI AN AREA DEFINED AS 362000N1241900W TO 352900N1230000W TO 351900N1221000W TO 353300N1213900W TO 353700N1213200W TO 351500N1210600W TO 350400N1204800W TO 350000N1204200W TO 344600N1203000W TO 343900N1203200W TO 342400N1203000W TO 341600N1205500W TO 341100N1205900W TO 340700N1212600W TO 334700N1223800W TO 340500N1225000W TO 355100N1253200W TO 363100N1245400W TO POINT OF ORIGIN SFC-UNL 2609302300-2610010500",
+"reason": "QUEEN OF THE SKIES 26-4",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82564451",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-27T20:05:25.474Z"
+},
+{
+"areas": [
+[
+[
+36.3333,
+-124.3167
+],
+[
+35.4833,
+-123.0
+],
+[
+35.3167,
+-122.1667
+],
+[
+35.55,
+-121.65
+],
+[
+35.6167,
+-121.5333
+],
+[
+35.25,
+-121.1
+],
+[
+35.0667,
+-120.8
+],
+[
+35.0,
+-120.7
+],
+[
+34.7667,
+-120.5
+],
+[
+34.65,
+-120.5333
+],
+[
+34.4,
+-120.5
+],
+[
+34.2667,
+-120.9167
+],
+[
+34.1833,
+-120.9833
+],
+[
+34.1167,
+-121.4333
+],
+[
+33.7833,
+-122.6333
+],
+[
+34.0833,
+-122.8333
+],
+[
+35.85,
+-125.5333
+],
+[
+36.5167,
+-124.9
+],
+[
+36.3333,
+-124.3167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-01T05:00:00.000Z",
+"start": "2026-09-30T23:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZOA-09/348-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-stratolaunch-operation-super-kristy",
+"title": "Operation Super Kristy"
+}
+],
+"markers": [],
+"name": "09/348",
+"page": "https://space-notices.com/notice/notam-ZOA-09%2F348-26",
+"raw": "!CARF 09/348 ZOA AIRSPACE DCC QUEEN OF THE SKIES 26-4 STNR ALT RESERVATION WI AN AREA DEFINED AS 362000N1241900W TO 352900N1230000W TO 351900N1221000W TO 353300N1213900W TO 353700N1213200W TO 351500N1210600W TO 350400N1204800W TO 350000N1204200W TO 344600N1203000W TO 343900N1203200W TO 342400N1203000W TO 341600N1205500W TO 341100N1205900W TO 340700N1212600W TO 334700N1223800W TO 340500N1225000W TO 355100N1253200W TO 363100N1245400W TO POINT OF ORIGIN SFC-UNL 2609302300-2610010500",
+"reason": "QUEEN OF THE SKIES 26-4",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82564468",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-27T20:05:25.474Z"
 },
 {
 "areas": [
@@ -22778,5 +22894,5 @@
 "pending": 0,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 1266
+"total_known": 1270
 }
