@@ -11,6 +11,10 @@ on:
         description: '1回の実行で取りに行く上限件数'
         required: false
         default: '200'
+      backfill:
+        description: '過去の警報を space-notices から取り込む（1回だけ・20〜40分）'
+        required: false
+        default: 'false'
       test_notify:
         description: 'お知らせのテスト送信（新しい通知が無くても1通送る）'
         required: false
@@ -34,6 +38,13 @@ jobs:
         with:
           python-version: '3.12'
 
+      # 過去分の取り込み。番号の出どころに Get_NAVWARN の全履歴が要るので丸ごと取る
+      - name: Backfill past notices
+        if: ${{ github.event.inputs.backfill == 'true' }}
+        run: |
+          git clone -q https://github.com/iqpslover-byte/Get_NAVWARN.git /tmp/navwarn
+          python backfill_notices.py /tmp/navwarn
+
       - name: Fetch launch notices
         env:
           NOTICES_MAX_FETCH: ${{ github.event.inputs.max_fetch || '200' }}
@@ -44,7 +55,8 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/notices.json data/_notices_cache.json data/_entries_cache.json
+          git add data/notices.json data/_notices_cache.json data/_entries_cache.json data/notice_archive.json
+          [ -f data/_backfill_tried.json ] && git add data/_backfill_tried.json
           if git diff --cached --quiet; then
             echo "変更なし"
           else

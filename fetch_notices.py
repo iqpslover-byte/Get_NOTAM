@@ -32,6 +32,9 @@ UA = "OP's LAB Maps / Get_NOTAM (satellite tracking hobby app; contact: iqps.lov
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT_PATH = os.path.join(HERE, "data", "notices.json")
+# 期限なしの控え（打上げ済みの便の「この日を再現」で結びつけに使う）。notices.json は終わって
+# KEEP_DAYS 日で落とすので、過去の便の電文はこちらにしか残らない
+ARCHIVE_PATH = os.path.join(HERE, "data", "notice_archive.json")
 CACHE_PATH = os.path.join(HERE, "data", "_notices_cache.json")
 ENTRY_CACHE_PATH = os.path.join(HERE, "data", "_entries_cache.json")
 DIGEST_PATH = os.path.join(HERE, "_new_notices.md")   # 新しい通知のお知らせ本文（コミットしない）
@@ -525,11 +528,12 @@ def main():
 
     # 一度取ったものは消さない。サイトから消えたら、消えた日の印だけ付ける。
     # ★打上げのページで見つけたものは sitemap に載っていないだけなので「消えた」ではない
+    #   過去分の取り込み（backfill_notices.py）で入れたものも同じ
     alive = {u for u, _ in entries} | set(extra.keys())
     today = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d")
     gone = 0
     for u, v in cache.items():
-        if u in alive or v.get("via") == "entry":
+        if u in alive or v.get("via") in ("entry", "backfill"):
             v.pop("gone", None)
         else:
             gone += 1
@@ -584,6 +588,14 @@ def main():
             pass
     changed = _write_if_changed(
         OUT_PATH, json.dumps(out, ensure_ascii=False, sort_keys=True, indent=0))
+
+    # 期限なしの控え＝消えた（gone）もの以外すべて。並びは終わった順
+    arch = [_fix_dates(_fix_areas(v.get("notice") or {}))
+            for v in cache.values() if not v.get("gone")]
+    arch.sort(key=lambda r: (_last_end(r) or "9999", r.get("id") or ""))
+    _write_if_changed(ARCHIVE_PATH, json.dumps(
+        {"source": "space-notices.com", "source_url": BASE, "count": len(arch), "notices": arch},
+        ensure_ascii=False, sort_keys=True, indent=0))
 
     told = write_notice_digest(fresh, DIGEST_PATH)
 
