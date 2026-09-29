@@ -1,6 +1,6 @@
 {
-"count": 323,
-"generated_utc": "2026-09-29T13:46:42Z",
+"count": 328,
+"generated_utc": "2026-09-29T14:55:02Z",
 "notices": [
 {
 "areas": [
@@ -25227,6 +25227,258 @@
 "areas": [
 [
 [
+31.63333,
+-77.88333
+],
+[
+31.01667,
+-78.75
+],
+[
+30.38333,
+-79.1
+],
+[
+30.18333,
+-78.91667
+],
+[
+30.65,
+-78.16667
+],
+[
+31.46667,
+-77.71667
+],
+[
+31.63333,
+-77.88333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-01T15:50:00.000Z",
+"start": "2026-10-01T15:00:00.000Z"
+},
+{
+"end": "2026-10-02T15:28:00.000Z",
+"start": "2026-10-02T14:38:00.000Z"
+},
+{
+"end": "2026-10-03T15:05:00.000Z",
+"start": "2026-10-03T14:15:00.000Z"
+},
+{
+"end": "2026-10-04T14:42:00.000Z",
+"start": "2026-10-04T13:52:00.000Z"
+},
+{
+"end": "2026-10-05T14:20:00.000Z",
+"start": "2026-10-05T13:30:00.000Z"
+},
+{
+"end": "2026-10-06T13:54:00.000Z",
+"start": "2026-10-06T13:04:00.000Z"
+},
+{
+"end": "2026-10-07T13:32:00.000Z",
+"start": "2026-10-07T12:42:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-54652",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-18441371-8b2e-457c-afb5-1ec1b11ab630",
+"title": "Crew-13"
+}
+],
+"markers": [],
+"name": "54652",
+"page": "https://space-notices.com/notice/lnm-54652",
+"raw": "$22",
+"reason": "Hazardous operations will be conducted for NASA Crew-13",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-09-28T22:50:06.329Z"
+},
+{
+"areas": [
+[
+[
+29.06667,
+-80.26667
+],
+[
+28.66444,
+-80.63806
+],
+[
+28.46667,
+-80.52972
+],
+[
+28.46667,
+-80.4
+],
+[
+28.95,
+-80.11667
+],
+[
+29.06667,
+-80.26667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-01T15:50:00.000Z",
+"start": "2026-10-01T15:00:00.000Z"
+},
+{
+"end": "2026-10-02T15:28:00.000Z",
+"start": "2026-10-02T14:38:00.000Z"
+},
+{
+"end": "2026-10-03T15:05:00.000Z",
+"start": "2026-10-03T14:15:00.000Z"
+},
+{
+"end": "2026-10-04T14:42:00.000Z",
+"start": "2026-10-04T13:52:00.000Z"
+},
+{
+"end": "2026-10-05T14:20:00.000Z",
+"start": "2026-10-05T13:30:00.000Z"
+},
+{
+"end": "2026-10-06T13:54:00.000Z",
+"start": "2026-10-06T13:04:00.000Z"
+},
+{
+"end": "2026-10-07T13:32:00.000Z",
+"start": "2026-10-07T12:42:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-54654",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-18441371-8b2e-457c-afb5-1ec1b11ab630",
+"title": "Crew-13"
+}
+],
+"markers": [],
+"name": "54654",
+"page": "https://space-notices.com/notice/lnm-54654",
+"raw": "$22",
+"reason": "Hazardous operations will be conducted for NASA Crew-13",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-09-28T22:50:06.329Z"
+},
+{
+"areas": [
+[
+[
+28.75,
+-80.46667
+],
+[
+28.65417,
+-80.63111
+],
+[
+28.46667,
+-80.52972
+],
+[
+28.46667,
+-80.46667
+],
+[
+28.62081,
+-80.34872
+],
+[
+28.67131,
+-80.36933
+],
+[
+28.71647,
+-80.39981
+],
+[
+28.75,
+-80.46667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-01T15:50:00.000Z",
+"start": "2026-10-01T15:00:00.000Z"
+},
+{
+"end": "2026-10-02T15:28:00.000Z",
+"start": "2026-10-02T14:38:00.000Z"
+},
+{
+"end": "2026-10-03T15:05:00.000Z",
+"start": "2026-10-03T14:15:00.000Z"
+},
+{
+"end": "2026-10-04T14:42:00.000Z",
+"start": "2026-10-04T13:52:00.000Z"
+},
+{
+"end": "2026-10-05T14:20:00.000Z",
+"start": "2026-10-05T13:30:00.000Z"
+},
+{
+"end": "2026-10-06T13:54:00.000Z",
+"start": "2026-10-06T13:04:00.000Z"
+},
+{
+"end": "2026-10-07T13:32:00.000Z",
+"start": "2026-10-07T12:42:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-54662",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-18441371-8b2e-457c-afb5-1ec1b11ab630",
+"title": "Crew-13"
+}
+],
+"markers": [],
+"name": "54662",
+"page": "https://space-notices.com/notice/lnm-54662",
+"raw": "$22",
+"reason": "Space launch operations for NASA Crew-13",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-09-28T22:50:06.329Z"
+},
+{
+"areas": [
+[
+[
 30.7167,
 -78.5
 ],
@@ -26408,6 +26660,138 @@
 "updated": "2026-09-26T02:36:38.596Z"
 },
 {
+"areas": [
+[
+[
+30.383333,
+-79.1
+],
+[
+31.016667,
+-78.75
+],
+[
+31.633333,
+-77.883333
+],
+[
+31.466667,
+-77.716667
+],
+[
+30.65,
+-78.166667
+],
+[
+30.183333,
+-78.916667
+],
+[
+30.383333,
+-79.1
+]
+],
+[
+[
+28.664444,
+-80.638056
+],
+[
+29.066667,
+-80.266667
+],
+[
+28.95,
+-80.116667
+],
+[
+28.466667,
+-80.4
+],
+[
+28.466667,
+-80.529722
+],
+[
+28.664444,
+-80.638056
+]
+],
+[
+[
+37.616667,
+-71.616667
+],
+[
+40.416667,
+-68.0
+],
+[
+39.8,
+-67.133333
+],
+[
+36.883333,
+-70.7
+],
+[
+37.616667,
+-71.616667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-02T05:25:00.000Z",
+"start": "2026-10-02T03:43:00.000Z"
+},
+{
+"end": "2026-10-03T05:20:00.000Z",
+"start": "2026-10-03T03:38:00.000Z"
+},
+{
+"end": "2026-10-04T05:16:00.000Z",
+"start": "2026-10-04T03:34:00.000Z"
+},
+{
+"end": "2026-10-05T05:11:00.000Z",
+"start": "2026-10-05T03:29:00.000Z"
+},
+{
+"end": "2026-10-06T05:06:00.000Z",
+"start": "2026-10-06T03:25:00.000Z"
+},
+{
+"end": "2026-10-07T05:02:00.000Z",
+"start": "2026-10-07T03:20:00.000Z"
+},
+{
+"end": "2026-10-08T04:57:00.000Z",
+"start": "2026-10-08T03:16:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SE BNM 9078-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "launch-4651fd8a-43de-4166-bf8f-c168b3bd1d2c",
+"title": "NROL-97"
+}
+],
+"markers": [],
+"name": "CGD-SE BNM 9078-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SE%20BNM%209078-26",
+"raw": "Launch Hazard Area\nMission: NROL-97  \nMessage Id: CGD-SE BNM 9078-26\n\n02/0343 OCT 26 to 02/0525 OCT 26. \n03/0338 OCT 26 to 03/0520 OCT 26. \n04/0334 OCT 26 to 04/0516 OCT 26. \n05/0329 OCT 26 to 05/0511 OCT 26. \n06/0325 OCT 26 to 06/0506 OCT 26. \n07/0320 OCT 26 to 07/0502 OCT 26. \n08/0316 OCT 26 to 08/0457 OCT 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
+"reason": "Launch Hazard Area - NROL-97",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-09-28T14:33:04.390Z"
+},
+{
 "areas": [],
 "cancelled": false,
 "dates": [
@@ -27369,6 +27753,86 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-28T23:31:41.102Z"
+},
+{
+"areas": [
+[
+[
+-38.3,
+18.0
+],
+[
+-38.0,
+27.0
+],
+[
+-60.0,
+22.5
+],
+[
+-60.0,
+20.6
+],
+[
+-59.0,
+10.0
+],
+[
+-48.7333,
+14.8333
+],
+[
+-38.3,
+18.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-05T11:23:00.000Z",
+"start": "2026-10-05T10:28:00.000Z"
+},
+{
+"end": "2026-10-06T11:16:00.000Z",
+"start": "2026-10-06T10:21:00.000Z"
+},
+{
+"end": "2026-10-07T11:08:00.000Z",
+"start": "2026-10-07T10:13:00.000Z"
+},
+{
+"end": "2026-10-08T11:01:00.000Z",
+"start": "2026-10-08T10:06:00.000Z"
+},
+{
+"end": "2026-10-10T10:46:00.000Z",
+"start": "2026-10-10T09:51:00.000Z"
+},
+{
+"end": "2026-10-11T10:38:00.000Z",
+"start": "2026-10-11T09:43:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-FAJO-A3699/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "A3699/26",
+"page": "https://space-notices.com/notice/notam-FAJO-A3699%2F26",
+"raw": "A3699/26 NOTAMN \r\nQ)FAJO/QWMLW/IV/BO/W/000/999/4848S02018E721\r\nA)FAJO B)2610051028 C)2610111038\r\nD)05 1028-1123, 06 1021-1116, 07 1013-1108, 08 1006- 1101, 09\r\n0958-1053, 10 0951-1046, 11 0943-1038\r\nE)AREA BOUNDED BY (3818S 01800E, 3800S 02700E, 6000S 02230E, 6000S\r\n02036E, 5900S 01000E, 4844S 01450E): SPACEX SDA-T1A STAGE 2 ROCKET\r\nRE-ENTRY OPS TAKING PLACE. APPLICABLE AIRSPACE DOWNGRADED TO  CLASS\r\nG.\r\nF)SFC G)UNL",
+"reason": "SPACEX SDA-T1A STAGE 2 ROCKET RE-ENTRY OPS TAKING PLACE",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82580371",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-28T23:38:50.429Z"
 },
 {
 "areas": [],
@@ -30877,5 +31341,5 @@
 "pending": 0,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 2391
+"total_known": 2801
 }
