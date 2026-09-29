@@ -1,7 +1,191 @@
 {
-"count": 277,
-"generated_utc": "2026-09-29T01:17:48Z",
+"count": 323,
+"generated_utc": "2026-09-29T13:46:42Z",
 "notices": [
+{
+"areas": [
+[
+[
+70.7833,
+46.3667
+],
+[
+70.6167,
+47.6
+],
+[
+69.7667,
+46.6
+],
+[
+69.9333,
+45.3333
+],
+[
+70.7833,
+46.3667
+]
+],
+[
+[
+74.0667,
+51.2167
+],
+[
+73.85,
+52.6667
+],
+[
+72.7333,
+50.6
+],
+[
+72.95,
+49.2167
+],
+[
+74.0667,
+51.2167
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-08-20T00:01:00.000Z",
+"start": "2026-08-19T21:00:00.000Z"
+},
+{
+"end": "2026-08-21T00:00:00.000Z",
+"start": "2026-08-20T21:00:00.000Z"
+},
+{
+"end": "2026-08-22T00:00:00.000Z",
+"start": "2026-08-21T21:00:00.000Z"
+},
+{
+"end": "2026-08-23T00:00:00.000Z",
+"start": "2026-08-22T21:00:00.000Z"
+},
+{
+"end": "2026-08-24T00:00:00.000Z",
+"start": "2026-08-23T21:00:00.000Z"
+},
+{
+"end": "2026-08-25T00:00:00.000Z",
+"start": "2026-08-24T21:00:00.000Z"
+},
+{
+"end": "2026-08-26T00:00:00.000Z",
+"start": "2026-08-25T21:00:00.000Z"
+},
+{
+"end": "2026-08-27T00:00:00.000Z",
+"start": "2026-08-26T21:00:00.000Z"
+},
+{
+"end": "2026-08-28T00:00:00.000Z",
+"start": "2026-08-27T21:00:00.000Z"
+},
+{
+"end": "2026-08-29T00:00:00.000Z",
+"start": "2026-08-28T21:00:00.000Z"
+},
+{
+"end": "2026-08-30T18:00:00.000Z",
+"start": "2026-08-29T21:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROARC 174/26",
+"kind": "NAVWARNING",
+"launches": [],
+"markers": [],
+"name": "HYDROARC 174/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROARC%20174%2F26",
+"raw": "171744Z AUG 26\nHYDROARC 174/26.\nBARENTS SEA.\nRUSSIA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   192100Z TO 200001Z, 0000Z TO 1800Z AND\n   2100Z TO 0000Z DAILY 20 THRU 29 AND \n   300000Z TO 301800Z AUG IN AREAS BOUND BY:\n   A. 70-47.00N 046-22.00E, 70-37.00N 047-36.00E,\n      69-46.00N 046-36.00E, 69-56.00N 045-20.00E.\n   B. 74-04.00N 051-13.50E, 73-51.67N 052-40.00E,\n      72-44.00N 050-36.00E, 72-57.00N 049-13.00E.\n2. CANCEL THIS MSG 301900Z AUG 26.",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=C&msgSqncNumber=174&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+68.7333,
+49.8167
+],
+[
+68.5,
+50.6167
+],
+[
+67.9333,
+49.4167
+],
+[
+67.8667,
+48.8
+],
+[
+68.0167,
+48.3
+],
+[
+68.7333,
+49.8167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-08-24T00:00:00.000Z",
+"start": "2026-08-23T21:00:00.000Z"
+},
+{
+"end": "2026-08-25T00:00:00.000Z",
+"start": "2026-08-24T21:00:00.000Z"
+},
+{
+"end": "2026-08-26T00:00:00.000Z",
+"start": "2026-08-25T21:00:00.000Z"
+},
+{
+"end": "2026-08-27T00:00:00.000Z",
+"start": "2026-08-26T21:00:00.000Z"
+},
+{
+"end": "2026-08-28T00:00:00.000Z",
+"start": "2026-08-27T21:00:00.000Z"
+},
+{
+"end": "2026-08-29T00:00:00.000Z",
+"start": "2026-08-28T21:00:00.000Z"
+},
+{
+"end": "2026-08-30T18:00:00.000Z",
+"start": "2026-08-29T21:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROARC 175/26",
+"kind": "NAVWARNING",
+"launches": [],
+"markers": [],
+"name": "HYDROARC 175/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROARC%20175%2F26",
+"raw": "181756Z AUG 26\nHYDROARC 175/26.\nBARENTS SEA.\nRUSSIA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   232100Z TO 240000Z, 0000Z TO 1800Z AND \n   2100Z TO 0000Z DAILY 24 THRU 29 AND \n   300000Z TO 301800Z AUG IN AREA BOUND BY\n   68-44.00N 049-49.00E, 68-30.00N 050-37.00E,\n   67-56.00N 049-25.00E, 67-52.00N 048-48.00E,\n   68-01.00N 048-18.00E.\n2. CANCEL THIS MSG 301900Z AUG 26.",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=C&msgSqncNumber=175&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
 {
 "areas": [
 [
@@ -115,6 +299,93 @@
 "name": "US National Geospatial-Intelligence Agency"
 },
 "updated": "2026-08-20T00:48:02.093Z"
+},
+{
+"areas": [
+[
+[
+-6.2,
+3.0
+],
+[
+-6.3667,
+4.8833
+],
+[
+-13.5833,
+4.3333
+],
+[
+-13.4333,
+2.4
+],
+[
+-6.2,
+3.0
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-08-20T18:00:00.000Z",
+"start": "2026-08-19T21:00:00.000Z"
+},
+{
+"end": "2026-08-21T18:00:00.000Z",
+"start": "2026-08-20T21:00:00.000Z"
+},
+{
+"end": "2026-08-22T18:00:00.000Z",
+"start": "2026-08-21T21:00:00.000Z"
+},
+{
+"end": "2026-08-23T18:00:00.000Z",
+"start": "2026-08-22T21:00:00.000Z"
+},
+{
+"end": "2026-08-24T18:00:00.000Z",
+"start": "2026-08-23T21:00:00.000Z"
+},
+{
+"end": "2026-08-25T18:00:00.000Z",
+"start": "2026-08-24T21:00:00.000Z"
+},
+{
+"end": "2026-08-26T18:00:00.000Z",
+"start": "2026-08-25T21:00:00.000Z"
+},
+{
+"end": "2026-08-27T18:00:00.000Z",
+"start": "2026-08-26T21:00:00.000Z"
+},
+{
+"end": "2026-08-28T18:00:00.000Z",
+"start": "2026-08-27T21:00:00.000Z"
+},
+{
+"end": "2026-08-29T18:00:00.000Z",
+"start": "2026-08-28T21:00:00.000Z"
+},
+{
+"end": "2026-08-30T18:00:00.000Z",
+"start": "2026-08-29T21:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROLANT 1593/26",
+"kind": "NAVWARNING",
+"launches": [],
+"markers": [],
+"name": "HYDROLANT 1593/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROLANT%201593%2F26",
+"raw": "170953Z AUG 26\nHYDROLANT 1593/26.\nSOUTH ATLANTIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   2100Z TO 1800Z DAILY 19 THRU 29 AUG\n   IN AREA BOUND BY\n   06-12.50S 003-00.50E, 06-22.00S 004-53.00E,\n   13-35.00S 004-20.00E, 13-26.00S 002-24.00E.\n2. CANCEL THIS MSG 301900Z AUG 26.",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=A&msgSqncNumber=1593&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
 },
 {
 "areas": [
@@ -332,6 +603,676 @@
 "areas": [
 [
 [
+31.5667,
+-77.1667
+],
+[
+32.3833,
+-76.8667
+],
+[
+33.1333,
+-75.6667
+],
+[
+33.2,
+-75.2167
+],
+[
+32.9,
+-74.9667
+],
+[
+32.65,
+-74.95
+],
+[
+31.85,
+-76.2167
+],
+[
+31.5167,
+-77.1
+],
+[
+31.5667,
+-77.1667
+]
+],
+[
+[
+28.65,
+-80.6167
+],
+[
+29.15,
+-80.0667
+],
+[
+29.05,
+-79.95
+],
+[
+28.4833,
+-80.5333
+],
+[
+28.65,
+-80.6167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-08-25T10:32:00.000Z",
+"start": "2026-08-25T05:49:00.000Z"
+},
+{
+"end": "2026-08-26T13:35:00.000Z",
+"start": "2026-08-26T08:52:00.000Z"
+},
+{
+"end": "2026-08-27T13:13:00.000Z",
+"start": "2026-08-27T08:30:00.000Z"
+},
+{
+"end": "2026-08-28T12:51:00.000Z",
+"start": "2026-08-28T08:08:00.000Z"
+},
+{
+"end": "2026-08-29T12:28:00.000Z",
+"start": "2026-08-29T07:45:00.000Z"
+},
+{
+"end": "2026-08-30T12:06:00.000Z",
+"start": "2026-08-30T07:23:00.000Z"
+},
+{
+"end": "2026-08-31T11:44:00.000Z",
+"start": "2026-08-31T07:01:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA IV 806/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-ad501ebd-a357-4305-90c1-c46c6feb2ecf",
+"title": "Starlink Group 10-49"
+}
+],
+"markers": [],
+"name": "NAVAREA IV 806/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20IV%20806%2F26",
+"raw": "200530Z AUG 26\nNAVAREA IV 806/26.\nNORTH ATLANTIC.\nFLORIDA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   250549Z TO 251032Z AUG, ALTERNATE \n   260852Z TO 261335Z, 270830Z TO 271313Z, \n   280808Z TO 281251Z, 290745Z TO 291228Z, \n   300723Z TO 301206Z AND \n   310701Z TO 311144Z AUG IN AREAS BOUND BY:\n   A. 31-34.00N 077-10.00W, 32-23.00N 076-52.00W,\n      33-08.00N 075-40.00W, 33-12.00N 075-13.00W,\n      32-54.00N 074-58.00W, 32-39.00N 074-57.00W,\n      31-51.00N 076-13.00W, 31-31.00N 077-06.00W.\n   B. 28-39.18N 080-37.82W, 29-09.00N 080-04.00W,\n      29-03.00N 079-57.00W, 28-29.42N 080-32.52W.\n2. CANCEL THIS MSG 311244Z AUG 26.//\n\n\n",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=806&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+34.4667,
+-120.35
+],
+[
+34.6667,
+-120.6167
+],
+[
+34.65,
+-120.65
+],
+[
+34.5667,
+-120.65
+],
+[
+34.3167,
+-120.5667
+],
+[
+33.0667,
+-119.85
+],
+[
+32.3333,
+-119.3333
+],
+[
+32.35,
+-119.3
+],
+[
+33.05,
+-119.6167
+],
+[
+34.4667,
+-120.35
+]
+],
+[
+[
+29.8,
+-117.65
+],
+[
+31.3333,
+-118.8167
+],
+[
+31.3167,
+-118.8333
+],
+[
+30.6,
+-118.65
+],
+[
+29.9,
+-118.3667
+],
+[
+29.4,
+-118.1333
+],
+[
+29.8,
+-117.65
+]
+],
+[
+[
+29.8,
+-117.65
+],
+[
+29.4,
+-118.1333
+],
+[
+29.25,
+-118.0333
+],
+[
+29.0333,
+-117.9833
+],
+[
+28.2167,
+-117.35
+],
+[
+29.6,
+-117.2667
+],
+[
+29.8,
+-117.65
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-08-25T14:07:00.000Z",
+"start": "2026-08-25T09:42:00.000Z"
+},
+{
+"end": "2026-08-26T13:52:00.000Z",
+"start": "2026-08-26T09:27:00.000Z"
+},
+{
+"end": "2026-08-27T13:38:00.000Z",
+"start": "2026-08-27T09:13:00.000Z"
+},
+{
+"end": "2026-08-28T13:23:00.000Z",
+"start": "2026-08-28T08:58:00.000Z"
+},
+{
+"end": "2026-08-29T13:09:00.000Z",
+"start": "2026-08-29T08:44:00.000Z"
+},
+{
+"end": "2026-08-30T12:55:00.000Z",
+"start": "2026-08-30T08:30:00.000Z"
+},
+{
+"end": "2026-08-31T12:40:00.000Z",
+"start": "2026-08-31T08:15:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA XII 563/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-95653d52-bb77-4860-a815-dd7141778d17",
+"title": "Starlink Group 15-22"
+}
+],
+"markers": [],
+"name": "NAVAREA XII 563/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20563%2F26",
+"raw": "$22",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=563&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+-39.8667,
+82.0833
+],
+[
+-46.8,
+97.0167
+],
+[
+-51.2833,
+115.45
+],
+[
+-51.3167,
+138.1667
+],
+[
+-47.1833,
+158.9833
+],
+[
+-48.0333,
+159.9167
+],
+[
+-49.45,
+159.8
+],
+[
+-53.75,
+138.2167
+],
+[
+-53.6167,
+114.4667
+],
+[
+-48.8833,
+95.2833
+],
+[
+-41.6,
+80.15
+],
+[
+-39.8667,
+82.0833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-08-25T13:05:00.000Z",
+"start": "2026-08-25T08:09:00.000Z"
+},
+{
+"end": "2026-08-26T16:08:00.000Z",
+"start": "2026-08-26T11:12:00.000Z"
+},
+{
+"end": "2026-08-27T15:46:00.000Z",
+"start": "2026-08-27T10:50:00.000Z"
+},
+{
+"end": "2026-08-28T15:24:00.000Z",
+"start": "2026-08-28T10:28:00.000Z"
+},
+{
+"end": "2026-08-29T15:01:00.000Z",
+"start": "2026-08-29T10:05:00.000Z"
+},
+{
+"end": "2026-08-30T14:39:00.000Z",
+"start": "2026-08-30T09:43:00.000Z"
+},
+{
+"end": "2026-08-31T14:17:00.000Z",
+"start": "2026-08-31T09:21:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2388/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-ad501ebd-a357-4305-90c1-c46c6feb2ecf",
+"title": "Starlink Group 10-49"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2388/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202388%2F26",
+"raw": "200519Z AUG 26\nHYDROPAC 2388/26.\nEASTERN INDIAN OCEAN.\nSOUTH PACIFIC.\nTASMAN SEA.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   250809Z TO 251305Z, 261112Z TO 261608Z, \n   271050Z TO 271546Z, 281028Z TO 281524Z, \n   291005Z TO 291501Z, 300943Z TO 301439Z \n   AND 310921Z TO 311417Z AUG\n   IN AREA BOUND BY\n   39-52.00S 082-05.00E, 46-48.00S 097-01.00E,\n   51-17.00S 115-27.00E, 51-19.00S 138-10.00E,\n   47-11.00S 158-59.00E, 48-02.00S 159-55.00E,\n   49-27.00S 159-48.00E, 53-45.00S 138-13.00E,\n   53-37.00S 114-28.00E, 48-53.00S 095-17.00E,\n   41-36.00S 080-09.00E.\n2. CANCEL THIS MSG 311517Z AUG 26.//\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2388&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-38.35,
+-115.0667
+],
+[
+-49.15,
+-107.3667
+],
+[
+-59.15,
+-95.5667
+],
+[
+-59.9667,
+-99.0833
+],
+[
+-44.5667,
+-114.2167
+],
+[
+-27.9833,
+-122.7333
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-08-25T16:07:00.000Z",
+"start": "2026-08-25T10:02:00.000Z"
+},
+{
+"end": "2026-08-26T16:07:00.000Z",
+"start": "2026-08-26T10:02:00.000Z"
+},
+{
+"end": "2026-08-27T16:07:00.000Z",
+"start": "2026-08-27T10:02:00.000Z"
+},
+{
+"end": "2026-08-28T16:07:00.000Z",
+"start": "2026-08-28T10:02:00.000Z"
+},
+{
+"end": "2026-08-29T16:07:00.000Z",
+"start": "2026-08-29T10:02:00.000Z"
+},
+{
+"end": "2026-08-30T16:07:00.000Z",
+"start": "2026-08-30T10:02:00.000Z"
+},
+{
+"end": "2026-08-31T16:07:00.000Z",
+"start": "2026-08-31T10:02:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2392/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-95653d52-bb77-4860-a815-dd7141778d17",
+"title": "Starlink Group 15-22"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2392/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202392%2F26",
+"raw": "201038Z AUG 26\nHYDROPAC 2392/26\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   1002Z TO 1607Z DAILY 25 THRU 31 AUG\n   IN AREA BOUND BY\n   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,\n   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,\n   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,\n   44-34.00S 114-13.00W.\n2. CANCEL HYDROPAC 2389/26.\n3. CANCEL THIS MSG 311707Z AUG 26.\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2392&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+-27.7833,
+-176.6167
+],
+[
+-29.1167,
+-168.4833
+],
+[
+-30.1167,
+-167.4833
+],
+[
+-28.7833,
+-175.6167
+],
+[
+-27.7833,
+-176.6167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-08-31T21:52:00.000Z",
+"start": "2026-08-31T21:29:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2479/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "other-esa-cluster-samba-reentry",
+"title": "Samba Reentry"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2479/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202479%2F26",
+"raw": "301253Z AUG 26\nHYDROPAC 2479/26.\nSOUTH PACIFIC.\nNEW ZEALAND.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   312129Z TO 312152Z AUG IN AREA BOUND BY\n   27-47.00S 176-37.00W, 29-07.00S 168-29.00W,\n   30-07.00S 167-29.00W, 28-47.00S 175-37.00W.\n2. CANCEL HYDROPAC 2444/26. \n3. CANCEL THIS MSG 312252Z AUG 26.",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2479&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+-28.0667,
+-175.8667
+],
+[
+-29.55,
+-167.1
+],
+[
+-29.6333,
+-169.7
+],
+[
+-28.3333,
+-177.7
+],
+[
+-28.0667,
+-175.8667
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-08-31T22:00:00.000Z",
+"start": "2026-08-31T21:24:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2444/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "other-esa-cluster-samba-reentry",
+"title": "Samba Reentry"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2444/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202444%2F26",
+"raw": "261451Z AUG 26\nHYDROPAC 2444/26.\nSOUTH PACIFIC.\nNEW ZEALAND.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   312124Z TO 312200Z AUG IN AREA BOUND BY\n   28-04.00S 175-52.00W, 29-33.00S 167-06.00W,\n   29-38.00S 169-42.00W, 28-20.00S 177-42.00W.\n2. CANCEL THIS MSG 312300Z AUG 26.\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2444&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+-28.2667,
+-170.7
+],
+[
+-29.15,
+-164.7
+],
+[
+-30.15,
+-163.7
+],
+[
+-29.2667,
+-169.7
+],
+[
+-28.2667,
+-170.7
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-01T21:45:00.000Z",
+"start": "2026-09-01T21:19:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2491/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "other-esa-cluster-tango-reentry",
+"title": "Tango Reentry"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2491/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202491%2F26",
+"raw": "310931Z AUG 26\nHYDROPAC 2491/26.\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   012119Z TO 012145Z SEP \n   IN AREA BOUND BY\n   28-16.00S 170-42.00W, 29-09.00S 164-42.00W,\n   30-09.00S 163-42.00W, 29-16.00S 169-42.00W.\n2. CANCEL HYDROPAC 2456/26.\n3. CANCEL THIS MSG 012245Z SEP 26.//\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2491&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+-28.7833,
+-172.9333
+],
+[
+-28.6833,
+-168.8333
+],
+[
+-29.6,
+-162.7333
+],
+[
+-29.6667,
+-167.05
+],
+[
+-28.7833,
+-172.9333
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-09-01T21:57:00.000Z",
+"start": "2026-09-01T21:12:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2456/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "other-esa-cluster-tango-reentry",
+"title": "Tango Reentry"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2456/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202456%2F26",
+"raw": "271158Z AUG 26\nHYDROPAC 2456/26.\nSOUTH PACIFIC.\nNEW ZEALAND.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   012112Z TO 012157Z SEP IN AREA BOUND BY\n   28-47.00S 172-56.00W, 28-41.00S 168-50.00W,\n   29-36.00S 162-44.00W, 29-40.00S 167-03.00W.\n2. CANCEL THIS MSG 012257Z SEP 26.\n\n",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2456&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
 25.97558,
 -97.2497
 ],
@@ -496,6 +1437,530 @@
 "areas": [
 [
 [
+13.84696,
+80.2167
+],
+[
+13.84445,
+80.24287
+],
+[
+13.83704,
+80.26804
+],
+[
+13.82499,
+80.29123
+],
+[
+13.80879,
+80.31155
+],
+[
+13.78904,
+80.32822
+],
+[
+13.76652,
+80.3406
+],
+[
+13.74208,
+80.34822
+],
+[
+13.71666,
+80.35078
+],
+[
+13.69125,
+80.34819
+],
+[
+13.66682,
+80.34055
+],
+[
+13.64431,
+80.32815
+],
+[
+13.62458,
+80.31147
+],
+[
+13.60838,
+80.29116
+],
+[
+13.59635,
+80.26798
+],
+[
+13.58894,
+80.24284
+],
+[
+13.58644,
+80.2167
+],
+[
+13.58894,
+80.19056
+],
+[
+13.59635,
+80.16542
+],
+[
+13.60838,
+80.14224
+],
+[
+13.62458,
+80.12193
+],
+[
+13.64431,
+80.10525
+],
+[
+13.66682,
+80.09285
+],
+[
+13.69125,
+80.08521
+],
+[
+13.71666,
+80.08262
+],
+[
+13.74208,
+80.08518
+],
+[
+13.76652,
+80.0928
+],
+[
+13.78904,
+80.10518
+],
+[
+13.80879,
+80.12185
+],
+[
+13.82499,
+80.14217
+],
+[
+13.83704,
+80.16536
+],
+[
+13.84445,
+80.19053
+],
+[
+13.84696,
+80.2167
+]
+],
+[
+[
+12.0,
+84.75
+],
+[
+12.75,
+85.0
+],
+[
+12.3333,
+86.3333
+],
+[
+11.5833,
+86.0833
+],
+[
+12.0,
+84.75
+]
+],
+[
+[
+10.9167,
+87.8333
+],
+[
+11.9167,
+88.0
+],
+[
+11.0833,
+90.5
+],
+[
+10.0833,
+90.3333
+],
+[
+10.9167,
+87.8333
+]
+],
+[
+[
+7.8333,
+95.1667
+],
+[
+9.5833,
+95.1667
+],
+[
+9.5833,
+96.0833
+],
+[
+7.8333,
+96.0833
+],
+[
+7.8333,
+95.1667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-04T01:00:00.000Z",
+"start": "2026-09-03T21:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2498/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-17d0ec68-f466-4916-9dc5-16123eda6484",
+"title": "GISAT-1A (EOS-05)"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2498/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202498%2F26",
+"raw": "011150Z SEP 26\nHYDROPAC 2498/26.\nANDAMAN SEA.\nINDIA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   032100Z TO 040100Z SEP\n   A. IN AREAS BOUND BY:\n      A. 12-00.00N 084-45.00E, 12-45.00N 085-00.00E,\n         12-20.00N 086-20.00E, 11-35.00N 086-05.00E.\n      B. 10-55.00N 087-50.00E, 11-55.00N 088-00.00E,\n         11-05.00N 090-30.00E, 10-05.00N 090-20.00E.\n      C. 07-50.00N 095-10.00E, 09-35.00N 095-10.00E,\n         09-35.00N 096-05.00E, 07-50.00N 096-05.00E.\n   B. IN AREA WITHIN TEN MILES OF 13-43.20N 080-13.80E.\n2. CANCEL THIS MSG 040200Z SEP 26.\n",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2498&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+-39.2,
+177.8
+],
+[
+-39.2,
+177.95
+],
+[
+-39.1167,
+178.2
+],
+[
+-39.2,
+179.0
+],
+[
+-39.75,
+178.85
+],
+[
+-39.4333,
+177.5167
+],
+[
+-39.2,
+177.8
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-08-15T16:45:00.000Z",
+"start": "2026-08-15T04:30:00.000Z"
+},
+{
+"end": "2026-08-16T16:45:00.000Z",
+"start": "2026-08-16T04:30:00.000Z"
+},
+{
+"end": "2026-08-17T16:45:00.000Z",
+"start": "2026-08-17T04:30:00.000Z"
+},
+{
+"end": "2026-08-18T16:45:00.000Z",
+"start": "2026-08-18T04:30:00.000Z"
+},
+{
+"end": "2026-08-19T16:45:00.000Z",
+"start": "2026-08-19T04:30:00.000Z"
+},
+{
+"end": "2026-08-20T16:45:00.000Z",
+"start": "2026-08-20T04:30:00.000Z"
+},
+{
+"end": "2026-08-21T16:45:00.000Z",
+"start": "2026-08-21T04:30:00.000Z"
+},
+{
+"end": "2026-08-22T16:45:00.000Z",
+"start": "2026-08-22T04:30:00.000Z"
+},
+{
+"end": "2026-08-23T16:45:00.000Z",
+"start": "2026-08-23T04:30:00.000Z"
+},
+{
+"end": "2026-08-24T16:45:00.000Z",
+"start": "2026-08-24T04:30:00.000Z"
+},
+{
+"end": "2026-08-25T16:45:00.000Z",
+"start": "2026-08-25T04:30:00.000Z"
+},
+{
+"end": "2026-08-26T16:45:00.000Z",
+"start": "2026-08-26T04:30:00.000Z"
+},
+{
+"end": "2026-08-27T16:45:00.000Z",
+"start": "2026-08-27T04:30:00.000Z"
+},
+{
+"end": "2026-08-28T16:45:00.000Z",
+"start": "2026-08-28T04:30:00.000Z"
+},
+{
+"end": "2026-08-29T16:45:00.000Z",
+"start": "2026-08-29T04:30:00.000Z"
+},
+{
+"end": "2026-08-30T16:45:00.000Z",
+"start": "2026-08-30T04:30:00.000Z"
+},
+{
+"end": "2026-08-31T16:45:00.000Z",
+"start": "2026-08-31T04:30:00.000Z"
+},
+{
+"end": "2026-09-01T16:45:00.000Z",
+"start": "2026-09-01T04:30:00.000Z"
+},
+{
+"end": "2026-09-02T16:45:00.000Z",
+"start": "2026-09-02T04:30:00.000Z"
+},
+{
+"end": "2026-09-03T16:45:00.000Z",
+"start": "2026-09-03T04:30:00.000Z"
+},
+{
+"end": "2026-09-04T16:45:00.000Z",
+"start": "2026-09-04T04:30:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2299/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-57280454-470e-4c5d-8de1-1bbd0ea41b49",
+"title": "The Lightning God Defends (iQPS Launch 8)"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2299/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202299%2F26",
+"raw": "102354Z AUG 26\nHYDROPAC 2299/26.\nSOUTH PACIFIC.\nNEW ZEALAND.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   0430Z TO 1645Z DAILY 15 AUG THRU 04 SEP\n   IN AREA BOUND BY\n   39-12.00S 177-48.00E, 39-12.00S 177-57.00E,\n   39-07.20S 178-12.00E, 39-12.00S 179-00.00E,\n   39-45.00S 178-51.60E, 39-26.40S 177-31.80E.\n2. CANCEL THIS MSG 041745Z SEP 26.\n",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2299&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+-39.45,
+-176.6
+],
+[
+-40.2,
+-169.5
+],
+[
+-42.4,
+-169.8
+],
+[
+-41.4,
+-177.0
+],
+[
+-39.45,
+-176.6
+]
+],
+[
+[
+-41.0,
+-162.0
+],
+[
+-41.0,
+-154.4
+],
+[
+-43.0,
+-154.0
+],
+[
+-43.0,
+-161.8
+],
+[
+-41.0,
+-162.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-08-15T16:45:00.000Z",
+"start": "2026-08-15T04:30:00.000Z"
+},
+{
+"end": "2026-08-16T16:45:00.000Z",
+"start": "2026-08-16T04:30:00.000Z"
+},
+{
+"end": "2026-08-17T16:45:00.000Z",
+"start": "2026-08-17T04:30:00.000Z"
+},
+{
+"end": "2026-08-18T16:45:00.000Z",
+"start": "2026-08-18T04:30:00.000Z"
+},
+{
+"end": "2026-08-19T16:45:00.000Z",
+"start": "2026-08-19T04:30:00.000Z"
+},
+{
+"end": "2026-08-20T16:45:00.000Z",
+"start": "2026-08-20T04:30:00.000Z"
+},
+{
+"end": "2026-08-21T16:45:00.000Z",
+"start": "2026-08-21T04:30:00.000Z"
+},
+{
+"end": "2026-08-22T16:45:00.000Z",
+"start": "2026-08-22T04:30:00.000Z"
+},
+{
+"end": "2026-08-23T16:45:00.000Z",
+"start": "2026-08-23T04:30:00.000Z"
+},
+{
+"end": "2026-08-24T16:45:00.000Z",
+"start": "2026-08-24T04:30:00.000Z"
+},
+{
+"end": "2026-08-25T16:45:00.000Z",
+"start": "2026-08-25T04:30:00.000Z"
+},
+{
+"end": "2026-08-26T16:45:00.000Z",
+"start": "2026-08-26T04:30:00.000Z"
+},
+{
+"end": "2026-08-27T16:45:00.000Z",
+"start": "2026-08-27T04:30:00.000Z"
+},
+{
+"end": "2026-08-28T16:45:00.000Z",
+"start": "2026-08-28T04:30:00.000Z"
+},
+{
+"end": "2026-08-29T16:45:00.000Z",
+"start": "2026-08-29T04:30:00.000Z"
+},
+{
+"end": "2026-08-30T16:45:00.000Z",
+"start": "2026-08-30T04:30:00.000Z"
+},
+{
+"end": "2026-08-31T16:45:00.000Z",
+"start": "2026-08-31T04:30:00.000Z"
+},
+{
+"end": "2026-09-01T16:45:00.000Z",
+"start": "2026-09-01T04:30:00.000Z"
+},
+{
+"end": "2026-09-02T16:45:00.000Z",
+"start": "2026-09-02T04:30:00.000Z"
+},
+{
+"end": "2026-09-03T16:45:00.000Z",
+"start": "2026-09-03T04:30:00.000Z"
+},
+{
+"end": "2026-09-04T16:45:00.000Z",
+"start": "2026-09-04T04:30:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2300/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-57280454-470e-4c5d-8de1-1bbd0ea41b49",
+"title": "The Lightning God Defends (iQPS Launch 8)"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2300/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202300%2F26",
+"raw": "110010Z AUG 26\nHYDROPAC 2300/26.\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   0430Z TO 1645Z DAILY 15 AUG THRU 04 SEP\n   IN AREAS BOUND BY:\n   A. 39-27.00S 176-36.00W, 40-12.00S 169-30.00W,\n      42-24.00S 169-48.00W, 41-24.00S 177-00.00W.\n   B. 41-00.00S 162-00.00W, 41-00.00S 154-24.00W,\n      43-00.00S 154-00.00W, 43-00.00S 161-48.00W.\n2. CANCEL THIS MSG 041745Z SEP 26.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2300&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
 26.03884,
 -97.1558
 ],
@@ -655,6 +2120,618 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-08-22T19:53:01.392Z"
+},
+{
+"areas": [
+[
+[
+32.6333,
+-67.45
+],
+[
+33.5667,
+-64.8667
+],
+[
+33.4,
+-63.8
+],
+[
+33.2,
+-63.7333
+],
+[
+32.7333,
+-64.2167
+],
+[
+32.45,
+-67.4
+],
+[
+32.6333,
+-67.45
+]
+],
+[
+[
+29.5833,
+-78.3167
+],
+[
+30.1333,
+-77.2833
+],
+[
+30.1667,
+-76.55
+],
+[
+30.05,
+-76.5
+],
+[
+29.6833,
+-77.0667
+],
+[
+29.45,
+-78.25
+],
+[
+29.5833,
+-78.3167
+]
+],
+[
+[
+28.6833,
+-80.65
+],
+[
+28.7833,
+-80.45
+],
+[
+28.95,
+-80.0167
+],
+[
+28.9667,
+-79.8
+],
+[
+28.8333,
+-79.8833
+],
+[
+28.5667,
+-80.1833
+],
+[
+28.45,
+-80.5167
+],
+[
+28.6833,
+-80.65
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-08-30T12:16:00.000Z",
+"start": "2026-08-30T11:10:00.000Z"
+},
+{
+"end": "2026-08-31T12:16:00.000Z",
+"start": "2026-08-31T11:10:00.000Z"
+},
+{
+"end": "2026-09-01T12:14:00.000Z",
+"start": "2026-09-01T11:07:00.000Z"
+},
+{
+"end": "2026-09-02T12:11:00.000Z",
+"start": "2026-09-02T11:04:00.000Z"
+},
+{
+"end": "2026-09-03T12:11:00.000Z",
+"start": "2026-09-03T11:04:00.000Z"
+},
+{
+"end": "2026-09-04T12:08:00.000Z",
+"start": "2026-09-04T11:01:00.000Z"
+},
+{
+"end": "2026-09-05T12:03:00.000Z",
+"start": "2026-09-05T10:56:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA IV 825/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-521f3a1c-f977-4306-9b7f-495858719adf",
+"title": "Nancy Grace Roman Space Telescope"
+}
+],
+"markers": [],
+"name": "NAVAREA IV 825/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20IV%20825%2F26",
+"raw": "250945Z AUG 26\nNAVAREA IV 825/26.\nNORTH ATLANTIC.\nFLORIDA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   301110Z TO 301216Z AUG, ALTERNATE\n   311110Z TO 311216Z AUG, 011107Z TO 011214Z,\n   021104Z TO 021211Z, 031104Z TO 031211Z,\n   041101Z TO 041208Z AND 051056Z TO 051203Z SEP\n   IN AREAS BOUND BY:\n   A. 32-38.00N 067-27.00W, 33-34.00N 064-52.00W,\n      33-24.00N 063-48.00W, 33-12.00N 063-44.00W,\n      32-44.00N 064-13.00W, 32-27.00N 067-24.00W.\n   B. 29-35.00N 078-19.00W, 30-08.00N 077-17.00W,\n      30-10.00N 076-33.00W, 30-03.00N 076-30.00W,\n      29-41.00N 077-04.00W, 29-27.00N 078-15.00W.\n   C. 28-41.20N 080-39.90W, 28-47.00N 080-27.00W,\n      28-57.00N 080-01.00W, 28-58.00N 079-48.00W,\n      28-50.00N 079-53.00W, 28-34.00N 080-11.00W,\n      28-27.42N 080-31.37W.\n2. CANCEL THIS MSG 051303Z SEP 26.//\n\n",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=825&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+29.8,
+-117.65
+],
+[
+34.4667,
+-120.3
+],
+[
+34.6667,
+-120.6
+],
+[
+34.65,
+-120.65
+],
+[
+34.5,
+-120.65
+],
+[
+29.5833,
+-118.2
+],
+[
+29.8667,
+-117.9
+],
+[
+29.8,
+-117.65
+]
+],
+[
+[
+29.8,
+-117.65
+],
+[
+29.8667,
+-117.9
+],
+[
+29.5833,
+-118.2
+],
+[
+29.4,
+-118.1333
+],
+[
+29.25,
+-118.0333
+],
+[
+29.0333,
+-117.9833
+],
+[
+28.2,
+-117.3167
+],
+[
+28.8333,
+-117.3167
+],
+[
+29.6,
+-117.2667
+],
+[
+29.8,
+-117.65
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-01T12:44:00.000Z",
+"start": "2026-09-01T08:01:00.000Z"
+},
+{
+"end": "2026-09-02T12:29:00.000Z",
+"start": "2026-09-02T07:46:00.000Z"
+},
+{
+"end": "2026-09-03T12:15:00.000Z",
+"start": "2026-09-03T07:32:00.000Z"
+},
+{
+"end": "2026-09-04T12:01:00.000Z",
+"start": "2026-09-04T07:18:00.000Z"
+},
+{
+"end": "2026-09-05T11:46:00.000Z",
+"start": "2026-09-05T07:03:00.000Z"
+},
+{
+"end": "2026-09-06T11:32:00.000Z",
+"start": "2026-09-06T06:49:00.000Z"
+},
+{
+"end": "2026-09-07T11:17:00.000Z",
+"start": "2026-09-07T06:34:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA XII 587/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-63181269-b125-4c36-951c-c9bd9bbc4b55",
+"title": "Starlink Group 15-23"
+}
+],
+"markers": [],
+"name": "NAVAREA XII 587/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20587%2F26",
+"raw": "212338Z AUG 26\nNAVAREA XII 587/26.\nNORTH PACIFIC.\nCALIFORNIA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING:\n   A. 010801ZTO 011226Z SEP, ALTERNATE \n      020746Z TO 021211Z, 030732Z TO 031157Z, \n      040718Z TO 041143Z, 050703Z TO 051128Z,\n      060649Z TO 061114Z AND \n      070634Z TO 071059Z SEP IN AREA BOUND BY\n      29-48.00N 117-39.00W, 34-28.00N 120-18.00W,\n      34-40.00N 120-36.00W, 34-39.00N 120-39.00W,\n      34-30.00N 120-39.00W, 29-35.00N 118-12.00W,\n      29-52.00N 117-54.00W.\n   B. 010801Z TO 011244Z SEP, ALTERNATE \n      020746Z TO 021229Z, 030732Z TO 031215Z, \n      040718Z TO 041201Z, 050703Z TO 051146Z, \n      060649Z TO 061132Z AND \n      070634Z TO 071117Z SEP IN AREAS BOUND BY\n      29-48.00N 117-39.00W, 29-52.00N 117-54.00W,\n      29-35.00N 118-12.00W, 29-24.00N 118-08.00W,\n      29-15.00N 118-02.00W, 29-02.00N 117-59.00W,\n      28-12.00N 117-19.00W, 28-50.00N 117-19.00W,\n      29-36.00N 117-16.00W.\n2. CANCEL THIS MSG 071217Z SEP 26.",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=587&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-38.35,
+-115.0667
+],
+[
+-49.15,
+-107.3667
+],
+[
+-59.15,
+-95.5667
+],
+[
+-59.9667,
+-99.0833
+],
+[
+-44.5667,
+-114.2167
+],
+[
+-27.9833,
+-122.7333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-01T14:26:00.000Z",
+"start": "2026-09-01T09:48:00.000Z"
+},
+{
+"end": "2026-09-02T14:11:00.000Z",
+"start": "2026-09-02T09:33:00.000Z"
+},
+{
+"end": "2026-09-03T13:57:00.000Z",
+"start": "2026-09-03T09:19:00.000Z"
+},
+{
+"end": "2026-09-04T13:43:00.000Z",
+"start": "2026-09-04T09:05:00.000Z"
+},
+{
+"end": "2026-09-05T13:28:00.000Z",
+"start": "2026-09-05T08:50:00.000Z"
+},
+{
+"end": "2026-09-06T13:14:00.000Z",
+"start": "2026-09-06T08:36:00.000Z"
+},
+{
+"end": "2026-09-07T12:59:00.000Z",
+"start": "2026-09-07T08:21:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2451/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-63181269-b125-4c36-951c-c9bd9bbc4b55",
+"title": "Starlink Group 15-23"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2451/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202451%2F26",
+"raw": "240825Z AUG 26\nHYDROPAC 2451/26.\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   010948Z TO 011426Z, 020933Z TO 021411Z, \n   030919Z TO 031357Z, 040905Z TO 041343Z,\n   050850Z TO 051328Z, 060836Z TO 061314Z \n   AND 070821Z TO 071259Z SEP\n   IN AREA BOUND BY\n   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,\n   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,\n   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,\n   44-34.00S 114-13.00W.\n2. CANCEL THIS MSG 071359Z SEP 26.",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2451&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+4.1167,
+-32.7333
+],
+[
+3.65,
+-28.65
+],
+[
+3.0833,
+-28.7167
+],
+[
+3.5667,
+-32.8
+],
+[
+4.1167,
+-32.7333
+]
+],
+[
+[
+5.6167,
+-50.2333
+],
+[
+5.75,
+-48.9
+],
+[
+5.5833,
+-48.8833
+],
+[
+5.45,
+-50.2167
+],
+[
+5.6167,
+-50.2333
+]
+],
+[
+[
+5.6833,
+-48.5667
+],
+[
+5.7167,
+-47.0333
+],
+[
+5.3167,
+-47.0167
+],
+[
+5.2833,
+-48.5667
+],
+[
+5.6833,
+-48.5667
+]
+],
+[
+[
+4.4833,
+-33.5833
+],
+[
+3.85,
+-28.2833
+],
+[
+2.75,
+-28.4167
+],
+[
+3.3833,
+-33.7
+],
+[
+4.4833,
+-33.5833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-08-28T00:01:00.000Z",
+"start": "2026-08-27T19:00:00.000Z"
+},
+{
+"end": "2026-08-29T00:01:00.000Z",
+"start": "2026-08-28T19:00:00.000Z"
+},
+{
+"end": "2026-08-30T00:01:00.000Z",
+"start": "2026-08-29T19:00:00.000Z"
+},
+{
+"end": "2026-08-31T00:01:00.000Z",
+"start": "2026-08-30T19:00:00.000Z"
+},
+{
+"end": "2026-09-01T00:01:00.000Z",
+"start": "2026-08-31T19:00:00.000Z"
+},
+{
+"end": "2026-09-02T00:01:00.000Z",
+"start": "2026-09-01T19:00:00.000Z"
+},
+{
+"end": "2026-09-03T00:01:00.000Z",
+"start": "2026-09-02T19:00:00.000Z"
+},
+{
+"end": "2026-09-04T00:01:00.000Z",
+"start": "2026-09-03T19:00:00.000Z"
+},
+{
+"end": "2026-09-05T00:01:00.000Z",
+"start": "2026-09-04T19:00:00.000Z"
+},
+{
+"end": "2026-09-06T00:01:00.000Z",
+"start": "2026-09-05T19:00:00.000Z"
+},
+{
+"end": "2026-09-07T00:01:00.000Z",
+"start": "2026-09-06T19:00:00.000Z"
+},
+{
+"end": "2026-09-08T00:01:00.000Z",
+"start": "2026-09-07T19:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROLANT 1644/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-a57aed97-b94f-42e1-905e-9421dbd96ac8",
+"title": "MTG-I2"
+}
+],
+"markers": [],
+"name": "HYDROLANT 1644/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROLANT%201644%2F26",
+"raw": "221041Z AUG 26\nHYDROLANT 1644/26\nNORTH ATLANTIC.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   1900Z TO 0001Z DAILY 27 AUG THRU 07 SEP\n   IN AREAS BOUND BY:\n   A. 04-07.00N 032-44.00W, 03-39.00N 028-39.00W,\n      03-05.00N 028-43.00W, 03-34.00N 032-48.00W.\n   B. 05-37.00N 050-14.00W, 05-45.00N 048-54.00W,\n      05-35.00N 048-53.00W, 05-27.00N 050-13.00W.\n   C. 05-41.00N 048-34.00W, 05-43.00N 047-02.00W,\n      05-19.00N 047-01.00W, 05-17.00N 048-34.00W.\n   D. 04-29.00N 033-35.00W, 03-51.00N 028-17.00W,\n      02-45.00N 028-25.00W, 03-23.00N 033-42.00W.\n2. CANCEL THIS MSG 080100Z SEP 26.",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=A&msgSqncNumber=1644&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+-32.2833,
+-164.4333
+],
+[
+-37.15,
+-157.7833
+],
+[
+-45.5167,
+-140.4333
+],
+[
+-48.5667,
+-129.45
+],
+[
+-50.6,
+-109.0
+],
+[
+-52.65,
+-108.6333
+],
+[
+-52.1833,
+-127.25
+],
+[
+-50.1833,
+-139.5
+],
+[
+-43.2167,
+-157.8833
+],
+[
+-38.6667,
+-166.5
+],
+[
+-35.8,
+-165.7
+],
+[
+-32.2833,
+-164.4333
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-09-07T20:00:00.000Z",
+"start": "2026-09-07T18:00:00.000Z"
+},
+{
+"end": "2026-09-08T20:00:00.000Z",
+"start": "2026-09-08T18:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2510/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "other-progress-ms-33-reentry",
+"title": "Progress MS-33"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2510/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202510%2F26",
+"raw": "021215Z SEP 26\nHYDROPAC 2510/26.\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   1800Z TO 2000Z DAILY 07 THRU 08 SEP\n   IN AREA BOUND BY\n   32-17.00S 164-26.00W, 37-09.00S 157-47.00W,\n   45-31.00S 140-26.00W, 48-34.00S 129-27.00W,\n   50-36.00S 109-00.00W, 52-39.00S 108-38.00W,\n   52-11.00S 127-15.00W, 50-11.00S 139-30.00W,\n   43-13.00S 157-53.00W, 38-40.00S 166-30.00W,\n   35-48.00S 165-42.00W.\n2. CANCEL THIS MSG 082100Z SEP 26.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2510&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
 },
 {
 "areas": [
@@ -1028,6 +3105,713 @@
 "areas": [
 [
 [
+31.59513,
+144.4333
+],
+[
+31.58815,
+144.51617
+],
+[
+31.56748,
+144.59581
+],
+[
+31.53393,
+144.66915
+],
+[
+31.4888,
+144.73333
+],
+[
+31.43384,
+144.7859
+],
+[
+31.37117,
+144.82482
+],
+[
+31.30322,
+144.84864
+],
+[
+31.23261,
+144.85646
+],
+[
+31.16205,
+144.84802
+],
+[
+31.09424,
+144.82368
+],
+[
+31.0318,
+144.7844
+],
+[
+30.9771,
+144.73171
+],
+[
+30.93224,
+144.66765
+],
+[
+30.89891,
+144.59467
+],
+[
+30.8784,
+144.51555
+],
+[
+30.87147,
+144.4333
+],
+[
+30.8784,
+144.35105
+],
+[
+30.89891,
+144.27193
+],
+[
+30.93224,
+144.19895
+],
+[
+30.9771,
+144.13489
+],
+[
+31.0318,
+144.0822
+],
+[
+31.09424,
+144.04292
+],
+[
+31.16205,
+144.01858
+],
+[
+31.23261,
+144.01014
+],
+[
+31.30322,
+144.01796
+],
+[
+31.37117,
+144.04178
+],
+[
+31.43384,
+144.0807
+],
+[
+31.4888,
+144.13327
+],
+[
+31.53393,
+144.19745
+],
+[
+31.56748,
+144.27079
+],
+[
+31.58815,
+144.35043
+],
+[
+31.59513,
+144.4333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-08-31T13:00:00.000Z",
+"start": "2026-08-30T21:00:00.000Z"
+},
+{
+"end": "2026-09-01T13:00:00.000Z",
+"start": "2026-08-31T21:00:00.000Z"
+},
+{
+"end": "2026-09-02T13:00:00.000Z",
+"start": "2026-09-01T21:00:00.000Z"
+},
+{
+"end": "2026-09-03T13:00:00.000Z",
+"start": "2026-09-02T21:00:00.000Z"
+},
+{
+"end": "2026-09-06T13:00:00.000Z",
+"start": "2026-09-05T21:00:00.000Z"
+},
+{
+"end": "2026-09-07T13:00:00.000Z",
+"start": "2026-09-06T21:00:00.000Z"
+},
+{
+"end": "2026-09-08T13:00:00.000Z",
+"start": "2026-09-07T21:00:00.000Z"
+},
+{
+"end": "2026-09-09T13:00:00.000Z",
+"start": "2026-09-08T21:00:00.000Z"
+},
+{
+"end": "2026-09-10T13:00:00.000Z",
+"start": "2026-09-09T21:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2442/26",
+"kind": "NAVWARNING",
+"launches": [],
+"markers": [],
+"name": "HYDROPAC 2442/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202442%2F26",
+"raw": "261201Z AUG 26\nHYDROPAC 2442/26.\nNORTH PACIFIC.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   2100Z TO 1300Z DAILY 30 AUG THRU 02, 05 AND 06 SEP, \n   ALTERNATE 2100Z TO 1300Z DAILY 07 THRU 09 SEP\n   IN AREA WITHIN 25 MILES OF 31-14.21N 144-26.80E.\n2. CANCEL THIS MSG 101400Z SEP 26.\n\n",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2442&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+29.8,
+-117.65
+],
+[
+34.4667,
+-120.3
+],
+[
+34.6667,
+-120.6
+],
+[
+34.65,
+-120.65
+],
+[
+34.5,
+-120.65
+],
+[
+29.5833,
+-118.2
+],
+[
+29.8667,
+-117.9
+],
+[
+29.8,
+-117.65
+]
+],
+[
+[
+29.8,
+-117.65
+],
+[
+29.8667,
+-117.9
+],
+[
+29.5833,
+-118.2
+],
+[
+29.4,
+-118.1333
+],
+[
+29.25,
+-118.0333
+],
+[
+29.0333,
+-117.9833
+],
+[
+28.2,
+-117.3167
+],
+[
+28.8333,
+-117.3167
+],
+[
+29.6,
+-117.2667
+],
+[
+29.8,
+-117.65
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-04T16:11:00.000Z",
+"start": "2026-09-04T11:28:00.000Z"
+},
+{
+"end": "2026-09-05T15:56:00.000Z",
+"start": "2026-09-05T11:13:00.000Z"
+},
+{
+"end": "2026-09-06T15:42:00.000Z",
+"start": "2026-09-06T10:59:00.000Z"
+},
+{
+"end": "2026-09-07T15:28:00.000Z",
+"start": "2026-09-07T10:45:00.000Z"
+},
+{
+"end": "2026-09-08T15:13:00.000Z",
+"start": "2026-09-08T10:30:00.000Z"
+},
+{
+"end": "2026-09-09T14:59:00.000Z",
+"start": "2026-09-09T10:16:00.000Z"
+},
+{
+"end": "2026-09-10T14:44:00.000Z",
+"start": "2026-09-10T10:01:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA XII 593/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-153ef8ef-b12b-43f4-a4bf-05b225c0cd37",
+"title": "Starlink Group 15-24"
+}
+],
+"markers": [],
+"name": "NAVAREA XII 593/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20593%2F26",
+"raw": "252341Z AUG 26\nNAVAREA XII 593/26.\nNORTH PACIFIC.\nCALIFORNIA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING:\n   A. 041128Z TO 041553Z SEP, ALTERNATE\n      051113Z TO 051538Z, 061059Z TO 061524Z,\n      071045Z TO 071510Z, 081030Z TO 081455Z,\n      091016Z TO 091441Z AND 101001Z TO 101426Z SEP\n      IN AREA BOUND BY\n      29-48.00N 117-39.00W, 34-28.00N 120-18.00W,\n      34-40.00N 120-36.00W, 34-39.00N 120-39.00W,\n      34-30.00N 120-39.00W, 29-35.00N 118-12.00W,\n      29-52.00N 117-54.00W.\n   B. 041128Z TO 041611Z SEP, ALTERNATE\n      051113Z TO 051556Z, 061059Z TO 061542Z,\n      071045Z TO 071528Z, 081030Z TO 081513Z,\n      091016Z TO 091459Z AND 101001Z TO 101444Z SEP\n      IN AREA BOUND BY\n      29-48.00N 117-39.00W, 29-52.00N 117-54.00W,\n      29-35.00N 118-12.00W, 29-24.00N 118-08.00W,\n      29-15.00N 118-02.00W, 29-02.00N 117-59.00W,\n      28-12.00N 117-19.00W, 28-50.00N 117-19.00W,\n      29-36.00N 117-16.00W.\n2. CANCEL THIS MSG 101544Z SEP 26.",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=593&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+68.9833,
+15.4667
+],
+[
+69.2167,
+15.9667
+],
+[
+70.8833,
+14.1667
+],
+[
+70.6833,
+12.85
+],
+[
+68.9833,
+15.4667
+]
+],
+[
+[
+71.05,
+15.2
+],
+[
+74.25,
+9.8667
+],
+[
+76.8333,
+3.3833
+],
+[
+79.1833,
+-6.0667
+],
+[
+79.9167,
+-10.35
+],
+[
+79.6833,
+-11.5667
+],
+[
+78.05,
+-4.2167
+],
+[
+76.0167,
+2.0
+],
+[
+73.5333,
+7.2
+],
+[
+70.5,
+11.6167
+],
+[
+71.05,
+15.2
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-09-04T21:35:00.000Z",
+"start": "2026-09-04T16:00:00.000Z"
+},
+{
+"end": "2026-09-05T21:35:00.000Z",
+"start": "2026-09-05T16:00:00.000Z"
+},
+{
+"end": "2026-09-06T21:35:00.000Z",
+"start": "2026-09-06T16:00:00.000Z"
+},
+{
+"end": "2026-09-07T21:35:00.000Z",
+"start": "2026-09-07T16:00:00.000Z"
+},
+{
+"end": "2026-09-08T21:35:00.000Z",
+"start": "2026-09-08T16:00:00.000Z"
+},
+{
+"end": "2026-09-09T21:35:00.000Z",
+"start": "2026-09-09T16:00:00.000Z"
+},
+{
+"end": "2026-09-10T21:35:00.000Z",
+"start": "2026-09-10T16:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROARC 199/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-1b23eb18-e06e-4058-9b42-e95ca0980511",
+"title": "Onward and Upward"
+}
+],
+"markers": [],
+"name": "HYDROARC 199/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROARC%20199%2F26",
+"raw": "010331Z SEP 26\nHYDROARC 199/26.\nGREENLAND SEA.\nNORWEGIAN SEA.\nNORWAY.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   1600Z TO 2135Z DAILY 04 THRU 10 SEP\n   IN AREAS BOUND BY:\n   A. 68-59.33N 015-28.04E, 69-13.36N 015-58.52E,\n      70-53.82N 014-10.90E, 70-41.62N 012-51.94E.\n   B. 71-03.42N 015-12.97E, 74-15.83N 009-52.26E,\n      76-50.36N 003-23.81E, 79-11.76N 006-04.25W,\n      79-55.85N 010-21.89W, 79-41.45N 011-34.90W,\n      78-03.47N 004-13.39W, 76-01.02N 002-00.03E,\n      73-32.12N 007-12.24E, 70-30.12N 011-37.50E.\n2. CANCEL THIS MSG 102235Z SEP 26.",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=C&msgSqncNumber=199&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+27.4667,
+-171.4
+],
+[
+13.6333,
+-174.0
+],
+[
+1.5833,
+-175.8
+],
+[
+0.9,
+-172.7167
+],
+[
+12.3667,
+-170.6667
+],
+[
+16.75,
+-170.1
+],
+[
+26.7167,
+-168.65
+],
+[
+27.4667,
+-171.4
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-04T23:55:00.000Z",
+"start": "2026-09-04T21:33:00.000Z"
+},
+{
+"end": "2026-09-05T23:55:00.000Z",
+"start": "2026-09-05T21:33:00.000Z"
+},
+{
+"end": "2026-09-06T23:55:00.000Z",
+"start": "2026-09-06T21:33:00.000Z"
+},
+{
+"end": "2026-09-07T23:55:00.000Z",
+"start": "2026-09-07T21:33:00.000Z"
+},
+{
+"end": "2026-09-08T23:55:00.000Z",
+"start": "2026-09-08T21:33:00.000Z"
+},
+{
+"end": "2026-09-09T23:55:00.000Z",
+"start": "2026-09-09T21:33:00.000Z"
+},
+{
+"end": "2026-09-10T23:55:00.000Z",
+"start": "2026-09-10T21:33:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA XII 595/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-1b23eb18-e06e-4058-9b42-e95ca0980511",
+"title": "Onward and Upward"
+}
+],
+"markers": [],
+"name": "NAVAREA XII 595/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20595%2F26",
+"raw": "310941Z AUG 26\nNAVAREA XII 595/26.\nNORTH PACIFIC.\nJOHNSTON ATOLL.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   2133Z TO 2355Z DAILY 04 THRU 10 SEP\n   IN AREA BOUND BY\n   27-28.71N 171-24.34W, 13-38.98N 174-00.45W,\n   01-35.98N 175-48.45W, 00-54.72N 172-43.89W,\n   12-22.59N 170-40.14W, 16-45.76N 170-06.75W,\n   26-43.75N 168-39.09W.\n2. CANCEL THIS MSG 110055Z SEP 26.",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=595&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-38.35,
+-115.0667
+],
+[
+-49.15,
+-107.3667
+],
+[
+-59.15,
+-95.5667
+],
+[
+-59.9667,
+-99.0833
+],
+[
+-44.5667,
+-114.2167
+],
+[
+-27.9833,
+-122.7333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-05T17:38:00.000Z",
+"start": "2026-09-05T13:00:00.000Z"
+},
+{
+"end": "2026-09-06T17:24:00.000Z",
+"start": "2026-09-06T12:46:00.000Z"
+},
+{
+"end": "2026-09-07T17:10:00.000Z",
+"start": "2026-09-07T12:32:00.000Z"
+},
+{
+"end": "2026-09-08T16:55:00.000Z",
+"start": "2026-09-08T12:17:00.000Z"
+},
+{
+"end": "2026-09-09T16:41:00.000Z",
+"start": "2026-09-09T12:03:00.000Z"
+},
+{
+"end": "2026-09-10T16:26:00.000Z",
+"start": "2026-09-10T11:48:00.000Z"
+},
+{
+"end": "2026-09-11T16:12:00.000Z",
+"start": "2026-09-11T11:34:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2488/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-153ef8ef-b12b-43f4-a4bf-05b225c0cd37",
+"title": "Starlink Group 15-24"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2488/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202488%2F26",
+"raw": "310411Z AUG 26\nHYDROPAC 2488/26.\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   051300Z TO 051738Z, 061246Z TO 061724Z,  \n   071232Z TO 071710Z, 081217Z TO 081655Z,  \n   091203Z TO 091641Z, 101148Z TO 101626Z \n   AND 111134Z TO 111612Z SEP \n   IN AREA BOUND BY\n   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,\n   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,\n   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,\n   44-34.00S 114-13.00W.\n2. CANCEL THIS MSG 111712Z SEP 26.//\n\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2488&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-38.35,
+-115.0667
+],
+[
+-49.15,
+-107.3667
+],
+[
+-59.15,
+-95.5667
+],
+[
+-59.9667,
+-99.0833
+],
+[
+-44.5667,
+-114.2167
+],
+[
+-27.9833,
+-122.7333
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-09-05T17:38:00.000Z",
+"start": "2026-09-05T11:34:00.000Z"
+},
+{
+"end": "2026-09-06T17:38:00.000Z",
+"start": "2026-09-06T11:34:00.000Z"
+},
+{
+"end": "2026-09-07T17:38:00.000Z",
+"start": "2026-09-07T11:34:00.000Z"
+},
+{
+"end": "2026-09-08T17:38:00.000Z",
+"start": "2026-09-08T11:34:00.000Z"
+},
+{
+"end": "2026-09-09T17:38:00.000Z",
+"start": "2026-09-09T11:34:00.000Z"
+},
+{
+"end": "2026-09-10T17:38:00.000Z",
+"start": "2026-09-10T11:34:00.000Z"
+},
+{
+"end": "2026-09-11T17:38:00.000Z",
+"start": "2026-09-11T11:34:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2505/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-153ef8ef-b12b-43f4-a4bf-05b225c0cd37",
+"title": "Starlink Group 15-24"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2505/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202505%2F26",
+"raw": "011425Z SEP 26\nHYDROPAC 2505/26.\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   1134Z TO 1738Z DAILY 05 THRU 11 SEP\n   IN AREA BOUND BY\n   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,\n   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,\n   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,\n   44-34.00S 114-13.00W.\n2. CANCEL THIS MSG 111838Z SEP 26.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2505&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
 25.97558,
 -97.2497
 ],
@@ -1255,6 +4039,248 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-08-31T05:42:05.258Z"
+},
+{
+"areas": [
+[
+[
+-39.2,
+177.8
+],
+[
+-39.2,
+177.95
+],
+[
+-39.1,
+178.5
+],
+[
+-39.3,
+178.5
+],
+[
+-39.4,
+177.8
+],
+[
+-39.2,
+177.8
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-08-31T13:30:00.000Z",
+"start": "2026-08-31T03:45:00.000Z"
+},
+{
+"end": "2026-09-01T13:30:00.000Z",
+"start": "2026-09-01T03:45:00.000Z"
+},
+{
+"end": "2026-09-02T13:30:00.000Z",
+"start": "2026-09-02T03:45:00.000Z"
+},
+{
+"end": "2026-09-03T13:30:00.000Z",
+"start": "2026-09-03T03:45:00.000Z"
+},
+{
+"end": "2026-09-04T13:30:00.000Z",
+"start": "2026-09-04T03:45:00.000Z"
+},
+{
+"end": "2026-09-05T13:30:00.000Z",
+"start": "2026-09-05T03:45:00.000Z"
+},
+{
+"end": "2026-09-06T13:30:00.000Z",
+"start": "2026-09-06T03:45:00.000Z"
+},
+{
+"end": "2026-09-07T13:30:00.000Z",
+"start": "2026-09-07T03:45:00.000Z"
+},
+{
+"end": "2026-09-08T13:30:00.000Z",
+"start": "2026-09-08T03:45:00.000Z"
+},
+{
+"end": "2026-09-09T13:30:00.000Z",
+"start": "2026-09-09T03:45:00.000Z"
+},
+{
+"end": "2026-09-10T13:30:00.000Z",
+"start": "2026-09-10T03:45:00.000Z"
+},
+{
+"end": "2026-09-11T13:30:00.000Z",
+"start": "2026-09-11T03:45:00.000Z"
+},
+{
+"end": "2026-09-12T13:30:00.000Z",
+"start": "2026-09-12T03:45:00.000Z"
+},
+{
+"end": "2026-09-13T13:30:00.000Z",
+"start": "2026-09-13T03:45:00.000Z"
+},
+{
+"end": "2026-09-14T13:30:00.000Z",
+"start": "2026-09-14T03:45:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2435/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-9f5a4cb6-63f9-47e1-9512-b468bae2a8e6",
+"title": "Owl Around The World (StriX Launch 11)"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2435/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202435%2F26",
+"raw": "260022Z AUG 26\nHYDROPAC 2435/26.\nSOUTH PACIFIC.\nNEW ZEALAND.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   0345Z TO 1330Z DAILY 31 AUG THRU 14 SEP\n   IN AREA BOUND BY\n   39-12.00S 177-48.00E, 39-12.00S 177-57.00E,\n   39-06.00S 178-30.00E, 39-18.00S 178-30.00E,\n   39-24.00S 177-48.00E.\n2. CANCEL THIS MSG 141430Z SEP 26.\n",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2435&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+-38.0,
+-178.0
+],
+[
+-37.0,
+-173.0
+],
+[
+-38.5,
+-173.0
+],
+[
+-39.5,
+-178.0
+],
+[
+-38.0,
+-178.0
+]
+],
+[
+[
+-35.5,
+-165.0
+],
+[
+-34.5,
+-160.0
+],
+[
+-36.0,
+-160.0
+],
+[
+-37.0,
+-165.0
+],
+[
+-35.5,
+-165.0
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-08-31T13:30:00.000Z",
+"start": "2026-08-31T03:45:00.000Z"
+},
+{
+"end": "2026-09-01T13:30:00.000Z",
+"start": "2026-09-01T03:45:00.000Z"
+},
+{
+"end": "2026-09-02T13:30:00.000Z",
+"start": "2026-09-02T03:45:00.000Z"
+},
+{
+"end": "2026-09-03T13:30:00.000Z",
+"start": "2026-09-03T03:45:00.000Z"
+},
+{
+"end": "2026-09-04T13:30:00.000Z",
+"start": "2026-09-04T03:45:00.000Z"
+},
+{
+"end": "2026-09-05T13:30:00.000Z",
+"start": "2026-09-05T03:45:00.000Z"
+},
+{
+"end": "2026-09-06T13:30:00.000Z",
+"start": "2026-09-06T03:45:00.000Z"
+},
+{
+"end": "2026-09-07T13:30:00.000Z",
+"start": "2026-09-07T03:45:00.000Z"
+},
+{
+"end": "2026-09-08T13:30:00.000Z",
+"start": "2026-09-08T03:45:00.000Z"
+},
+{
+"end": "2026-09-09T13:30:00.000Z",
+"start": "2026-09-09T03:45:00.000Z"
+},
+{
+"end": "2026-09-10T13:30:00.000Z",
+"start": "2026-09-10T03:45:00.000Z"
+},
+{
+"end": "2026-09-11T13:30:00.000Z",
+"start": "2026-09-11T03:45:00.000Z"
+},
+{
+"end": "2026-09-12T13:30:00.000Z",
+"start": "2026-09-12T03:45:00.000Z"
+},
+{
+"end": "2026-09-13T13:30:00.000Z",
+"start": "2026-09-13T03:45:00.000Z"
+},
+{
+"end": "2026-09-14T13:30:00.000Z",
+"start": "2026-09-14T03:45:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2437/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-9f5a4cb6-63f9-47e1-9512-b468bae2a8e6",
+"title": "Owl Around The World (StriX Launch 11)"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2437/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202437%2F26",
+"raw": "260105Z AUG 26\nHYDROPAC 2437/26.\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   0345Z TO 1330Z DAILY 31 AUG THRU 14 SEP\n   IN AREAS BOUND BY:\n   A. 38-00.00S 178-00.00W, 37-00.00S 173-00.00W,\n      38-30.00S 173-00.00W, 39-30.00S 178-00.00W.\n   B. 35-30.00S 165-00.00W, 34-30.00S 160-00.00W,\n      36-00.00S 160-00.00W, 37-00.00S 165-00.00W.\n2. CANCEL THIS MSG 141430Z SEP 26.",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2437&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
 },
 {
 "areas": [
@@ -2088,6 +5114,122 @@
 "areas": [
 [
 [
+-43.6667,
+120.9
+],
+[
+-43.7,
+122.1333
+],
+[
+-48.1833,
+122.0
+],
+[
+-48.15,
+120.65
+],
+[
+-43.6667,
+120.9
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-16T03:00:00.000Z",
+"start": "2026-09-15T21:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2637/26",
+"kind": "NAVWARNING",
+"launches": [],
+"markers": [],
+"name": "HYDROPAC 2637/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202637%2F26",
+"raw": "120702Z SEP 26\nHYDROPAC 2637/26\nEASTERN INDIAN OCEAN.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   152100Z TO 160300Z SEP IN AREA BOUND BY\n   43-40.64S 120-54.03E, 43-42.11S 122-08.48E,\n   48-11.42S 122-00.60E, 48-09.82S 120-39.87E.\n2. CANCEL THIS MSG 160400Z SEP 26.\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2637&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+19.6167,
+123.2333
+],
+[
+19.6167,
+123.4333
+],
+[
+18.9,
+123.4
+],
+[
+18.9,
+123.2167
+],
+[
+19.6167,
+123.2333
+]
+],
+[
+[
+20.0333,
+123.25
+],
+[
+20.0167,
+123.45
+],
+[
+19.3,
+123.4167
+],
+[
+19.3,
+123.2333
+],
+[
+20.0333,
+123.25
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-16T03:00:00.000Z",
+"start": "2026-09-15T21:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2640/26",
+"kind": "NAVWARNING",
+"launches": [],
+"markers": [],
+"name": "HYDROPAC 2640/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202640%2F26",
+"raw": "121555Z SEP 26\nHYDROPAC 2640/26\nNORTH PACIFIC.\nPHILIPPINE SEA.\nPHILIPPINES.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   152100Z TO 160300Z SEP\n   IN AREAS BOUND BY:\n   A. 19-37.45N 123-14.78E, 19-37.12N 123-26.22E,\n      18-54.02N 123-24.80E, 18-54.34N 123-13.41E.\n   B. 20-02.06N 123-15.65E, 20-01.73N 123-27.13E,\n      19-18.64N 123-25.72E, 19-18.96N 123-14.30E.\n2. CANCEL THIS MSG 160400Z SEP 26.",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2640&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
 32.2667,
 -120.2167
 ],
@@ -2195,6 +5337,69 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-14T14:40:05.024Z"
+},
+{
+"areas": [
+[
+[
+8.5167,
+76.8667
+],
+[
+8.5667,
+76.7833
+],
+[
+8.3,
+75.6167
+],
+[
+8.1,
+75.6667
+],
+[
+7.9,
+75.7667
+],
+[
+7.7167,
+75.9
+],
+[
+7.5667,
+76.05
+],
+[
+8.45,
+76.85
+],
+[
+8.5167,
+76.8667
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-09-16T07:00:00.000Z",
+"start": "2026-09-16T05:30:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2634/26",
+"kind": "NAVWARNING",
+"launches": [],
+"markers": [],
+"name": "HYDROPAC 2634/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202634%2F26",
+"raw": "111751Z SEP 26\nHYDROPAC 2634/26\nEASTERN INDIAN OCEAN.\nINDIA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   160530Z TO 160700Z SEP IN AREA BOUND BY\n   08-31.98N 076-52.05E, 08-34.48N 076-47.68E,\n   08-18.85N 075-37.45E, 08-06.23N 075-40.90E,\n   07-54.42N 075-46.52E, 07-43.73N 075-54.10E,\n   07-34.50N 076-03.45E, 08-27.07N 076-51.17E.\n2. CANCEL THIS MSG 160800Z SEP 26.//\n\n",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2634&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
 },
 {
 "areas": [
@@ -2843,6 +6048,148 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-15T07:16:16.406Z"
+},
+{
+"areas": [
+[
+[
+-5.9167,
+-34.5667
+],
+[
+-6.2167,
+-34.65
+],
+[
+-6.3833,
+-34.5667
+],
+[
+-6.5167,
+-34.1833
+],
+[
+-6.3833,
+-34.0167
+],
+[
+-6.05,
+-33.9333
+],
+[
+-5.8667,
+-34.05
+],
+[
+-5.8167,
+-34.4167
+],
+[
+-5.9167,
+-34.5667
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-09-15T20:00:00.000Z",
+"start": "2026-09-15T08:00:00.000Z"
+},
+{
+"end": "2026-09-16T20:00:00.000Z",
+"start": "2026-09-16T08:00:00.000Z"
+},
+{
+"end": "2026-09-17T20:00:00.000Z",
+"start": "2026-09-17T08:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROLANT 1792/26",
+"kind": "NAVWARNING",
+"launches": [],
+"markers": [],
+"name": "HYDROLANT 1792/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROLANT%201792%2F26",
+"raw": "100927Z SEP 26\nHYDROLANT 1792/26.\nSOUTH ATLANTIC.\nBRAZIL.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   0800Z TO 2000Z DAILY 15 THRU 17 SEP \n   IN AREA BOUND BY\n   05-55.28S 034-34.36W, 06-13.92S 034-39.38W,\n   06-23.59S 034-34.44W, 06-31.87S 034-11.54W,\n   06-23.83S 034-01.81W, 06-03.44S 033-56.53W,\n   05-52.66S 034-03.34W, 05-49.30S 034-25.37W.\n2. CANCEL THIS MSG 172100Z SEP 26.",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=A&msgSqncNumber=1792&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+-5.9167,
+-34.5667
+],
+[
+-5.8167,
+-34.4167
+],
+[
+-5.8667,
+-34.05
+],
+[
+-6.05,
+-33.9333
+],
+[
+-6.3833,
+-34.0167
+],
+[
+-6.5167,
+-34.1833
+],
+[
+-6.3833,
+-34.5667
+],
+[
+-6.2167,
+-34.65
+],
+[
+-5.9167,
+-34.5667
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-09-15T20:00:00.000Z",
+"start": "2026-09-15T08:00:00.000Z"
+},
+{
+"end": "2026-09-16T20:00:00.000Z",
+"start": "2026-09-16T08:00:00.000Z"
+},
+{
+"end": "2026-09-17T20:00:00.000Z",
+"start": "2026-09-17T08:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROLANT 1798/26",
+"kind": "NAVWARNING",
+"launches": [],
+"markers": [],
+"name": "HYDROLANT 1798/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROLANT%201798%2F26",
+"raw": "110104Z SEP 26\nHYDROLANT 1798/26.\nSOUTH ATLANTIC.\nBRAZIL.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING\n   0800Z TO 2000Z DAILY 15 THRU 17 SEP \n   IN AREA BOUND BY\n   05-55.28S 034-34.36W, 05-49.30S 034-25.37W,\n   05-52.66S 034-03.34W, 06-03.44S 033-56.53W,\n   06-23.83S 034-01.81W, 06-31.87S 034-11.54W,\n   06-23.59S 034-34.44W, 06-13.92S 034-39.38W.\n2. CANCEL HYDROLANT 1792/26.\n3. CANCEL THIS MSG 172100Z SEP 26.",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=A&msgSqncNumber=1798&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
 },
 {
 "areas": [
@@ -3705,6 +7052,85 @@
 "areas": [
 [
 [
+-5.9167,
+-34.5667
+],
+[
+-6.2167,
+-34.65
+],
+[
+-6.3833,
+-34.5667
+],
+[
+-6.5167,
+-34.1833
+],
+[
+-6.3833,
+-34.0167
+],
+[
+-6.05,
+-33.9333
+],
+[
+-5.8667,
+-34.05
+],
+[
+-5.8167,
+-34.4167
+],
+[
+-5.9167,
+-34.5667
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-09-15T20:00:00.000Z",
+"start": "2026-09-15T08:00:00.000Z"
+},
+{
+"end": "2026-09-16T20:00:00.000Z",
+"start": "2026-09-16T08:00:00.000Z"
+},
+{
+"end": "2026-09-17T20:00:00.000Z",
+"start": "2026-09-17T08:00:00.000Z"
+},
+{
+"end": "2026-09-18T20:00:00.000Z",
+"start": "2026-09-18T08:00:00.000Z"
+},
+{
+"end": "2026-09-19T20:00:00.000Z",
+"start": "2026-09-19T08:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROLANT 1803/26",
+"kind": "NAVWARNING",
+"launches": [],
+"markers": [],
+"name": "HYDROLANT 1803/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROLANT%201803%2F26",
+"raw": "112318Z SEP 26\nHYDROLANT 1803/26.\nSOUTH ATLANTIC.\nBRAZIL.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   0800Z TO 2000Z DAILY 15 THRU 19 SEP\n   IN AREA BOUND BY\n   05-55.28S 034-34.36W, 06-13.92S 034-39.38W,\n   06-23.59S 034-34.44W, 06-31.87S 034-11.54W,\n   06-23.83S 034-01.81W, 06-03.44S 033-56.53W,\n   05-52.66S 034-03.34W, 05-49.30S 034-25.37W.\n2. CANCEL HYDROLANT 1798/26.\n3. CANCEL THIS MSG 192100Z SEP 26.",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=A&msgSqncNumber=1803&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
 81.25,
 -168.9667
 ],
@@ -3772,6 +7198,77 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-03T19:32:45.825Z"
+},
+{
+"areas": [
+[
+[
+69.8833,
+16.35
+],
+[
+70.2,
+15.2167
+],
+[
+69.6,
+13.6667
+],
+[
+69.3833,
+14.3333
+],
+[
+69.3833,
+15.2333
+],
+[
+69.8833,
+16.35
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-09-15T03:00:00.000Z",
+"start": "2026-09-14T18:00:00.000Z"
+},
+{
+"end": "2026-09-16T03:00:00.000Z",
+"start": "2026-09-15T18:00:00.000Z"
+},
+{
+"end": "2026-09-17T03:00:00.000Z",
+"start": "2026-09-16T18:00:00.000Z"
+},
+{
+"end": "2026-09-18T03:00:00.000Z",
+"start": "2026-09-17T18:00:00.000Z"
+},
+{
+"end": "2026-09-19T03:00:00.000Z",
+"start": "2026-09-18T18:00:00.000Z"
+},
+{
+"end": "2026-09-20T03:00:00.000Z",
+"start": "2026-09-19T18:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROARC 232/26",
+"kind": "NAVWARNING",
+"launches": [],
+"markers": [],
+"name": "HYDROARC 232/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROARC%20232%2F26",
+"raw": "131906Z SEP 26\nHYDROARC 232/26.\nNORWEGIAN SEA.\nNORWAY.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   1800Z TO 0300Z DAILY 14 THRU 19 SEP \n   IN AREA BOUND BY\n   69-53.08N 016-21.58E, 70-12.38N 015-13.81E,\n   69-36.32N 013-40.39E, 69-23.53N 014-20.64E,\n   69-23.11N 015-14.66E.\n2. CANCEL THIS MSG 200400Z SEP 26.",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=C&msgSqncNumber=232&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
 },
 {
 "areas": [
@@ -4753,6 +8250,99 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-11T19:52:43.399Z"
+},
+{
+"areas": [
+[
+[
+-59.7,
+165.8167
+],
+[
+-59.7,
+180.0
+],
+[
+-62.55,
+180.0
+],
+[
+-62.55,
+165.8167
+],
+[
+-59.7,
+165.8167
+]
+],
+[
+[
+-59.7,
+-180.0
+],
+[
+-58.65,
+-161.6833
+],
+[
+-57.4667,
+-126.0167
+],
+[
+-60.3833,
+-122.0667
+],
+[
+-61.5167,
+-161.2667
+],
+[
+-62.55,
+-180.0
+],
+[
+-59.7,
+-180.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-17T21:00:00.000Z",
+"start": "2026-09-17T08:00:00.000Z"
+},
+{
+"end": "2026-09-18T21:00:00.000Z",
+"start": "2026-09-18T08:00:00.000Z"
+},
+{
+"end": "2026-09-19T21:00:00.000Z",
+"start": "2026-09-19T08:00:00.000Z"
+},
+{
+"end": "2026-09-20T21:00:00.000Z",
+"start": "2026-09-20T08:00:00.000Z"
+},
+{
+"end": "2026-09-21T21:00:00.000Z",
+"start": "2026-09-21T08:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2681/26",
+"kind": "NAVWARNING",
+"launches": [],
+"markers": [],
+"name": "HYDROPAC 2681/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202681%2F26",
+"raw": "162128Z SEP 26\nHYDROPAC 2681/26.\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   0800Z TO 2100Z DAILY 17 THRU 21 SEP\n   IN AREAS BOUND BY:\n   A. 59-42.36S 165-49.12E, 59-42.36S 180-00.00E,\n      62-33.00S 180-00.00E, 62-33.00S 165-49.12E.\n   B. 59-42.36S 180-00.00W, 58-39.52S 161-41.03W,\n      57-28.48S 126-01.12W, 60-23.24S 122-04.48W,\n      61-31.54S 161-16.01W, 62-33.00S 180-00.00W.\n2. CANCEL THIS MSG 212200Z SEP 26.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2681&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
 },
 {
 "areas": [
@@ -6559,6 +10149,77 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-08-26T15:26:05.897Z"
+},
+{
+"areas": [
+[
+[
+69.1,
+15.6167
+],
+[
+69.1333,
+15.6667
+],
+[
+69.7167,
+14.9833
+],
+[
+69.75,
+14.55
+],
+[
+69.6167,
+14.4167
+],
+[
+69.1,
+15.5333
+],
+[
+69.1,
+15.6167
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-09-21T15:00:00.000Z",
+"start": "2026-09-21T07:00:00.000Z"
+},
+{
+"end": "2026-09-22T15:00:00.000Z",
+"start": "2026-09-22T07:00:00.000Z"
+},
+{
+"end": "2026-09-23T15:00:00.000Z",
+"start": "2026-09-23T07:00:00.000Z"
+},
+{
+"end": "2026-09-24T15:00:00.000Z",
+"start": "2026-09-24T07:00:00.000Z"
+},
+{
+"end": "2026-09-25T15:00:00.000Z",
+"start": "2026-09-25T07:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROARC 247/26",
+"kind": "NAVWARNING",
+"launches": [],
+"markers": [],
+"name": "HYDROARC 247/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROARC%20247%2F26",
+"raw": "200046Z SEP 26\nHYDROARC 247/26.\nNORWEGIAN SEA.\nNORWAY.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   0700Z TO 1500Z DAILY 21 THRU 25 SEPT\n   IN AREA BOUND BY\n   69-06.78N 015-37.92E, 69-08.28N 015-40.68E,\n   69-43.80N 014-59.76E, 69-45.12N 014-33.72E,\n   69-37.26N 014-25.74E, 69-06.18N 015-32.70E,\n   69-06.78N 015-37.92E.\n2. CANCEL THIS MSG 251600Z SEP 26.\n",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=C&msgSqncNumber=247&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
 },
 {
 "areas": [
@@ -12803,6 +16464,299 @@
 "areas": [
 [
 [
+37.9338,
+-75.2
+],
+[
+37.92961,
+-75.1463
+],
+[
+37.91722,
+-75.09469
+],
+[
+37.89711,
+-75.04715
+],
+[
+37.87005,
+-75.00554
+],
+[
+37.83709,
+-74.97144
+],
+[
+37.79951,
+-74.94616
+],
+[
+37.75875,
+-74.93068
+],
+[
+37.71638,
+-74.92556
+],
+[
+37.67404,
+-74.93098
+],
+[
+37.63335,
+-74.94673
+],
+[
+37.59587,
+-74.97218
+],
+[
+37.56303,
+-75.00634
+],
+[
+37.53609,
+-75.0479
+],
+[
+37.51608,
+-75.09526
+],
+[
+37.50376,
+-75.14661
+],
+[
+37.4996,
+-75.2
+],
+[
+37.50376,
+-75.25339
+],
+[
+37.51608,
+-75.30474
+],
+[
+37.53609,
+-75.3521
+],
+[
+37.56303,
+-75.39366
+],
+[
+37.59587,
+-75.42782
+],
+[
+37.63335,
+-75.45327
+],
+[
+37.67404,
+-75.46902
+],
+[
+37.71638,
+-75.47444
+],
+[
+37.75875,
+-75.46932
+],
+[
+37.79951,
+-75.45384
+],
+[
+37.83709,
+-75.42856
+],
+[
+37.87005,
+-75.39446
+],
+[
+37.89711,
+-75.35285
+],
+[
+37.91722,
+-75.30531
+],
+[
+37.92961,
+-75.2537
+],
+[
+37.9338,
+-75.2
+]
+],
+[
+[
+37.54382,
+-75.0167
+],
+[
+37.53879,
+-74.9526
+],
+[
+37.52392,
+-74.891
+],
+[
+37.49977,
+-74.83427
+],
+[
+37.46729,
+-74.78461
+],
+[
+37.42772,
+-74.74393
+],
+[
+37.38261,
+-74.7138
+],
+[
+37.33369,
+-74.69535
+],
+[
+37.28285,
+-74.68928
+],
+[
+37.23204,
+-74.69578
+],
+[
+37.18322,
+-74.7146
+],
+[
+37.13825,
+-74.74498
+],
+[
+37.09886,
+-74.78574
+],
+[
+37.06655,
+-74.83531
+],
+[
+37.04255,
+-74.8918
+],
+[
+37.02777,
+-74.95304
+],
+[
+37.02278,
+-75.0167
+],
+[
+37.02777,
+-75.08036
+],
+[
+37.04255,
+-75.1416
+],
+[
+37.06655,
+-75.19809
+],
+[
+37.09886,
+-75.24766
+],
+[
+37.13825,
+-75.28842
+],
+[
+37.18322,
+-75.3188
+],
+[
+37.23204,
+-75.33762
+],
+[
+37.28285,
+-75.34412
+],
+[
+37.33369,
+-75.33805
+],
+[
+37.38261,
+-75.3196
+],
+[
+37.42772,
+-75.28947
+],
+[
+37.46729,
+-75.24879
+],
+[
+37.49977,
+-75.19913
+],
+[
+37.52392,
+-75.1424
+],
+[
+37.53879,
+-75.0808
+],
+[
+37.54382,
+-75.0167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-01T18:00:00.000Z",
+"start": "2026-10-01T11:30:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA IV 940/26",
+"kind": "NAVWARNING",
+"launches": [],
+"markers": [],
+"name": "NAVAREA IV 940/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20IV%20940%2F26",
+"raw": "281343Z SEP 26\nNAVAREA IV 940/26\nNORTH ATLANTIC.\nVIRGINIA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   011130Z TO 011800Z OCT IN AREAS WITHIN:\n   A. 15 MILES OF 37-43.73N 075-12.98W.\n   B. 18 MILES OF 37-17.74N 075-01.12W.\n2. CANCEL NAVAREA IV 932/26.\n3. CANCEL THIS MSG 011900Z OCT 26.\n\n",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=940&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
 -25.2667,
 -157.3
 ],
@@ -12866,6 +16820,123 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-24T20:57:51.509Z"
+},
+{
+"areas": [
+[
+[
+-37.85,
+-178.3
+],
+[
+-37.0,
+-172.7
+],
+[
+-38.9,
+-172.1
+],
+[
+-39.7,
+-177.8
+],
+[
+-37.85,
+-178.3
+]
+],
+[
+[
+-35.75,
+-166.95
+],
+[
+-34.4,
+-160.1
+],
+[
+-36.55,
+-159.3
+],
+[
+-37.9667,
+-166.3333
+],
+[
+-35.75,
+-166.95
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-19T23:30:00.000Z",
+"start": "2026-09-19T00:01:00.000Z"
+},
+{
+"end": "2026-09-20T23:30:00.000Z",
+"start": "2026-09-20T00:01:00.000Z"
+},
+{
+"end": "2026-09-21T23:30:00.000Z",
+"start": "2026-09-21T00:01:00.000Z"
+},
+{
+"end": "2026-09-22T23:30:00.000Z",
+"start": "2026-09-22T00:01:00.000Z"
+},
+{
+"end": "2026-09-23T23:30:00.000Z",
+"start": "2026-09-23T00:01:00.000Z"
+},
+{
+"end": "2026-09-24T23:30:00.000Z",
+"start": "2026-09-24T00:01:00.000Z"
+},
+{
+"end": "2026-09-25T23:30:00.000Z",
+"start": "2026-09-25T00:01:00.000Z"
+},
+{
+"end": "2026-09-26T23:30:00.000Z",
+"start": "2026-09-26T00:01:00.000Z"
+},
+{
+"end": "2026-09-27T23:30:00.000Z",
+"start": "2026-09-27T00:01:00.000Z"
+},
+{
+"end": "2026-09-28T23:30:00.000Z",
+"start": "2026-09-28T00:01:00.000Z"
+},
+{
+"end": "2026-09-29T23:30:00.000Z",
+"start": "2026-09-29T00:01:00.000Z"
+},
+{
+"end": "2026-09-30T23:30:00.000Z",
+"start": "2026-09-30T00:01:00.000Z"
+},
+{
+"end": "2026-10-01T23:30:00.000Z",
+"start": "2026-10-01T00:01:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2661/26",
+"kind": "NAVWARNING",
+"launches": [],
+"markers": [],
+"name": "HYDROPAC 2661/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202661%2F26",
+"raw": "150659Z SEP 26\nHYDROPAC 2661/26.\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   0001Z TO 2330Z DAILY 19 SEP THRU 01 OCT   \n   IN AREAS BOUND BY:\n   A. 37-51.00S 178-18.00W, 37-00.00S 172-42.02W,\n      38-54.00S 172-06.00W, 39-42.00S 177-48.00W.\n   B. 35-45.60S 166-57.00W, 34-24.00S 160-06.00W,\n      36-33.00S 159-18.00W, 37-58.20S 166-20.40W.\n2. CANCEL THIS MSG 020030Z OCT 26.//\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2661&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
 },
 {
 "areas": [
@@ -22521,6 +26592,58 @@
 "areas": [
 [
 [
+9.2667,
+118.95
+],
+[
+9.4667,
+119.2167
+],
+[
+8.95,
+119.6
+],
+[
+8.75,
+119.3333
+],
+[
+9.2667,
+118.95
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-09T19:49:00.000Z",
+"start": "2026-10-09T19:20:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RPHI-B5162/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "B5162/26",
+"page": "https://space-notices.com/notice/notam-RPHI-B5162%2F26",
+"raw": "B5162/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/0907N11917E023\r\nA) RPHI B) 2610091920 C) 2610091949\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA. \r\nEST FALL AREA OF UNBURNED DEBRIS WI:\r\n091600N 1185700E - \r\n092800N 1191300E - \r\n085700N 1193600E - \r\n084500N 1192000E - \r\n091600N 1185700E\r\n(28NM SOUTHEAST OF PUERTO PRINCESA AP).\r\nF) SFC G) UNL",
+"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82575912",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-28T07:17:23.388Z"
+},
+{
+"areas": [
+[
+[
 31.1833,
 -120.0167
 ],
@@ -26478,10 +30601,281 @@
 "name": "SpaceX Website"
 },
 "updated": "2026-09-26T17:35:22.400Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": null,
+"id": "nav-warning-HYDROARC 146/26",
+"kind": "NAVWARNING",
+"launches": [],
+"markers": [],
+"name": "HYDROARC 146/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROARC%20146%2F26",
+"raw": "241348Z JUL 26\nHYDROARC 146/26.\nBARENTS SEA.\nRUSSIA.\n1. MISSILE OPERATIONS 2100Z TO 1700Z DAILY \n   30 JUL THRU 01 AUG IN AREA BOUND BY\n   70-26.00N 044-50.00E, 68-04.00N 049-57.00E,\n   67-42.00N 048-42.00E, 69-51.00N 044-04.00E,\n   69-27.00N 037-38.00E, 69-28.00N 035-45.00E,\n   69-33.00N 035-30.00E, 69-55.00N 035-48.00E.\n2. CANCEL HYDROARC 145/26.\n3. CANCEL THIS MSG 021800Z AUG 26.\n",
+"reason": "MISSILE OPERATIONS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=C&msgSqncNumber=146&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+-34.33,
+-90.4
+],
+[
+-31.37,
+-90.4
+],
+[
+-0.17,
+-115.28
+],
+[
+-1.32,
+-116.9
+],
+[
+-34.33,
+-90.4
+]
+]
+],
+"cancelled": false,
+"dates": [],
+"height": null,
+"id": "nav-warning-HYDROPAC 1067/24",
+"kind": "NAVWARNING",
+"launches": [],
+"markers": [],
+"name": "HYDROPAC 1067/24",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%201067%2F24",
+"raw": "031927Z APR 2024\nHYDROPAC 1067/24\nEASTERN SOUTH PACIFIC.\nDNC 06, DNC 07.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   IN PROGRESS UNTIL 08 APR IN AREA BOUND BY\n   34-20.00S 090-24.00W, 31-22.00S 090-24.00W,\n   00-10.00S 115-17.00W, 01-19.00S 116-54.00W.\n2. CANCEL HYDROPAC 748/24.\n3. CANCEL THIS MSG 090001Z APR 24.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=1067&createdOn=24&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+-34.33,
+-90.4
+],
+[
+-31.37,
+-90.4
+],
+[
+-0.17,
+-115.28
+],
+[
+-1.32,
+-116.9
+],
+[
+-34.33,
+-90.4
+]
+]
+],
+"cancelled": false,
+"dates": [],
+"height": null,
+"id": "nav-warning-HYDROPAC 1081/24",
+"kind": "NAVWARNING",
+"launches": [],
+"markers": [],
+"name": "HYDROPAC 1081/24",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%201081%2F24",
+"raw": "041734Z APR 2024\nHYDROPAC 1081/24\nEASTERN SOUTH PACIFIC.\nDNC 06, DNC 07.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   IN PROGRESS UNTIL 100900Z APR IN AREA BOUND BY\n   34-20.00S 090-24.00W, 31-22.00S 090-24.00W,\n   00-10.00S 115-17.00W, 01-19.00S 116-54.00W.\n2. CANCEL HYDROPAC 1067/24.\n3. CANCEL THIS MSG 101000Z APR 24.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=1081&createdOn=24&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+-34.33,
+-90.4
+],
+[
+-31.37,
+-90.4
+],
+[
+-0.17,
+-115.28
+],
+[
+-1.32,
+-116.9
+],
+[
+-34.33,
+-90.4
+]
+]
+],
+"cancelled": false,
+"dates": [],
+"height": null,
+"id": "nav-warning-HYDROPAC 583/24",
+"kind": "NAVWARNING",
+"launches": [],
+"markers": [],
+"name": "HYDROPAC 583/24",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%20583%2F24",
+"raw": "191543Z FEB 2024\nHYDROPAC 583/24\nEASTERN SOUTH PACIFIC.\nDNC 06, DNC 07.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   IN PROGRESS UNTIL 280001Z FEB IN AREA BOUND BY\n   34-20.00S 090-24.00W, 31-22.00S 090-24.00W,\n   00-10.00S 115-17.00W, 01-19.00S 116-54.00W.\n2. CANCEL HYDROPAC 4029/23.\n3. CANCEL THIS MSG 280100Z FEB 24.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=583&createdOn=24&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+-34.33,
+-90.4
+],
+[
+-31.37,
+-90.4
+],
+[
+-0.17,
+-115.28
+],
+[
+-1.32,
+-116.9
+],
+[
+-34.33,
+-90.4
+]
+]
+],
+"cancelled": false,
+"dates": [],
+"height": null,
+"id": "nav-warning-NAVAREA XII 219/24",
+"kind": "NAVWARNING",
+"launches": [],
+"markers": [],
+"name": "NAVAREA XII 219/24",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20219%2F24",
+"raw": "031927Z APR 2024\nNAVAREA XII 219/24\nEASTERN SOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   IN PROGRESS UNTIL 08 APR IN AREA BOUND BY\n   34-20.00S 090-24.00W, 31-22.00S 090-24.00W,\n   00-10.00S 115-17.00W, 01-19.00S 116-54.00W.\n2. CANCEL NAVAREA XII 124/24.\n3. CANCEL THIS MSG 090001Z APR 24.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=219&createdOn=24&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+-34.33,
+-90.4
+],
+[
+-31.37,
+-90.4
+],
+[
+-0.17,
+-115.28
+],
+[
+-1.32,
+-116.9
+],
+[
+-34.33,
+-90.4
+]
+]
+],
+"cancelled": false,
+"dates": [],
+"height": null,
+"id": "nav-warning-NAVAREA XII 225/24",
+"kind": "NAVWARNING",
+"launches": [],
+"markers": [],
+"name": "NAVAREA XII 225/24",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20225%2F24",
+"raw": "041716Z APR 2024\nNAVAREA XII 225/24\nEASTERN SOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   IN PROGRESS UNTIL 100900Z APR IN AREA BOUND BY\n   34-20.00S 090-24.00W, 31-22.00S 090-24.00W,\n   00-10.00S 115-17.00W, 01-19.00S 116-54.00W.\n2. CANCEL NAVAREA XII 219/24.\n3. CANCEL THIS MSG 101000Z APR 24.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=225&createdOn=24&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
+},
+{
+"areas": [
+[
+[
+-34.33,
+-90.4
+],
+[
+-31.37,
+-90.4
+],
+[
+-0.17,
+-115.28
+],
+[
+-1.32,
+-116.9
+],
+[
+-34.33,
+-90.4
+]
+]
+],
+"cancelled": false,
+"dates": [],
+"height": null,
+"id": "nav-warning-NAVAREA XII 87/24",
+"kind": "NAVWARNING",
+"launches": [],
+"markers": [],
+"name": "NAVAREA XII 87/24",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%2087%2F24",
+"raw": "191543Z FEB 2024\nNAVAREA XII 87/24\nEASTERN SOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   IN PROGRESS UNTIL 280001Z FEB IN AREA BOUND BY\n   34-20.00S 090-24.00W, 31-22.00S 090-24.00W,\n   00-10.00S 115-17.00W, 01-19.00S 116-54.00W.\n2. CANCEL NAVAREA XII 885/23.\n3. CANCEL THIS MSG 280100Z FEB 24.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=87&createdOn=24&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": ""
 }
 ],
 "pending": 0,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 1292
+"total_known": 2391
 }
