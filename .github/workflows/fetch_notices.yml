@@ -15,6 +15,10 @@ on:
         description: '過去の警報を space-notices から取り込む（1回だけ・20〜40分）'
         required: false
         default: 'false'
+      backfill_from_year:
+        description: '過去分の取り込みを何年から問い合わせるか'
+        required: false
+        default: '2022'
       test_notify:
         description: 'お知らせのテスト送信（新しい通知が無くても1通送る）'
         required: false
@@ -41,6 +45,8 @@ jobs:
       # 過去分の取り込み。番号の出どころに Get_NAVWARN の全履歴が要るので丸ごと取る
       - name: Backfill past notices
         if: ${{ github.event.inputs.backfill == 'true' }}
+        env:
+          BACKFILL_FROM_YEAR: ${{ github.event.inputs.backfill_from_year || '2022' }}
         run: |
           git clone -q https://github.com/iqpslover-byte/Get_NAVWARN.git /tmp/navwarn
           python backfill_notices.py /tmp/navwarn

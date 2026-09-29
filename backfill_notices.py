@@ -29,7 +29,8 @@ import fetch_notices as F
 NGA = "https://msi.nga.mil/api/publications/broadcast-warn?navArea=%s&status=all&output=json"
 NGA_AREAS = {"P": "HYDROPAC", "A": "HYDROLANT", "C": "HYDROARC",
              "4": "NAVAREA IV", "12": "NAVAREA XII"}
-FROM_YEAR = 2022            # space-notices の記録は 2022年11月から
+# どの年から問い合わせるか。space-notices の記録は少なくとも2022年1月まである（1回目の取り込みで確認）
+FROM_YEAR = int(os.environ.get("BACKFILL_FROM_YEAR", "2022"))
 TRIED_PATH = os.path.join(F.HERE, "data", "_backfill_tried.json")
 SLEEP = float(os.environ.get("BACKFILL_SLEEP", "1.0"))
 MAX = int(os.environ.get("BACKFILL_MAX", "3000"))
