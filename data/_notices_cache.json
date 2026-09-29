@@ -209677,6 +209677,90 @@
 },
 "via": "entry"
 },
+"https://space-notices.com/notice/notam-FAJO-A3700%2F26": {
+"lastmod": "2026-09-28T23:38:50.429Z",
+"notice": {
+"areas": [
+[
+[
+-38.3,
+18.0
+],
+[
+-38.0,
+27.0
+],
+[
+-49.0333,
+25.25
+],
+[
+-60.0,
+22.5
+],
+[
+-59.0,
+10.0
+],
+[
+-48.7333,
+14.8333
+],
+[
+-38.3,
+18.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-05T11:23:00.000Z",
+"start": "2026-10-05T10:28:00.000Z"
+},
+{
+"end": "2026-10-06T11:16:00.000Z",
+"start": "2026-10-06T10:21:00.000Z"
+},
+{
+"end": "2026-10-07T11:08:00.000Z",
+"start": "2026-10-07T10:13:00.000Z"
+},
+{
+"end": "2026-10-08T11:01:00.000Z",
+"start": "2026-10-08T10:06:00.000Z"
+},
+{
+"end": "2026-10-10T10:46:00.000Z",
+"start": "2026-10-10T09:51:00.000Z"
+},
+{
+"end": "2026-10-11T10:38:00.000Z",
+"start": "2026-10-11T09:43:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-FAJO-A3700/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "A3700/26",
+"page": "https://space-notices.com/notice/notam-FAJO-A3700%2F26",
+"raw": "A3700/26 NOTAMN \r\nQ)FAJO/QWMLW/IV/BO/W/000/999/4848S02018E721\r\nA)FAJO B)2610051028 C)2610111038\r\nD)05 1028-1123, 06 1021-1116, 07 1013-1108, 08 1006- 1101, 09\r\n0958-1053, 10 0951-1046, 11 0943-1038\r\nE)AREA BOUNDED BY (3818S 01800E, 3800S 02700E, 4902S 02515E, 6000S\r\n02230E, 5900S 01000E, 4844S 01450E): SPACEX SDA-T1A STAGE 2 ROCKET\r\nRE-ENTRY OPS TAKING PLACE. APPLICABLE AIRSPACE DOWNGRADED TO  CLASS\r\nG.\r\nF)SFC G)UNL",
+"reason": "SPACEX SDA-T1A STAGE 2 ROCKET RE-ENTRY OPS TAKING PLACE",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82581980",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-28T23:38:50.429Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/notam-FIMM-A0007%2F25": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
