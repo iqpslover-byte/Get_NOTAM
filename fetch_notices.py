@@ -104,6 +104,30 @@ def _scan_object(s, start):
     return None
 
 
+REF_RE = re.compile(r"^\$([0-9a-f]+)$")
+
+
+def _rsc_ref(d, val):
+    """RSC の参照（"$22" など）を本文に戻す。長い文字列は別の塊 "22:T678,<本文>" に置かれ、
+    notice の中には印だけが入る（T の後は本文の UTF-8 のバイト数・16進）。
+    ★この印をそのまま rawText にしていた＝FAA の TFR など控え2,745件中205件の原文が "$22" だった"""
+    m = REF_RE.match(val or "") if isinstance(val, str) else None
+    if not m:
+        return val
+    head = "\n%s:T" % m.group(1)
+    i = d.find(head)
+    if i < 0 and d.startswith(head[1:]):
+        i = -1
+    elif i < 0:
+        return val
+    j = d.find(",", i + len(head))
+    try:
+        n = int(d[i + len(head):j], 16)
+    except ValueError:
+        return val
+    return d[j + 1:].encode("utf-8")[:n].decode("utf-8", "replace")
+
+
 def extract_notice(html):
     d = _rsc_text(html)
     i = d.find('{"notice":{')
@@ -113,9 +137,19 @@ def extract_notice(html):
     if not body:
         return None
     try:
-        return json.loads(body).get("notice")
+        n = json.loads(body).get("notice")
     except Exception:
         return None
+    if isinstance(n, dict):
+        for k in ("rawText", "reason", "name", "height"):
+            if k in n:
+                n[k] = _rsc_ref(d, n[k])
+    return n
+
+
+def _is_ref(rec):
+    """本文が参照の印のままの控え（取り直す）"""
+    return bool(REF_RE.match(((rec or {}).get("raw") or "").strip()))
 
 
 # ---------------------------------------------------------------- 円弧の組み直し
@@ -498,6 +532,11 @@ def main():
 
     todo = [(u, lm) for u, lm in entries
             if u not in cache or cache[u].get("lastmod") != lm]
+    # 本文が参照の印のまま（"$22" など）の控えは、sitemap の外（打上げのページ・過去分の取り込み）のものも取り直す
+    queued = {u for u, _ in todo}
+    for u, v in cache.items():
+        if u not in queued and _is_ref(v.get("notice")):
+            todo.append((u, v.get("lastmod", "")))
     for u, lm in extra.items():
         if u in known:
             continue                      # sitemap 側で見る
@@ -516,10 +555,11 @@ def main():
                 raise ValueError("notice を取り出せない")
             if is_new:
                 fresh.append(_norm(notice, url, lastmod))
+            prev_via = (cache.get(url) or {}).get("via")
             cache[url] = {"lastmod": lastmod, "notice": _norm(notice, url, lastmod),
                           # どこで見つけたか。打上げのページ由来は sitemap に載らないので
-                          # 「サイトから消えた」の判定から外す
-                          "via": "sitemap" if url in known else "entry"}
+                          # 「サイトから消えた」の判定から外す（過去分の取り込みの印は引き継ぐ）
+                          "via": "sitemap" if url in known else ("backfill" if prev_via == "backfill" else "entry")}
             fetched += 1
         except Exception as e:
             failed += 1
