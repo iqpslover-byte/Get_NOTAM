@@ -1,5 +1,5 @@
 {
-"count": 2744,
+"count": 2745,
 "notices": [
 {
 "areas": [
@@ -276974,6 +276974,90 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-28T23:31:41.102Z"
+},
+{
+"areas": [
+[
+[
+-38.3,
+18.0
+],
+[
+-38.0,
+27.0
+],
+[
+-49.0333,
+25.25
+],
+[
+-60.0,
+22.5
+],
+[
+-59.0,
+10.0
+],
+[
+-48.7333,
+14.8333
+],
+[
+-38.3,
+18.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-05T11:23:00.000Z",
+"start": "2026-10-05T10:28:00.000Z"
+},
+{
+"end": "2026-10-06T11:16:00.000Z",
+"start": "2026-10-06T10:21:00.000Z"
+},
+{
+"end": "2026-10-07T11:08:00.000Z",
+"start": "2026-10-07T10:13:00.000Z"
+},
+{
+"end": "2026-10-08T11:01:00.000Z",
+"start": "2026-10-08T10:06:00.000Z"
+},
+{
+"end": "2026-10-09T10:53:00.000Z",
+"start": "2026-10-09T09:58:00.000Z"
+},
+{
+"end": "2026-10-10T10:46:00.000Z",
+"start": "2026-10-10T09:51:00.000Z"
+},
+{
+"end": "2026-10-11T10:38:00.000Z",
+"start": "2026-10-11T09:43:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2828/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2828/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202828%2F26",
+"raw": "300411Z SEP 26\nHYDROPAC 2828/26.\nSOUTH ATLANTIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   051028Z TO 051123Z, 061021Z TO 061116Z,\n   071013Z TO 071108Z, 081006Z TO 081101Z,\n   090958Z TO 091053Z, 100951Z TO 101046Z\n   AND 110943Z TO 111038Z OCT\n   IN AREA BOUND BY\n   38-18.00S 018-00.00E, 38-00.00S 027-00.00E,\n   49-02.00S 025-15.00E, 60-00.00S 022-30.00E,\n   59-00.00S 010-00.00E, 48-44.00S 014-50.00E.\n2. CANCEL THIS MSG 111138Z OCT 26.//\n\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2828&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-09-29T16:08:59.417Z"
 },
 {
 "areas": [
