@@ -5888,7 +5888,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SE%20BNM%209078-26": {
-"lastmod": "2026-09-28T14:33:04.390Z",
+"lastmod": "2026-09-29T13:55:35.577Z",
 "notice": {
 "areas": [
 [
@@ -6019,9 +6019,9 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-09-28T14:33:04.390Z"
+"updated": "2026-09-29T13:55:35.577Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SE%20BNM%209137-25": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -8056,7 +8056,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209114-26": {
-"lastmod": "2026-09-28T22:32:16.024Z",
+"lastmod": "2026-09-29T20:09:38.698Z",
 "notice": {
 "areas": [
 [
@@ -8143,9 +8143,9 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-09-28T22:32:16.024Z"
+"updated": "2026-09-29T20:09:38.698Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-blueorigin-ng-2": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -15576,7 +15576,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-54652": {
-"lastmod": "2026-09-28T22:50:06.329Z",
+"lastmod": "2026-09-29T14:30:28.467Z",
 "notice": {
 "areas": [
 [
@@ -15659,12 +15659,12 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-09-28T22:50:06.329Z"
+"updated": "2026-09-29T14:30:28.467Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-54654": {
-"lastmod": "2026-09-28T22:50:06.329Z",
+"lastmod": "2026-09-29T14:30:39.943Z",
 "notice": {
 "areas": [
 [
@@ -15743,12 +15743,12 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-09-28T22:50:06.329Z"
+"updated": "2026-09-29T14:30:39.943Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-54662": {
-"lastmod": "2026-09-28T22:50:06.329Z",
+"lastmod": "2026-09-29T14:45:28.517Z",
 "notice": {
 "areas": [
 [
@@ -15835,12 +15835,12 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-09-28T22:50:06.329Z"
+"updated": "2026-09-29T14:45:28.517Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-54667": {
-"lastmod": "2026-09-28T22:50:06.329Z",
+"lastmod": "2026-09-29T15:00:30.452Z",
 "notice": {
 "areas": [
 [
@@ -15987,12 +15987,12 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-09-28T22:50:06.329Z"
+"updated": "2026-09-29T15:00:30.452Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-54725": {
-"lastmod": "2026-09-28T22:32:16.024Z",
+"lastmod": "2026-09-29T20:00:25.902Z",
 "notice": {
 "areas": [
 [
@@ -16079,9 +16079,9 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-09-28T22:32:16.024Z"
+"updated": "2026-09-29T20:00:25.902Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROARC%2010%2F24": {
 "lastmod": "",
@@ -19698,6 +19698,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROARC%20201%2F26": {
+"gone": "2026-09-30",
 "lastmod": "2026-09-15T13:32:25.403Z",
 "notice": {
 "areas": [
@@ -20442,6 +20443,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROARC%20228%2F26": {
+"gone": "2026-09-30",
 "lastmod": "2026-09-10T13:16:01.874Z",
 "notice": {
 "areas": [
@@ -74149,6 +74151,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%202506%2F26": {
+"gone": "2026-09-30",
 "lastmod": "2026-09-15T13:24:57.138Z",
 "notice": {
 "areas": [
@@ -183887,6 +183890,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20IV%20845%2F26": {
+"gone": "2026-09-30",
 "lastmod": "2026-09-15T13:25:27.354Z",
 "notice": {
 "areas": [
@@ -184881,6 +184885,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20IV%20870%2F26": {
+"gone": "2026-09-30",
 "lastmod": "2026-09-10T03:55:29.796Z",
 "notice": {
 "areas": [
@@ -209682,6 +209687,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/notam-CZEG-F4979%2F26": {
+"gone": "2026-09-30",
 "lastmod": "2026-09-08T10:46:05.931Z",
 "notice": {
 "areas": [
@@ -209778,7 +209784,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-FAJO-A3699%2F26": {
-"lastmod": "2026-09-28T23:38:50.429Z",
+"lastmod": "2026-09-29T14:14:05.864Z",
 "notice": {
 "areas": [
 [
@@ -209857,12 +209863,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82580371",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-28T23:38:50.429Z"
+"updated": "2026-09-29T14:14:05.864Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-FAJO-A3700%2F26": {
-"lastmod": "2026-09-28T23:38:50.429Z",
+"lastmod": "2026-09-29T16:06:41.191Z",
 "notice": {
 "areas": [
 [
@@ -209941,9 +209947,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82581980",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-28T23:38:50.429Z"
+"updated": "2026-09-29T16:06:41.191Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-FIMM-A0007%2F25": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -230950,6 +230956,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-PAZA-A2547%2F26": {
+"gone": "2026-09-30",
 "lastmod": "2026-09-08T16:26:05.114Z",
 "notice": {
 "areas": [
@@ -236146,6 +236153,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RPHI-B4714%2F26": {
+"gone": "2026-09-30",
 "lastmod": "2026-09-09T11:10:18.091Z",
 "notice": {
 "areas": [
@@ -236546,7 +236554,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RPHI-B5162%2F26": {
-"lastmod": "2026-09-28T07:17:23.388Z",
+"lastmod": "2026-09-29T07:43:50.453Z",
 "notice": {
 "areas": [
 [
@@ -236597,9 +236605,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82575912",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-28T07:17:23.388Z"
+"updated": "2026-09-29T07:43:50.453Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SBAO-N0060%2F26": {
 "gone": "2026-09-28",
@@ -236687,6 +236695,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SCCZ-W2701%2F26": {
+"gone": "2026-09-30",
 "lastmod": "2026-08-26T15:26:05.897Z",
 "notice": {
 "areas": [
@@ -238465,6 +238474,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SOOO-G0278%2F26": {
+"gone": "2026-09-30",
 "lastmod": "2026-09-09T06:40:58.435Z",
 "notice": {
 "areas": [
@@ -243909,6 +243919,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-TTZP-A1394%2F26": {
+"gone": "2026-09-30",
 "lastmod": "2026-09-09T14:21:03.802Z",
 "notice": {
 "areas": [
@@ -243965,6 +243976,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-TTZP-A1400%2F26": {
+"gone": "2026-09-30",
 "lastmod": "2026-09-10T13:09:03.320Z",
 "notice": {
 "areas": [
@@ -245626,6 +245638,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-UHMM-P4545%2F26": {
+"gone": "2026-09-30",
 "lastmod": "2026-09-03T19:32:45.825Z",
 "notice": {
 "areas": [
@@ -245702,6 +245715,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-UHMM-P4546%2F26": {
+"gone": "2026-09-30",
 "lastmod": "2026-09-03T19:32:38.142Z",
 "notice": {
 "areas": [
@@ -245914,6 +245928,200 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-04-23T14:04:24.726Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-VOMF-A2977%2F26": {
+"lastmod": "2026-09-29T06:36:51.394Z",
+"notice": {
+"areas": [
+[
+[
+12.0,
+84.75
+],
+[
+12.75,
+85.0
+],
+[
+12.3333,
+86.3333
+],
+[
+11.5833,
+86.0833
+],
+[
+12.0,
+84.75
+]
+],
+[
+[
+10.9167,
+87.8333
+],
+[
+11.9167,
+88.0
+],
+[
+11.0833,
+90.5
+],
+[
+10.0833,
+90.3333
+],
+[
+10.9167,
+87.8333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-13T21:00:00.000Z",
+"start": "2026-10-13T17:00:00.000Z"
+},
+{
+"end": "2026-10-14T21:00:00.000Z",
+"start": "2026-10-14T17:00:00.000Z"
+},
+{
+"end": "2026-10-15T21:00:00.000Z",
+"start": "2026-10-15T17:00:00.000Z"
+},
+{
+"end": "2026-10-16T21:00:00.000Z",
+"start": "2026-10-16T17:00:00.000Z"
+},
+{
+"end": "2026-10-17T21:00:00.000Z",
+"start": "2026-10-17T17:00:00.000Z"
+},
+{
+"end": "2026-10-18T21:00:00.000Z",
+"start": "2026-10-18T17:00:00.000Z"
+},
+{
+"end": "2026-10-19T21:00:00.000Z",
+"start": "2026-10-19T17:00:00.000Z"
+},
+{
+"end": "2026-10-20T21:00:00.000Z",
+"start": "2026-10-20T17:00:00.000Z"
+},
+{
+"end": "2026-10-21T21:00:00.000Z",
+"start": "2026-10-21T17:00:00.000Z"
+},
+{
+"end": "2026-10-22T21:00:00.000Z",
+"start": "2026-10-22T17:00:00.000Z"
+},
+{
+"end": "2026-10-23T21:00:00.000Z",
+"start": "2026-10-23T17:00:00.000Z"
+},
+{
+"end": "2026-10-24T21:00:00.000Z",
+"start": "2026-10-24T17:00:00.000Z"
+},
+{
+"end": "2026-10-25T21:00:00.000Z",
+"start": "2026-10-25T17:00:00.000Z"
+},
+{
+"end": "2026-10-26T21:00:00.000Z",
+"start": "2026-10-26T17:00:00.000Z"
+},
+{
+"end": "2026-10-27T21:00:00.000Z",
+"start": "2026-10-27T17:00:00.000Z"
+},
+{
+"end": "2026-10-28T21:00:00.000Z",
+"start": "2026-10-28T17:00:00.000Z"
+},
+{
+"end": "2026-10-29T21:00:00.000Z",
+"start": "2026-10-29T17:00:00.000Z"
+},
+{
+"end": "2026-10-30T21:00:00.000Z",
+"start": "2026-10-30T17:00:00.000Z"
+},
+{
+"end": "2026-10-31T21:00:00.000Z",
+"start": "2026-10-31T17:00:00.000Z"
+},
+{
+"end": "2026-11-01T21:00:00.000Z",
+"start": "2026-11-01T17:00:00.000Z"
+},
+{
+"end": "2026-11-02T21:00:00.000Z",
+"start": "2026-11-02T17:00:00.000Z"
+},
+{
+"end": "2026-11-03T21:00:00.000Z",
+"start": "2026-11-03T17:00:00.000Z"
+},
+{
+"end": "2026-11-04T21:00:00.000Z",
+"start": "2026-11-04T17:00:00.000Z"
+},
+{
+"end": "2026-11-05T21:00:00.000Z",
+"start": "2026-11-05T17:00:00.000Z"
+},
+{
+"end": "2026-11-06T21:00:00.000Z",
+"start": "2026-11-06T17:00:00.000Z"
+},
+{
+"end": "2026-11-07T21:00:00.000Z",
+"start": "2026-11-07T17:00:00.000Z"
+},
+{
+"end": "2026-11-08T21:00:00.000Z",
+"start": "2026-11-08T17:00:00.000Z"
+},
+{
+"end": "2026-11-09T21:00:00.000Z",
+"start": "2026-11-09T17:00:00.000Z"
+},
+{
+"end": "2026-11-10T21:00:00.000Z",
+"start": "2026-11-10T17:00:00.000Z"
+},
+{
+"end": "2026-11-11T21:00:00.000Z",
+"start": "2026-11-11T17:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-VOMF-A2977/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-20d5676e-111b-40e3-8923-b218c3665ca2",
+"title": "IRNSS-1L (NVS-03)"
+}
+],
+"markers": [],
+"name": "A2977/26",
+"page": "https://space-notices.com/notice/notam-VOMF-A2977%2F26",
+"raw": "A2977/26 NOTAMN Q) VOMF/QWMLW/IV/BO/W/000/999/1159N08514E323 A) VOMF  PART 1 OF 2  B) 2610131700  C) 2611112100  D) 1700-2100  E) GSLV-F18 ROCKET LAUNCH FM SHAR RANGE, SRIHARIKOTA WILL TAKE \nPLACE AS PER FLW DETAILS.THE LAUNCH WILL BE ON ANY ONE \nOF THE DAY DRG THIS PERIOD.ACTUAL DATE OF LAUNCH WILL BE \nINTIMATED ATLEAST 24 HR IN ADVANCE THROUGH A SEPARATE NOTAM. \n \nLAUNCH PAD COORD: 134312N0801348E \nNO FLT IS PERMITTED OVER THE DNG ZONES. \n \n1)DNG ZONE -1: IS A CIRCLE OF 10NM AROUND THE LAUNCHER. \n \n2)DNG ZONE -2: IS AN AREA BOUNDED BY FLW COORD: \n1200N08445E - 1245N08500E - 1220N08620E - \n1135N08605E - 1200N08445E \n \n3)DNG ZONE -3: IS AN AREA BOUNDED BY FLW COORD: \n1055N08750E - 1155N08800E-1105N09030E - \n1005N09020E-1055N08750E \n \nRTE AFFECTED IN CHENNAI FIR: \nW20, Q11, Q23, Q24, V4, V9, P761, P762, N877, N571 \n \nCLOSURES/ALTN RTE FOR OVERFLYING: \n \n1. W20 NOT AVBL BTN MMV-KAMGU \n ALTN: MMV-DCT-PAPKI-DCT-ANGAK-DCT-KAMGU \n \n2. Q24 NOT AVBL BTN MMV-KAMGU \n ALTN: MMV-DCT-PAPKI-DCT-ANGAK-DCT-KAMGU \n \n3. Q23 NOT AVBL BTN RINTO-MMV \n ALTN: RINTO-V11-TTP-DCT-GUANI-DCT-MMV \n \n4. V4 NOT AVBL BTN BOPRI-MMV \n ALTN: BOPRI-DCT-RINTO-V11-TTP-DCT-GUANI-DCT-MMV \n \n5. V9 NOT AVBL BTN GUNRI-MMV \n ALTN: GUNRI-V11-TTP-DCT-GUANI-DCT-MMV \n \n6. Q11 NOT AVBL BTN GURAS-MMV \n ALTN: GURAS-DCT-MMV \n \n7. P761 NOT AVBL BTN IDASO-DUMAR END PART 1 OF 2\r\nA2977/26 NOTAMN Q) VOMF/QWMLW/IV/BO/W/000/999/1159N08514E323 A) VOMF  PART 2 OF 2  B) 2610131700  C) 2611112100  D) 1700-2100  E) ALTN: IDASO-DCT-EGOLU-L518-DUMAR \n \n8. P762 NOT AVBL BTN BIKEN-NIMOV. NO ALTN RTE \n \n9. N877 NOT AVBL BTN DUMAR-AGEGA \n ALTN: DUMAR-P761-LEGIN-L510 \n \n10. N571 NOT AVBL BTN IDASO-BIKEN \n ALTN: VATMO-DCT-GIRNA-BIKEN \n \nDEPARTURES FM CHENNAI MAY FPL AS FLW: \n \n1. W20/Q24 NOT AVBL BTN MMV-KAMGU \n ALTN: MMV-DCT-PAPKI-DCT-ANGAK-DCT-KAMGU \n \nARRIVALS TO CHENNAI MAY FPL AS FLW: \n \n1. Q23 NOT AVBL BTN RINTO-MMV \n ALTN: RINTO-V11-TTP-DCT-GUANI-DCT-MMV \n \n2. V4 NOT AVBL BTN BOPRI-MMV \n ALTN: BOPRI-DCT-RINTO-V11-TTP-DCT-GUANI-DCT-MMV \n \n3. V9 NOT AVBL BTN GUNRI-MMV \n ALTN: GUNRI-V11-TTP-DCT- GUANI-DCT-MMV \n \n4. Q11 NOT AVBL BTN GURAS-MMV \n ALTN: GURAS-DCT-MMV END PART 2 OF 2 F) GND  G) UNL",
+"reason": "GSLV-F18 ROCKET LAUNCH",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82575393",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-29T06:36:51.394Z"
 },
 "via": "sitemap"
 },
@@ -250226,6 +250434,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-YMMM-F3436%2F26": {
+"gone": "2026-09-30",
 "lastmod": "2026-09-09T05:46:05.314Z",
 "notice": {
 "areas": [
@@ -266918,6 +267127,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLHW-A4404%2F26": {
+"gone": "2026-09-30",
 "lastmod": "2026-09-10T06:29:00.125Z",
 "notice": {
 "areas": [
@@ -277616,6 +277826,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZPKM-A4403%2F26": {
+"gone": "2026-09-30",
 "lastmod": "2026-09-10T06:28:55.435Z",
 "notice": {
 "areas": [
@@ -283449,6 +283660,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZWY-09%2F123-26": {
+"gone": "2026-09-30",
 "lastmod": "2026-09-10T21:36:49.293Z",
 "notice": {
 "areas": [
@@ -292001,7 +292213,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZJX-6%2F6204": {
-"lastmod": "2026-09-28T22:50:06.329Z",
+"lastmod": "2026-09-29T20:45:58.385Z",
 "notice": {
 "areas": [
 [
@@ -292180,12 +292392,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82584926",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-28T22:50:06.329Z"
+"updated": "2026-09-29T20:45:58.385Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZJX-6%2F6206": {
-"lastmod": "2026-09-28T22:50:06.329Z",
+"lastmod": "2026-09-29T20:56:57.552Z",
 "notice": {
 "areas": [
 [
@@ -292364,12 +292576,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82585014",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-28T22:50:06.329Z"
+"updated": "2026-09-29T20:56:57.552Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZJX-6%2F6211": {
-"lastmod": "2026-09-28T14:33:04.390Z",
+"lastmod": "2026-09-29T21:37:58.432Z",
 "notice": {
 "areas": [
 [
@@ -292548,12 +292760,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82585330",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-28T14:33:04.390Z"
+"updated": "2026-09-29T21:37:58.432Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZJX-6%2F6212": {
-"lastmod": "2026-09-28T14:33:04.390Z",
+"lastmod": "2026-09-29T21:52:57.823Z",
 "notice": {
 "areas": [
 [
@@ -292732,9 +292944,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82585424",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-28T14:33:04.390Z"
+"updated": "2026-09-29T21:52:57.823Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-5%2F3839": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -296030,7 +296242,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-6%2F6205": {
-"lastmod": "2026-09-28T22:50:06.329Z",
+"lastmod": "2026-09-29T20:48:58.318Z",
 "notice": {
 "areas": [
 [
@@ -296209,12 +296421,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82584948",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-28T22:50:06.329Z"
+"updated": "2026-09-29T20:48:58.318Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-6%2F6207": {
-"lastmod": "2026-09-28T22:50:06.329Z",
+"lastmod": "2026-09-29T20:57:57.640Z",
 "notice": {
 "areas": [
 [
@@ -296393,12 +296605,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82585024",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-28T22:50:06.329Z"
+"updated": "2026-09-29T20:57:57.640Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-6%2F6209": {
-"lastmod": "2026-09-28T22:50:06.329Z",
+"lastmod": "2026-09-29T21:02:57.941Z",
 "notice": {
 "areas": [
 [
@@ -296577,12 +296789,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82585062",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-28T22:50:06.329Z"
+"updated": "2026-09-29T21:02:57.941Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-6%2F6213": {
-"lastmod": "2026-09-28T14:33:04.390Z",
+"lastmod": "2026-09-29T21:53:58.382Z",
 "notice": {
 "areas": [
 [
@@ -296761,12 +296973,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82585439",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-28T14:33:04.390Z"
+"updated": "2026-09-29T21:53:58.382Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-6%2F6217": {
-"lastmod": "2026-09-28T14:33:04.390Z",
+"lastmod": "2026-09-29T22:05:57.671Z",
 "notice": {
 "areas": [
 [
@@ -296945,9 +297157,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82585513",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-28T14:33:04.390Z"
+"updated": "2026-09-29T22:05:57.671Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-6%2F7476": {
 "lastmod": "2026-04-23T14:04:24.726Z",
