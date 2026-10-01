@@ -253126,170 +253126,6 @@
 "areas": [
 [
 [
-9.2667,
-118.95
-],
-[
-9.4667,
-119.2167
-],
-[
-8.95,
-119.6
-],
-[
-8.75,
-119.3333
-],
-[
-9.2667,
-118.95
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-17T00:54:00.000Z",
-"start": "2026-09-17T00:25:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-RPHI-B4716/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-898f7df0-b6ce-4a5c-80b4-67e81842124e",
-"title": "Unknown Payload"
-}
-],
-"markers": [],
-"name": "B4716/26",
-"page": "https://space-notices.com/notice/notam-RPHI-B4716%2F26",
-"raw": "B4716/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/0907N11917E023\r\nA) RPHI B) 2609170025 C) 2609170054\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA. \r\nEST FALL AREA OF UNBURNED DEBRIS WI:\r\n091600N 1185700E -\r\n092800N 1191300E -\r\n085700N 1193600E -\r\n084500N 1192000E -\r\n091600N 1185700E\r\n(29NM SOUTHEAST PUERTO PRINCESA INTL AP).\r\nF) SFC G) UNL",
-"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82368807",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-09T11:10:06.752Z"
-},
-{
-"areas": [
-[
-[
-39.9667,
-101.2
-],
-[
-40.1667,
-101.5167
-],
-[
-39.9167,
-101.7833
-],
-[
-39.7167,
-101.4667
-],
-[
-39.9667,
-101.2
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-17T03:12:00.000Z",
-"start": "2026-09-17T02:31:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLHW-A4453/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-898f7df0-b6ce-4a5c-80b4-67e81842124e",
-"title": "Unknown Payload"
-}
-],
-"markers": [],
-"name": "A4453/26",
-"page": "https://space-notices.com/notice/notam-ZLHW-A4453%2F26",
-"raw": "A4453/26 NOTAMN\r\nQ)ZLHW/QRDCA/IV/BO/W/000/999/3956N10129E014\r\nA)ZLHW B)2609170231 C)2609170312 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN395800E1011200-N401000E1013100-N395500E1014700-N394300E1012800,BAC\r\nK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82391128",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-11T04:41:01.202Z"
-},
-{
-"areas": [
-[
-[
-30.3333,
-109.9
-],
-[
-30.5167,
-110.2167
-],
-[
-30.35,
-110.3333
-],
-[
-30.35,
-110.4
-],
-[
-29.6833,
-110.9
-],
-[
-29.4833,
-110.5333
-],
-[
-30.3333,
-109.9
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-17T03:15:00.000Z",
-"start": "2026-09-17T02:32:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZHWH-A4454/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-898f7df0-b6ce-4a5c-80b4-67e81842124e",
-"title": "Unknown Payload"
-}
-],
-"markers": [],
-"name": "A4454/26",
-"page": "https://space-notices.com/notice/notam-ZHWH-A4454%2F26",
-"raw": "A4454/26 NOTAMN\r\nQ)ZHWH/QRDCA/IV/BO/W/000/999/3000N11024E033\r\nA)ZHWH B)2609170232 C)2609170315 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN302000E1095400-N303100E1101300-N302100E1102000-N302100E1102400-\r\nN294100E1105400-N292900E1103200,BACK TO START.VERTICAL \r\nLIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82391127",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-11T04:40:55.779Z"
-},
-{
-"areas": [
-[
-[
 -51.1333,
 -168.7
 ],
@@ -262401,13 +262237,13 @@
 "markers": [],
 "name": "FAA Operations Advisory",
 "page": "https://space-notices.com/notice/infopage-faa-operations-advisory-stratolaunch-helena",
-"raw": "STRATOLAUNCH HELENA, MOJAVE AIR AND SPACEPORT, CA\nPRIMARY:\t09/30/26\t2300Z-0500Z\nBACKUP:",
+"raw": "STRATOLAUNCH HELENA, MOJAVE AIR AND SPACEPORT, CA\nPRIMARY:\t09/30/26\t2300Z-0500Z",
 "reason": "STRATOLAUNCH HELENA, MOJAVE AIR AND SPACEPORT, CA",
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-28T23:47:43.035Z"
+"updated": "2026-09-30T19:40:43.555Z"
 },
 {
 "areas": [
@@ -262955,7 +262791,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82592407",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T22:42:01.699Z"
+"updated": "2026-09-30T12:27:00.426Z"
 },
 {
 "areas": [
@@ -263015,7 +262851,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82592838",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T22:42:01.699Z"
+"updated": "2026-09-30T12:54:00.471Z"
 },
 {
 "areas": [
@@ -263075,7 +262911,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82592362",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T22:42:01.699Z"
+"updated": "2026-09-30T12:25:01.206Z"
 },
 {
 "areas": [
@@ -263135,7 +262971,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82592846",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T22:42:01.699Z"
+"updated": "2026-09-30T12:55:04.643Z"
 },
 {
 "areas": [
@@ -264517,6 +264353,904 @@
 "areas": [
 [
 [
+37.87,
+-75.355
+],
+[
+37.85,
+-75.474
+],
+[
+37.755,
+-75.46
+],
+[
+37.61,
+-75.27
+],
+[
+37.04,
+-75.06
+],
+[
+37.1,
+-74.845
+],
+[
+37.72,
+-75.045
+],
+[
+37.87,
+-75.355
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-01T18:00:00.000Z",
+"start": "2026-10-01T11:30:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-53418",
+"kind": "LNM",
+"launches": [
+{
+"id": "other-wallops-yahoo",
+"title": "YAHOO Sounding Rocket"
+}
+],
+"markers": [],
+"name": "53418",
+"page": "https://space-notices.com/notice/lnm-53418",
+"raw": "Space Operations/Safety Zone/Government Supported (Safety)\n\nFrom: 2026-09-10 To: 2026-10-02\n\nLocation:\n37-52-12.000N/075-21-18.000W\n37-43-12.000N/075-02-42.000W\n37-06-00.000N/074-50-42.000W\n37-02-24.000N/075-03-36.000W\n37-36-36.000N/075-16-12.000W\n37-45-18.000N/075-27-36.000W\n37-51-00.000N/075-28-26.400W\n37-52-12.000N/075-21-18.000W\n\nThe Launch Director, National Aeronautics and Space Administration - Wallops Flight Facility, Wallops Island, Virginia, has advised that the areas in the Atlantic Ocean including the existing Danger Zone off Wallops Island and Chincoteague Inlet (depicted as 334.130) as shown on National Ocean Service Chart, will be hazardous to navigation because of a rocket launch during the periods and times.                          \n\nThe test windows are:                \nPrimary:\tOct 1, 07:30AM - Oct 1, 02:00PM\t(1130Z01OCT2026 - 1800Z01OCT2026)\t\t\t\t\t\n\t\t\nPublic ship avoidance area is in effect and bound by:                                              \n15 NAUTICAL MILE HAZARD AREA AT CENTER POINT 37-43.73N /75-12.98W\n18 NAUTICAL MILE HAZARD AREA AT CENTER POINT 37-17.74N /75-1.12W\n\nDuring the launch window, contact Wallops Plot via Marine Band (VHF) 12 and 22, or land line 757-824-1685. Outside the launch window contact WFF-DL-NOTMAR@mail.nasa.gov .\nMSI# 53418.\n \n\n",
+"reason": "Rocket launch by National Aeronautics and Space Administration - Wallops Flight Facility",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-09-28T14:30:29.207Z"
+},
+{
+"areas": [
+[
+[
+37.94827,
+-75.2
+],
+[
+37.94381,
+-75.14271
+],
+[
+37.93059,
+-75.08765
+],
+[
+37.90913,
+-75.03694
+],
+[
+37.88026,
+-74.99254
+],
+[
+37.8451,
+-74.95617
+],
+[
+37.80501,
+-74.92922
+],
+[
+37.76153,
+-74.91271
+],
+[
+37.71634,
+-74.90726
+],
+[
+37.67118,
+-74.91306
+],
+[
+37.62777,
+-74.92987
+],
+[
+37.5878,
+-74.95702
+],
+[
+37.55277,
+-74.99346
+],
+[
+37.52405,
+-75.03778
+],
+[
+37.5027,
+-75.0883
+],
+[
+37.48957,
+-75.14306
+],
+[
+37.48513,
+-75.2
+],
+[
+37.48957,
+-75.25694
+],
+[
+37.5027,
+-75.3117
+],
+[
+37.52405,
+-75.36222
+],
+[
+37.55277,
+-75.40654
+],
+[
+37.5878,
+-75.44298
+],
+[
+37.62777,
+-75.47013
+],
+[
+37.67118,
+-75.48694
+],
+[
+37.71634,
+-75.49274
+],
+[
+37.76153,
+-75.48729
+],
+[
+37.80501,
+-75.47078
+],
+[
+37.8451,
+-75.44383
+],
+[
+37.88026,
+-75.40746
+],
+[
+37.90913,
+-75.36306
+],
+[
+37.93059,
+-75.31235
+],
+[
+37.94381,
+-75.25729
+],
+[
+37.94827,
+-75.2
+]
+],
+[
+[
+37.89736,
+-74.4833
+],
+[
+37.89065,
+-74.39743
+],
+[
+37.8708,
+-74.31491
+],
+[
+37.83856,
+-74.23894
+],
+[
+37.79521,
+-74.17247
+],
+[
+37.74242,
+-74.11807
+],
+[
+37.68223,
+-74.0778
+],
+[
+37.61699,
+-74.0532
+],
+[
+37.54919,
+-74.04518
+],
+[
+37.48146,
+-74.05399
+],
+[
+37.41638,
+-74.07925
+],
+[
+37.35646,
+-74.11995
+],
+[
+37.30398,
+-74.17452
+],
+[
+37.26094,
+-74.24083
+],
+[
+37.22897,
+-74.31635
+],
+[
+37.20929,
+-74.39821
+],
+[
+37.20264,
+-74.4833
+],
+[
+37.20929,
+-74.56839
+],
+[
+37.22897,
+-74.65025
+],
+[
+37.26094,
+-74.72577
+],
+[
+37.30398,
+-74.79208
+],
+[
+37.35646,
+-74.84665
+],
+[
+37.41638,
+-74.88735
+],
+[
+37.48146,
+-74.91261
+],
+[
+37.54919,
+-74.92142
+],
+[
+37.61699,
+-74.9134
+],
+[
+37.68223,
+-74.8888
+],
+[
+37.74242,
+-74.84853
+],
+[
+37.79521,
+-74.79413
+],
+[
+37.83856,
+-74.72766
+],
+[
+37.8708,
+-74.65169
+],
+[
+37.89065,
+-74.56917
+],
+[
+37.89736,
+-74.4833
+]
+],
+[
+[
+37.7096,
+-73.65
+],
+[
+37.70234,
+-73.55721
+],
+[
+37.68082,
+-73.46805
+],
+[
+37.64589,
+-73.38597
+],
+[
+37.59891,
+-73.31416
+],
+[
+37.54171,
+-73.2554
+],
+[
+37.4765,
+-73.21192
+],
+[
+37.4058,
+-73.18538
+],
+[
+37.33236,
+-73.17674
+],
+[
+37.25898,
+-73.18629
+],
+[
+37.18849,
+-73.2136
+],
+[
+37.12359,
+-73.25759
+],
+[
+37.06675,
+-73.31653
+],
+[
+37.02013,
+-73.38816
+],
+[
+36.98551,
+-73.46972
+],
+[
+36.96419,
+-73.55812
+],
+[
+36.957,
+-73.65
+],
+[
+36.96419,
+-73.74188
+],
+[
+36.98551,
+-73.83028
+],
+[
+37.02013,
+-73.91184
+],
+[
+37.06675,
+-73.98347
+],
+[
+37.12359,
+-74.04241
+],
+[
+37.18849,
+-74.0864
+],
+[
+37.25898,
+-74.11371
+],
+[
+37.33236,
+-74.12326
+],
+[
+37.4058,
+-74.11462
+],
+[
+37.4765,
+-74.08808
+],
+[
+37.54171,
+-74.0446
+],
+[
+37.59891,
+-73.98584
+],
+[
+37.64589,
+-73.91403
+],
+[
+37.68082,
+-73.83195
+],
+[
+37.70234,
+-73.74279
+],
+[
+37.7096,
+-73.65
+]
+],
+[
+[
+37.75038,
+-72.2833
+],
+[
+37.73549,
+-72.09408
+],
+[
+37.69141,
+-71.91235
+],
+[
+37.61989,
+-71.74527
+],
+[
+37.52375,
+-71.5994
+],
+[
+37.40677,
+-71.48037
+],
+[
+37.27353,
+-71.39271
+],
+[
+37.12922,
+-71.33965
+],
+[
+36.97943,
+-71.32306
+],
+[
+36.82994,
+-71.34336
+],
+[
+36.68647,
+-71.39955
+],
+[
+36.55449,
+-71.48931
+],
+[
+36.43898,
+-71.60908
+],
+[
+36.34432,
+-71.75422
+],
+[
+36.27406,
+-71.91919
+],
+[
+36.23082,
+-72.09778
+],
+[
+36.21622,
+-72.2833
+],
+[
+36.23082,
+-72.46882
+],
+[
+36.27406,
+-72.64741
+],
+[
+36.34432,
+-72.81238
+],
+[
+36.43898,
+-72.95752
+],
+[
+36.55449,
+-73.07729
+],
+[
+36.68647,
+-73.16705
+],
+[
+36.82994,
+-73.22324
+],
+[
+36.97943,
+-73.24354
+],
+[
+37.12922,
+-73.22695
+],
+[
+37.27353,
+-73.17389
+],
+[
+37.40677,
+-73.08623
+],
+[
+37.52375,
+-72.9672
+],
+[
+37.61989,
+-72.82133
+],
+[
+37.69141,
+-72.65425
+],
+[
+37.73549,
+-72.47252
+],
+[
+37.75038,
+-72.2833
+]
+],
+[
+[
+37.63767,
+-69.35
+],
+[
+37.59479,
+-68.81559
+],
+[
+37.46794,
+-68.30345
+],
+[
+37.26241,
+-67.83471
+],
+[
+36.98668,
+-67.42827
+],
+[
+36.65206,
+-67.09999
+],
+[
+36.27206,
+-66.862
+],
+[
+35.86181,
+-66.7224
+],
+[
+35.43741,
+-66.68509
+],
+[
+35.01523,
+-66.7499
+],
+[
+34.61132,
+-66.91284
+],
+[
+34.24081,
+-67.16644
+],
+[
+33.91739,
+-67.50024
+],
+[
+33.65289,
+-67.90123
+],
+[
+33.45686,
+-68.35439
+],
+[
+33.33638,
+-68.84316
+],
+[
+33.29573,
+-69.35
+],
+[
+33.33638,
+-69.85684
+],
+[
+33.45686,
+-70.34561
+],
+[
+33.65289,
+-70.79877
+],
+[
+33.91739,
+-71.19976
+],
+[
+34.24081,
+-71.53356
+],
+[
+34.61132,
+-71.78716
+],
+[
+35.01523,
+-71.9501
+],
+[
+35.43741,
+-72.01491
+],
+[
+35.86181,
+-71.9776
+],
+[
+36.27206,
+-71.838
+],
+[
+36.65206,
+-71.60001
+],
+[
+36.98668,
+-71.27173
+],
+[
+37.26241,
+-70.86529
+],
+[
+37.46794,
+-70.39655
+],
+[
+37.59479,
+-69.88441
+],
+[
+37.63767,
+-69.35
+]
+],
+[
+[
+36.63634,
+-63.9833
+],
+[
+36.58438,
+-63.34705
+],
+[
+36.43071,
+-62.73765
+],
+[
+36.1818,
+-62.1805
+],
+[
+35.84807,
+-61.69824
+],
+[
+35.44331,
+-61.30967
+],
+[
+34.98399,
+-61.02904
+],
+[
+34.48849,
+-60.86567
+],
+[
+33.9763,
+-60.82383
+],
+[
+33.46717,
+-60.90294
+],
+[
+32.98041,
+-61.09793
+],
+[
+32.53418,
+-61.39973
+],
+[
+32.14487,
+-61.7958
+],
+[
+31.82661,
+-62.2707
+],
+[
+31.59083,
+-62.80673
+],
+[
+31.44594,
+-63.38445
+],
+[
+31.39706,
+-63.9833
+],
+[
+31.44594,
+-64.58215
+],
+[
+31.59083,
+-65.15987
+],
+[
+31.82661,
+-65.6959
+],
+[
+32.14487,
+-66.1708
+],
+[
+32.53418,
+-66.56687
+],
+[
+32.98041,
+-66.86867
+],
+[
+33.46717,
+-67.06366
+],
+[
+33.9763,
+-67.14277
+],
+[
+34.48849,
+-67.10093
+],
+[
+34.98399,
+-66.93756
+],
+[
+35.44331,
+-66.65693
+],
+[
+35.84807,
+-66.26836
+],
+[
+36.1818,
+-65.7861
+],
+[
+36.43071,
+-65.22895
+],
+[
+36.58438,
+-64.61955
+],
+[
+36.63634,
+-63.9833
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-10-01T18:00:00.000Z",
+"start": "2026-10-01T11:30:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA IV 932/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "other-wallops-yahoo",
+"title": "YAHOO Sounding Rocket"
+}
+],
+"markers": [],
+"name": "NAVAREA IV 932/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20IV%20932%2F26",
+"raw": "081609Z SEP 26\nNAVAREA IV 932/26.\nNORTH ATLANTIC.\nVIRGINIA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   011130Z TO 011800Z OCT IN AREAS WITHIN:\n   A. 16 MILES OF 37-43.61N 075-12.62W.\n   B. 24 MILES OF 37-33.38N 074-29.45W.\n   C. 26 MILES OF 37-20.47N 073-39.65W.\n   D. 53 MILES OF 36-59.21N 072-17.60W.\n   E. 150 MILES OF 35-28.66N 069-21.71W.\n   F. 181 MILES OF 34-01.21N 063-59.21W.\n2. CANCEL THIS MSG 011900Z OCT 26.\n",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=932&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-09-28T13:48:25.228Z"
+},
+{
+"areas": [
+[
+[
 37.9338,
 -75.2
 ],
@@ -264804,7 +265538,59 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=940&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": ""
+"updated": "2026-09-28T13:48:17.415Z"
+},
+{
+"areas": [
+[
+[
+37.9,
+-75.3
+],
+[
+37.8833,
+-75.2667
+],
+[
+37.85,
+-75.2833
+],
+[
+37.9,
+-75.3667
+],
+[
+37.9,
+-75.3
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-01T18:00:00.000Z",
+"start": "2026-10-01T11:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZDC-09/364-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-wallops-yahoo",
+"title": "YAHOO Sounding Rocket"
+}
+],
+"markers": [],
+"name": "09/364",
+"page": "https://space-notices.com/notice/notam-ZDC-09%2F364-26",
+"raw": "!CARF 09/364 ZDC AIRSPACE DCC YAHOO NASA WFF STNR ALT RESERVATION WI AN AREA DEFINED AS 375400N0751800W TO 375300N0751600W TO 375100N0751700W TO 375400N0752200W TO POINT OF ORIGIN SFC-UNL 2610011130-2610011800",
+"reason": "YAHOO NASA WFF",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82592173",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-30T12:11:25.969Z"
 },
 {
 "areas": [
@@ -264884,7 +265670,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82592357",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-28T20:27:39.119Z"
+"updated": "2026-09-30T12:24:55.006Z"
 },
 {
 "areas": [
@@ -264964,7 +265750,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82592458",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-28T20:27:39.119Z"
+"updated": "2026-09-30T12:31:38.880Z"
 },
 {
 "areas": [
@@ -265036,7 +265822,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82592348",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-28T20:27:39.119Z"
+"updated": "2026-09-30T12:24:45.867Z"
 },
 {
 "areas": [
@@ -265108,7 +265894,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82592460",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-28T20:27:39.119Z"
+"updated": "2026-09-30T12:31:30.546Z"
 },
 {
 "areas": [
@@ -265471,7 +266257,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82592157",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T22:05:57.707Z"
+"updated": "2026-09-30T12:09:10.291Z"
 },
 {
 "areas": [
@@ -265523,7 +266309,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82592155",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T22:05:57.707Z"
+"updated": "2026-09-30T12:09:00.372Z"
 },
 {
 "areas": [
@@ -265579,7 +266365,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82592257",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T22:05:57.707Z"
+"updated": "2026-09-30T12:15:45.878Z"
 },
 {
 "areas": [
@@ -265635,7 +266421,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82592207",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T22:05:57.707Z"
+"updated": "2026-09-30T12:13:30.532Z"
 },
 {
 "areas": [
@@ -265687,7 +266473,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82592212",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T22:05:57.707Z"
+"updated": "2026-09-30T12:13:44.696Z"
 },
 {
 "areas": [
@@ -265739,7 +266525,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82592210",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T22:05:57.707Z"
+"updated": "2026-09-30T12:13:37.776Z"
 },
 {
 "areas": [
@@ -266151,7 +266937,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82592188",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T22:05:57.707Z"
+"updated": "2026-09-30T12:11:15.607Z"
 },
 {
 "areas": [
@@ -266665,7 +267451,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82593524",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T22:42:01.699Z"
+"updated": "2026-09-30T13:45:45.987Z"
 },
 {
 "areas": [
@@ -266725,7 +267511,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82593691",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T22:42:01.699Z"
+"updated": "2026-09-30T13:54:45.886Z"
 },
 {
 "areas": [
@@ -266785,7 +267571,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82593709",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T22:42:01.699Z"
+"updated": "2026-09-30T13:57:00.428Z"
 },
 {
 "areas": [
@@ -266845,7 +267631,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82593513",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T22:42:01.699Z"
+"updated": "2026-09-30T13:43:30.605Z"
 },
 {
 "areas": [
@@ -268203,7 +268989,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82593851",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-28T20:27:39.119Z"
+"updated": "2026-09-30T14:08:15.716Z"
 },
 {
 "areas": [
@@ -268283,7 +269069,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82593837",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-28T20:27:39.119Z"
+"updated": "2026-09-30T14:06:01.235Z"
 },
 {
 "areas": [],
@@ -268388,7 +269174,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82593776",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-28T20:27:39.119Z"
+"updated": "2026-09-30T14:01:30.551Z"
 },
 {
 "areas": [
@@ -268460,7 +269246,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82593782",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-28T20:27:39.119Z"
+"updated": "2026-09-30T14:01:40.133Z"
 },
 {
 "areas": [
@@ -268512,7 +269298,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82597573",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T22:05:57.707Z"
+"updated": "2026-09-30T18:38:35.475Z"
 },
 {
 "areas": [
@@ -268564,7 +269350,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82597570",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T22:05:57.707Z"
+"updated": "2026-09-30T18:38:29.101Z"
 },
 {
 "areas": [
@@ -268620,7 +269406,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82597593",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T22:05:57.707Z"
+"updated": "2026-09-30T18:38:22.521Z"
 },
 {
 "areas": [
@@ -268676,7 +269462,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82597611",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T22:05:57.707Z"
+"updated": "2026-09-30T18:39:14.939Z"
 },
 {
 "areas": [
@@ -268728,7 +269514,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82597615",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T22:05:57.707Z"
+"updated": "2026-09-30T18:39:19.494Z"
 },
 {
 "areas": [
@@ -268780,7 +269566,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82597589",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T22:05:57.707Z"
+"updated": "2026-09-30T18:38:15.527Z"
 },
 {
 "areas": [
@@ -269192,7 +269978,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82597565",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T22:05:57.707Z"
+"updated": "2026-09-30T18:37:49.985Z"
 },
 {
 "areas": [],
@@ -269225,7 +270011,7 @@
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T22:05:57.707Z"
+"updated": "2026-09-30T21:46:42.426Z"
 },
 {
 "areas": [
@@ -275121,7 +275907,7 @@
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-29T16:08:59.417Z"
+"updated": "2026-09-30T21:46:43.576Z"
 },
 {
 "areas": [
@@ -275337,7 +276123,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82590811",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-24T09:07:55.820Z"
+"updated": "2026-09-30T10:43:50.533Z"
 },
 {
 "areas": [
@@ -275389,7 +276175,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82590868",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-24T09:07:55.820Z"
+"updated": "2026-09-30T10:44:06.911Z"
 },
 {
 "areas": [
@@ -276302,258 +277088,6 @@
 "areas": [
 [
 [
-31.63333,
--77.88333
-],
-[
-31.01667,
--78.75
-],
-[
-30.38333,
--79.1
-],
-[
-30.18333,
--78.91667
-],
-[
-30.65,
--78.16667
-],
-[
-31.46667,
--77.71667
-],
-[
-31.63333,
--77.88333
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-01T15:50:00.000Z",
-"start": "2026-10-01T15:00:00.000Z"
-},
-{
-"end": "2026-10-02T15:28:00.000Z",
-"start": "2026-10-02T14:38:00.000Z"
-},
-{
-"end": "2026-10-03T15:05:00.000Z",
-"start": "2026-10-03T14:15:00.000Z"
-},
-{
-"end": "2026-10-04T14:42:00.000Z",
-"start": "2026-10-04T13:52:00.000Z"
-},
-{
-"end": "2026-10-05T14:20:00.000Z",
-"start": "2026-10-05T13:30:00.000Z"
-},
-{
-"end": "2026-10-06T13:54:00.000Z",
-"start": "2026-10-06T13:04:00.000Z"
-},
-{
-"end": "2026-10-07T13:32:00.000Z",
-"start": "2026-10-07T12:42:00.000Z"
-}
-],
-"height": null,
-"id": "lnm-54652",
-"kind": "LNM",
-"launches": [
-{
-"id": "launch-18441371-8b2e-457c-afb5-1ec1b11ab630",
-"title": "Crew-13"
-}
-],
-"markers": [],
-"name": "54652",
-"page": "https://space-notices.com/notice/lnm-54652",
-"raw": "Space Operations/Hazardous Warning Area/Government Supported (Hazardous)\n\nFrom: 2026-09-29 To: 2027-03-28\n\nLocation:\n31-37-59.988N/077-52-59.988W\n31-28-00.012N/077-43-00.012W\n30-38-60.000N/078-10-00.012W\n30-10-59.988N/078-55-00.012W\n30-22-59.988N/079-05-60.000W\n31-01-00.012N/078-45-00.000W\n31-37-59.988N/077-52-59.988W\n\n1. SPACE LAUNCH OPERATIONS, WHICH MAY BE HAZARDOUS TO SURFACE VESSELS, WILL\nBE CONDUCTED WITHIN PORTIONS OF THE FOLLOWING HAZARD AREAS FOR NASA CREW-13:\nA. FROM 30-43-00N/078-30-00W\nTO 31-53-00N/077-11-00W\nTO 31-43-00N/076-57-00W\nTO 30-31-00N/078-19-00W TO BEGINNING\nB. FROM 28-39-23N/080-37-57W\nTO 28-43-14N/080-32-44W\nTO 28-51-00N/080-24-00W\nTO 28-51-00N/080-18-00W\nTO 28-50-00N/080-16-00W\nTO 28-44-00N/080-16-00W\nTO 28-33-00N/080-27-00W\nTO 28-30-30N/080-33-02W TO BEGINNING\n2. HAZARD PERIODS FOR PRIMARY LAUNCH DAY AND BACKUP LAUNCH DAYS (ALL TIMES\nARE REPRESENTED AS ZULU TIME UNLESS OTHERWISE INDICATED):\n01/1500 OCT 26 TO 01/1550 OCT 26.\n02/1438 OCT 26 TO 02/1528 OCT 26.\n03/1415 OCT 26 TO 03/1505 OCT 26.\n04/1352 OCT 26 TO 04/1442 OCT 26.\n05/1330 OCT 26 TO 05/1420 OCT 26.\n06/1304 OCT 26 TO 06/1354 OCT 26.\n07/1242 OCT 26 TO 07/1332 OCT 26.\n3. THE U.S. COAST GUARD HAS ESTABLISHED A REGULATED NAVIGATION AREA UNDER 33\nCFR 165.775 TO ENCOMPASS THE WATERS BOUND BY THE COORDINATES:\nA. FROM 28-36-38N/080-35-45W\nTO 28-44-58.3N/080-25-49W\nTO 28-41-14.9N/080-22-50.9W\nTO 28-34-00N/080-29-00W\nTO 28-30-46N/080-33-10W, THEN FOLLOWING THE SHORELINE BACK TO THE POINT OF\nORIGIN.\nB. MARINERS ARE ADVISED THAT THE AREA ENCOMPASSED BY THIS ZONE IS CLOSED TO\nALL VESSELS AND PERSONS EXCEPT AS AUTHORIZED BY THE COMMANDER, COAST GUARD\nDISTRICT SOUTHEAST OR THE CAPTAIN OF THE PORT, JACKSONVILLE, FL BEGINNING 45\nMINUTES PRIOR TO THE SCHEDULED LAUNCH WINDOW IN THIS NOTICE UNTIL REOPENED BY\nTHE CAPTAIN OF THE PORT, JACKSONVILLE, FL VIA BROADCAST ON VHF-FM CHANNEL 16\nAND CANCELLATION OF THIS BROADCAST NOTICE TO MARINERS MESSAGE. DETAILED\nLAUNCH INFORMATION IS AVAILABLE ON THE DAY OF LAUNCH BY CONTACTING THE U.S.\nCOAST GUARD VIA VHF-FM CHANNEL 16 AND 81A OR THROUGH THE U.S. SPACE FORCE\nLAUNCH INFORMATION HOTLINE AT 1-800-470-7232.\n4. THE U.S. COAST GUARD WILL ENFORCE THE SECURITY ZONE AS SPECIFIED IN 33 CFR\n165.701 BEGINNING 2 HOURS PRIOR TO THE SCHEDULED LAUNCH WINDOW IN THIS NOTICE\nUNTIL SUSPENDED BY THE CAPTAIN OF THE PORT, JACKSONVILLE, FL VIA BROADCAST ON\nVHF-FM CHANNEL 16 AND CANCELLATION OF THIS BROADCAST NOTICE TO MARINERS\nMESSAGE.\n5. THE U.S. COAST GUARD IS PROVIDING THIS NOTICE TO ADVISE MARINERS OF THESE\nHAZARDOUS AREAS IDENTIFIED BY U.S. SPACE FORCE AND/OR A COMMERCIAL SPACE\nOPERATION, WHICH MAY IMPACT NAVIGATION INTERESTS. NAVIGATION HAZARDS FROM\nROCKET LAUNCH ACTIVITIES MAY INCLUDE FREE FALLING DEBRIS AND/OR DESCENDING\nVEHICLES OR VEHICLE COMPONENTS UNDER VARIOUS MEANS OF CONTROL. MARINERS ARE\nURGED TO AVOID WATERS WITHIN ROCKET FLIGHT TRAJECTORIES/HAZARD AREAS DURING\nLAUNCH WINDOWS AS DETAILED ABOVE.\n6. FOR MORE INFORMATION, MARINERS MAY CONTACT THE U.S. SPACE FORCE LAUNCH\nINFORMATION HOTLINE AT 1-800-470-7232 OR BY VISITING\nWWW.PATRICK.SPACEFORCE.MIL. FOR NAVIGATIONAL SAFETY, MARINERS ARE ADVISED TO\nREFER TO WWW.NAVCEN.USCG.GOV/MSI TO VIEW THE LOCAL NOTICE TO MARINERS (LNM)\nAND THE GEOSPATIAL CHART AT WWW.NAVCEN.USCG.GOV/CHART FOR INFORMATION ON\nSPACE LAUNCH AND RECOVERY OPERATIONS (SOLAR).",
-"reason": "Hazardous operations will be conducted for NASA Crew-13",
-"source": {
-"link": "https://www.navcen.uscg.gov/msi",
-"name": "US Coast Guard"
-},
-"updated": "2026-09-29T14:30:28.467Z"
-},
-{
-"areas": [
-[
-[
-29.06667,
--80.26667
-],
-[
-28.66444,
--80.63806
-],
-[
-28.46667,
--80.52972
-],
-[
-28.46667,
--80.4
-],
-[
-28.95,
--80.11667
-],
-[
-29.06667,
--80.26667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-01T15:50:00.000Z",
-"start": "2026-10-01T15:00:00.000Z"
-},
-{
-"end": "2026-10-02T15:28:00.000Z",
-"start": "2026-10-02T14:38:00.000Z"
-},
-{
-"end": "2026-10-03T15:05:00.000Z",
-"start": "2026-10-03T14:15:00.000Z"
-},
-{
-"end": "2026-10-04T14:42:00.000Z",
-"start": "2026-10-04T13:52:00.000Z"
-},
-{
-"end": "2026-10-05T14:20:00.000Z",
-"start": "2026-10-05T13:30:00.000Z"
-},
-{
-"end": "2026-10-06T13:54:00.000Z",
-"start": "2026-10-06T13:04:00.000Z"
-},
-{
-"end": "2026-10-07T13:32:00.000Z",
-"start": "2026-10-07T12:42:00.000Z"
-}
-],
-"height": null,
-"id": "lnm-54654",
-"kind": "LNM",
-"launches": [
-{
-"id": "launch-18441371-8b2e-457c-afb5-1ec1b11ab630",
-"title": "Crew-13"
-}
-],
-"markers": [],
-"name": "54654",
-"page": "https://space-notices.com/notice/lnm-54654",
-"raw": "Space Operations/Hazardous Warning Area/Government Supported (Hazardous)\n\nFrom: 2026-09-29 To: 2027-03-28\n\nLocation:\n29-04-00.012N/080-16-00.012W\n28-56-60.000N/080-07-00.012W\n28-28-00.012N/080-24-00.000W\n28-28-00.012N/080-31-46.992W\n28-39-51.984N/080-38-17.016W\n29-04-00.012N/080-16-00.012W\n\n1. SPACE LAUNCH OPERATIONS, WHICH MAY BE HAZARDOUS TO SURFACE VESSELS, WILL\nBE CONDUCTED WITHIN PORTIONS OF THE FOLLOWING HAZARD AREAS FOR NASA CREW-13:\nA. FROM 30-43-00N/078-30-00W\nTO 31-53-00N/077-11-00W\nTO 31-43-00N/076-57-00W\nTO 30-31-00N/078-19-00W TO BEGINNING\nB. FROM 28-39-23N/080-37-57W\nTO 28-43-14N/080-32-44W\nTO 28-51-00N/080-24-00W\nTO 28-51-00N/080-18-00W\nTO 28-50-00N/080-16-00W\nTO 28-44-00N/080-16-00W\nTO 28-33-00N/080-27-00W\nTO 28-30-30N/080-33-02W TO BEGINNING\n2. HAZARD PERIODS FOR PRIMARY LAUNCH DAY AND BACKUP LAUNCH DAYS (ALL TIMES\nARE REPRESENTED AS ZULU TIME UNLESS OTHERWISE INDICATED):\n01/1500 OCT 26 TO 01/1550 OCT 26.\n02/1438 OCT 26 TO 02/1528 OCT 26.\n03/1415 OCT 26 TO 03/1505 OCT 26.\n04/1352 OCT 26 TO 04/1442 OCT 26.\n05/1330 OCT 26 TO 05/1420 OCT 26.\n06/1304 OCT 26 TO 06/1354 OCT 26.\n07/1242 OCT 26 TO 07/1332 OCT 26.\n3. THE U.S. COAST GUARD HAS ESTABLISHED A REGULATED NAVIGATION AREA UNDER 33\nCFR 165.775 TO ENCOMPASS THE WATERS BOUND BY THE COORDINATES:\nA. FROM 28-36-38N/080-35-45W\nTO 28-44-58.3N/080-25-49W\nTO 28-41-14.9N/080-22-50.9W\nTO 28-34-00N/080-29-00W\nTO 28-30-46N/080-33-10W, THEN FOLLOWING THE SHORELINE BACK TO THE POINT OF\nORIGIN.\nB. MARINERS ARE ADVISED THAT THE AREA ENCOMPASSED BY THIS ZONE IS CLOSED TO\nALL VESSELS AND PERSONS EXCEPT AS AUTHORIZED BY THE COMMANDER, COAST GUARD\nDISTRICT SOUTHEAST OR THE CAPTAIN OF THE PORT, JACKSONVILLE, FL BEGINNING 45\nMINUTES PRIOR TO THE SCHEDULED LAUNCH WINDOW IN THIS NOTICE UNTIL REOPENED BY\nTHE CAPTAIN OF THE PORT, JACKSONVILLE, FL VIA BROADCAST ON VHF-FM CHANNEL 16\nAND CANCELLATION OF THIS BROADCAST NOTICE TO MARINERS MESSAGE. DETAILED\nLAUNCH INFORMATION IS AVAILABLE ON THE DAY OF LAUNCH BY CONTACTING THE U.S.\nCOAST GUARD VIA VHF-FM CHANNEL 16 AND 81A OR THROUGH THE U.S. SPACE FORCE\nLAUNCH INFORMATION HOTLINE AT 1-800-470-7232.\n4. THE U.S. COAST GUARD WILL ENFORCE THE SECURITY ZONE AS SPECIFIED IN 33 CFR\n165.701 BEGINNING 2 HOURS PRIOR TO THE SCHEDULED LAUNCH WINDOW IN THIS NOTICE\nUNTIL SUSPENDED BY THE CAPTAIN OF THE PORT, JACKSONVILLE, FL VIA BROADCAST ON\nVHF-FM CHANNEL 16 AND CANCELLATION OF THIS BROADCAST NOTICE TO MARINERS\nMESSAGE.\n5. THE U.S. COAST GUARD IS PROVIDING THIS NOTICE TO ADVISE MARINERS OF THESE\nHAZARDOUS AREAS IDENTIFIED BY U.S. SPACE FORCE AND/OR A COMMERCIAL SPACE\nOPERATION, WHICH MAY IMPACT NAVIGATION INTERESTS. NAVIGATION HAZARDS FROM\nROCKET LAUNCH ACTIVITIES MAY INCLUDE FREE FALLING DEBRIS AND/OR DESCENDING\nVEHICLES OR VEHICLE COMPONENTS UNDER VARIOUS MEANS OF CONTROL. MARINERS ARE\nURGED TO AVOID WATERS WITHIN ROCKET FLIGHT TRAJECTORIES/HAZARD AREAS DURING\nLAUNCH WINDOWS AS DETAILED ABOVE.\n6. FOR MORE INFORMATION, MARINERS MAY CONTACT THE U.S. SPACE FORCE LAUNCH\nINFORMATION HOTLINE AT 1-800-470-7232 OR BY VISITING\nWWW.PATRICK.SPACEFORCE.MIL. FOR NAVIGATIONAL SAFETY, MARINERS ARE ADVISED TO\nREFER TO WWW.NAVCEN.USCG.GOV/MSI TO VIEW THE LOCAL NOTICE TO MARINERS (LNM)\nAND THE GEOSPATIAL CHART AT WWW.NAVCEN.USCG.GOV/CHART FOR INFORMATION ON\nSPACE LAUNCH AND RECOVERY OPERATIONS (SOLAR).",
-"reason": "Hazardous operations will be conducted for NASA Crew-13",
-"source": {
-"link": "https://www.navcen.uscg.gov/msi",
-"name": "US Coast Guard"
-},
-"updated": "2026-09-29T14:30:39.943Z"
-},
-{
-"areas": [
-[
-[
-28.75,
--80.46667
-],
-[
-28.65417,
--80.63111
-],
-[
-28.46667,
--80.52972
-],
-[
-28.46667,
--80.46667
-],
-[
-28.62081,
--80.34872
-],
-[
-28.67131,
--80.36933
-],
-[
-28.71647,
--80.39981
-],
-[
-28.75,
--80.46667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-01T15:50:00.000Z",
-"start": "2026-10-01T15:00:00.000Z"
-},
-{
-"end": "2026-10-02T15:28:00.000Z",
-"start": "2026-10-02T14:38:00.000Z"
-},
-{
-"end": "2026-10-03T15:05:00.000Z",
-"start": "2026-10-03T14:15:00.000Z"
-},
-{
-"end": "2026-10-04T14:42:00.000Z",
-"start": "2026-10-04T13:52:00.000Z"
-},
-{
-"end": "2026-10-05T14:20:00.000Z",
-"start": "2026-10-05T13:30:00.000Z"
-},
-{
-"end": "2026-10-06T13:54:00.000Z",
-"start": "2026-10-06T13:04:00.000Z"
-},
-{
-"end": "2026-10-07T13:32:00.000Z",
-"start": "2026-10-07T12:42:00.000Z"
-}
-],
-"height": null,
-"id": "lnm-54662",
-"kind": "LNM",
-"launches": [
-{
-"id": "launch-18441371-8b2e-457c-afb5-1ec1b11ab630",
-"title": "Crew-13"
-}
-],
-"markers": [],
-"name": "54662",
-"page": "https://space-notices.com/notice/lnm-54662",
-"raw": "Space Operations/Active RNA/Government Supported (RNA)\n\nFrom: 2026-09-29 To: 2027-03-28\n\nLocation:\n28-45-00.000N/080-28-00.012W\n28-42-59.292N/080-23-59.316W\n28-40-16.716N/080-22-09.588W\n28-37-14.916N/080-20-55.392W\n28-28-00.012N/080-28-00.012W\n28-28-00.012N/080-31-46.992W\n28-39-15.012N/080-37-51.996W\n28-45-00.000N/080-28-00.012W\n\n1. SPACE LAUNCH OPERATIONS, WHICH MAY BE HAZARDOUS TO SURFACE VESSELS, WILL\nBE CONDUCTED WITHIN PORTIONS OF THE FOLLOWING HAZARD AREAS FOR NASA CREW-13:\nA. FROM 30-43-00N/078-30-00W\nTO 31-53-00N/077-11-00W\nTO 31-43-00N/076-57-00W\nTO 30-31-00N/078-19-00W TO BEGINNING\nB. FROM 28-39-23N/080-37-57W\nTO 28-43-14N/080-32-44W\nTO 28-51-00N/080-24-00W\nTO 28-51-00N/080-18-00W\nTO 28-50-00N/080-16-00W\nTO 28-44-00N/080-16-00W\nTO 28-33-00N/080-27-00W\nTO 28-30-30N/080-33-02W TO BEGINNING\n2. HAZARD PERIODS FOR PRIMARY LAUNCH DAY AND BACKUP LAUNCH DAYS (ALL TIMES\nARE REPRESENTED AS ZULU TIME UNLESS OTHERWISE INDICATED):\n01/1500 OCT 26 TO 01/1550 OCT 26.\n02/1438 OCT 26 TO 02/1528 OCT 26.\n03/1415 OCT 26 TO 03/1505 OCT 26.\n04/1352 OCT 26 TO 04/1442 OCT 26.\n05/1330 OCT 26 TO 05/1420 OCT 26.\n06/1304 OCT 26 TO 06/1354 OCT 26.\n07/1242 OCT 26 TO 07/1332 OCT 26.\n3. THE U.S. COAST GUARD HAS ESTABLISHED A REGULATED NAVIGATION AREA UNDER 33\nCFR 165.775 TO ENCOMPASS THE WATERS BOUND BY THE COORDINATES:\nA. FROM 28-36-38N/080-35-45W\nTO 28-44-58.3N/080-25-49W\nTO 28-41-14.9N/080-22-50.9W\nTO 28-34-00N/080-29-00W\nTO 28-30-46N/080-33-10W, THEN FOLLOWING THE SHORELINE BACK TO THE POINT OF\nORIGIN.\nB. MARINERS ARE ADVISED THAT THE AREA ENCOMPASSED BY THIS ZONE IS CLOSED TO\nALL VESSELS AND PERSONS EXCEPT AS AUTHORIZED BY THE COMMANDER, COAST GUARD\nDISTRICT SOUTHEAST OR THE CAPTAIN OF THE PORT, JACKSONVILLE, FL BEGINNING 45\nMINUTES PRIOR TO THE SCHEDULED LAUNCH WINDOW IN THIS NOTICE UNTIL REOPENED BY\nTHE CAPTAIN OF THE PORT, JACKSONVILLE, FL VIA BROADCAST ON VHF-FM CHANNEL 16\nAND CANCELLATION OF THIS BROADCAST NOTICE TO MARINERS MESSAGE. DETAILED\nLAUNCH INFORMATION IS AVAILABLE ON THE DAY OF LAUNCH BY CONTACTING THE U.S.\nCOAST GUARD VIA VHF-FM CHANNEL 16 AND 81A OR THROUGH THE U.S. SPACE FORCE\nLAUNCH INFORMATION HOTLINE AT 1-800-470-7232.\n4. THE U.S. COAST GUARD WILL ENFORCE THE SECURITY ZONE AS SPECIFIED IN 33 CFR\n165.701 BEGINNING 2 HOURS PRIOR TO THE SCHEDULED LAUNCH WINDOW IN THIS NOTICE\nUNTIL SUSPENDED BY THE CAPTAIN OF THE PORT, JACKSONVILLE, FL VIA BROADCAST ON\nVHF-FM CHANNEL 16 AND CANCELLATION OF THIS BROADCAST NOTICE TO MARINERS\nMESSAGE.\n5. THE U.S. COAST GUARD IS PROVIDING THIS NOTICE TO ADVISE MARINERS OF THESE\nHAZARDOUS AREAS IDENTIFIED BY U.S. SPACE FORCE AND/OR A COMMERCIAL SPACE\nOPERATION, WHICH MAY IMPACT NAVIGATION INTERESTS. NAVIGATION HAZARDS FROM\nROCKET LAUNCH ACTIVITIES MAY INCLUDE FREE FALLING DEBRIS AND/OR DESCENDING\nVEHICLES OR VEHICLE COMPONENTS UNDER VARIOUS MEANS OF CONTROL. MARINERS ARE\nURGED TO AVOID WATERS WITHIN ROCKET FLIGHT TRAJECTORIES/HAZARD AREAS DURING\nLAUNCH WINDOWS AS DETAILED ABOVE.\n6. FOR MORE INFORMATION, MARINERS MAY CONTACT THE U.S. SPACE FORCE LAUNCH\nINFORMATION HOTLINE AT 1-800-470-7232 OR BY VISITING\nWWW.PATRICK.SPACEFORCE.MIL. FOR NAVIGATIONAL SAFETY, MARINERS ARE ADVISED TO\nREFER TO WWW.NAVCEN.USCG.GOV/MSI TO VIEW THE LOCAL NOTICE TO MARINERS (LNM)\nAND THE GEOSPATIAL CHART AT WWW.NAVCEN.USCG.GOV/CHART FOR INFORMATION ON\nSPACE LAUNCH AND RECOVERY OPERATIONS (SOLAR).",
-"reason": "Space launch operations for NASA Crew-13",
-"source": {
-"link": "https://www.navcen.uscg.gov/msi",
-"name": "US Coast Guard"
-},
-"updated": "2026-09-29T14:45:28.517Z"
-},
-{
-"areas": [
-[
-[
 30.7167,
 -78.5
 ],
@@ -276662,7 +277196,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=931&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-09-26T03:00:32.631Z"
+"updated": "2026-09-30T16:19:11.441Z"
 },
 {
 "areas": [
@@ -276776,7 +277310,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=951&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-09-29T22:42:01.699Z"
+"updated": "2026-09-30T16:19:03.775Z"
 },
 {
 "areas": [
@@ -278037,6 +278571,258 @@
 "areas": [
 [
 [
+31.63333,
+-77.88333
+],
+[
+31.01667,
+-78.75
+],
+[
+30.38333,
+-79.1
+],
+[
+30.18333,
+-78.91667
+],
+[
+30.65,
+-78.16667
+],
+[
+31.46667,
+-77.71667
+],
+[
+31.63333,
+-77.88333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-02T05:25:00.000Z",
+"start": "2026-10-02T03:43:00.000Z"
+},
+{
+"end": "2026-10-03T05:20:00.000Z",
+"start": "2026-10-03T03:38:00.000Z"
+},
+{
+"end": "2026-10-04T05:16:00.000Z",
+"start": "2026-10-04T03:34:00.000Z"
+},
+{
+"end": "2026-10-05T05:11:00.000Z",
+"start": "2026-10-05T03:29:00.000Z"
+},
+{
+"end": "2026-10-06T05:06:00.000Z",
+"start": "2026-10-06T03:25:00.000Z"
+},
+{
+"end": "2026-10-07T05:02:00.000Z",
+"start": "2026-10-07T03:20:00.000Z"
+},
+{
+"end": "2026-10-08T04:57:00.000Z",
+"start": "2026-10-08T03:16:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-54652",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-18441371-8b2e-457c-afb5-1ec1b11ab630",
+"title": "Crew-13"
+}
+],
+"markers": [],
+"name": "54652",
+"page": "https://space-notices.com/notice/lnm-54652",
+"raw": "Space Operations/Hazardous Warning Area/Government Supported (Hazardous)\n\nFrom: 2026-09-29 To: 2027-03-28\n\nLocation:\n31-37-59.988N/077-52-59.988W\n31-28-00.012N/077-43-00.012W\n30-38-60.000N/078-10-00.012W\n30-10-59.988N/078-55-00.012W\n30-22-59.988N/079-05-60.000W\n31-01-00.012N/078-45-00.000W\n31-37-59.988N/077-52-59.988W\n\n1. SPACE LAUNCH OPERATIONS, WHICH MAY BE HAZARDOUS TO SURFACE VESSELS, WILL\nBE CONDUCTED WITHIN PORTIONS OF THE FOLLOWING HAZARD AREAS FOR NROL-97:\nA. FROM 30-23-00N/079-06-00W\nTO 31-01-00N/078-45-00W\nTO 31-38-00N/077-53-00W\nTO 31-28-00N/077-43-00W\nTO 30-39-00N/078-10-00W\nTO 30-11-00N/078-55-00W TO BEGINNING\nB. FROM 28-39-52N/080-38-17W\nTO 29-04-00N/080-16-00W\nTO 28-57-00N/080-07-00W\nTO 28-28-00N/080-24-00W\nTO 28-28-00N/080-31-47W TO BEGINNING\nC. FROM 37-37-00N/071-37-00W\nTO 40-25-00N/068-00-00W\nTO 39-48-00N/067-08-00W\nTO 36-53-00N/070-42-00W TO BEGINNING\n2. HAZARD PERIODS FOR PRIMARY LAUNCH DAY AND BACKUP LAUNCH DAYS (ALL TIMES\nARE REPRESENTED AS ZULU TIME UNLESS OTHERWISE INDICATED):\n02/0343 OCT 26 TO 02/0525 OCT 26.\n03/0338 OCT 26 TO 03/0520 OCT 26.\n04/0334 OCT 26 TO 04/0516 OCT 26.\n05/0329 OCT 26 TO 05/0511 OCT 26.\n06/0325 OCT 26 TO 06/0506 OCT 26.\n07/0320 OCT 26 TO 07/0502 OCT 26.\n08/0316 OCT 26 TO 08/0457 OCT 26.\n3. THE U.S. COAST GUARD HAS ESTABLISHED A REGULATED NAVIGATION AREA UNDER 33\nCFR 165.775 TO ENCOMPASS THE WATERS BOUND BY THE COORDINATES:\nA. FROM 28-39-15N/080-37-52W\nTO 28-45-00N/080-28-00W\nTO 28-42-59.3N/080-23-59.3W\nTO 28-40-16.7N/080-22-09.6W\nTO 28-37-14.9N/080-20-55.4W\nTO 28-28-00N/080-28-00W\nTO 28-28-00N/080-31-47W, THEN FOLLOWING THE SHORELINE BACK TO THE POINT OF\nORIGIN.\nB. MARINERS ARE ADVISED THAT THE AREA ENCOMPASSED BY THIS ZONE IS CLOSED TO\nALL VESSELS AND PERSONS EXCEPT AS AUTHORIZED BY THE COMMANDER, COAST GUARD\nDISTRICT SOUTHEAST OR THE CAPTAIN OF THE PORT, JACKSONVILLE, FL BEGINNING 45\nMINUTES PRIOR TO THE SCHEDULED LAUNCH WINDOW IN THIS NOTICE UNTIL REOPENED BY\nTHE CAPTAIN OF THE PORT, JACKSONVILLE, FL VIA BROADCAST ON VHF-FM CHANNEL 16\nAND CANCELLATION OF THIS BROADCAST NOTICE TO MARINERS MESSAGE. DETAILED\nLAUNCH INFORMATION IS AVAILABLE ON THE DAY OF LAUNCH BY CONTACTING THE U.S.\nCOAST GUARD VIA VHF-FM CHANNEL 16 AND 81A OR THROUGH THE U.S. SPACE FORCE\nLAUNCH INFORMATION HOTLINE AT 1-800-470-7232.\n4. THE U.S. COAST GUARD WILL ENFORCE THE SECURITY ZONE AS SPECIFIED IN 33 CFR\n165.701 BEGINNING 2 HOURS PRIOR TO THE SCHEDULED LAUNCH WINDOW IN THIS NOTICE\nUNTIL SUSPENDED BY THE CAPTAIN OF THE PORT, JACKSONVILLE, FL VIA BROADCAST ON\nVHF-FM CHANNEL 16 AND CANCELLATION OF THIS BROADCAST NOTICE TO MARINERS\nMESSAGE.\n5. THE U.S. COAST GUARD IS PROVIDING THIS NOTICE TO ADVISE MARINERS OF THESE\nHAZARDOUS AREAS IDENTIFIED BY U.S. SPACE FORCE AND/OR A COMMERCIAL SPACE\nOPERATION, WHICH MAY IMPACT NAVIGATION INTERESTS. NAVIGATION HAZARDS FROM\nROCKET LAUNCH ACTIVITIES MAY INCLUDE FREE FALLING DEBRIS AND/OR DESCENDING\nVEHICLES OR VEHICLE COMPONENTS UNDER VARIOUS MEANS OF CONTROL. MARINERS ARE\nURGED TO AVOID WATERS WITHIN ROCKET FLIGHT TRAJECTORIES/HAZARD AREAS DURING\nLAUNCH WINDOWS AS DETAILED ABOVE.\n6. FOR MORE INFORMATION, MARINERS MAY CONTACT THE U.S. SPACE FORCE LAUNCH\nINFORMATION HOTLINE AT 1-800-470-7232 OR BY VISITING\nWWW.PATRICK.SPACEFORCE.MIL. FOR NAVIGATIONAL SAFETY, MARINERS ARE ADVISED TO\nREFER TO WWW.NAVCEN.USCG.GOV/MSI TO VIEW THE LOCAL NOTICE TO MARINERS (LNM)\nAND THE GEOSPATIAL CHART AT WWW.NAVCEN.USCG.GOV/CHART FOR INFORMATION ON\nSPACE LAUNCH AND RECOVERY OPERATIONS (SOLAR).",
+"reason": "Hazardous operations will be conducted for NROL-97",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-09-30T11:30:27.378Z"
+},
+{
+"areas": [
+[
+[
+29.06667,
+-80.26667
+],
+[
+28.66444,
+-80.63806
+],
+[
+28.46667,
+-80.52972
+],
+[
+28.46667,
+-80.4
+],
+[
+28.95,
+-80.11667
+],
+[
+29.06667,
+-80.26667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-02T05:25:00.000Z",
+"start": "2026-10-02T03:43:00.000Z"
+},
+{
+"end": "2026-10-03T05:20:00.000Z",
+"start": "2026-10-03T03:38:00.000Z"
+},
+{
+"end": "2026-10-04T05:16:00.000Z",
+"start": "2026-10-04T03:34:00.000Z"
+},
+{
+"end": "2026-10-05T05:11:00.000Z",
+"start": "2026-10-05T03:29:00.000Z"
+},
+{
+"end": "2026-10-06T05:06:00.000Z",
+"start": "2026-10-06T03:25:00.000Z"
+},
+{
+"end": "2026-10-07T05:02:00.000Z",
+"start": "2026-10-07T03:20:00.000Z"
+},
+{
+"end": "2026-10-08T04:57:00.000Z",
+"start": "2026-10-08T03:16:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-54654",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-18441371-8b2e-457c-afb5-1ec1b11ab630",
+"title": "Crew-13"
+}
+],
+"markers": [],
+"name": "54654",
+"page": "https://space-notices.com/notice/lnm-54654",
+"raw": "Space Operations/Hazardous Warning Area/Government Supported (Hazardous)\n\nFrom: 2026-09-29 To: 2027-03-28\n\nLocation:\n29-04-00.012N/080-16-00.012W\n28-56-60.000N/080-07-00.012W\n28-28-00.012N/080-24-00.000W\n28-28-00.012N/080-31-46.992W\n28-39-51.984N/080-38-17.016W\n29-04-00.012N/080-16-00.012W\n\n1. SPACE LAUNCH OPERATIONS, WHICH MAY BE HAZARDOUS TO SURFACE VESSELS, WILL\nBE CONDUCTED WITHIN PORTIONS OF THE FOLLOWING HAZARD AREAS FOR NROL-97:\nA. FROM 30-23-00N/079-06-00W\nTO 31-01-00N/078-45-00W\nTO 31-38-00N/077-53-00W\nTO 31-28-00N/077-43-00W\nTO 30-39-00N/078-10-00W\nTO 30-11-00N/078-55-00W TO BEGINNING\nB. FROM 28-39-52N/080-38-17W\nTO 29-04-00N/080-16-00W\nTO 28-57-00N/080-07-00W\nTO 28-28-00N/080-24-00W\nTO 28-28-00N/080-31-47W TO BEGINNING\nC. FROM 37-37-00N/071-37-00W\nTO 40-25-00N/068-00-00W\nTO 39-48-00N/067-08-00W\nTO 36-53-00N/070-42-00W TO BEGINNING\n2. HAZARD PERIODS FOR PRIMARY LAUNCH DAY AND BACKUP LAUNCH DAYS (ALL TIMES\nARE REPRESENTED AS ZULU TIME UNLESS OTHERWISE INDICATED):\n02/0343 OCT 26 TO 02/0525 OCT 26.\n03/0338 OCT 26 TO 03/0520 OCT 26.\n04/0334 OCT 26 TO 04/0516 OCT 26.\n05/0329 OCT 26 TO 05/0511 OCT 26.\n06/0325 OCT 26 TO 06/0506 OCT 26.\n07/0320 OCT 26 TO 07/0502 OCT 26.\n08/0316 OCT 26 TO 08/0457 OCT 26.\n3. THE U.S. COAST GUARD HAS ESTABLISHED A REGULATED NAVIGATION AREA UNDER 33\nCFR 165.775 TO ENCOMPASS THE WATERS BOUND BY THE COORDINATES:\nA. FROM 28-39-15N/080-37-52W\nTO 28-45-00N/080-28-00W\nTO 28-42-59.3N/080-23-59.3W\nTO 28-40-16.7N/080-22-09.6W\nTO 28-37-14.9N/080-20-55.4W\nTO 28-28-00N/080-28-00W\nTO 28-28-00N/080-31-47W, THEN FOLLOWING THE SHORELINE BACK TO THE POINT OF\nORIGIN.\nB. MARINERS ARE ADVISED THAT THE AREA ENCOMPASSED BY THIS ZONE IS CLOSED TO\nALL VESSELS AND PERSONS EXCEPT AS AUTHORIZED BY THE COMMANDER, COAST GUARD\nDISTRICT SOUTHEAST OR THE CAPTAIN OF THE PORT, JACKSONVILLE, FL BEGINNING 45\nMINUTES PRIOR TO THE SCHEDULED LAUNCH WINDOW IN THIS NOTICE UNTIL REOPENED BY\nTHE CAPTAIN OF THE PORT, JACKSONVILLE, FL VIA BROADCAST ON VHF-FM CHANNEL 16\nAND CANCELLATION OF THIS BROADCAST NOTICE TO MARINERS MESSAGE. DETAILED\nLAUNCH INFORMATION IS AVAILABLE ON THE DAY OF LAUNCH BY CONTACTING THE U.S.\nCOAST GUARD VIA VHF-FM CHANNEL 16 AND 81A OR THROUGH THE U.S. SPACE FORCE\nLAUNCH INFORMATION HOTLINE AT 1-800-470-7232.\n4. THE U.S. COAST GUARD WILL ENFORCE THE SECURITY ZONE AS SPECIFIED IN 33 CFR\n165.701 BEGINNING 2 HOURS PRIOR TO THE SCHEDULED LAUNCH WINDOW IN THIS NOTICE\nUNTIL SUSPENDED BY THE CAPTAIN OF THE PORT, JACKSONVILLE, FL VIA BROADCAST ON\nVHF-FM CHANNEL 16 AND CANCELLATION OF THIS BROADCAST NOTICE TO MARINERS\nMESSAGE.\n5. THE U.S. COAST GUARD IS PROVIDING THIS NOTICE TO ADVISE MARINERS OF THESE\nHAZARDOUS AREAS IDENTIFIED BY U.S. SPACE FORCE AND/OR A COMMERCIAL SPACE\nOPERATION, WHICH MAY IMPACT NAVIGATION INTERESTS. NAVIGATION HAZARDS FROM\nROCKET LAUNCH ACTIVITIES MAY INCLUDE FREE FALLING DEBRIS AND/OR DESCENDING\nVEHICLES OR VEHICLE COMPONENTS UNDER VARIOUS MEANS OF CONTROL. MARINERS ARE\nURGED TO AVOID WATERS WITHIN ROCKET FLIGHT TRAJECTORIES/HAZARD AREAS DURING\nLAUNCH WINDOWS AS DETAILED ABOVE.\n6. FOR MORE INFORMATION, MARINERS MAY CONTACT THE U.S. SPACE FORCE LAUNCH\nINFORMATION HOTLINE AT 1-800-470-7232 OR BY VISITING\nWWW.PATRICK.SPACEFORCE.MIL. FOR NAVIGATIONAL SAFETY, MARINERS ARE ADVISED TO\nREFER TO WWW.NAVCEN.USCG.GOV/MSI TO VIEW THE LOCAL NOTICE TO MARINERS (LNM)\nAND THE GEOSPATIAL CHART AT WWW.NAVCEN.USCG.GOV/CHART FOR INFORMATION ON\nSPACE LAUNCH AND RECOVERY OPERATIONS (SOLAR).",
+"reason": "Hazardous operations will be conducted for NROL-97",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-09-30T11:30:39.755Z"
+},
+{
+"areas": [
+[
+[
+28.75,
+-80.46667
+],
+[
+28.65417,
+-80.63111
+],
+[
+28.46667,
+-80.52972
+],
+[
+28.46667,
+-80.46667
+],
+[
+28.62081,
+-80.34872
+],
+[
+28.67131,
+-80.36933
+],
+[
+28.71647,
+-80.39981
+],
+[
+28.75,
+-80.46667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-02T05:25:00.000Z",
+"start": "2026-10-02T03:43:00.000Z"
+},
+{
+"end": "2026-10-03T05:20:00.000Z",
+"start": "2026-10-03T03:38:00.000Z"
+},
+{
+"end": "2026-10-04T05:16:00.000Z",
+"start": "2026-10-04T03:34:00.000Z"
+},
+{
+"end": "2026-10-05T05:11:00.000Z",
+"start": "2026-10-05T03:29:00.000Z"
+},
+{
+"end": "2026-10-06T05:06:00.000Z",
+"start": "2026-10-06T03:25:00.000Z"
+},
+{
+"end": "2026-10-07T05:02:00.000Z",
+"start": "2026-10-07T03:20:00.000Z"
+},
+{
+"end": "2026-10-08T04:57:00.000Z",
+"start": "2026-10-08T03:16:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-54662",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-18441371-8b2e-457c-afb5-1ec1b11ab630",
+"title": "Crew-13"
+}
+],
+"markers": [],
+"name": "54662",
+"page": "https://space-notices.com/notice/lnm-54662",
+"raw": "Space Operations/Active RNA/Government Supported (RNA)\n\nFrom: 2026-09-29 To: 2027-03-28\n\nLocation:\n28-45-00.000N/080-28-00.012W\n28-42-59.292N/080-23-59.316W\n28-40-16.716N/080-22-09.588W\n28-37-14.916N/080-20-55.392W\n28-28-00.012N/080-28-00.012W\n28-28-00.012N/080-31-46.992W\n28-39-15.012N/080-37-51.996W\n28-45-00.000N/080-28-00.012W\n\n1. SPACE LAUNCH OPERATIONS, WHICH MAY BE HAZARDOUS TO SURFACE VESSELS, WILL\nBE CONDUCTED WITHIN PORTIONS OF THE FOLLOWING HAZARD AREAS FOR NROL-97:\nA. FROM 30-23-00N/079-06-00W\nTO 31-01-00N/078-45-00W\nTO 31-38-00N/077-53-00W\nTO 31-28-00N/077-43-00W\nTO 30-39-00N/078-10-00W\nTO 30-11-00N/078-55-00W TO BEGINNING\nB. FROM 28-39-52N/080-38-17W\nTO 29-04-00N/080-16-00W\nTO 28-57-00N/080-07-00W\nTO 28-28-00N/080-24-00W\nTO 28-28-00N/080-31-47W TO BEGINNING\nC. FROM 37-37-00N/071-37-00W\nTO 40-25-00N/068-00-00W\nTO 39-48-00N/067-08-00W\nTO 36-53-00N/070-42-00W TO BEGINNING\n2. HAZARD PERIODS FOR PRIMARY LAUNCH DAY AND BACKUP LAUNCH DAYS (ALL TIMES\nARE REPRESENTED AS ZULU TIME UNLESS OTHERWISE INDICATED):\n02/0343 OCT 26 TO 02/0525 OCT 26.\n03/0338 OCT 26 TO 03/0520 OCT 26.\n04/0334 OCT 26 TO 04/0516 OCT 26.\n05/0329 OCT 26 TO 05/0511 OCT 26.\n06/0325 OCT 26 TO 06/0506 OCT 26.\n07/0320 OCT 26 TO 07/0502 OCT 26.\n08/0316 OCT 26 TO 08/0457 OCT 26.\n3. THE U.S. COAST GUARD HAS ESTABLISHED A REGULATED NAVIGATION AREA UNDER 33\nCFR 165.775 TO ENCOMPASS THE WATERS BOUND BY THE COORDINATES:\nA. FROM 28-39-15N/080-37-52W\nTO 28-45-00N/080-28-00W\nTO 28-42-59.3N/080-23-59.3W\nTO 28-40-16.7N/080-22-09.6W\nTO 28-37-14.9N/080-20-55.4W\nTO 28-28-00N/080-28-00W\nTO 28-28-00N/080-31-47W, THEN FOLLOWING THE SHORELINE BACK TO THE POINT OF\nORIGIN.\nB. MARINERS ARE ADVISED THAT THE AREA ENCOMPASSED BY THIS ZONE IS CLOSED TO\nALL VESSELS AND PERSONS EXCEPT AS AUTHORIZED BY THE COMMANDER, COAST GUARD\nDISTRICT SOUTHEAST OR THE CAPTAIN OF THE PORT, JACKSONVILLE, FL BEGINNING 45\nMINUTES PRIOR TO THE SCHEDULED LAUNCH WINDOW IN THIS NOTICE UNTIL REOPENED BY\nTHE CAPTAIN OF THE PORT, JACKSONVILLE, FL VIA BROADCAST ON VHF-FM CHANNEL 16\nAND CANCELLATION OF THIS BROADCAST NOTICE TO MARINERS MESSAGE. DETAILED\nLAUNCH INFORMATION IS AVAILABLE ON THE DAY OF LAUNCH BY CONTACTING THE U.S.\nCOAST GUARD VIA VHF-FM CHANNEL 16 AND 81A OR THROUGH THE U.S. SPACE FORCE\nLAUNCH INFORMATION HOTLINE AT 1-800-470-7232.\n4. THE U.S. COAST GUARD WILL ENFORCE THE SECURITY ZONE AS SPECIFIED IN 33 CFR\n165.701 BEGINNING 2 HOURS PRIOR TO THE SCHEDULED LAUNCH WINDOW IN THIS NOTICE\nUNTIL SUSPENDED BY THE CAPTAIN OF THE PORT, JACKSONVILLE, FL VIA BROADCAST ON\nVHF-FM CHANNEL 16 AND CANCELLATION OF THIS BROADCAST NOTICE TO MARINERS\nMESSAGE.\n5. THE U.S. COAST GUARD IS PROVIDING THIS NOTICE TO ADVISE MARINERS OF THESE\nHAZARDOUS AREAS IDENTIFIED BY U.S. SPACE FORCE AND/OR A COMMERCIAL SPACE\nOPERATION, WHICH MAY IMPACT NAVIGATION INTERESTS. NAVIGATION HAZARDS FROM\nROCKET LAUNCH ACTIVITIES MAY INCLUDE FREE FALLING DEBRIS AND/OR DESCENDING\nVEHICLES OR VEHICLE COMPONENTS UNDER VARIOUS MEANS OF CONTROL. MARINERS ARE\nURGED TO AVOID WATERS WITHIN ROCKET FLIGHT TRAJECTORIES/HAZARD AREAS DURING\nLAUNCH WINDOWS AS DETAILED ABOVE.\n6. FOR MORE INFORMATION, MARINERS MAY CONTACT THE U.S. SPACE FORCE LAUNCH\nINFORMATION HOTLINE AT 1-800-470-7232 OR BY VISITING\nWWW.PATRICK.SPACEFORCE.MIL. FOR NAVIGATIONAL SAFETY, MARINERS ARE ADVISED TO\nREFER TO WWW.NAVCEN.USCG.GOV/MSI TO VIEW THE LOCAL NOTICE TO MARINERS (LNM)\nAND THE GEOSPATIAL CHART AT WWW.NAVCEN.USCG.GOV/CHART FOR INFORMATION ON\nSPACE LAUNCH AND RECOVERY OPERATIONS (SOLAR).",
+"reason": "Hazardous space launch operations for NROL-97",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-09-30T11:15:29.380Z"
+},
+{
+"areas": [
+[
+[
 28.7401,
 -80.62618
 ],
@@ -278307,7 +279093,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=936&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-09-27T02:17:59.733Z"
+"updated": "2026-09-30T16:42:35.255Z"
 },
 {
 "areas": [
@@ -278435,7 +279221,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=952&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-09-29T22:05:57.707Z"
+"updated": "2026-09-30T16:42:28.879Z"
 },
 {
 "areas": [
@@ -279301,7 +280087,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2828&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-09-29T16:08:59.417Z"
+"updated": "2026-09-30T04:14:14.354Z"
 },
 {
 "areas": [
@@ -281737,7 +282523,7 @@
 "link": "https://www.spacex.com/launches/sdat1a",
 "name": "SpaceX Website"
 },
-"updated": "2026-09-29T16:08:59.417Z"
+"updated": "2026-09-30T15:51:22.903Z"
 },
 {
 "areas": [],
