@@ -1,5 +1,5 @@
 {
-"count": 2782,
+"count": 2784,
 "notices": [
 {
 "areas": [
@@ -280290,6 +280290,100 @@
 "areas": [
 [
 [
+21.4833,
+128.6833
+],
+[
+21.6167,
+129.8833
+],
+[
+18.4833,
+130.2833
+],
+[
+21.4833,
+128.6833
+]
+],
+[
+[
+12.75,
+129.4333
+],
+[
+12.9167,
+131.0667
+],
+[
+8.2333,
+131.5667
+],
+[
+12.75,
+129.4333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-07T04:53:00.000Z",
+"start": "2026-10-07T03:33:00.000Z"
+},
+{
+"end": "2026-10-08T04:53:00.000Z",
+"start": "2026-10-08T03:33:00.000Z"
+},
+{
+"end": "2026-10-09T04:53:00.000Z",
+"start": "2026-10-09T03:33:00.000Z"
+},
+{
+"end": "2026-10-10T04:53:00.000Z",
+"start": "2026-10-10T03:33:00.000Z"
+},
+{
+"end": "2026-10-11T04:53:00.000Z",
+"start": "2026-10-11T03:33:00.000Z"
+},
+{
+"end": "2026-10-12T04:53:00.000Z",
+"start": "2026-10-12T03:33:00.000Z"
+},
+{
+"end": "2026-10-13T04:53:00.000Z",
+"start": "2026-10-13T03:33:00.000Z"
+},
+{
+"end": "2026-10-14T04:53:00.000Z",
+"start": "2026-10-14T03:33:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-KZAK-A4799/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-e0741415-6c63-4236-9736-24a6c04485bc",
+"title": "NeonSat-2 to 6"
+}
+],
+"markers": [],
+"name": "A4799/26",
+"page": "https://space-notices.com/notice/notam-KZAK-A4799%2F26",
+"raw": "A4799/26 NOTAMN\nQ) KZAK/QRALW/IV/NBO/W/000/999/\nA) KZAK\nB) 2610070333\nC) 2610140453\nD) DLY 0333-0453\nE) THE KOREA AEROSPACE RESEARCH INSTITUTE HAS PLANNED A SPACE VEHICLE LAUNCH. DEBRIS FROM THIS LAUNCH WILL FALL WI TWO SEPARATE AREAS. THE FAIRING AREA IS DEFINED AS 212938N 1284123E 213759N 1295350E 182943N 1301736E 182122N 1290634E TO POINT OF ORIGIN. THE SECOND STAGE AREA IS DEFINED AS 124502N 1292602E 125517N 1310459E 081449N 1313413E 080433N 1295646E TO POINT OF ORIGIN. IN THE INTEREST OF SAFETY, ALL NON-PARTICIPATING AIR TRAFFIC ARE ADVISED TO AVOID THE NOTAMED AREA. IFR AIRCRAFT UNDER ATC JURISDICTION SHOULD ANTICIPATE CLEARANCE AROUND THE NOTAMED AREA.\nF) SFC\nG) UNL",
+"reason": "KOREA AEROSPACE RESEARCH INSTITUTE SPACE VEHICLE LAUNCH",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82613227",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-30T10:44:15.862Z"
+},
+{
+"areas": [
+[
+[
 31.6,
 128.4667
 ],
@@ -282500,6 +282594,30 @@
 "name": "SpaceX Website"
 },
 "updated": "2026-09-24T16:10:25.792Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": null,
+"id": "infopage-spacex-sda-t1tl-a",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "SpaceX Mission Page",
+"page": "https://space-notices.com/notice/infopage-spacex-sda-t1tl-a",
+"raw": "SpaceX is targeting Monday, October 5 for a Falcon 9 launch of the Space Development Agency’s (SDA) fourth Tranche 1 data transport mission to low-Earth orbit (LEO) from Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California. Liftoff is targeted for 1:17 a.m. PT, with a backup opportunity available on Tuesday, October 6 at 1:08 a.m. PT, if needed. This is the fourth of nine Tranche 1 missions Falcon 9 will launch on behalf of the SDA.\n\nA live webcast of this mission will begin about 10 minutes prior to liftoff, which you can watch here and on X @SpaceX. \n\nThis will be the sixth flight for the first stage booster supporting this mission, which previously launched \nNROL-179, SDA-T1TL-E, and three Starlink missions. Following stage separation, the first stage will land on Landing Zone 4 (LZ-4) at Vandenberg Space Force Base.\n\n\nThe space vehicles launched during this mission will provide data transport as part of the SDA’s Proliferated Warfighter Space Architecture, a mesh network of optically connected satellites in low-Earth orbit that enable global military tactical communications and missile warning, indication, and tracking capabilities. Falcon 9 will deliver 21 data transport satellites comprising the fourth orbital plane in the SDA’s proliferated LEO architecture.  \n\nThere is the possibility that residents of Santa Barbara, San Luis Obispo, and Ventura counties may hear  one or more sonic booms during the launch, but what residents experience will depend on weather and other conditions.",
+"reason": null,
+"source": {
+"link": "https://www.spacex.com/launches/sda-t1tl-a",
+"name": "SpaceX Website"
+},
+"updated": "2026-09-30T21:46:48.603Z"
 },
 {
 "areas": [],
