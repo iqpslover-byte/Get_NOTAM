@@ -84554,6 +84554,92 @@
 },
 "via": "backfill"
 },
+"https://space-notices.com/notice/nav-warning-HYDROPAC%202862%2F26": {
+"lastmod": "2026-10-01T20:12:40.647Z",
+"notice": {
+"areas": [
+[
+[
+12.75,
+129.4333
+],
+[
+12.9167,
+131.0667
+],
+[
+8.2333,
+131.5667
+],
+[
+8.0667,
+129.9333
+],
+[
+12.75,
+129.4333
+]
+],
+[
+[
+21.4833,
+128.6833
+],
+[
+21.6167,
+129.8833
+],
+[
+18.4833,
+130.2833
+],
+[
+18.35,
+129.1
+],
+[
+21.4833,
+128.6833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-07T04:53:00.000Z",
+"start": "2026-10-07T03:33:00.000Z"
+},
+{
+"end": "2026-10-08T04:43:00.000Z",
+"start": "2026-10-08T03:28:00.000Z"
+},
+{
+"end": "2026-10-14T04:43:00.000Z",
+"start": "2026-10-14T03:28:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2862/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-e0741415-6c63-4236-9736-24a6c04485bc",
+"title": "NeonSat-2 to 6"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2862/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202862%2F26",
+"raw": "021205Z OCT 26\nHYDROPAC 2862/26.\nNORTH PACIFIC.\nPHILIPPINE SEA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   070333Z TO 070453Z OCT, ALTERNATE\n   0328Z TO 0443Z DAILY 08 AND 14 OCT\n   IN AREAS BOUND BY:\n   A. 21-29.63N 128-41.38E, 21-37.99N 129-53.83E,\n      18-29.72N 130-17.60E, 18-21.37N 129-06.56E.\n   B. 12-45.04N 129-26.03E, 12-55.28N 131-04.99E,\n      08-14.81N 131-34.22E, 08-04.55N 129-56.77E.\n2. CANCEL THIS MSG 140543Z OCT 26.\n",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2862&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-10-01T20:12:40.647Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/nav-warning-HYDROPAC%20288%2F22": {
 "lastmod": "",
 "notice": {
@@ -235546,6 +235632,62 @@
 "updated": "2026-09-24T09:11:50.541Z"
 },
 "via": "sitemap"
+},
+"https://space-notices.com/notice/notam-RKRR-D3013%2F26": {
+"lastmod": "2026-10-01T13:24:13.788Z",
+"notice": {
+"areas": [
+[
+[
+30.3167,
+125.3833
+],
+[
+30.7667,
+125.75
+],
+[
+30.7167,
+125.8167
+],
+[
+30.2167,
+125.5333
+],
+[
+30.3167,
+125.3833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-20T14:59:00.000Z",
+"start": "2026-10-09T15:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RKRR-D3013/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "D3013/26",
+"page": "https://space-notices.com/notice/notam-RKRR-D3013%2F26",
+"raw": "D3013/26 NOTAMN  \r\nQ)RKRR/QRDCA/IV/BO/W/000/999/3030N12539E018\r\nA)RKRR B)2610091500 C)2610201459\r\nE)TEMPO DANGER AREA ACT AS FLW DUE TO CHINA SPACE ACTIVITY AREA \r\nBOUNDED BY THE FOLLOWING \r\n301900N1252300E-304600N1254500E-304322N1254921E \r\n301344N1253241E-301900N1252300E  \r\n\r\nRMK : \r\nNOTAM VALID TIME IS BASED ON CHINA AEROSPACE FLIGHT ACTIVITY TENT \r\nSCHEDULE PROVIDED BY THE CAAC. A REPLACEMENT NOTAM WILL BE ISSUED \r\nACCORDINGLY ONCE THE EXACT SCHEDULED IS DISSEMINATED.\r\nF)SFC G)UNL",
+"reason": "CHINA SPACE ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82618214",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-01T13:24:13.788Z"
+},
+"via": "entry"
 },
 "https://space-notices.com/notice/notam-RKRR-Z0219%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
