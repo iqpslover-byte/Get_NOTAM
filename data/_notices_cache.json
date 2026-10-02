@@ -7082,6 +7082,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209106-26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-08T20:55:45.644Z",
 "notice": {
 "areas": [
@@ -9763,6 +9764,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-th-1": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-16T13:36:43.834Z",
 "notice": {
 "areas": [],
@@ -9870,7 +9872,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-spacex-crew13": {
-"lastmod": "2026-09-25T13:27:21.838Z",
+"lastmod": "2026-10-01T23:34:22.132Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -9887,13 +9889,13 @@
 "markers": [],
 "name": "SpaceX Mission Page",
 "page": "https://space-notices.com/notice/infopage-spacex-crew13",
-"raw": "SpaceX and NASA are targeting Thursday, October 1 for Falcon 9’s launch of Dragon’s 13th operational human spaceflight mission (Crew-13) to the International Space Station from Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station in Florida. Launch is targeted for 11:10 a.m. ET, with a backup opportunity available on Friday, October 2 at 10:47 a.m. ET.\n\nSpaceX’s live webcast of this mission will begin about one hour prior to liftoff, which you can watch here and on X @SpaceX. \n\nThe Dragon spacecraft supporting this mission previously flew the Ax-4,\nmission to and from the space station. This will be the third flight for the first stage supporting this mission, which previously launched Crew-12 and one Starlink mission. Following stage separation, Falcon 9’s first stage will land on Landing Zone 40 (LZ-40) at Cape Canaveral Space Force Station.\n\n\nDuring their time on the orbiting laboratory, the crew will conduct new research to prepare for human exploration beyond low-Earth orbit and to benefit humanity on Earth. ",
+"raw": "On Thursday, October 1 at 11:10 a.m. ET, Falcon 9 launched Dragon’s 13th operational human spaceflight mission (Crew-13) to the International Space Station from Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station. Dragon autonomously docked with the space station on Thursday, October 1 at 7:05 p.m. ET. \n\nThe Dragon spacecraft supporting this mission previously flew the Ax-4,\nmission to and from the space station. This was the third flight for the first stage supporting this mission, which previously launched Crew-12 and one Starlink mission. Following stage separation, Falcon 9’s first stage landed on Landing Zone 40 (LZ-40) at Cape Canaveral Space Force Station.\n\nDuring their time on the orbiting laboratory, the crew will conduct new research to prepare for human exploration beyond low-Earth orbit and to benefit humanity on Earth. ",
 "reason": null,
 "source": {
 "link": "https://www.spacex.com/launches/crew13",
 "name": "SpaceX Website"
 },
-"updated": "2026-09-25T13:27:21.838Z"
+"updated": "2026-10-01T23:34:22.132Z"
 },
 "via": "sitemap"
 },
@@ -9955,7 +9957,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-spacex-sda-t1tl-a": {
-"lastmod": "2026-09-30T21:46:48.603Z",
+"lastmod": "2026-10-01T17:11:23.634Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -9978,9 +9980,9 @@
 "link": "https://www.spacex.com/launches/sda-t1tl-a",
 "name": "SpaceX Website"
 },
-"updated": "2026-09-30T21:46:48.603Z"
+"updated": "2026-10-01T17:11:23.634Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-spacex-sdat1a": {
 "lastmod": "2026-09-30T15:51:22.903Z",
@@ -10263,7 +10265,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-spacex-transporter18": {
-"lastmod": "2026-09-25T00:40:23.593Z",
+"lastmod": "2026-10-01T21:07:22.836Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -10280,13 +10282,13 @@
 "markers": [],
 "name": "SpaceX Mission Page",
 "page": "https://space-notices.com/notice/infopage-spacex-transporter18",
-"raw": "SpaceX is targeting Thursday, October 1 for Falcon 9’s launch of the Transporter-18 mission to low-Earth orbit from Space Launch Complex 4E (SLC-4E) at Vandenberg Space Force Base in California. The 58-minute launch window opens at 11:18 a.m. PT. If needed, there is a backup opportunity on Friday, October 2 at the same time.\n\nA live webcast of this mission will begin about 15 minutes prior to liftoff, which you can watch here and on X @SpaceX. \n\nThis will be the 25th flight for the first stage booster supporting this mission, which previously launched USSF-62, OneWeb Launch 20, NROL-145, and 21 Starlink missions. Following stage separation, the first stage will land on Landing Zone 4 (LZ-4) at Vandenberg Space Force Base.\n\nTransporter-18 is a dedicated smallsat rideshare mission. There are 130 payloads on this flight, including cubesats, microsats, hosted payloads, and two spacecraft with reentry vehicles and four orbital transfer vehicles carrying 41 of those payloads to be deployed at a later time. To date, SpaceX has launched more than 1,800 payloads to orbit across our entire Rideshare program.\n\nThere is the possibility that residents of Santa Barbara, San Luis Obispo, and Ventura counties may hear  one or more sonic booms during the launch, but what residents experience will depend on weather and other conditions.",
+"raw": "On Thursday, October 1 at 11:32 a.m. PT, Falcon 9 launched the Transporter-18 mission to low-Earth orbit from Space Launch Complex 4E (SLC-4E) at Vandenberg Space Force Base in California.\n\nThis was the 25th flight for the first stage booster supporting this mission, which previously launched NROL-126, Transporter-12, SPHEREx, NROL-57, USSF-366, and 14 Starlink missions. Following stage separation, the first stage landed on Landing Zone 4 (LZ-4) at Vandenberg Space Force Base.\n\nTransporter-18 was a dedicated smallsat rideshare mission. There were 130 payloads on this flight, including cubesats, microsats, hosted payloads, and two spacecraft with reentry vehicles and four orbital transfer vehicles carrying 41 of those payloads to be deployed at a later time. To date, SpaceX has launched more than 1,800 payloads to orbit across our entire Rideshare program.\n\nThere was a possibility that residents of Santa Barbara, San Luis Obispo, and Ventura counties heard  one or more sonic booms during the launch, but what residents experienced depended on weather and other conditions.",
 "reason": null,
 "source": {
 "link": "https://www.spacex.com/launches/transporter18",
 "name": "SpaceX Website"
 },
-"updated": "2026-09-25T00:40:23.593Z"
+"updated": "2026-10-01T21:07:22.836Z"
 },
 "via": "sitemap"
 },
@@ -10320,6 +10322,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-spacex-ussf259": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-17T05:29:29.479Z",
 "notice": {
 "areas": [],
@@ -13912,6 +13915,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-53260": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-08T20:48:06.513Z",
 "notice": {
 "areas": [
@@ -16281,6 +16285,150 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/lnm-54929": {
+"lastmod": "2026-10-01T17:36:26.991Z",
+"notice": {
+"areas": [
+[
+[
+33.783333,
+-119.25
+],
+[
+33.75,
+-119.3
+],
+[
+33.6,
+-119.3
+],
+[
+33.55,
+-119.233333
+],
+[
+33.55,
+-119.116667
+],
+[
+33.616667,
+-119.033333
+],
+[
+33.75,
+-119.033333
+],
+[
+33.783333,
+-119.083333
+],
+[
+33.783333,
+-119.25
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-19T19:05:00.000Z",
+"start": "2026-10-05T16:35:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-54929",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "54929",
+"page": "https://space-notices.com/notice/lnm-54929",
+"raw": "Los Angeles Reentry Splashdown site\nHazardous operations for NASA Crew-12 Reentry, including splashdown in the Pacific Ocean, will occur between 05 OCT 2026, 16:35 UTC and 19 OCT 2026, 19:05 UTC. Hazardous operation areas are bounded by the following coordinates:\n\nHazard area:\n33.783333N, -119.25W\n33.75N, -119.3W\n33.6N, -119.3W\n33.55N, -119.233333W\n33.55N, -119.116667W\n33.616667N, -119.033333W\n33.75N, -119.033333W\n33.783333N, -119.083333W\n33.783333N, -119.25W\n\nMariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16.\n",
+"reason": "Hazardous operations for NASA Crew-12 Reentry",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-10-01T17:36:26.991Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/lnm-54930": {
+"lastmod": "2026-10-01T17:36:26.991Z",
+"notice": {
+"areas": [
+[
+[
+33.116667,
+-117.833333
+],
+[
+33.083333,
+-117.9
+],
+[
+32.933333,
+-117.9
+],
+[
+32.883333,
+-117.833333
+],
+[
+32.883333,
+-117.716667
+],
+[
+32.95,
+-117.633333
+],
+[
+33.083333,
+-117.633333
+],
+[
+33.116667,
+-117.683333
+],
+[
+33.116667,
+-117.833333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-19T19:05:00.000Z",
+"start": "2026-10-05T16:25:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-54930",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "54930",
+"page": "https://space-notices.com/notice/lnm-54930",
+"raw": "Hazardous operations for NASA Crew-12 Reentry, including splashdown in the Pacific Ocean, will occur between 05 OCT 2026, 16:25 UTC and 19 OCT 2026 19:05 UTC. Hazardous operation areas are bounded by the following coordinates:\n\nHazard Area:\n33.116667N, -117.833333W\n33.083333N, -117.9W\n32.933333N, -117.9W\n32.883333N, -117.833333W\n32.883333N, -117.716667W\n32.95N, -117.633333W\n33.083333N, -117.633333W\n33.116667N, -117.683333W\n33.116667N, -117.833333W\nMariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16.",
+"reason": "Hazardous operations for NASA Crew-12 Reentry",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-10-01T17:36:26.991Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/nav-warning-HYDROARC%2010%2F24": {
 "lastmod": "",
 "notice": {
@@ -18042,6 +18190,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROARC%20161%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-08-12T20:16:13.838Z",
 "notice": {
 "areas": [
@@ -18435,6 +18584,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROARC%20168%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-08-12T20:16:05.805Z",
 "notice": {
 "areas": [
@@ -18871,6 +19021,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROARC%20176%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-08-19T01:00:29.952Z",
 "notice": {
 "areas": [
@@ -19031,6 +19182,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROARC%20178%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-08-20T00:48:02.093Z",
 "notice": {
 "areas": [
@@ -30117,6 +30269,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROLANT%201608%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-08-19T04:00:25.708Z",
 "notice": {
 "areas": [
@@ -69416,6 +69569,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%202289%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-08-10T08:19:50.095Z",
 "notice": {
 "areas": [
@@ -77358,6 +77512,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%202626%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-11T07:00:23.358Z",
 "notice": {
 "areas": [
@@ -77719,6 +77874,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%202636%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-12T06:56:21.563Z",
 "notice": {
 "areas": [
@@ -78379,6 +78535,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%202662%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-15T07:23:04.908Z",
 "notice": {
 "areas": [
@@ -204087,6 +204244,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20540%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-08-10T05:48:04.150Z",
 "notice": {
 "areas": [
@@ -206209,6 +206367,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20625%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-11T07:16:01.952Z",
 "notice": {
 "areas": [
@@ -213708,6 +213867,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-KZAK-A3945%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-08-11T15:55:06.767Z",
 "notice": {
 "areas": [
@@ -214035,7 +214195,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-KZAK-A4799%2F26": {
-"lastmod": "2026-09-30T10:44:15.862Z",
+"lastmod": "2026-10-01T20:12:40.608Z",
 "notice": {
 "areas": [
 [
@@ -214128,9 +214288,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82613227",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-30T10:44:15.862Z"
+"updated": "2026-10-01T20:12:40.608Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-KZMA-A3035%2F22": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -217129,6 +217289,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-MMFO-B1827%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-11T18:40:34.829Z",
 "notice": {
 "areas": [
@@ -222836,6 +222997,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-MMFR-B1825%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-11T17:52:44.245Z",
 "notice": {
 "areas": [
@@ -229277,6 +229439,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1207%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-09T20:28:53.571Z",
 "notice": {
 "areas": [
@@ -229337,6 +229500,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1218%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-11T13:38:06.895Z",
 "notice": {
 "areas": [
@@ -229477,6 +229641,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1234%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-16T03:54:06.130Z",
 "notice": {
 "areas": [
@@ -230946,6 +231111,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NZZO-B4155%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-08-20T04:57:06.349Z",
 "notice": {
 "areas": [
@@ -231014,6 +231180,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NZZO-B4157%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-08-20T05:01:14.650Z",
 "notice": {
 "areas": [
@@ -231676,6 +231843,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NZZO-B4541%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-10T20:30:30.446Z",
 "notice": {
 "areas": [
@@ -231732,6 +231900,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NZZO-B4580%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-14T01:38:54.288Z",
 "notice": {
 "areas": [
@@ -231788,6 +231957,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NZZO-B4600%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-16T01:02:30.918Z",
 "notice": {
 "areas": [
@@ -235209,6 +235379,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RJJJ-Q2270%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-24T09:11:50.541Z",
 "notice": {
 "areas": [
@@ -238570,6 +238741,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SCIZ-W2943%2F26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-09T17:04:06.861Z",
 "notice": {
 "areas": [
@@ -265339,6 +265511,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F173-26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-14T14:40:05.024Z",
 "notice": {
 "areas": [
@@ -265395,6 +265568,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F174-26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-14T14:40:18.885Z",
 "notice": {
 "areas": [
@@ -265459,6 +265633,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F175-26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-14T14:46:00.641Z",
 "notice": {
 "areas": [
@@ -265515,6 +265690,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F176-26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-14T14:52:00.426Z",
 "notice": {
 "areas": [
@@ -265579,6 +265755,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F209-26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-16T01:20:58.069Z",
 "notice": {
 "areas": [
@@ -265643,6 +265820,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F210-26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-16T01:20:48.794Z",
 "notice": {
 "areas": [
@@ -265699,6 +265877,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F212-26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-16T10:00:26.063Z",
 "notice": {
 "areas": [
@@ -265763,6 +265942,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F213-26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-16T10:06:24.430Z",
 "notice": {
 "areas": [
@@ -265819,6 +265999,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F221-26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-16T16:42:24.783Z",
 "notice": {
 "areas": [
@@ -265883,6 +266064,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F222-26": {
+"gone": "2026-10-02",
 "lastmod": "2026-09-16T16:48:24.537Z",
 "notice": {
 "areas": [
