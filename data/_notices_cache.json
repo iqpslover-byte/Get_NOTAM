@@ -224211,6 +224211,118 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-MMFR-B2350%2F26": {
+"lastmod": "2026-09-28T21:33:34.824Z",
+"notice": {
+"areas": [
+[
+[
+28.1833,
+-117.3333
+],
+[
+28.8333,
+-117.8167
+],
+[
+29.0333,
+-117.9833
+],
+[
+29.25,
+-118.0333
+],
+[
+29.4,
+-118.1333
+],
+[
+29.5833,
+-118.2
+],
+[
+31.5833,
+-119.15
+],
+[
+31.7667,
+-118.7667
+],
+[
+29.8,
+-117.65
+],
+[
+29.6,
+-117.2667
+],
+[
+28.8333,
+-117.3167
+],
+[
+28.2,
+-117.3167
+],
+[
+28.1833,
+-117.3333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-11T03:43:00.000Z",
+"start": "2026-10-10T23:00:00.000Z"
+},
+{
+"end": "2026-10-12T03:43:00.000Z",
+"start": "2026-10-11T23:00:00.000Z"
+},
+{
+"end": "2026-10-13T03:43:00.000Z",
+"start": "2026-10-12T23:00:00.000Z"
+},
+{
+"end": "2026-10-14T03:43:00.000Z",
+"start": "2026-10-13T23:00:00.000Z"
+},
+{
+"end": "2026-10-15T03:43:00.000Z",
+"start": "2026-10-14T23:00:00.000Z"
+},
+{
+"end": "2026-10-16T03:43:00.000Z",
+"start": "2026-10-15T23:00:00.000Z"
+},
+{
+"end": "2026-10-17T03:43:00.000Z",
+"start": "2026-10-16T23:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MMFR-B2350/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-97c6f5e1-299e-4652-b72d-9618ac047076",
+"title": "Starlink Group 15-25"
+}
+],
+"markers": [],
+"name": "B2350/26",
+"page": "https://space-notices.com/notice/notam-MMFR-B2350%2F26",
+"raw": "B2350/26 NOTAMN\r\r\nQ) MMFR/QRDCA/IV/BO/W/000/999/\r\r\nA) MMFR\r\r\nB) 2610102300\r\r\nC) 2610170343\r\r\nD) DLY 2300-0343\r\r\nE) DANGEROUS AREA FOR REENTRY OF ROCKET SPACEX 15-25 STAGE 1 \r\r\n   LATERAL LIMIT AREA FORMED BY THE UNION OF THE FLW POINTS:\r\r\n   2811N 11720W\r\r\n   2850N 11749W\r\r\n   2902N 11759W\r\r\n   2915N 11802W\r\r\n   2924N 11808W\r\r\n   2935N 11812W\r\r\n   3135N 11909W\r\r\n   3146N 11846W\r\r\n   2948N 11739W\r\r\n   2936N 11716W\r\r\n   2850N 11719W\r\r\n   2812N 11719W\r\r\n   2811N 11720W\r\r\n   (MMFR)\r\r\nF) SFC\r\r\nG) UNL",
+"reason": "DANGEROUS AREA FOR REENTRY OF ROCKET SPACEX 15-25 STAGE 1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82625734",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-28T21:33:34.824Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/notam-MTEG-A0046%2F26": {
 "lastmod": "2026-09-26T14:10:06.294Z",
 "notice": {
@@ -239778,6 +239890,102 @@
 "updated": "2026-09-26T18:53:41.902Z"
 },
 "via": "sitemap"
+},
+"https://space-notices.com/notice/notam-SCIZ-W3342%2F26": {
+"lastmod": "2026-09-28T21:33:34.824Z",
+"notice": {
+"areas": [
+[
+[
+-30.0,
+-121.8833
+],
+[
+-30.0,
+-120.0
+],
+[
+-28.7167,
+-120.0
+],
+[
+-38.35,
+-115.0667
+],
+[
+-49.15,
+-107.3667
+],
+[
+-59.15,
+-95.5667
+],
+[
+-59.9667,
+-99.0833
+],
+[
+-44.5667,
+-114.2167
+],
+[
+-30.0,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-11T05:25:00.000Z",
+"start": "2026-10-11T00:47:00.000Z"
+},
+{
+"end": "2026-10-12T05:25:00.000Z",
+"start": "2026-10-12T00:47:00.000Z"
+},
+{
+"end": "2026-10-13T05:25:00.000Z",
+"start": "2026-10-13T00:47:00.000Z"
+},
+{
+"end": "2026-10-14T05:25:00.000Z",
+"start": "2026-10-14T00:47:00.000Z"
+},
+{
+"end": "2026-10-15T05:25:00.000Z",
+"start": "2026-10-15T00:47:00.000Z"
+},
+{
+"end": "2026-10-16T05:25:00.000Z",
+"start": "2026-10-16T00:47:00.000Z"
+},
+{
+"end": "2026-10-17T05:25:00.000Z",
+"start": "2026-10-17T00:47:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-SCIZ-W3342/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-97c6f5e1-299e-4652-b72d-9618ac047076",
+"title": "Starlink Group 15-25"
+}
+],
+"markers": [],
+"name": "W3342/26",
+"page": "https://space-notices.com/notice/notam-SCIZ-W3342%2F26",
+"raw": "W3342/26 NOTAMN \r\nQ)SCIZ/QXXXX/IV/NBO/W/000/999/4501S11153W980\r\nA)SCIZ B)2610110047 C)2610170525\r\nD)DLY BTN 0047-0525\r\nE)ZONE...D... IN WATERS PACIFIC OCEAN DUE TO SPACE VEHICLE RE-ENTRY\r\nAND SPLASHDOWN ACTIVITY. THE AFECCTED AREA IS BOUNDED BY NXT GEO\r\nCOORD:\r\n300000S/1215300W\r\n300000S/1200000W\r\n284300S/1200000W\r\n382100S/1150400W\r\n490900S/1072200W\r\n590900S/0953400W\r\n595800S/0990500W\r\n443400S/1141300W\r\n300000S/1215300W\r\nINSTRUCTIONS: SANTIAGO OCEANIC CONTROL 10024KHZ FANS 1A EQUIPPED\r\nINFO PROVIDED BY SPACE X\r\nF)GND G)UNL",
+"reason": "SPACE VEHICLE RE-ENTRY AND SPLASHDOWN ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82624637",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-28T21:33:34.824Z"
+},
+"via": "entry"
 },
 "https://space-notices.com/notice/notam-SMPM-A0368%2F26": {
 "lastmod": "2026-09-27T19:52:14.739Z",
