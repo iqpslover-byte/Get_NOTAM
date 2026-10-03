@@ -1,6 +1,6 @@
 {
-"count": 343,
-"generated_utc": "2026-10-03T20:13:25Z",
+"count": 344,
+"generated_utc": "2026-10-03T23:20:44Z",
 "notices": [
 {
 "areas": [
@@ -28689,6 +28689,59 @@
 "updated": "2026-09-25T21:20:36.673Z"
 },
 {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-05T09:11:00.000Z",
+"start": "2026-10-05T08:06:00.000Z"
+},
+{
+"end": "2026-10-06T09:04:00.000Z",
+"start": "2026-10-06T07:59:00.000Z"
+},
+{
+"end": "2026-10-07T08:56:00.000Z",
+"start": "2026-10-07T07:51:00.000Z"
+},
+{
+"end": "2026-10-08T08:49:00.000Z",
+"start": "2026-10-08T07:44:00.000Z"
+},
+{
+"end": "2026-10-09T08:41:00.000Z",
+"start": "2026-10-09T07:36:00.000Z"
+},
+{
+"end": "2026-10-10T08:34:00.000Z",
+"start": "2026-10-10T07:29:00.000Z"
+},
+{
+"end": "2026-10-11T08:26:00.000Z",
+"start": "2026-10-11T07:21:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-cadenaois-advisory-2771",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "Cadena OIS Advisory 2771",
+"page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2771",
+"raw": "Primary Launch Day\t05 OCT\t0806Z-0911Z\nBackup Launch Day\t06 OCT\t0759Z-0904Z\nBackup Launch Day\t07 OCT\t0751Z-0856Z\nBackup Launch Day\t08 OCT\t0744Z-0849Z\nBackup Launch Day\t09 OCT\t0736Z-0841Z\nBackup Launch Day\t10 OCT\t0729Z-0834Z\nBackup Launch Day\t11 OCT\t0721Z-0826Z\n",
+"reason": "SpaceX SDA-T1A",
+"source": {
+"link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
+"name": "Cadena OIS"
+},
+"updated": "2026-10-02T17:31:52.796Z"
+},
+{
 "areas": [
 [
 [
@@ -33247,5 +33300,5 @@
 "pending": 0,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 2878
+"total_known": 2879
 }
