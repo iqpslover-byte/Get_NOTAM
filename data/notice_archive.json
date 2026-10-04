@@ -1,5 +1,5 @@
 {
-"count": 2807,
+"count": 2809,
 "notices": [
 {
 "areas": [
@@ -273031,6 +273031,126 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-03T10:08:45.638Z"
+},
+{
+"areas": [
+[
+[
+31.75,
+-120.1
+],
+[
+31.8167,
+-120.0333
+],
+[
+31.2333,
+-119.9167
+],
+[
+31.1833,
+-120.0167
+],
+[
+31.75,
+-120.1
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-06T08:45:00.000Z",
+"start": "2026-10-06T07:59:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/017-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "10/017",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F017-26",
+"raw": "!CARF 10/017 ZLA AIRSPACE DCC SX SDA-T1A 26-64 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 314500N1200600W TO 314900N1200200W TO 311400N1195500W TO 311100N1200100W TO POINT OF ORIGIN SFC-UNL 2610060759-2610060845",
+"reason": "SX SDA-T1A 26-64",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82635605",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-03T22:12:53.796Z"
+},
+{
+"areas": [
+[
+[
+32.2667,
+-120.2
+],
+[
+33.3833,
+-120.4
+],
+[
+34.5333,
+-120.65
+],
+[
+34.6333,
+-120.6333
+],
+[
+34.65,
+-120.6
+],
+[
+34.6,
+-120.5167
+],
+[
+33.3667,
+-120.3167
+],
+[
+32.3167,
+-120.1167
+],
+[
+32.2667,
+-120.2
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-06T08:45:00.000Z",
+"start": "2026-10-06T07:59:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/019-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "10/019",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F019-26",
+"raw": "!CARF 10/019 ZLA AIRSPACE DCC SX SDA-T1A 26-64 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 321600N1201200W TO 332300N1202400W TO 343200N1203900W TO 343800N1203800W TO 343900N1203600W TO 343600N1203100W TO 332200N1201900W TO 321900N1200700W TO POINT OF ORIGIN SFC-UNL 2610060759-2610060845",
+"reason": "SX SDA-T1A 26-64",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82635603",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-03T22:12:53.796Z"
 },
 {
 "areas": [],
