@@ -1,237 +1,7 @@
 {
-"count": 344,
-"generated_utc": "2026-10-03T23:20:44Z",
+"count": 374,
+"generated_utc": "2026-10-04T02:53:31Z",
 "notices": [
-{
-"areas": [
-[
-[
-13.84696,
-80.2167
-],
-[
-13.84445,
-80.24287
-],
-[
-13.83704,
-80.26804
-],
-[
-13.82499,
-80.29123
-],
-[
-13.80879,
-80.31155
-],
-[
-13.78904,
-80.32822
-],
-[
-13.76652,
-80.3406
-],
-[
-13.74208,
-80.34822
-],
-[
-13.71666,
-80.35078
-],
-[
-13.69125,
-80.34819
-],
-[
-13.66682,
-80.34055
-],
-[
-13.64431,
-80.32815
-],
-[
-13.62458,
-80.31147
-],
-[
-13.60838,
-80.29116
-],
-[
-13.59635,
-80.26798
-],
-[
-13.58894,
-80.24284
-],
-[
-13.58644,
-80.2167
-],
-[
-13.58894,
-80.19056
-],
-[
-13.59635,
-80.16542
-],
-[
-13.60838,
-80.14224
-],
-[
-13.62458,
-80.12193
-],
-[
-13.64431,
-80.10525
-],
-[
-13.66682,
-80.09285
-],
-[
-13.69125,
-80.08521
-],
-[
-13.71666,
-80.08262
-],
-[
-13.74208,
-80.08518
-],
-[
-13.76652,
-80.0928
-],
-[
-13.78904,
-80.10518
-],
-[
-13.80879,
-80.12185
-],
-[
-13.82499,
-80.14217
-],
-[
-13.83704,
-80.16536
-],
-[
-13.84445,
-80.19053
-],
-[
-13.84696,
-80.2167
-]
-],
-[
-[
-12.0,
-84.75
-],
-[
-12.75,
-85.0
-],
-[
-12.3333,
-86.3333
-],
-[
-11.5833,
-86.0833
-],
-[
-12.0,
-84.75
-]
-],
-[
-[
-10.9167,
-87.8333
-],
-[
-11.9167,
-88.0
-],
-[
-11.0833,
-90.5
-],
-[
-10.0833,
-90.3333
-],
-[
-10.9167,
-87.8333
-]
-],
-[
-[
-7.8333,
-95.1667
-],
-[
-9.5833,
-95.1667
-],
-[
-9.5833,
-96.0833
-],
-[
-7.8333,
-96.0833
-],
-[
-7.8333,
-95.1667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-04T01:00:00.000Z",
-"start": "2026-09-03T21:00:00.000Z"
-}
-],
-"height": null,
-"id": "nav-warning-HYDROPAC 2498/26",
-"kind": "NAVWARNING",
-"launches": [
-{
-"id": "launch-17d0ec68-f466-4916-9dc5-16123eda6484",
-"title": "GISAT-1A (EOS-05)"
-}
-],
-"markers": [],
-"name": "HYDROPAC 2498/26",
-"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202498%2F26",
-"raw": "011150Z SEP 26\nHYDROPAC 2498/26.\nANDAMAN SEA.\nINDIA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   032100Z TO 040100Z SEP\n   A. IN AREAS BOUND BY:\n      A. 12-00.00N 084-45.00E, 12-45.00N 085-00.00E,\n         12-20.00N 086-20.00E, 11-35.00N 086-05.00E.\n      B. 10-55.00N 087-50.00E, 11-55.00N 088-00.00E,\n         11-05.00N 090-30.00E, 10-05.00N 090-20.00E.\n      C. 07-50.00N 095-10.00E, 09-35.00N 095-10.00E,\n         09-35.00N 096-05.00E, 07-50.00N 096-05.00E.\n   B. IN AREA WITHIN TEN MILES OF 13-43.20N 080-13.80E.\n2. CANCEL THIS MSG 040200Z SEP 26.\n",
-"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
-"source": {
-"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2498&createdOn=26&category=14&output=html",
-"name": "US National Geospatial-Intelligence Agency"
-},
-"updated": ""
-},
 {
 "areas": [
 [
@@ -4306,278 +4076,6 @@
 "areas": [
 [
 [
--39.1,
-177.6
-],
-[
--39.1,
-177.9
-],
-[
--38.9833,
-178.2167
-],
-[
--38.9,
-178.9
-],
-[
--39.5,
-178.9
-],
-[
--39.6,
-177.75
-],
-[
--39.2,
-177.4
-],
-[
--39.1,
-177.6
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-19T05:05:00.000Z",
-"start": "2026-09-19T02:45:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-NZZC-B4624/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-f4c720ce-0cfd-43e6-b8dd-00273073bc01",
-"title": "Owl By The Dozen (StriX Launch 12)"
-}
-],
-"markers": [],
-"name": "B4624/26",
-"page": "https://space-notices.com/notice/notam-NZZC-B4624%2F26",
-"raw": "B4624/26 NOTAMN\r\nQ) NZZC/QRDCA/IV/BO /W /000/999/3912S17812E038\r\nA) NZZC B) 2609190245 C) 2609190505\r\nE) TEMPO DANGER AREA NZD097 (MAHIA EAST CAPE) IS PRESCRIBED AS FLW:\r\nEXCLUDING THAT AREA CO-INCIDENT WITH NZR401, ALL THAT AIRSPACE \r\nBOUNDED BY A LINE JOINING:\r\n39 06 00.00 S 177 36 32.80 E\r\n39 06 00.00 S 177 54 00.00 E\r\n38 59 00.20 S 178 13 59.90 E\r\n38 54 00.00 S 178 54 00.00 E\r\n39 30 00.00 S 178 54 00.00 E\r\n39 36 00.00 S 177 45 00.00 E\r\n39 12 00.00 S 177 24 00.00 E\r\n39 06 00.00 S 177 36 32.80 E\r\nACTIVITY: ROCKET LAUNCH\r\nUSING AGENCY: ROCKET LAB LIMITED, RANGE CONTROL CENTRE, \r\nTEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED \r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
-"reason": "ROCKET LAUNCH",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82462914",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-17T20:39:03.048Z"
-},
-{
-"areas": [
-[
-[
--37.85,
--178.3
-],
-[
--37.0,
--172.7
-],
-[
--38.9,
--172.1
-],
-[
--39.7,
--177.8
-],
-[
--37.85,
--178.3
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-19T05:05:00.000Z",
-"start": "2026-09-19T02:45:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-NZZO-B4625/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-f4c720ce-0cfd-43e6-b8dd-00273073bc01",
-"title": "Owl By The Dozen (StriX Launch 12)"
-}
-],
-"markers": [],
-"name": "B4625/26",
-"page": "https://space-notices.com/notice/notam-NZZO-B4625%2F26",
-"raw": "B4625/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3825S17513W152\r\nA) NZZO B) 2609190245 C) 2609190505\r\nE) TEMPO DANGER AREA NZD098 (AUCKLAND OCEANIC FIR) IS PRESCRIBED AS \r\nFLW: ALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n37 51 00.00 S 178 18 00.00 W\r\n37 00 00.00 S 172 42 00.00 W\r\n38 54 00.00 S 172 06 00.00 W\r\n39 42 00.00 S 177 48 00.00 W\r\n37 51 00.00 S 178 18 00.00 W\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED, RANGE CONTROL CENTRE, \r\nTEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED \r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
-"reason": "ROCKET DEBRIS RETURN",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82462956",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-17T20:42:39.055Z"
-},
-{
-"areas": [
-[
-[
--35.75,
--166.95
-],
-[
--34.4,
--160.1
-],
-[
--36.55,
--159.3
-],
-[
--37.9667,
--166.3333
-],
-[
--35.75,
--166.95
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-19T05:05:00.000Z",
-"start": "2026-09-19T02:45:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-NZZO-B4626/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-f4c720ce-0cfd-43e6-b8dd-00273073bc01",
-"title": "Owl By The Dozen (StriX Launch 12)"
-}
-],
-"markers": [],
-"name": "B4626/26",
-"page": "https://space-notices.com/notice/notam-NZZO-B4626%2F26",
-"raw": "B4626/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3613S16309W190\r\nA) NZZO B) 2609190245 C) 2609190505\r\nE) TEMPO DANGER AREA NZD099 (AUCKLAND OCEANIC FIR) IS PRESCRIBED AS \r\nFLW: ALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n35 45 36.00 S 166 57 00.00 W\r\n34 24 00.00 S 160 06 00.00 W\r\n36 33 00.00 S 159 18 00.00 W\r\n37 58 12.00 S 166 20 24.00 W\r\n35 45 36.00 S 166 57 00.00 W\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED, RANGE CONTROL CENTRE, \r\nTEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED \r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
-"reason": "ROCKET DEBRIS RETURN",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82462983",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-17T20:42:47.660Z"
-},
-{
-"areas": [
-[
-[
-33.5667,
-110.5167
-],
-[
-33.5333,
-110.7333
-],
-[
-33.1667,
-110.6833
-],
-[
-33.1833,
-110.45
-],
-[
-33.5667,
-110.5167
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-19T11:06:00.000Z",
-"start": "2026-09-19T10:43:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLHW-A4456/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "A4456/26",
-"page": "https://space-notices.com/notice/notam-ZLHW-A4456%2F26",
-"raw": "A4456/26 NOTAMN\r\nQ)ZXXX/QRDCA/IV/BO/W/000/999/3322N11036E013\r\nA)ZLHW ZHWH B)2609191043 C)2609191106 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN333400E1103100-N333200E1104400-N331000E1104100-N331100E1102700, \r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82391387",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-11T05:17:02.534Z"
-},
-{
-"areas": [
-[
-[
-30.5833,
-109.95
-],
-[
-30.55,
-110.3167
-],
-[
-29.9,
-110.2167
-],
-[
-29.95,
-109.85
-],
-[
-30.5833,
-109.95
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-19T11:11:00.000Z",
-"start": "2026-09-19T10:44:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZHWH-A4457/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-a527b585-f01f-4ecc-9230-711dcef72ef1",
-"title": "Unknown Payload"
-}
-],
-"markers": [],
-"name": "A4457/26",
-"page": "https://space-notices.com/notice/notam-ZHWH-A4457%2F26",
-"raw": "A4457/26 NOTAMN\r\nQ)ZHWH/QRDCA/IV/BO/W/000/999/3015N11005E022\r\nA)ZHWH B)2609191044 C)2609191111 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN303500E1095700-N303300E1101900-N295400E1101300-N295700E1095100, \r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82391386",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-11T05:16:56.029Z"
-},
-{
-"areas": [
-[
-[
 -5.9167,
 -34.5667
 ],
@@ -5128,174 +4626,6 @@
 "areas": [
 [
 [
--39.1,
-177.6
-],
-[
--39.1,
-177.9
-],
-[
--38.9833,
-178.2167
-],
-[
--38.9,
-178.9
-],
-[
--39.5,
-178.9
-],
-[
--39.6,
-177.75
-],
-[
--39.2,
-177.4
-],
-[
--39.1,
-177.6
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-20T04:35:00.000Z",
-"start": "2026-09-20T02:15:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-NZZC-B4627/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-f4c720ce-0cfd-43e6-b8dd-00273073bc01",
-"title": "Owl By The Dozen (StriX Launch 12)"
-}
-],
-"markers": [],
-"name": "B4627/26",
-"page": "https://space-notices.com/notice/notam-NZZC-B4627%2F26",
-"raw": "B4627/26 NOTAMN\r\nQ) NZZC/QRDCA/IV/BO /W /000/999/3912S17812E038\r\nA) NZZC B) 2609200215 C) 2609200435\r\nE) TEMPO DANGER AREA NZD097 (MAHIA EAST CAPE) IS PRESCRIBED AS FLW:\r\nEXCLUDING THAT AREA CO-INCIDENT WITH NZR401, ALL THAT AIRSPACE \r\nBOUNDED BY A LINE JOINING:\r\n39 06 00.00 S 177 36 32.80 E\r\n39 06 00.00 S 177 54 00.00 E\r\n38 59 00.20 S 178 13 59.90 E\r\n38 54 00.00 S 178 54 00.00 E\r\n39 30 00.00 S 178 54 00.00 E\r\n39 36 00.00 S 177 45 00.00 E\r\n39 12 00.00 S 177 24 00.00 E\r\n39 06 00.00 S 177 36 32.80 E\r\nACTIVITY: ROCKET LAUNCH\r\nUSING AGENCY: ROCKET LAB LIMITED, RANGE CONTROL CENTRE, \r\nTEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED \r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
-"reason": "ROCKET LAUNCH",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82463119",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-17T21:03:03.075Z"
-},
-{
-"areas": [
-[
-[
--37.85,
--178.3
-],
-[
--37.0,
--172.7
-],
-[
--38.9,
--172.1
-],
-[
--39.7,
--177.8
-],
-[
--37.85,
--178.3
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-20T04:35:00.000Z",
-"start": "2026-09-20T02:15:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-NZZO-B4628/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-f4c720ce-0cfd-43e6-b8dd-00273073bc01",
-"title": "Owl By The Dozen (StriX Launch 12)"
-}
-],
-"markers": [],
-"name": "B4628/26",
-"page": "https://space-notices.com/notice/notam-NZZO-B4628%2F26",
-"raw": "B4628/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3825S17513W152\r\nA) NZZO B) 2609200215 C) 2609200435\r\nE) TEMPO DANGER AREA NZD098 (AUCKLAND OCEANIC FIR) IS PRESCRIBED AS \r\nFLW: ALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n37 51 00.00 S 178 18 00.00 W\r\n37 00 00.00 S 172 42 00.00 W\r\n38 54 00.00 S 172 06 00.00 W\r\n39 42 00.00 S 177 48 00.00 W\r\n37 51 00.00 S 178 18 00.00 W\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED, RANGE CONTROL CENTRE, \r\nTEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED \r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
-"reason": "ROCKET DEBRIS RETURN",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82463136",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-17T21:06:48.840Z"
-},
-{
-"areas": [
-[
-[
--35.75,
--166.95
-],
-[
--34.4,
--160.1
-],
-[
--36.55,
--159.3
-],
-[
--37.9667,
--166.3333
-],
-[
--35.75,
--166.95
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-20T04:35:00.000Z",
-"start": "2026-09-20T02:15:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-NZZO-B4629/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-f4c720ce-0cfd-43e6-b8dd-00273073bc01",
-"title": "Owl By The Dozen (StriX Launch 12)"
-}
-],
-"markers": [],
-"name": "B4629/26",
-"page": "https://space-notices.com/notice/notam-NZZO-B4629%2F26",
-"raw": "B4629/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3613S16309W190\r\nA) NZZO B) 2609200215 C) 2609200435\r\nE) TEMPO DANGER AREA NZD099 (AUCKLAND OCEANIC FIR) IS PRESCRIBED AS \r\nFLW: ALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n35 45 36.00 S 166 57 00.00 W\r\n34 24 00.00 S 160 06 00.00 W\r\n36 33 00.00 S 159 18 00.00 W\r\n37 58 12.00 S 166 20 24.00 W\r\n35 45 36.00 S 166 57 00.00 W\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED, RANGE CONTROL CENTRE, TEL +64 28 \r\n255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED \r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
-"reason": "ROCKET DEBRIS RETURN",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82463141",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-17T21:06:58.635Z"
-},
-{
-"areas": [
-[
-[
 29.6167,
 98.0333
 ],
@@ -5621,6 +4951,35 @@
 "updated": "2026-09-17T04:14:20.769Z"
 },
 {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-20T22:00:00.000Z",
+"start": "2026-08-20T10:00:00.000Z"
+}
+],
+"height": "123.1 meters",
+"id": "oeaaa-2026-ASO-16608-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.506526,
+-80.682265
+]
+],
+"name": "2026-ASO-16608-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-16608-OE",
+"raw": null,
+"reason": "Building M Extension",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-16T18:20:52.934Z"
+},
+{
 "areas": [
 [
 [
@@ -5853,6 +5212,35 @@
 "name": "US National Geospatial-Intelligence Agency"
 },
 "updated": ""
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-21T22:00:00.000Z",
+"start": "2026-07-20T10:00:00.000Z"
+}
+],
+"height": "39.6 meters",
+"id": "oeaaa-2026-ASO-13987-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.459314,
+-80.52887
+]
+],
+"name": "2026-ASO-13987-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-13987-OE",
+"raw": null,
+"reason": "Launch Complex 46. tower Demolition",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:48.565Z"
 },
 {
 "areas": [
@@ -24811,7 +24199,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82630345",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-02T17:31:52.796Z"
+"updated": "2026-10-03T10:06:30.641Z"
 },
 {
 "areas": [
@@ -24879,7 +24267,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82630353",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-02T17:31:52.796Z"
+"updated": "2026-10-03T10:08:55.109Z"
 },
 {
 "areas": [
@@ -24935,7 +24323,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82630355",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-02T17:31:52.796Z"
+"updated": "2026-10-03T10:08:45.638Z"
 },
 {
 "areas": [],
@@ -25001,7 +24389,7 @@
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-03T00:23:16.984Z"
+"updated": "2026-10-03T19:34:42.434Z"
 },
 {
 "areas": [
@@ -28392,7 +27780,7 @@
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-03T00:58:41.219Z"
+"updated": "2026-10-03T19:34:43.565Z"
 },
 {
 "areas": [
@@ -28739,7 +28127,7 @@
 "link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
 "name": "Cadena OIS"
 },
-"updated": "2026-10-02T17:31:52.796Z"
+"updated": "2026-10-02T11:02:03.775Z"
 },
 {
 "areas": [
@@ -31211,6 +30599,635 @@
 "updated": "2026-09-29T06:36:51.394Z"
 },
 {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-30T23:00:00.000Z",
+"start": "2026-07-27T10:00:00.000Z"
+}
+],
+"height": "76.2 meters",
+"id": "oeaaa-2026-ASO-14445-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.510839,
+-80.692269
+]
+],
+"name": "2026-ASO-14445-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-14445-OE",
+"raw": null,
+"reason": "Blue Origin MILA Site",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:16:24.683Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-12-02T23:00:00.000Z",
+"start": "2026-03-02T11:00:00.000Z"
+}
+],
+"height": "137.2 meters",
+"id": "oeaaa-2025-ASW-14768-OE",
+"kind": "OEAAA",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.9859,
+-97.187228
+]
+],
+"name": "2025-ASW-14768-OE",
+"page": "https://space-notices.com/notice/oeaaa-2025-ASW-14768-OE",
+"raw": null,
+"reason": "BZI Crane (SpaceX Boca)",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:30:13.216Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-12-31T23:00:00.000Z",
+"start": "2026-10-01T10:00:00.000Z"
+}
+],
+"height": "137.2 meters",
+"id": "oeaaa-2026-ASO-19372-OE",
+"kind": "OEAAA",
+"launches": [
+{
+"id": "collection-cape-canaveral-construction",
+"title": "Cape Canaveral"
+}
+],
+"markers": [
+[
+28.50945,
+-80.679058
+]
+],
+"name": "2026-ASO-19372-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-19372-OE",
+"raw": null,
+"reason": "Crane Bldg S PLF - Erection Crane",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-02T12:50:46.066Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-01-01T23:00:00.000Z",
+"start": "2026-01-01T11:00:00.000Z"
+}
+],
+"height": "85.3 meters",
+"id": "oeaaa-2025-ASW-12868-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+25.9859,
+-97.187228
+]
+],
+"name": "2025-ASW-12868-OE",
+"page": "https://space-notices.com/notice/oeaaa-2025-ASW-12868-OE",
+"raw": null,
+"reason": "BZI Crane (SpaceX Boca)",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-22T22:00:31.501Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-01-23T23:00:00.000Z",
+"start": "2026-01-23T11:00:00.000Z"
+}
+],
+"height": "181.4 meters",
+"id": "oeaaa-2025-ASO-25444-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.534689,
+-80.56818
+]
+],
+"name": "2025-ASO-25444-OE",
+"page": "https://space-notices.com/notice/oeaaa-2025-ASO-25444-OE",
+"raw": null,
+"reason": "LR13000 SLC-37",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:16.450Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-01-23T23:00:00.000Z",
+"start": "2026-01-23T11:00:00.000Z"
+}
+],
+"height": "126.5 meters",
+"id": "oeaaa-2025-ASO-25446-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.534884,
+-80.568042
+]
+],
+"name": "2025-ASO-25446-OE",
+"page": "https://space-notices.com/notice/oeaaa-2025-ASO-25446-OE",
+"raw": null,
+"reason": "LR11000 SLC-37",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:19.304Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-03-31T22:00:00.000Z",
+"start": "2026-04-01T10:00:00.000Z"
+}
+],
+"height": "91.4 meters",
+"id": "oeaaa-2026-ASO-3766-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.431547,
+-80.579725
+]
+],
+"name": "2026-ASO-3766-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-3766-OE",
+"raw": null,
+"reason": "P103 ETF",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:24.503Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-03-31T22:00:00.000Z",
+"start": "2026-04-01T10:00:00.000Z"
+}
+],
+"height": "91.4 meters",
+"id": "oeaaa-2026-ASO-5824-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.432528,
+-80.582419
+]
+],
+"name": "2026-ASO-5824-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-5824-OE",
+"raw": null,
+"reason": "P103 ETF",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:27.255Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-03-31T22:00:00.000Z",
+"start": "2026-04-01T10:00:00.000Z"
+}
+],
+"height": "91.4 meters",
+"id": "oeaaa-2026-ASO-5882-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.434164,
+-80.579133
+]
+],
+"name": "2026-ASO-5882-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-5882-OE",
+"raw": null,
+"reason": "P103 ETF",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:34.915Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-03-31T22:00:00.000Z",
+"start": "2026-04-01T10:00:00.000Z"
+}
+],
+"height": "91.4 meters",
+"id": "oeaaa-2026-ASO-5884-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.434156,
+-80.581267
+]
+],
+"name": "2026-ASO-5884-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-5884-OE",
+"raw": null,
+"reason": "P103 ETF",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:31.299Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-04-30T22:00:00.000Z",
+"start": "2026-06-08T10:00:00.000Z"
+}
+],
+"height": "160 meters",
+"id": "oeaaa-2026-ASO-11256-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.475862,
+-80.564572
+]
+],
+"name": "2026-ASO-11256-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-11256-OE",
+"raw": null,
+"reason": "Vertical Refurb Facility Construction",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:51.661Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-04-30T22:00:00.000Z",
+"start": "2026-04-30T10:00:00.000Z"
+}
+],
+"height": "106.7 meters",
+"id": "oeaaa-2026-ASO-4956-OE",
+"kind": "OEAAA",
+"launches": [
+{
+"id": "collection-cape-canaveral-construction",
+"title": "Cape Canaveral"
+}
+],
+"markers": [
+[
+28.501183,
+-80.676339
+]
+],
+"name": "2026-ASO-4956-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-4956-OE",
+"raw": null,
+"reason": "Blue Origin Horizon",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:45.648Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-08-01T22:00:00.000Z",
+"start": "2026-10-01T10:00:00.000Z"
+}
+],
+"height": "228.6 meters",
+"id": "oeaaa-2026-ASO-15525-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.477398,
+-80.543483
+]
+],
+"name": "2026-ASO-15525-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-15525-OE",
+"raw": null,
+"reason": "SLC-36B 750' Construction Cranes (6)",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-10T16:15:14.301Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-08-01T22:00:00.000Z",
+"start": "2026-10-01T10:00:00.000Z"
+}
+],
+"height": "228.6 meters",
+"id": "oeaaa-2026-ASO-15529-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.477728,
+-80.537581
+]
+],
+"name": "2026-ASO-15529-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-15529-OE",
+"raw": null,
+"reason": "SLC-36B 750' Construction Cranes (6)",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-10T16:15:20.469Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-08-01T22:00:00.000Z",
+"start": "2026-10-01T10:00:00.000Z"
+}
+],
+"height": "228.6 meters",
+"id": "oeaaa-2026-ASO-15535-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.474687,
+-80.537456
+]
+],
+"name": "2026-ASO-15535-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-15535-OE",
+"raw": null,
+"reason": "SLC-36B 750' Construction Cranes (6)",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-10T16:15:28.068Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-08-01T22:00:00.000Z",
+"start": "2026-10-01T10:00:00.000Z"
+}
+],
+"height": "228.6 meters",
+"id": "oeaaa-2026-ASO-15559-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.475089,
+-80.543965
+]
+],
+"name": "2026-ASO-15559-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-15559-OE",
+"raw": null,
+"reason": "SLC-36B 750' Construction Cranes (6)",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-10T16:15:06.333Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-12-31T23:00:00.000Z",
+"start": "2026-06-15T10:00:00.000Z"
+}
+],
+"height": "198.1 meters",
+"id": "oeaaa-2026-ASO-11466-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.46975,
+-80.543658
+]
+],
+"name": "2026-ASO-11466-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-11466-OE",
+"raw": null,
+"reason": "SLC 36 Reconstruction",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:54.554Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-12-31T23:00:00.000Z",
+"start": "2026-10-01T10:00:00.000Z"
+}
+],
+"height": "137.2 meters",
+"id": "oeaaa-2026-ASO-18828-OE",
+"kind": "OEAAA",
+"launches": [
+{
+"id": "collection-cape-canaveral-construction",
+"title": "Cape Canaveral"
+}
+],
+"markers": [
+[
+28.501183,
+-80.676339
+]
+],
+"name": "2026-ASO-18828-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-18828-OE",
+"raw": null,
+"reason": "Blue Origin Horizon",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-25T23:20:46.059Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-12-31T23:00:00.000Z",
+"start": "2026-05-05T10:00:00.000Z"
+}
+],
+"height": "106.7 meters",
+"id": "oeaaa-2026-ASO-7697-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.451472,
+-80.561803
+]
+],
+"name": "2026-ASO-7697-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-7697-OE",
+"raw": null,
+"reason": "Blue Origin CSO-PPF Construction Crane",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:40.100Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2028-03-08T23:00:00.000Z",
+"start": "2026-09-08T10:00:00.000Z"
+}
+],
+"height": "85.3 meters",
+"id": "oeaaa-2026-ASO-14915-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.521564,
+-80.571711
+]
+],
+"name": "2026-ASO-14915-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-14915-OE",
+"raw": null,
+"reason": "SLC-37 SpaceX 275' Crane",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-25T18:45:28.155Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2028-07-03T22:00:00.000Z",
+"start": "2026-07-15T10:00:00.000Z"
+}
+],
+"height": "106.7 meters",
+"id": "oeaaa-2026-ASO-10996-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.451194,
+-80.559019
+]
+],
+"name": "2026-ASO-10996-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-10996-OE",
+"raw": null,
+"reason": "PPF",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:42.933Z"
+},
+{
 "areas": [
 [
 [
@@ -33295,10 +33312,394 @@
 "name": "US National Geospatial-Intelligence Agency"
 },
 "updated": ""
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "116.4 meters",
+"id": "oeaaa-2025-ASW-12237-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+25.986431,
+-97.187542
+]
+],
+"name": "2025-ASW-12237-OE",
+"page": "https://space-notices.com/notice/oeaaa-2025-ASW-12237-OE",
+"raw": null,
+"reason": "Starbase Gigabay",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-22T22:00:24.044Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "145.1 meters",
+"id": "oeaaa-2025-ASW-13942-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+25.997061,
+-97.158061
+]
+],
+"name": "2025-ASW-13942-OE",
+"page": "https://space-notices.com/notice/oeaaa-2025-ASW-13942-OE",
+"raw": null,
+"reason": "Starbase Integration Tower 2",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-22T22:00:36.460Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "147.8 meters",
+"id": "oeaaa-2026-ASO-12842-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.608239,
+-80.601133
+]
+],
+"name": "2026-ASO-12842-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-12842-OE",
+"raw": null,
+"reason": "Launch Tower",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:16:36.728Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "47.2 meters",
+"id": "oeaaa-2026-ASO-15005-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.508817,
+-80.693489
+]
+],
+"name": "2026-ASO-15005-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-15005-OE",
+"raw": null,
+"reason": "MILA Lightning Protection System",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:16:13.567Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "47.2 meters",
+"id": "oeaaa-2026-ASO-15006-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.508669,
+-80.693272
+]
+],
+"name": "2026-ASO-15006-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-15006-OE",
+"raw": null,
+"reason": "MILA Lightning Protection System LP-2",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:16:19.265Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "47.2 meters",
+"id": "oeaaa-2026-ASO-15007-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.508511,
+-80.693472
+]
+],
+"name": "2026-ASO-15007-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-15007-OE",
+"raw": null,
+"reason": "MILA Lightning Protection System LP-3",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:16:16.673Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "47.2 meters",
+"id": "oeaaa-2026-ASO-15008-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.508639,
+-80.693586
+]
+],
+"name": "2026-ASO-15008-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-15008-OE",
+"raw": null,
+"reason": "MILA Lightning Protection System LP-4",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:16:10.910Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "167.6 meters",
+"id": "oeaaa-2026-ASO-15013-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.466042,
+-80.542025
+]
+],
+"name": "2026-ASO-15013-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-15013-OE",
+"raw": null,
+"reason": "SLC-36A Operational Crane",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:16:42.238Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "217.9 meters",
+"id": "oeaaa-2026-ASO-15270-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.476383,
+-80.53789
+]
+],
+"name": "2026-ASO-15270-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-15270-OE",
+"raw": null,
+"reason": "LC-36/11 Lightning Protection Tower",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:16:48.088Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "83.8 meters",
+"id": "oeaaa-2026-ASO-15272-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.476383,
+-80.538158
+]
+],
+"name": "2026-ASO-15272-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-15272-OE",
+"raw": null,
+"reason": "SLC-36B/11 Umbilical Launch Tower",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:16:45.131Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "64 meters",
+"id": "oeaaa-2026-ASO-16893-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.501183,
+-80.676339
+]
+],
+"name": "2026-ASO-16893-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-16893-OE",
+"raw": null,
+"reason": "Blue Origin Horizon",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-25T15:15:20.932Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "147.8 meters",
+"id": "oeaaa-2026-ASO-326-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.534871,
+-80.567668
+]
+],
+"name": "2026-ASO-326-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-326-OE",
+"raw": null,
+"reason": "Launch Tower",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:21.950Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "97.5 meters",
+"id": "oeaaa-2026-ASO-5088-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.601367,
+-80.604364
+]
+],
+"name": "2026-ASO-5088-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-5088-OE",
+"raw": null,
+"reason": "LC39A Communication Tower",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:05.802Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "97.5 meters",
+"id": "oeaaa-2026-ASO-5630-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.546181,
+-80.568322
+]
+],
+"name": "2026-ASO-5630-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-5630-OE",
+"raw": null,
+"reason": "SLC37 Communication Tower",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:13.469Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "45.7 meters",
+"id": "oeaaa-2026-ASO-8890-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.451401,
+-80.561778
+]
+],
+"name": "2026-ASO-8890-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-8890-OE",
+"raw": null,
+"reason": "Blue Origin CSO-PPF",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:37.485Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "117.3 meters",
+"id": "oeaaa-2026-ASW-6838-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+25.98525,
+-97.188444
+]
+],
+"name": "2026-ASW-6838-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASW-6838-OE",
+"raw": null,
+"reason": "Gigabay Boca Chica",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:30:22.700Z"
 }
 ],
 "pending": 0,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 2879
+"total_known": 2927
 }

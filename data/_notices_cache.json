@@ -9344,7 +9344,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-cadenaois-advisory-2771": {
-"lastmod": "2026-10-02T17:31:52.796Z",
+"lastmod": "2026-10-02T11:02:03.775Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -9396,9 +9396,9 @@
 "link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
 "name": "Cadena OIS"
 },
-"updated": "2026-10-02T17:31:52.796Z"
+"updated": "2026-10-02T11:02:03.775Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-blue-orgin-ng-3-bluebird-7": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -9549,7 +9549,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-nasa-crew-12-reentry": {
-"lastmod": "2026-10-03T00:23:16.984Z",
+"lastmod": "2026-10-03T19:34:42.434Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -9581,12 +9581,12 @@
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-03T00:23:16.984Z"
+"updated": "2026-10-03T19:34:42.434Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-northrop-grumman-mk21-2b": {
-"lastmod": "2026-10-03T00:58:41.219Z",
+"lastmod": "2026-10-03T19:34:43.565Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -9618,9 +9618,9 @@
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-03T00:58:41.219Z"
+"updated": "2026-10-03T19:34:43.565Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-mpower-f": {
 "gone": "2026-09-28",
@@ -231612,6 +231612,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NZZC-B4624%2F26": {
+"gone": "2026-10-04",
 "lastmod": "2026-09-17T20:39:03.048Z",
 "notice": {
 "areas": [
@@ -231680,6 +231681,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NZZC-B4627%2F26": {
+"gone": "2026-10-04",
 "lastmod": "2026-09-17T21:03:03.075Z",
 "notice": {
 "areas": [
@@ -233011,6 +233013,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NZZO-B4625%2F26": {
+"gone": "2026-10-04",
 "lastmod": "2026-09-17T20:42:39.055Z",
 "notice": {
 "areas": [
@@ -233067,6 +233070,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NZZO-B4626%2F26": {
+"gone": "2026-10-04",
 "lastmod": "2026-09-17T20:42:47.660Z",
 "notice": {
 "areas": [
@@ -233123,6 +233127,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NZZO-B4628%2F26": {
+"gone": "2026-10-04",
 "lastmod": "2026-09-17T21:06:48.840Z",
 "notice": {
 "areas": [
@@ -233179,6 +233184,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NZZO-B4629%2F26": {
+"gone": "2026-10-04",
 "lastmod": "2026-09-17T21:06:58.635Z",
 "notice": {
 "areas": [
@@ -255445,7 +255451,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-10%2F013-26": {
-"lastmod": "2026-10-02T17:31:52.796Z",
+"lastmod": "2026-10-03T10:08:45.638Z",
 "notice": {
 "areas": [
 [
@@ -255500,9 +255506,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82630355",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-02T17:31:52.796Z"
+"updated": "2026-10-03T10:08:45.638Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-11%2F236": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -265382,6 +265388,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZHWH-A4457%2F26": {
+"gone": "2026-10-04",
 "lastmod": "2026-09-11T05:16:56.029Z",
 "notice": {
 "areas": [
@@ -268454,7 +268461,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F012-26": {
-"lastmod": "2026-10-02T17:31:52.796Z",
+"lastmod": "2026-10-03T10:06:30.641Z",
 "notice": {
 "areas": [
 [
@@ -268505,12 +268512,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82630345",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-02T17:31:52.796Z"
+"updated": "2026-10-03T10:06:30.641Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F014-26": {
-"lastmod": "2026-10-02T17:31:52.796Z",
+"lastmod": "2026-10-03T10:08:55.109Z",
 "notice": {
 "areas": [
 [
@@ -268577,9 +268584,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82630353",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-02T17:31:52.796Z"
+"updated": "2026-10-03T10:08:55.109Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLHW-A0063%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -271642,6 +271649,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLHW-A4456%2F26": {
+"gone": "2026-10-04",
 "lastmod": "2026-09-11T05:17:02.534Z",
 "notice": {
 "areas": [
@@ -290700,6 +290708,1540 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-04-23T14:04:24.726Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2025-ASO-18894-OE": {
+"lastmod": "2026-08-22T21:45:23.727Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-01T22:00:00.000Z",
+"start": "2025-09-01T10:00:00.000Z"
+}
+],
+"height": "45.7 meters",
+"id": "oeaaa-2025-ASO-18894-OE",
+"kind": "OEAAA",
+"launches": [
+{
+"id": "collection-cape-canaveral-construction",
+"title": "Cape Canaveral"
+}
+],
+"markers": [
+[
+28.50675,
+-80.682303
+]
+],
+"name": "2025-ASO-18894-OE",
+"page": "https://space-notices.com/notice/oeaaa-2025-ASO-18894-OE",
+"raw": null,
+"reason": "Bldg Q TPA - Erection Crane (INSTALL ONLY)",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-22T21:45:23.727Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2025-ASO-19097-OE": {
+"lastmod": "2026-08-22T21:45:27.153Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-01T22:00:00.000Z",
+"start": "2025-09-01T10:00:00.000Z"
+}
+],
+"height": "70.1 meters",
+"id": "oeaaa-2025-ASO-19097-OE",
+"kind": "OEAAA",
+"launches": [
+{
+"id": "collection-cape-canaveral-construction",
+"title": "Cape Canaveral"
+}
+],
+"markers": [
+[
+28.509452,
+-80.679059
+]
+],
+"name": "2025-ASO-19097-OE",
+"page": "https://space-notices.com/notice/oeaaa-2025-ASO-19097-OE",
+"raw": null,
+"reason": "Bldg S PLF - Erection Crane (INSTALL ONLY)",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-22T21:45:27.153Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2025-ASO-25444-OE": {
+"lastmod": "2026-08-09T22:15:16.450Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-01-23T23:00:00.000Z",
+"start": "2026-01-23T11:00:00.000Z"
+}
+],
+"height": "181.4 meters",
+"id": "oeaaa-2025-ASO-25444-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.534689,
+-80.56818
+]
+],
+"name": "2025-ASO-25444-OE",
+"page": "https://space-notices.com/notice/oeaaa-2025-ASO-25444-OE",
+"raw": null,
+"reason": "LR13000 SLC-37",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:16.450Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2025-ASO-25446-OE": {
+"lastmod": "2026-08-09T22:15:19.304Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-01-23T23:00:00.000Z",
+"start": "2026-01-23T11:00:00.000Z"
+}
+],
+"height": "126.5 meters",
+"id": "oeaaa-2025-ASO-25446-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.534884,
+-80.568042
+]
+],
+"name": "2025-ASO-25446-OE",
+"page": "https://space-notices.com/notice/oeaaa-2025-ASO-25446-OE",
+"raw": null,
+"reason": "LR11000 SLC-37",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:19.304Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2025-ASW-11750-OE": {
+"lastmod": "2026-08-22T22:00:26.624Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-08-31T22:00:00.000Z",
+"start": "2025-10-13T10:00:00.000Z"
+}
+],
+"height": "182.9 meters",
+"id": "oeaaa-2025-ASW-11750-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+25.985914,
+-97.187422
+]
+],
+"name": "2025-ASW-11750-OE",
+"page": "https://space-notices.com/notice/oeaaa-2025-ASW-11750-OE",
+"raw": null,
+"reason": "Space X Gigabay TC1",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-22T22:00:26.624Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2025-ASW-11751-OE": {
+"lastmod": "2026-08-22T22:00:18.429Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-08-31T22:00:00.000Z",
+"start": "2025-10-13T10:00:00.000Z"
+}
+],
+"height": "182.9 meters",
+"id": "oeaaa-2025-ASW-11751-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+25.985542,
+-97.187839
+]
+],
+"name": "2025-ASW-11751-OE",
+"page": "https://space-notices.com/notice/oeaaa-2025-ASW-11751-OE",
+"raw": null,
+"reason": "Space X Gigabay TC2",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-22T22:00:18.429Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2025-ASW-11752-OE": {
+"lastmod": "2026-08-22T22:00:28.970Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-08-31T22:00:00.000Z",
+"start": "2025-10-13T10:00:00.000Z"
+}
+],
+"height": "182.9 meters",
+"id": "oeaaa-2025-ASW-11752-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+25.985064,
+-97.1873
+]
+],
+"name": "2025-ASW-11752-OE",
+"page": "https://space-notices.com/notice/oeaaa-2025-ASW-11752-OE",
+"raw": null,
+"reason": "Space X Gigabay TC3",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-22T22:00:28.970Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2025-ASW-11753-OE": {
+"lastmod": "2026-08-22T22:00:34.321Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-08-31T22:00:00.000Z",
+"start": "2025-10-13T10:00:00.000Z"
+}
+],
+"height": "182.9 meters",
+"id": "oeaaa-2025-ASW-11753-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+25.985442,
+-97.1869
+]
+],
+"name": "2025-ASW-11753-OE",
+"page": "https://space-notices.com/notice/oeaaa-2025-ASW-11753-OE",
+"raw": null,
+"reason": "Space X Gigabay TC4",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-22T22:00:34.321Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2025-ASW-12237-OE": {
+"lastmod": "2026-08-22T22:00:24.044Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "116.4 meters",
+"id": "oeaaa-2025-ASW-12237-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+25.986431,
+-97.187542
+]
+],
+"name": "2025-ASW-12237-OE",
+"page": "https://space-notices.com/notice/oeaaa-2025-ASW-12237-OE",
+"raw": null,
+"reason": "Starbase Gigabay",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-22T22:00:24.044Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2025-ASW-12868-OE": {
+"lastmod": "2026-08-22T22:00:31.501Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-01-01T23:00:00.000Z",
+"start": "2026-01-01T11:00:00.000Z"
+}
+],
+"height": "85.3 meters",
+"id": "oeaaa-2025-ASW-12868-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+25.9859,
+-97.187228
+]
+],
+"name": "2025-ASW-12868-OE",
+"page": "https://space-notices.com/notice/oeaaa-2025-ASW-12868-OE",
+"raw": null,
+"reason": "BZI Crane (SpaceX Boca)",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-22T22:00:31.501Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2025-ASW-13942-OE": {
+"lastmod": "2026-08-22T22:00:36.460Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "145.1 meters",
+"id": "oeaaa-2025-ASW-13942-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+25.997061,
+-97.158061
+]
+],
+"name": "2025-ASW-13942-OE",
+"page": "https://space-notices.com/notice/oeaaa-2025-ASW-13942-OE",
+"raw": null,
+"reason": "Starbase Integration Tower 2",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-22T22:00:36.460Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2025-ASW-14768-OE": {
+"lastmod": "2026-08-09T22:30:13.216Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-12-02T23:00:00.000Z",
+"start": "2026-03-02T11:00:00.000Z"
+}
+],
+"height": "137.2 meters",
+"id": "oeaaa-2025-ASW-14768-OE",
+"kind": "OEAAA",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.9859,
+-97.187228
+]
+],
+"name": "2025-ASW-14768-OE",
+"page": "https://space-notices.com/notice/oeaaa-2025-ASW-14768-OE",
+"raw": null,
+"reason": "BZI Crane (SpaceX Boca)",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:30:13.216Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-10996-OE": {
+"lastmod": "2026-08-09T22:15:42.933Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2028-07-03T22:00:00.000Z",
+"start": "2026-07-15T10:00:00.000Z"
+}
+],
+"height": "106.7 meters",
+"id": "oeaaa-2026-ASO-10996-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.451194,
+-80.559019
+]
+],
+"name": "2026-ASO-10996-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-10996-OE",
+"raw": null,
+"reason": "PPF",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:42.933Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-11256-OE": {
+"lastmod": "2026-08-09T22:15:51.661Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-04-30T22:00:00.000Z",
+"start": "2026-06-08T10:00:00.000Z"
+}
+],
+"height": "160 meters",
+"id": "oeaaa-2026-ASO-11256-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.475862,
+-80.564572
+]
+],
+"name": "2026-ASO-11256-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-11256-OE",
+"raw": null,
+"reason": "Vertical Refurb Facility Construction",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:51.661Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-11466-OE": {
+"lastmod": "2026-08-09T22:15:54.554Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-12-31T23:00:00.000Z",
+"start": "2026-06-15T10:00:00.000Z"
+}
+],
+"height": "198.1 meters",
+"id": "oeaaa-2026-ASO-11466-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.46975,
+-80.543658
+]
+],
+"name": "2026-ASO-11466-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-11466-OE",
+"raw": null,
+"reason": "SLC 36 Reconstruction",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:54.554Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-12536-OE": {
+"lastmod": "2026-08-09T22:16:30.919Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-07-31T22:00:00.000Z",
+"start": "2026-06-22T10:00:00.000Z"
+}
+],
+"height": "108.8 meters",
+"id": "oeaaa-2026-ASO-12536-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.504167,
+-80.677778
+]
+],
+"name": "2026-ASO-12536-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-12536-OE",
+"raw": null,
+"reason": "Bldg F Crane for Roof top unit set",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:16:30.919Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-12842-OE": {
+"lastmod": "2026-08-09T22:16:36.728Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "147.8 meters",
+"id": "oeaaa-2026-ASO-12842-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.608239,
+-80.601133
+]
+],
+"name": "2026-ASO-12842-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-12842-OE",
+"raw": null,
+"reason": "Launch Tower",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:16:36.728Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-13987-OE": {
+"lastmod": "2026-08-09T22:15:48.565Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-21T22:00:00.000Z",
+"start": "2026-07-20T10:00:00.000Z"
+}
+],
+"height": "39.6 meters",
+"id": "oeaaa-2026-ASO-13987-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.459314,
+-80.52887
+]
+],
+"name": "2026-ASO-13987-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-13987-OE",
+"raw": null,
+"reason": "Launch Complex 46. tower Demolition",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:48.565Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-14445-OE": {
+"lastmod": "2026-08-09T22:16:24.683Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-30T23:00:00.000Z",
+"start": "2026-07-27T10:00:00.000Z"
+}
+],
+"height": "76.2 meters",
+"id": "oeaaa-2026-ASO-14445-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.510839,
+-80.692269
+]
+],
+"name": "2026-ASO-14445-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-14445-OE",
+"raw": null,
+"reason": "Blue Origin MILA Site",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:16:24.683Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-14915-OE": {
+"lastmod": "2026-08-25T18:45:28.155Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2028-03-08T23:00:00.000Z",
+"start": "2026-09-08T10:00:00.000Z"
+}
+],
+"height": "85.3 meters",
+"id": "oeaaa-2026-ASO-14915-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.521564,
+-80.571711
+]
+],
+"name": "2026-ASO-14915-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-14915-OE",
+"raw": null,
+"reason": "SLC-37 SpaceX 275' Crane",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-25T18:45:28.155Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-15005-OE": {
+"lastmod": "2026-08-09T22:16:13.567Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "47.2 meters",
+"id": "oeaaa-2026-ASO-15005-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.508817,
+-80.693489
+]
+],
+"name": "2026-ASO-15005-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-15005-OE",
+"raw": null,
+"reason": "MILA Lightning Protection System",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:16:13.567Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-15006-OE": {
+"lastmod": "2026-08-09T22:16:19.265Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "47.2 meters",
+"id": "oeaaa-2026-ASO-15006-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.508669,
+-80.693272
+]
+],
+"name": "2026-ASO-15006-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-15006-OE",
+"raw": null,
+"reason": "MILA Lightning Protection System LP-2",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:16:19.265Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-15007-OE": {
+"lastmod": "2026-08-09T22:16:16.673Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "47.2 meters",
+"id": "oeaaa-2026-ASO-15007-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.508511,
+-80.693472
+]
+],
+"name": "2026-ASO-15007-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-15007-OE",
+"raw": null,
+"reason": "MILA Lightning Protection System LP-3",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:16:16.673Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-15008-OE": {
+"lastmod": "2026-08-09T22:16:10.910Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "47.2 meters",
+"id": "oeaaa-2026-ASO-15008-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.508639,
+-80.693586
+]
+],
+"name": "2026-ASO-15008-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-15008-OE",
+"raw": null,
+"reason": "MILA Lightning Protection System LP-4",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:16:10.910Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-15013-OE": {
+"lastmod": "2026-08-09T22:16:42.238Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "167.6 meters",
+"id": "oeaaa-2026-ASO-15013-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.466042,
+-80.542025
+]
+],
+"name": "2026-ASO-15013-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-15013-OE",
+"raw": null,
+"reason": "SLC-36A Operational Crane",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:16:42.238Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-15270-OE": {
+"lastmod": "2026-08-09T22:16:48.088Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "217.9 meters",
+"id": "oeaaa-2026-ASO-15270-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.476383,
+-80.53789
+]
+],
+"name": "2026-ASO-15270-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-15270-OE",
+"raw": null,
+"reason": "LC-36/11 Lightning Protection Tower",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:16:48.088Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-15272-OE": {
+"lastmod": "2026-08-09T22:16:45.131Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "83.8 meters",
+"id": "oeaaa-2026-ASO-15272-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.476383,
+-80.538158
+]
+],
+"name": "2026-ASO-15272-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-15272-OE",
+"raw": null,
+"reason": "SLC-36B/11 Umbilical Launch Tower",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:16:45.131Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-15525-OE": {
+"lastmod": "2026-08-10T16:15:14.301Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-08-01T22:00:00.000Z",
+"start": "2026-10-01T10:00:00.000Z"
+}
+],
+"height": "228.6 meters",
+"id": "oeaaa-2026-ASO-15525-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.477398,
+-80.543483
+]
+],
+"name": "2026-ASO-15525-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-15525-OE",
+"raw": null,
+"reason": "SLC-36B 750' Construction Cranes (6)",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-10T16:15:14.301Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-15529-OE": {
+"lastmod": "2026-08-10T16:15:20.469Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-08-01T22:00:00.000Z",
+"start": "2026-10-01T10:00:00.000Z"
+}
+],
+"height": "228.6 meters",
+"id": "oeaaa-2026-ASO-15529-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.477728,
+-80.537581
+]
+],
+"name": "2026-ASO-15529-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-15529-OE",
+"raw": null,
+"reason": "SLC-36B 750' Construction Cranes (6)",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-10T16:15:20.469Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-15535-OE": {
+"lastmod": "2026-08-10T16:15:28.068Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-08-01T22:00:00.000Z",
+"start": "2026-10-01T10:00:00.000Z"
+}
+],
+"height": "228.6 meters",
+"id": "oeaaa-2026-ASO-15535-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.474687,
+-80.537456
+]
+],
+"name": "2026-ASO-15535-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-15535-OE",
+"raw": null,
+"reason": "SLC-36B 750' Construction Cranes (6)",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-10T16:15:28.068Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-15559-OE": {
+"lastmod": "2026-08-10T16:15:06.333Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-08-01T22:00:00.000Z",
+"start": "2026-10-01T10:00:00.000Z"
+}
+],
+"height": "228.6 meters",
+"id": "oeaaa-2026-ASO-15559-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.475089,
+-80.543965
+]
+],
+"name": "2026-ASO-15559-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-15559-OE",
+"raw": null,
+"reason": "SLC-36B 750' Construction Cranes (6)",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-10T16:15:06.333Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-16608-OE": {
+"lastmod": "2026-09-16T18:20:52.934Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-09-20T22:00:00.000Z",
+"start": "2026-08-20T10:00:00.000Z"
+}
+],
+"height": "123.1 meters",
+"id": "oeaaa-2026-ASO-16608-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.506526,
+-80.682265
+]
+],
+"name": "2026-ASO-16608-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-16608-OE",
+"raw": null,
+"reason": "Building M Extension",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-16T18:20:52.934Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-16893-OE": {
+"lastmod": "2026-08-25T15:15:20.932Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "64 meters",
+"id": "oeaaa-2026-ASO-16893-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.501183,
+-80.676339
+]
+],
+"name": "2026-ASO-16893-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-16893-OE",
+"raw": null,
+"reason": "Blue Origin Horizon",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-25T15:15:20.932Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-18828-OE": {
+"lastmod": "2026-09-25T23:20:46.059Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-12-31T23:00:00.000Z",
+"start": "2026-10-01T10:00:00.000Z"
+}
+],
+"height": "137.2 meters",
+"id": "oeaaa-2026-ASO-18828-OE",
+"kind": "OEAAA",
+"launches": [
+{
+"id": "collection-cape-canaveral-construction",
+"title": "Cape Canaveral"
+}
+],
+"markers": [
+[
+28.501183,
+-80.676339
+]
+],
+"name": "2026-ASO-18828-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-18828-OE",
+"raw": null,
+"reason": "Blue Origin Horizon",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-09-25T23:20:46.059Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-19372-OE": {
+"lastmod": "2026-10-02T12:50:46.066Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-12-31T23:00:00.000Z",
+"start": "2026-10-01T10:00:00.000Z"
+}
+],
+"height": "137.2 meters",
+"id": "oeaaa-2026-ASO-19372-OE",
+"kind": "OEAAA",
+"launches": [
+{
+"id": "collection-cape-canaveral-construction",
+"title": "Cape Canaveral"
+}
+],
+"markers": [
+[
+28.50945,
+-80.679058
+]
+],
+"name": "2026-ASO-19372-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-19372-OE",
+"raw": null,
+"reason": "Crane Bldg S PLF - Erection Crane",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-02T12:50:46.066Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-326-OE": {
+"lastmod": "2026-08-09T22:15:21.950Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "147.8 meters",
+"id": "oeaaa-2026-ASO-326-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.534871,
+-80.567668
+]
+],
+"name": "2026-ASO-326-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-326-OE",
+"raw": null,
+"reason": "Launch Tower",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:21.950Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-3766-OE": {
+"lastmod": "2026-08-09T22:15:24.503Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-03-31T22:00:00.000Z",
+"start": "2026-04-01T10:00:00.000Z"
+}
+],
+"height": "91.4 meters",
+"id": "oeaaa-2026-ASO-3766-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.431547,
+-80.579725
+]
+],
+"name": "2026-ASO-3766-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-3766-OE",
+"raw": null,
+"reason": "P103 ETF",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:24.503Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-4956-OE": {
+"lastmod": "2026-08-09T22:15:45.648Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-04-30T22:00:00.000Z",
+"start": "2026-04-30T10:00:00.000Z"
+}
+],
+"height": "106.7 meters",
+"id": "oeaaa-2026-ASO-4956-OE",
+"kind": "OEAAA",
+"launches": [
+{
+"id": "collection-cape-canaveral-construction",
+"title": "Cape Canaveral"
+}
+],
+"markers": [
+[
+28.501183,
+-80.676339
+]
+],
+"name": "2026-ASO-4956-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-4956-OE",
+"raw": null,
+"reason": "Blue Origin Horizon",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:45.648Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-5088-OE": {
+"lastmod": "2026-08-09T22:15:05.802Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "97.5 meters",
+"id": "oeaaa-2026-ASO-5088-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.601367,
+-80.604364
+]
+],
+"name": "2026-ASO-5088-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-5088-OE",
+"raw": null,
+"reason": "LC39A Communication Tower",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:05.802Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-5630-OE": {
+"lastmod": "2026-08-09T22:15:13.469Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "97.5 meters",
+"id": "oeaaa-2026-ASO-5630-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.546181,
+-80.568322
+]
+],
+"name": "2026-ASO-5630-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-5630-OE",
+"raw": null,
+"reason": "SLC37 Communication Tower",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:13.469Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-5824-OE": {
+"lastmod": "2026-08-09T22:15:27.255Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-03-31T22:00:00.000Z",
+"start": "2026-04-01T10:00:00.000Z"
+}
+],
+"height": "91.4 meters",
+"id": "oeaaa-2026-ASO-5824-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.432528,
+-80.582419
+]
+],
+"name": "2026-ASO-5824-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-5824-OE",
+"raw": null,
+"reason": "P103 ETF",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:27.255Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-5882-OE": {
+"lastmod": "2026-08-09T22:15:34.915Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-03-31T22:00:00.000Z",
+"start": "2026-04-01T10:00:00.000Z"
+}
+],
+"height": "91.4 meters",
+"id": "oeaaa-2026-ASO-5882-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.434164,
+-80.579133
+]
+],
+"name": "2026-ASO-5882-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-5882-OE",
+"raw": null,
+"reason": "P103 ETF",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:34.915Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-5884-OE": {
+"lastmod": "2026-08-09T22:15:31.299Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-03-31T22:00:00.000Z",
+"start": "2026-04-01T10:00:00.000Z"
+}
+],
+"height": "91.4 meters",
+"id": "oeaaa-2026-ASO-5884-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.434156,
+-80.581267
+]
+],
+"name": "2026-ASO-5884-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-5884-OE",
+"raw": null,
+"reason": "P103 ETF",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:31.299Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-7697-OE": {
+"lastmod": "2026-08-09T22:15:40.100Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-12-31T23:00:00.000Z",
+"start": "2026-05-05T10:00:00.000Z"
+}
+],
+"height": "106.7 meters",
+"id": "oeaaa-2026-ASO-7697-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.451472,
+-80.561803
+]
+],
+"name": "2026-ASO-7697-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-7697-OE",
+"raw": null,
+"reason": "Blue Origin CSO-PPF Construction Crane",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:40.100Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-8667-OE": {
+"lastmod": "2026-08-09T22:15:57.984Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-05-11T22:00:00.000Z",
+"start": "2026-04-24T10:00:00.000Z"
+}
+],
+"height": "65.5 meters",
+"id": "oeaaa-2026-ASO-8667-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.489192,
+-80.588792
+]
+],
+"name": "2026-ASO-8667-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-8667-OE",
+"raw": null,
+"reason": "SpaceX 215' Construction Crane",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:57.984Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASO-8890-OE": {
+"lastmod": "2026-08-09T22:15:37.485Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "45.7 meters",
+"id": "oeaaa-2026-ASO-8890-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+28.451401,
+-80.561778
+]
+],
+"name": "2026-ASO-8890-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASO-8890-OE",
+"raw": null,
+"reason": "Blue Origin CSO-PPF",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:15:37.485Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASW-2223-OE": {
+"lastmod": "2026-08-09T22:30:17.114Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-03-16T22:00:00.000Z",
+"start": "2026-02-13T11:00:00.000Z"
+}
+],
+"height": "176.8 meters",
+"id": "oeaaa-2026-ASW-2223-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+25.99735,
+-97.158444
+]
+],
+"name": "2026-ASW-2223-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASW-2223-OE",
+"raw": null,
+"reason": "Buckner 11k 512' + 69' @20 degrees SL10DF2",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:30:17.114Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/oeaaa-2026-ASW-6838-OE": {
+"lastmod": "2026-08-09T22:30:22.700Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": "117.3 meters",
+"id": "oeaaa-2026-ASW-6838-OE",
+"kind": "OEAAA",
+"launches": [],
+"markers": [
+[
+25.98525,
+-97.188444
+]
+],
+"name": "2026-ASW-6838-OE",
+"page": "https://space-notices.com/notice/oeaaa-2026-ASW-6838-OE",
+"raw": null,
+"reason": "Gigabay Boca Chica",
+"source": {
+"link": "https://oeaaa.faa.gov/oeaaa/oe3a/main/#/search/records",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-08-09T22:30:22.700Z"
 },
 "via": "sitemap"
 },
