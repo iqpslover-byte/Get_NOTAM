@@ -1,5 +1,5 @@
 {
-"count": 2809,
+"count": 2810,
 "notices": [
 {
 "areas": [
@@ -273184,6 +273184,62 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-30T21:46:43.576Z"
+},
+{
+"areas": [
+[
+[
+30.15,
+-120.1667
+],
+[
+30.0,
+-120.0
+],
+[
+29.1833,
+-120.0
+],
+[
+29.5,
+-120.3833
+],
+[
+29.8667,
+-120.45
+],
+[
+30.15,
+-120.1667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-06T09:04:00.000Z",
+"start": "2026-10-06T07:59:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-10/018-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "10/018",
+"page": "https://space-notices.com/notice/notam-ZAK-10%2F018-26",
+"raw": "!CARF 10/018 ZAK AIRSPACE DCC SX SDA-T1A 26-64 STNR ALT RESERVATION AREA C WI AN AREA DEFINED AS 300900N1201000W TO 300000N1200000W TO 291100N1200000W TO 293000N1202300W TO 295200N1202700W TO POINT OF ORIGIN SFC-UNL 2610060759-2610060904",
+"reason": "SX SDA-T1A 26-64",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82635606",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-03T22:12:53.796Z"
 },
 {
 "areas": [],
