@@ -1,5 +1,5 @@
 {
-"count": 2795,
+"count": 2800,
 "notices": [
 {
 "areas": [
@@ -272590,6 +272590,182 @@
 "areas": [
 [
 [
+32.2667,
+-120.2
+],
+[
+33.3833,
+-120.4
+],
+[
+34.5333,
+-120.65
+],
+[
+34.6333,
+-120.6333
+],
+[
+34.65,
+-120.6
+],
+[
+34.6,
+-120.5167
+],
+[
+33.3667,
+-120.3167
+],
+[
+32.3167,
+-120.1167
+],
+[
+32.2667,
+-120.2
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-07T08:37:00.000Z",
+"start": "2026-10-07T07:51:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/025-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-sda-tranche-1-transport-layer-a",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "10/025",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F025-26",
+"raw": "!CARF 10/025 ZLA AIRSPACE DCC SX SDA-T1A 26-64 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 321600N1201200W TO 332300N1202400W TO 343200N1203900W TO 343800N1203800W TO 343900N1203600W TO 343600N1203100W TO 332200N1201900W TO 321900N1200700W TO POINT OF ORIGIN SFC-UNL 2610070751-2610070837",
+"reason": "SX SDA-T1A 26-64",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82641851",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-04T21:48:37.908Z"
+},
+{
+"areas": [
+[
+[
+31.75,
+-120.1
+],
+[
+31.8167,
+-120.0333
+],
+[
+31.2333,
+-119.9167
+],
+[
+31.1833,
+-120.0167
+],
+[
+31.75,
+-120.1
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-07T08:37:00.000Z",
+"start": "2026-10-07T07:51:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/026-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-sda-tranche-1-transport-layer-a",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "10/026",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F026-26",
+"raw": "!CARF 10/026 ZLA AIRSPACE DCC SX SDA-T1A 26-64 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 314500N1200600W TO 314900N1200200W TO 311400N1195500W TO 311100N1200100W TO POINT OF ORIGIN SFC-UNL 2610070751-2610070837",
+"reason": "SX SDA-T1A 26-64",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82641872",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-04T21:48:37.908Z"
+},
+{
+"areas": [
+[
+[
+30.15,
+-120.1667
+],
+[
+30.0,
+-120.0
+],
+[
+29.1833,
+-120.0
+],
+[
+29.5,
+-120.3833
+],
+[
+29.8667,
+-120.45
+],
+[
+30.15,
+-120.1667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-07T08:56:00.000Z",
+"start": "2026-10-07T07:51:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-10/027-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-sda-tranche-1-transport-layer-a",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "10/027",
+"page": "https://space-notices.com/notice/notam-ZAK-10%2F027-26",
+"raw": "!CARF 10/027 ZAK AIRSPACE DCC SX SDA-T1A 26-64 STNR ALT RESERVATION AREA C WI AN AREA DEFINED AS 300900N1201000W TO 300000N1200000W TO 291100N1200000W TO 293000N1202300W TO 295200N1202700W TO POINT OF ORIGIN SFC-UNL 2610070751-2610070856",
+"reason": "SX SDA-T1A 26-64",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82641916",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-04T21:48:37.908Z"
+},
+{
+"areas": [
+[
+[
 30.716667,
 -78.5
 ],
@@ -275229,6 +275405,58 @@
 "areas": [
 [
 [
+8.95,
+119.6
+],
+[
+8.75,
+119.3167
+],
+[
+9.2667,
+118.95
+],
+[
+9.4667,
+119.2
+],
+[
+8.95,
+119.6
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-09T23:00:00.000Z",
+"start": "2026-10-09T17:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2888/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2888/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202888%2F26",
+"raw": "051218Z OCT 26\nHYDROPAC 2888/26.\nSULU SEA.\nPHILIPPINES.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS \n   091700Z TO 092300Z OCT IN AREA BOUND BY\n   08-57.00N 119-36.00E, 08-45.00N 119-19.80E,\n   09-16.20N 118-57.00E, 09-28.20N 119-12.60E.\n2. CANCEL THIS MSG 100001Z OCT 26.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2888&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-10-03T23:08:42.511Z"
+},
+{
+"areas": [
+[
+[
 34.633333,
 -120.6
 ],
@@ -277283,6 +277511,94 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-02T18:31:50.482Z"
+},
+{
+"areas": [
+[
+[
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-38.35,
+-115.0667
+],
+[
+-49.15,
+-107.3667
+],
+[
+-59.15,
+-95.5667
+],
+[
+-59.9667,
+-99.0833
+],
+[
+-44.5667,
+-114.2167
+],
+[
+-27.9833,
+-122.7333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-11T05:25:00.000Z",
+"start": "2026-10-11T00:47:00.000Z"
+},
+{
+"end": "2026-10-12T05:25:00.000Z",
+"start": "2026-10-12T00:47:00.000Z"
+},
+{
+"end": "2026-10-13T05:25:00.000Z",
+"start": "2026-10-13T00:47:00.000Z"
+},
+{
+"end": "2026-10-14T05:25:00.000Z",
+"start": "2026-10-14T00:47:00.000Z"
+},
+{
+"end": "2026-10-15T05:25:00.000Z",
+"start": "2026-10-15T00:47:00.000Z"
+},
+{
+"end": "2026-10-16T05:25:00.000Z",
+"start": "2026-10-16T00:47:00.000Z"
+},
+{
+"end": "2026-10-17T05:25:00.000Z",
+"start": "2026-10-17T00:47:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2882/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-f9-starlink-15-25",
+"title": "Starlink Group 15-25"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2882/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202882%2F26",
+"raw": "050336Z OCT 26\nHYDROPAC 2882/26.\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   0047Z TO 0525Z DAILY 11 THRU 17 OCT\n   IN AREA BOUND BY\n   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,\n   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,\n   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,\n   44-34.00S 114-13.00W.\n2. CANCEL THIS MSG 170625Z OCT 26.//\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2882&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-10-04T21:02:29.989Z"
 },
 {
 "areas": [
