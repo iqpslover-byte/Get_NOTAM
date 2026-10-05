@@ -8387,6 +8387,132 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/bnm-CGD-SW%20BNM%209125-26": {
+"lastmod": "2026-10-04T21:02:29.989Z",
+"notice": {
+"areas": [
+[
+[
+27.666667,
+-119.266667
+],
+[
+28.766667,
+-119.883333
+],
+[
+29.016667,
+-119.9
+],
+[
+30.75,
+-119.783333
+],
+[
+28.916667,
+-118.766667
+],
+[
+28.65,
+-118.733333
+],
+[
+27.666667,
+-119.266667
+]
+],
+[
+[
+32.016667,
+-120.05
+],
+[
+32.016667,
+-120.0
+],
+[
+33.366667,
+-120.2
+],
+[
+34.45,
+-120.383333
+],
+[
+34.666667,
+-120.6
+],
+[
+34.65,
+-120.666667
+],
+[
+34.333333,
+-120.65
+],
+[
+33.066667,
+-120.333333
+],
+[
+32.016667,
+-120.05
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-16T04:27:00.000Z",
+"start": "2026-10-15T23:44:00.000Z"
+},
+{
+"end": "2026-10-17T04:18:00.000Z",
+"start": "2026-10-16T23:35:00.000Z"
+},
+{
+"end": "2026-10-18T04:09:00.000Z",
+"start": "2026-10-17T23:26:00.000Z"
+},
+{
+"end": "2026-10-19T04:00:00.000Z",
+"start": "2026-10-18T23:17:00.000Z"
+},
+{
+"end": "2026-10-20T03:51:00.000Z",
+"start": "2026-10-19T23:08:00.000Z"
+},
+{
+"end": "2026-10-21T03:42:00.000Z",
+"start": "2026-10-20T22:59:00.000Z"
+},
+{
+"end": "2026-10-22T03:33:00.000Z",
+"start": "2026-10-21T22:50:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SW BNM 9125-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-25",
+"title": "Starlink Group 15-25"
+}
+],
+"markers": [],
+"name": "CGD-SW BNM 9125-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209125-26",
+"raw": "Launch Hazard Area\nMission: Space X TH-2 Launch Operations \nMessage Id: CGD-SW BNM 9125-26\n\n\n15/2344 OCT 26 to 16/0427 OCT 26. \n16/2335 OCT 26 to 17/0418 OCT 26. \n17/2326 OCT 26 to 18/0409 OCT 26. \n18/2317 OCT 26 to 19/0400 OCT 26. \n19/2308 OCT 26 to 20/0351 OCT 26. \n20/2259 OCT 26 to 21/0342 OCT 26. \n21/2250 OCT 26 to 22/0333 OCT 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
+"reason": "Launch Hazard Area - Space X TH-2 Launch Operations",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-10-04T21:02:29.989Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/infopage-blueorigin-ng-2": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -9556,6 +9682,43 @@
 "updated": "2026-10-02T11:02:03.775Z"
 },
 "via": "sitemap"
+},
+"https://space-notices.com/notice/infopage-cadenaois-advisory-2774": {
+"lastmod": "2026-10-03T19:34:52.065Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-09T12:34:00.000Z",
+"start": "2026-10-09T06:01:00.000Z"
+},
+{
+"end": "2026-10-10T12:34:00.000Z",
+"start": "2026-10-10T06:01:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-cadenaois-advisory-2774",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "other-vsfb-operation-W7600",
+"title": "VSFB Operation W7600"
+}
+],
+"markers": [],
+"name": "Cadena OIS Advisory 2774",
+"page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2774",
+"raw": "Primary Launch Day\t09 OCT\t0601Z-1234Z\nBackup Launch Day\t10 OCT\t0601Z-1234Z\n",
+"reason": "Northrop Grumman MK21-2b",
+"source": {
+"link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
+"name": "Cadena OIS"
+},
+"updated": "2026-10-03T19:34:52.065Z"
+},
+"via": "entry"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-blue-orgin-ng-3-bluebird-7": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -17415,6 +17578,132 @@
 "updated": "2026-10-02T22:00:26.853Z"
 },
 "via": "sitemap"
+},
+"https://space-notices.com/notice/lnm-55061": {
+"lastmod": "2026-10-04T21:02:29.989Z",
+"notice": {
+"areas": [
+[
+[
+32.016667,
+-120.05
+],
+[
+32.016667,
+-120.0
+],
+[
+33.366667,
+-120.2
+],
+[
+34.45,
+-120.383333
+],
+[
+34.666667,
+-120.6
+],
+[
+34.65,
+-120.666667
+],
+[
+34.333333,
+-120.65
+],
+[
+33.066667,
+-120.333333
+],
+[
+32.016667,
+-120.05
+]
+],
+[
+[
+27.666667,
+-119.266667
+],
+[
+28.683333,
+-119.883333
+],
+[
+28.95,
+-119.916667
+],
+[
+30.75,
+-119.783333
+],
+[
+28.916667,
+-118.766667
+],
+[
+28.65,
+-118.716667
+],
+[
+27.666667,
+-119.266667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-16T04:27:00.000Z",
+"start": "2026-10-15T23:44:00.000Z"
+},
+{
+"end": "2026-10-17T04:18:00.000Z",
+"start": "2026-10-16T23:35:00.000Z"
+},
+{
+"end": "2026-10-18T04:09:00.000Z",
+"start": "2026-10-17T23:26:00.000Z"
+},
+{
+"end": "2026-10-19T04:00:00.000Z",
+"start": "2026-10-18T23:17:00.000Z"
+},
+{
+"end": "2026-10-20T03:51:00.000Z",
+"start": "2026-10-19T23:08:00.000Z"
+},
+{
+"end": "2026-10-21T03:42:00.000Z",
+"start": "2026-10-20T22:59:00.000Z"
+},
+{
+"end": "2026-10-22T03:33:00.000Z",
+"start": "2026-10-21T22:50:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-55061",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-25",
+"title": "Starlink Group 15-25"
+}
+],
+"markers": [],
+"name": "55061",
+"page": "https://space-notices.com/notice/lnm-55061",
+"raw": "Hazardous operations will be conducted for Space X, TH-2. Hazardous operation areas are bounded by the following coordinates and times:\n\nHazard Area A: \n32.01666667N, -120.05W \n32.01666667N, -120W \n33.36666667N, -120.2W \n34.45N, -120.38333333W \n34.66666667N, -120.6W \n34.65N, -120.66666667W \n34.33333333N, -120.65W \n33.06666667N, -120.33333333W \n(TO BEGINNING)\n\n152344Z OCT TO 160407Z OCT 2026---- (PRIMARY) \n162335Z OCT TO 170358Z OCT 2026---- (BACKUP DAY) \n172326Z OCT TO 180349Z OCT 2026---- (BACKUP DAY) \n182317Z OCT TO 190340Z OCT 2026---- (BACKUP DAY) \n192308Z OCT TO 200331Z OCT 2026---- (BACKUP DAY) \n202259Z OCT TO 210322Z OCT 2026---- (BACKUP DAY) \n212250Z OCT TO 220313Z OCT 2026---- (BACKUP DAY) \n\nHazard Area B:\n27.66666667N, -119.26666667W \n28.68333333N, -119.88333333W\n28.95N, -119.91666667W \n30.75N, -119.78333333W \n28.91666667N, -118.76666667W \n28.65N, -118.71666667W \n(TO BEGINNING)\n\n152344Z OCT TO 160427Z OCT 2026---- (PRIMARY) \n162335Z OCT TO 170418Z OCT 2026---- (BACKUP DAY) \n172326Z OCT TO 180409Z OCT 2026---- (BACKUP DAY) \n182317Z OCT TO 190400Z OCT 2026---- (BACKUP DAY) \n192308Z OCT TO 200351Z OCT 2026---- (BACKUP DAY) \n202259Z OCT TO 210342Z OCT 2026---- (BACKUP DAY) \n212250Z OCT TO 220333Z OCT 2026---- (BACKUP DAY) \n\nMariners are strongly advised to remain clear of these areas for the duration of operations. For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16.",
+"reason": "Hazardous operations will be conducted for Space X TH-2",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-10-04T21:02:29.989Z"
+},
+"via": "entry"
 },
 "https://space-notices.com/notice/nav-warning-HYDROARC%2010%2F24": {
 "lastmod": "",
