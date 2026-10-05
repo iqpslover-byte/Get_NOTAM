@@ -7209,6 +7209,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209107-26": {
+"gone": "2026-10-05",
 "lastmod": "2026-09-09T17:25:42.532Z",
 "notice": {
 "areas": [
@@ -8145,6 +8146,162 @@
 "name": "US Coast Guard"
 },
 "updated": "2026-09-29T20:09:38.698Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/bnm-CGD-SW%20BNM%209123-26": {
+"lastmod": "2026-10-01T23:48:35.443Z",
+"notice": {
+"areas": [
+[
+[
+27.116667,
+-123.316667
+],
+[
+25.5,
+-124.166667
+],
+[
+22.616667,
+-126.9
+],
+[
+18.35,
+-130.65
+],
+[
+19.383333,
+-131.9
+],
+[
+23.683333,
+-128.166667
+],
+[
+26.583333,
+-125.433333
+],
+[
+27.5,
+-123.75
+],
+[
+27.116667,
+-123.316667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-05T17:05:00.000Z",
+"start": "2026-10-05T16:20:00.000Z"
+},
+{
+"end": "2026-10-06T16:40:00.000Z",
+"start": "2026-10-06T15:55:00.000Z"
+},
+{
+"end": "2026-10-07T16:15:00.000Z",
+"start": "2026-10-07T15:30:00.000Z"
+},
+{
+"end": "2026-10-08T15:55:00.000Z",
+"start": "2026-10-08T15:10:00.000Z"
+},
+{
+"end": "2026-10-09T15:25:00.000Z",
+"start": "2026-10-09T14:40:00.000Z"
+},
+{
+"end": "2026-10-09T15:30:00.000Z",
+"start": "2026-10-09T14:45:00.000Z"
+},
+{
+"end": "2026-10-09T15:55:00.000Z",
+"start": "2026-10-09T15:10:00.000Z"
+},
+{
+"end": "2026-10-10T15:05:00.000Z",
+"start": "2026-10-10T14:20:00.000Z"
+},
+{
+"end": "2026-10-10T15:10:00.000Z",
+"start": "2026-10-10T14:25:00.000Z"
+},
+{
+"end": "2026-10-11T14:40:00.000Z",
+"start": "2026-10-11T13:55:00.000Z"
+},
+{
+"end": "2026-10-12T14:20:00.000Z",
+"start": "2026-10-12T13:35:00.000Z"
+},
+{
+"end": "2026-10-13T13:55:00.000Z",
+"start": "2026-10-13T13:10:00.000Z"
+},
+{
+"end": "2026-10-13T14:20:00.000Z",
+"start": "2026-10-13T13:35:00.000Z"
+},
+{
+"end": "2026-10-14T13:30:00.000Z",
+"start": "2026-10-14T12:45:00.000Z"
+},
+{
+"end": "2026-10-14T13:35:00.000Z",
+"start": "2026-10-14T12:50:00.000Z"
+},
+{
+"end": "2026-10-15T13:10:00.000Z",
+"start": "2026-10-15T12:25:00.000Z"
+},
+{
+"end": "2026-10-16T12:45:00.000Z",
+"start": "2026-10-16T12:00:00.000Z"
+},
+{
+"end": "2026-10-17T12:20:00.000Z",
+"start": "2026-10-17T11:35:00.000Z"
+},
+{
+"end": "2026-10-17T12:25:00.000Z",
+"start": "2026-10-17T11:40:00.000Z"
+},
+{
+"end": "2026-10-17T12:50:00.000Z",
+"start": "2026-10-17T12:05:00.000Z"
+},
+{
+"end": "2026-10-18T12:00:00.000Z",
+"start": "2026-10-18T11:15:00.000Z"
+},
+{
+"end": "2026-10-19T11:35:00.000Z",
+"start": "2026-10-19T10:50:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SW BNM 9123-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "event-1559",
+"title": "SpaceX Crew-12 Crew Dragon Splashdown"
+}
+],
+"markers": [],
+"name": "CGD-SW BNM 9123-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209123-26",
+"raw": "Re-Entry\nMission: Trunk Hazard Area \nMessage Id: CGD-SW BNM 9123-26\n\nA: Trunk / Stage Separation Hazard Area\n05/1620 OCT 26 to 05/1705 OCT 26. \n06/1555 OCT 26 to 06/1640 OCT 26. \n07/1530 OCT 26 to 07/1615 OCT 26. \n08/1510 OCT 26 to 08/1555 OCT 26. \n09/1440 OCT 26 to 09/1525 OCT 26. \n09/1445 OCT 26 to 09/1530 OCT 26. \n09/1510 OCT 26 to 09/1555 OCT 26. \n10/1420 OCT 26 to 10/1505 OCT 26. \n10/1425 OCT 26 to 10/1510 OCT 26. \n11/1355 OCT 26 to 11/1440 OCT 26. \n12/1335 OCT 26 to 12/1420 OCT 26. \n13/1310 OCT 26 to 13/1355 OCT 26. \n13/1335 OCT 26 to 13/1420 OCT 26. \n14/1245 OCT 26 to 14/1330 OCT 26. \n14/1250 OCT 26 to 14/1335 OCT 26. \n15/1225 OCT 26 to 15/1310 OCT 26. \n16/1200 OCT 26 to 16/1245 OCT 26. \n17/1135 OCT 26 to 17/1220 OCT 26. \n17/1140 OCT 26 to 17/1225 OCT 26. \n17/1205 OCT 26 to 17/1250 OCT 26. \n18/1115 OCT 26 to 18/1200 OCT 26. \n19/1050 OCT 26 to 19/1135 OCT 26. \n\n(All times in Zulu unless otherwise noted.)\n\n",
+"reason": "Re-Entry - Trunk Hazard Area",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-10-01T23:48:35.443Z"
 },
 "via": "sitemap"
 },
@@ -9549,18 +9706,18 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-nasa-crew-12-reentry": {
-"lastmod": "2026-10-03T19:34:42.434Z",
+"lastmod": "2026-10-04T17:36:43.003Z",
 "notice": {
 "areas": [],
 "cancelled": false,
 "dates": [
 {
-"end": "2026-10-05T16:55:00.000Z",
-"start": "2026-10-05T16:25:00.000Z"
+"end": "2026-10-08T15:45:00.000Z",
+"start": "2026-10-08T15:15:00.000Z"
 },
 {
-"end": "2026-10-06T16:25:00.000Z",
-"start": "2026-10-06T16:00:00.000Z"
+"end": "2026-10-09T15:45:00.000Z",
+"start": "2026-10-09T14:45:00.000Z"
 }
 ],
 "height": null,
@@ -9575,13 +9732,13 @@
 "markers": [],
 "name": "FAA Operations Advisory",
 "page": "https://space-notices.com/notice/infopage-faa-operations-advisory-nasa-crew-12-reentry",
-"raw": "NASA CREW-12 REENTRY\nPRIMARY:\t10/05/26\t1625Z-1655Z\nBACKUP:\t\t10/06/26\t1600Z-1625Z",
+"raw": "NASA CREW-12 REENTRY\nPRIMARY:\t10/08/26\t1515Z-1545Z\nBACKUP:\t\t10/09/26\t1445Z-1545Z",
 "reason": "NASA CREW-12 REENTRY",
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-03T19:34:42.434Z"
+"updated": "2026-10-04T17:36:43.003Z"
 },
 "via": "sitemap"
 },
@@ -9810,6 +9967,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-27": {
+"gone": "2026-10-05",
 "lastmod": "2026-09-11T19:52:43.399Z",
 "notice": {
 "areas": [],
@@ -10084,6 +10242,34 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/infopage-spacex-crew12": {
+"lastmod": "2026-04-23T14:04:24.726Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": null,
+"id": "infopage-spacex-crew12",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-862b54e3-7bf8-48e5-8cd1-d77257d5fde9",
+"title": "Crew-12"
+}
+],
+"markers": [],
+"name": "SpaceX Mission Page",
+"page": "https://space-notices.com/notice/infopage-spacex-crew12",
+"raw": "On Friday, February 13 at 5:15 a.m. ET, Falcon 9 launched Dragon’s 12th operational human spaceflight mission (Crew-12) to the International Space Station from Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station. Dragon autonomously docked with the space station on Saturday, February 14 at 3:15 p.m. ET. \n\nThe Dragon spacecraft supporting this mission previously flew the Crew-4,\nAx-2,\nAx-3, and\nCrew-9 missions to and from the space station. This was the second flight for the first stage supporting this mission, which prevoulsy launched a Starlink mission. Following stage separation, Falcon 9’s first stage landed on Landing Zone 40 (LZ-40) at Cape Canaveral Space Force Station.\n\nDuring their time on the orbiting laboratory, the crew will conduct new research to prepare for human exploration beyond low-Earth orbit and to benefit humanity on Earth. ",
+"reason": null,
+"source": {
+"link": "https://www.spacex.com/launches/crew12",
+"name": "SpaceX Website"
+},
+"updated": "2026-04-23T14:04:24.726Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/infopage-spacex-crew13": {
 "lastmod": "2026-10-01T23:34:22.132Z",
 "notice": {
@@ -10254,6 +10440,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-spacex-sl-15-27": {
+"gone": "2026-10-05",
 "lastmod": "2026-09-20T03:49:55.882Z",
 "notice": {
 "areas": [],
@@ -14255,6 +14442,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-53354": {
+"gone": "2026-10-05",
 "lastmod": "2026-09-09T17:00:10.999Z",
 "notice": {
 "areas": [
@@ -79121,6 +79309,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%202656%2F26": {
+"gone": "2026-10-05",
 "lastmod": "2026-09-21T18:33:26.288Z",
 "notice": {
 "areas": [
@@ -207379,6 +207568,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20629%2F26": {
+"gone": "2026-10-05",
 "lastmod": "2026-09-15T03:48:01.441Z",
 "notice": {
 "areas": [
@@ -230558,6 +230748,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1219%2F26": {
+"gone": "2026-10-05",
 "lastmod": "2026-09-11T19:42:31.200Z",
 "notice": {
 "areas": [
@@ -231267,7 +231458,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1296%2F26": {
-"lastmod": "2026-10-02T18:31:50.519Z",
+"lastmod": "2026-10-04T21:02:29.963Z",
 "notice": {
 "areas": [
 [
@@ -231346,9 +231537,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82638439",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-02T18:31:50.519Z"
+"updated": "2026-10-04T21:02:29.963Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NZZC-B4420%2F26": {
 "gone": "2026-09-26",
@@ -239691,6 +239882,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SCIZ-R0185%2F26": {
+"gone": "2026-10-05",
 "lastmod": "2026-09-14T10:54:29.642Z",
 "notice": {
 "areas": [
@@ -239969,6 +240161,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SCIZ-W2994%2F26": {
+"gone": "2026-10-05",
 "lastmod": "2026-09-14T11:18:29.993Z",
 "notice": {
 "areas": [
@@ -253487,6 +253680,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-YMMM-F3573%2F26": {
+"gone": "2026-10-05",
 "lastmod": "2026-09-18T03:53:29.808Z",
 "notice": {
 "areas": [
@@ -255595,7 +255789,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-10%2F018-26": {
-"lastmod": "2026-10-03T22:12:53.796Z",
+"lastmod": "2026-10-04T09:57:15.601Z",
 "notice": {
 "areas": [
 [
@@ -255650,9 +255844,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82635606",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-03T22:12:53.796Z"
+"updated": "2026-10-04T09:57:15.601Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-11%2F236": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -267481,6 +267675,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F223-26": {
+"gone": "2026-10-05",
 "lastmod": "2026-09-16T19:00:32.943Z",
 "notice": {
 "areas": [
@@ -267541,6 +267736,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F224-26": {
+"gone": "2026-10-05",
 "lastmod": "2026-09-16T19:00:24.567Z",
 "notice": {
 "areas": [
@@ -267597,6 +267793,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F236-26": {
+"gone": "2026-10-05",
 "lastmod": "2026-09-17T12:59:00.463Z",
 "notice": {
 "areas": [
@@ -267653,6 +267850,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F237-26": {
+"gone": "2026-10-05",
 "lastmod": "2026-09-17T12:59:09.099Z",
 "notice": {
 "areas": [
@@ -267713,6 +267911,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F260-26": {
+"gone": "2026-10-05",
 "lastmod": "2026-09-19T09:51:01.639Z",
 "notice": {
 "areas": [
@@ -267773,6 +267972,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F261-26": {
+"gone": "2026-10-05",
 "lastmod": "2026-09-19T09:50:48.616Z",
 "notice": {
 "areas": [
@@ -268733,7 +268933,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F017-26": {
-"lastmod": "2026-10-03T22:12:53.796Z",
+"lastmod": "2026-10-04T09:57:29.912Z",
 "notice": {
 "areas": [
 [
@@ -268784,12 +268984,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82635605",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-03T22:12:53.796Z"
+"updated": "2026-10-04T09:57:29.912Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F019-26": {
-"lastmod": "2026-10-03T22:12:53.796Z",
+"lastmod": "2026-10-04T09:57:24.357Z",
 "notice": {
 "areas": [
 [
@@ -268856,9 +269056,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82635603",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-03T22:12:53.796Z"
+"updated": "2026-10-04T09:57:24.357Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLHW-A0063%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -272274,6 +272474,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLHW-A4631%2F26": {
+"gone": "2026-10-05",
 "lastmod": "2026-09-16T02:46:38.638Z",
 "notice": {
 "areas": [
@@ -283037,6 +283238,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZPKM-A4632%2F26": {
+"gone": "2026-10-05",
 "lastmod": "2026-09-16T02:46:31.519Z",
 "notice": {
 "areas": [
