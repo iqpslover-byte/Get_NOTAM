@@ -1,5 +1,5 @@
 {
-"count": 2814,
+"count": 2816,
 "notices": [
 {
 "areas": [
@@ -275493,6 +275493,94 @@
 "updated": "2026-10-05T23:23:30.718Z"
 },
 {
+"areas": [
+[
+[
+20.6,
+-133.65
+],
+[
+24.8667,
+-129.85
+],
+[
+27.75,
+-127.05
+],
+[
+28.65,
+-125.35
+],
+[
+28.2667,
+-124.9167
+],
+[
+27.9333,
+-123.85
+],
+[
+27.55,
+-123.4167
+],
+[
+27.1167,
+-123.3167
+],
+[
+25.5,
+-124.1667
+],
+[
+22.6167,
+-126.9
+],
+[
+18.35,
+-130.65
+],
+[
+19.3833,
+-131.9
+],
+[
+19.55,
+-132.4
+],
+[
+20.6,
+-133.65
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-08T16:05:00.000Z",
+"start": "2026-10-08T15:20:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-10/054-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "event-spacex-crew-12-crew-dragon-splashdown",
+"title": "SpaceX Crew-12 Crew Dragon Splashdown"
+}
+],
+"markers": [],
+"name": "10/054",
+"page": "https://space-notices.com/notice/notam-ZAK-10%2F054-26",
+"raw": "!CARF 10/054 ZAK AIRSPACE DCC NASA CREW12 REENTRY 08OCT ASCENDING ISS STNR ALT RESERVATION WI AN AREA DEFINED AS 203600N1333900W TO 245200N1295100W TO 274500N1270300W TO 283900N1252100W TO 281600N1245500W TO 275600N1235100W TO 273300N1232500W TO 270700N1231900W TO 253000N1241000W TO 223700N1265400W TO 182100N1303900W TO 192300N1315400W TO 193300N1322400W TO POINT OF ORIGIN SFC-UNL 2610081520-2610081605",
+"reason": "NASA CREW12 REENTRY 08OCT ASCENDING ISS",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82661581",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-05T23:42:47.444Z"
+},
+{
 "areas": [],
 "cancelled": false,
 "dates": [
@@ -278177,6 +278265,82 @@
 "name": "Cadena OIS"
 },
 "updated": "2026-10-05T17:16:03.544Z"
+},
+{
+"areas": [
+[
+[
+-27.1,
+-149.5833
+],
+[
+-28.9,
+-148.0
+],
+[
+-30.0,
+-149.1833
+],
+[
+-30.0,
+-152.7667
+],
+[
+-27.1,
+-149.5833
+],
+[
+-27.1,
+-149.5833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-13T12:25:00.000Z",
+"start": "2026-10-13T11:30:00.000Z"
+},
+{
+"end": "2026-10-14T11:59:00.000Z",
+"start": "2026-10-14T11:04:00.000Z"
+},
+{
+"end": "2026-10-15T11:36:00.000Z",
+"start": "2026-10-15T10:41:00.000Z"
+},
+{
+"end": "2026-10-16T11:14:00.000Z",
+"start": "2026-10-16T10:19:00.000Z"
+},
+{
+"end": "2026-10-18T10:26:00.000Z",
+"start": "2026-10-18T09:31:00.000Z"
+},
+{
+"end": "2026-10-19T10:03:00.000Z",
+"start": "2026-10-19T09:08:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1300/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-dragon-crs-2-spx-35",
+"title": "Dragon CRS-2 SpX-35"
+}
+],
+"markers": [],
+"name": "A1300/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1300%2F26",
+"raw": "A1300/26 NOTAMN\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2837S14949W175\r\nA) NTTT\r\nB) 2610131130 C) 2610191003\r\nD) 13 1130-1225, 14 1104-1159, 15 1041-1136, 16 1019-1114, 17\r\n 0956-1051, 18 0931-1026, 19 0908-1003\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX CRS-35\r\n IN TAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING POINTS: \r\n2706S 14935W, 2854S 14800W, 3000S 14911W, 3000S 15246W, 2706S\r\n 14935W \r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : NZZO\r\n\r\nTHE FRENCH VERSION OF THIS NOTAM IS C2415/26\r\n\r\nF) SFC G) UNL",
+"reason": "SPACE DEBRIS RETURN OF SPACEX CRS-35",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82659503",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-05T17:21:46.351Z"
 },
 {
 "areas": [
