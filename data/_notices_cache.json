@@ -8388,7 +8388,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209125-26": {
-"lastmod": "2026-10-04T21:02:29.989Z",
+"lastmod": "2026-10-05T18:24:44.210Z",
 "notice": {
 "areas": [
 [
@@ -8509,9 +8509,9 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-04T21:02:29.989Z"
+"updated": "2026-10-05T18:24:44.210Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-blueorigin-ng-2": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -9627,15 +9627,11 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-cadenaois-advisory-2771": {
-"lastmod": "2026-10-02T11:02:03.775Z",
+"lastmod": "2026-10-05T17:12:04.199Z",
 "notice": {
 "areas": [],
 "cancelled": false,
 "dates": [
-{
-"end": "2026-10-05T09:11:00.000Z",
-"start": "2026-10-05T08:06:00.000Z"
-},
 {
 "end": "2026-10-06T09:04:00.000Z",
 "start": "2026-10-06T07:59:00.000Z"
@@ -9666,25 +9662,25 @@
 "kind": "INFOPAGE",
 "launches": [
 {
-"id": "launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+"id": "launch-f9-sda-tranche-1-transport-layer-a",
 "title": "SDA Tranche 1 Transport Layer A"
 }
 ],
 "markers": [],
 "name": "Cadena OIS Advisory 2771",
 "page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2771",
-"raw": "Primary Launch Day\t05 OCT\t0806Z-0911Z\nBackup Launch Day\t06 OCT\t0759Z-0904Z\nBackup Launch Day\t07 OCT\t0751Z-0856Z\nBackup Launch Day\t08 OCT\t0744Z-0849Z\nBackup Launch Day\t09 OCT\t0736Z-0841Z\nBackup Launch Day\t10 OCT\t0729Z-0834Z\nBackup Launch Day\t11 OCT\t0721Z-0826Z\n",
+"raw": "Backup Launch Day\t06 OCT\t0759Z-0904Z\nBackup Launch Day\t07 OCT\t0751Z-0856Z\nBackup Launch Day\t08 OCT\t0744Z-0849Z\nBackup Launch Day\t09 OCT\t0736Z-0841Z\nBackup Launch Day\t10 OCT\t0729Z-0834Z\nBackup Launch Day\t11 OCT\t0721Z-0826Z\n",
 "reason": "SpaceX SDA-T1A",
 "source": {
 "link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
 "name": "Cadena OIS"
 },
-"updated": "2026-10-02T11:02:03.775Z"
+"updated": "2026-10-05T17:12:04.199Z"
 },
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-cadenaois-advisory-2774": {
-"lastmod": "2026-10-03T19:34:52.065Z",
+"lastmod": "2026-10-05T17:12:06.500Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -9716,9 +9712,66 @@
 "link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
 "name": "Cadena OIS"
 },
-"updated": "2026-10-03T19:34:52.065Z"
+"updated": "2026-10-05T17:12:06.500Z"
 },
-"via": "entry"
+"via": "sitemap"
+},
+"https://space-notices.com/notice/infopage-cadenaois-advisory-2775": {
+"lastmod": "2026-10-05T17:16:03.544Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-13T11:14:00.000Z",
+"start": "2026-10-13T10:24:00.000Z"
+},
+{
+"end": "2026-10-14T10:48:00.000Z",
+"start": "2026-10-14T09:58:00.000Z"
+},
+{
+"end": "2026-10-15T10:25:00.000Z",
+"start": "2026-10-15T09:35:00.000Z"
+},
+{
+"end": "2026-10-16T10:03:00.000Z",
+"start": "2026-10-16T09:13:00.000Z"
+},
+{
+"end": "2026-10-17T09:40:00.000Z",
+"start": "2026-10-17T08:50:00.000Z"
+},
+{
+"end": "2026-10-18T09:15:00.000Z",
+"start": "2026-10-18T08:25:00.000Z"
+},
+{
+"end": "2026-10-19T08:52:00.000Z",
+"start": "2026-10-19T08:02:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-cadenaois-advisory-2775",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-dragon-crs-2-spx-35",
+"title": "Dragon CRS-2 SpX-35"
+}
+],
+"markers": [],
+"name": "Cadena OIS Advisory 2775",
+"page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2775",
+"raw": "Primary Launch Day\t13 OCT\t1024Z-1114Z\nBackup Launch Day\t14 OCT\t0958Z-1048Z\nBackup Launch Day\t15 OCT\t0935Z-1025Z\nBackup Launch Day\t16 OCT\t0913Z-1003Z\nBackup Launch Day\t17 OCT\t0850Z-0940Z\nBackup Launch Day\t18 OCT\t0825Z-0915Z\nBackup Launch Day\t19 OCT\t0802Z-0852Z\n",
+"reason": "SpaceX CRS-35",
+"source": {
+"link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
+"name": "Cadena OIS"
+},
+"updated": "2026-10-05T17:16:03.544Z"
+},
+"via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-blue-orgin-ng-3-bluebird-7": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -10093,18 +10146,18 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-sda-t1a": {
-"lastmod": "2026-09-30T21:46:43.576Z",
+"lastmod": "2026-10-05T11:44:43.192Z",
 "notice": {
 "areas": [],
 "cancelled": false,
 "dates": [
 {
-"end": "2026-10-05T09:11:00.000Z",
-"start": "2026-10-05T08:06:00.000Z"
-},
-{
 "end": "2026-10-06T09:04:00.000Z",
 "start": "2026-10-06T07:59:00.000Z"
+},
+{
+"end": "2026-10-07T08:56:00.000Z",
+"start": "2026-10-07T07:51:00.000Z"
 }
 ],
 "height": null,
@@ -10112,20 +10165,20 @@
 "kind": "INFOPAGE",
 "launches": [
 {
-"id": "launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+"id": "launch-f9-sda-tranche-1-transport-layer-a",
 "title": "SDA Tranche 1 Transport Layer A"
 }
 ],
 "markers": [],
 "name": "FAA Operations Advisory",
 "page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-sda-t1a",
-"raw": "SPACEX SDA-T1A, VANDENBERG SFB, CA\nPRIMARY:\t10/05/26\t0806Z-0911Z\nBACKUP:\t\t10/06/26\t0759Z-0904Z",
+"raw": "SPACEX SDA-T1A, VANDENBERG SFB, CA\nPRIMARY:\t10/06/26\t0759Z-0904Z\nBACKUP:\t\t10/07/26\t0751Z-0856Z",
 "reason": "SPACEX SDA-T1A, VANDENBERG SFB, CA",
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-30T21:46:43.576Z"
+"updated": "2026-10-05T11:44:43.192Z"
 },
 "via": "sitemap"
 },
@@ -10519,7 +10572,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-spacex-sda-t1tl-a": {
-"lastmod": "2026-10-01T17:11:23.634Z",
+"lastmod": "2026-10-05T09:14:29.640Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -10529,20 +10582,20 @@
 "kind": "INFOPAGE",
 "launches": [
 {
-"id": "launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+"id": "launch-f9-sda-tranche-1-transport-layer-a",
 "title": "SDA Tranche 1 Transport Layer A"
 }
 ],
 "markers": [],
 "name": "SpaceX Mission Page",
 "page": "https://space-notices.com/notice/infopage-spacex-sda-t1tl-a",
-"raw": "SpaceX is targeting Monday, October 5 for a Falcon 9 launch of the Space Development Agency’s (SDA) fourth Tranche 1 data transport mission to low-Earth orbit (LEO) from Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California. Liftoff is targeted for 1:17 a.m. PT, with a backup opportunity available on Tuesday, October 6 at 1:08 a.m. PT, if needed. This is the fourth of nine Tranche 1 missions Falcon 9 will launch on behalf of the SDA.\n\nA live webcast of this mission will begin about 10 minutes prior to liftoff, which you can watch here and on X @SpaceX. \n\nThis will be the sixth flight for the first stage booster supporting this mission, which previously launched \nNROL-179, SDA-T1TL-E, and three Starlink missions. Following stage separation, the first stage will land on Landing Zone 4 (LZ-4) at Vandenberg Space Force Base.\n\n\nThe space vehicles launched during this mission will provide data transport as part of the SDA’s Proliferated Warfighter Space Architecture, a mesh network of optically connected satellites in low-Earth orbit that enable global military tactical communications and missile warning, indication, and tracking capabilities. Falcon 9 will deliver 21 data transport satellites comprising the fourth orbital plane in the SDA’s proliferated LEO architecture.  \n\nThere is the possibility that residents of Santa Barbara, San Luis Obispo, and Ventura counties may hear  one or more sonic booms during the launch, but what residents experience will depend on weather and other conditions.",
+"raw": "SpaceX is targeting no earlier than Tuesday, October 6 for a Falcon 9 launch of the Space Development Agency’s (SDA) fourth Tranche 1 data transport mission to low-Earth orbit (LEO) from Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California. Liftoff is targeted for 1:17 a.m. PT, with a backup opportunity available on Wednesday, October 7 at 1:02 a.m. PT, if needed. This is the fourth of nine Tranche 1 missions Falcon 9 will launch on behalf of the SDA.\n\nA live webcast of this mission will begin about 10 minutes prior to liftoff, which you can watch here and on X @SpaceX. \n\nThis will be the sixth flight for the first stage booster supporting this mission, which previously launched NROL-179, SDA-T1TL-E, and three Starlink missions. Following stage separation, the first stage will land on Landing Zone 4 (LZ-4) at Vandenberg Space Force Base.\n\n\nThe space vehicles launched during this mission will provide data transport as part of the SDA’s Proliferated Warfighter Space Architecture, a mesh network of optically connected satellites in low-Earth orbit that enable global military tactical communications and missile warning, indication, and tracking capabilities. Falcon 9 will deliver 21 data transport satellites comprising the fourth orbital plane in the SDA’s proliferated LEO architecture.  \n\nThere is the possibility that residents of Santa Barbara, San Luis Obispo, and Ventura counties may hear  one or more sonic booms during the launch, but what residents experience will depend on weather and other conditions.",
 "reason": null,
 "source": {
 "link": "https://www.spacex.com/launches/sda-t1tl-a",
 "name": "SpaceX Website"
 },
-"updated": "2026-10-01T17:11:23.634Z"
+"updated": "2026-10-05T09:14:29.640Z"
 },
 "via": "sitemap"
 },
@@ -17580,7 +17633,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-55061": {
-"lastmod": "2026-10-04T21:02:29.989Z",
+"lastmod": "2026-10-05T18:00:36.473Z",
 "notice": {
 "areas": [
 [
@@ -17701,9 +17754,9 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-04T21:02:29.989Z"
+"updated": "2026-10-05T18:00:36.473Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROARC%2010%2F24": {
 "lastmod": "",
@@ -86066,7 +86119,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%202882%2F26": {
-"lastmod": "2026-10-04T21:02:29.989Z",
+"lastmod": "2026-10-05T03:38:50.924Z",
 "notice": {
 "areas": [
 [
@@ -86153,12 +86206,12 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2882&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-10-04T21:02:29.989Z"
+"updated": "2026-10-05T03:38:50.924Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%202888%2F26": {
-"lastmod": "2026-10-03T23:08:42.511Z",
+"lastmod": "2026-10-05T12:20:43.324Z",
 "notice": {
 "areas": [
 [
@@ -86209,9 +86262,9 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2888&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-10-03T23:08:42.511Z"
+"updated": "2026-10-05T12:20:43.324Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%202896%2F22": {
 "lastmod": "",
@@ -256286,7 +256339,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-10%2F027-26": {
-"lastmod": "2026-10-04T21:48:37.908Z",
+"lastmod": "2026-10-05T10:16:24.466Z",
 "notice": {
 "areas": [
 [
@@ -256341,9 +256394,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82641916",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-04T21:48:37.908Z"
+"updated": "2026-10-05T10:16:24.466Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-11%2F236": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -269558,7 +269611,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F025-26": {
-"lastmod": "2026-10-04T21:48:37.908Z",
+"lastmod": "2026-10-05T10:07:24.484Z",
 "notice": {
 "areas": [
 [
@@ -269625,12 +269678,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82641851",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-04T21:48:37.908Z"
+"updated": "2026-10-05T10:07:24.484Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F026-26": {
-"lastmod": "2026-10-04T21:48:37.908Z",
+"lastmod": "2026-10-05T10:07:32.109Z",
 "notice": {
 "areas": [
 [
@@ -269681,9 +269734,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82641872",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-04T21:48:37.908Z"
+"updated": "2026-10-05T10:07:32.109Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLHW-A0063%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
