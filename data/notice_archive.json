@@ -272674,39 +272674,6 @@
 "updated": "2026-10-05T10:07:32.109Z"
 },
 {
-"areas": [],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-06T09:04:00.000Z",
-"start": "2026-10-06T07:59:00.000Z"
-},
-{
-"end": "2026-10-07T08:56:00.000Z",
-"start": "2026-10-07T07:51:00.000Z"
-}
-],
-"height": null,
-"id": "infopage-faa-operations-advisory-spacex-sda-t1a",
-"kind": "INFOPAGE",
-"launches": [
-{
-"id": "launch-f9-sda-tranche-1-transport-layer-a",
-"title": "SDA Tranche 1 Transport Layer A"
-}
-],
-"markers": [],
-"name": "FAA Operations Advisory",
-"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-sda-t1a",
-"raw": "SPACEX SDA-T1A, VANDENBERG SFB, CA\nPRIMARY:\t10/06/26\t0759Z-0904Z\nBACKUP:\t\t10/07/26\t0751Z-0856Z",
-"reason": "SPACEX SDA-T1A, VANDENBERG SFB, CA",
-"source": {
-"link": "https://www.fly.faa.gov/adv/adv_spt",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-05T11:44:43.192Z"
-},
-{
 "areas": [
 [
 [
@@ -275382,7 +275349,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82653630",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-05T23:23:30.718Z"
+"updated": "2026-10-06T10:10:33.435Z"
 },
 {
 "areas": [
@@ -275434,7 +275401,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82653664",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-05T23:23:30.718Z"
+"updated": "2026-10-06T10:10:39.207Z"
 },
 {
 "areas": [
@@ -275490,7 +275457,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82653688",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-05T23:23:30.718Z"
+"updated": "2026-10-06T10:10:24.527Z"
 },
 {
 "areas": [
@@ -275578,7 +275545,40 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82661581",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-05T23:42:47.444Z"
+"updated": "2026-10-06T21:44:28.922Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-08T08:49:00.000Z",
+"start": "2026-10-08T07:44:00.000Z"
+},
+{
+"end": "2026-10-09T08:41:00.000Z",
+"start": "2026-10-09T07:36:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-spacex-sda-t1a",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-sda-tranche-1-transport-layer-a",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-sda-t1a",
+"raw": "SPACEX SDA-T1A, VANDENBERG SFB, CA\nPRIMARY:\t10/08/26\t0744Z-0849Z\nBACKUP:\t\t10/09/26\t0736Z-0841Z",
+"reason": "SPACEX SDA-T1A, VANDENBERG SFB, CA",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-06T06:16:43.058Z"
 },
 {
 "areas": [],
@@ -276238,14 +276238,6 @@
 "cancelled": false,
 "dates": [
 {
-"end": "2026-10-06T09:04:00.000Z",
-"start": "2026-10-06T07:59:00.000Z"
-},
-{
-"end": "2026-10-07T08:56:00.000Z",
-"start": "2026-10-07T07:51:00.000Z"
-},
-{
 "end": "2026-10-08T08:49:00.000Z",
 "start": "2026-10-08T07:44:00.000Z"
 },
@@ -276274,13 +276266,13 @@
 "markers": [],
 "name": "Cadena OIS Advisory 2771",
 "page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2771",
-"raw": "Backup Launch Day\t06 OCT\t0759Z-0904Z\nBackup Launch Day\t07 OCT\t0751Z-0856Z\nBackup Launch Day\t08 OCT\t0744Z-0849Z\nBackup Launch Day\t09 OCT\t0736Z-0841Z\nBackup Launch Day\t10 OCT\t0729Z-0834Z\nBackup Launch Day\t11 OCT\t0721Z-0826Z\n",
+"raw": "Backup Launch Day\t08 OCT\t0744Z-0849Z\nBackup Launch Day\t09 OCT\t0736Z-0841Z\nBackup Launch Day\t10 OCT\t0729Z-0834Z\nBackup Launch Day\t11 OCT\t0721Z-0826Z\n",
 "reason": "SpaceX SDA-T1A",
 "source": {
 "link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
 "name": "Cadena OIS"
 },
-"updated": "2026-10-05T17:12:04.199Z"
+"updated": "2026-10-06T11:52:06.663Z"
 },
 {
 "areas": [
@@ -277036,7 +277028,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82651549",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-05T23:23:30.718Z"
+"updated": "2026-10-06T04:50:29.316Z"
 },
 {
 "areas": [
@@ -277108,7 +277100,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82652461",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-05T23:23:30.718Z"
+"updated": "2026-10-06T07:23:37.671Z"
 },
 {
 "areas": [],
@@ -278340,7 +278332,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82659503",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-05T17:21:46.351Z"
+"updated": "2026-10-06T18:18:30.711Z"
 },
 {
 "areas": [
@@ -278763,7 +278755,7 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-05T23:42:47.444Z"
+"updated": "2026-09-30T22:41:38.721Z"
 },
 {
 "areas": [
@@ -279031,7 +279023,7 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-05T23:42:47.444Z"
+"updated": "2026-09-30T21:15:35.570Z"
 },
 {
 "areas": [
@@ -279251,7 +279243,7 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-05T23:42:47.444Z"
+"updated": "2026-09-30T23:50:39.862Z"
 },
 {
 "areas": [
@@ -279647,7 +279639,7 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-05T23:42:47.444Z"
+"updated": "2026-09-30T21:55:41.995Z"
 },
 {
 "areas": [
@@ -280487,7 +280479,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=705&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-10-05T23:42:47.444Z"
+"updated": "2026-10-06T10:00:24.007Z"
 },
 {
 "areas": [

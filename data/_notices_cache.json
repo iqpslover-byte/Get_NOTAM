@@ -8150,7 +8150,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209115-26": {
-"lastmod": "2026-10-05T23:42:47.444Z",
+"lastmod": "2026-09-30T21:15:35.570Z",
 "notice": {
 "areas": [
 [
@@ -8349,12 +8349,12 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-05T23:42:47.444Z"
+"updated": "2026-09-30T21:15:35.570Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209116-26": {
-"lastmod": "2026-10-05T23:42:47.444Z",
+"lastmod": "2026-09-30T21:55:41.995Z",
 "notice": {
 "areas": [
 [
@@ -8477,12 +8477,12 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-05T23:42:47.444Z"
+"updated": "2026-09-30T21:55:41.995Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209117-26": {
-"lastmod": "2026-10-05T23:42:47.444Z",
+"lastmod": "2026-09-30T22:41:38.721Z",
 "notice": {
 "areas": [
 [
@@ -8616,12 +8616,12 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-05T23:42:47.444Z"
+"updated": "2026-09-30T22:41:38.721Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209118-26": {
-"lastmod": "2026-10-05T23:42:47.444Z",
+"lastmod": "2026-09-30T23:50:39.862Z",
 "notice": {
 "areas": [
 [
@@ -8840,9 +8840,9 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-05T23:42:47.444Z"
+"updated": "2026-09-30T23:50:39.862Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209123-26": {
 "lastmod": "2026-10-01T23:48:35.443Z",
@@ -10322,19 +10322,11 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-cadenaois-advisory-2771": {
-"lastmod": "2026-10-05T17:12:04.199Z",
+"lastmod": "2026-10-06T11:52:06.663Z",
 "notice": {
 "areas": [],
 "cancelled": false,
 "dates": [
-{
-"end": "2026-10-06T09:04:00.000Z",
-"start": "2026-10-06T07:59:00.000Z"
-},
-{
-"end": "2026-10-07T08:56:00.000Z",
-"start": "2026-10-07T07:51:00.000Z"
-},
 {
 "end": "2026-10-08T08:49:00.000Z",
 "start": "2026-10-08T07:44:00.000Z"
@@ -10364,13 +10356,13 @@
 "markers": [],
 "name": "Cadena OIS Advisory 2771",
 "page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2771",
-"raw": "Backup Launch Day\t06 OCT\t0759Z-0904Z\nBackup Launch Day\t07 OCT\t0751Z-0856Z\nBackup Launch Day\t08 OCT\t0744Z-0849Z\nBackup Launch Day\t09 OCT\t0736Z-0841Z\nBackup Launch Day\t10 OCT\t0729Z-0834Z\nBackup Launch Day\t11 OCT\t0721Z-0826Z\n",
+"raw": "Backup Launch Day\t08 OCT\t0744Z-0849Z\nBackup Launch Day\t09 OCT\t0736Z-0841Z\nBackup Launch Day\t10 OCT\t0729Z-0834Z\nBackup Launch Day\t11 OCT\t0721Z-0826Z\n",
 "reason": "SpaceX SDA-T1A",
 "source": {
 "link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
 "name": "Cadena OIS"
 },
-"updated": "2026-10-05T17:12:04.199Z"
+"updated": "2026-10-06T11:52:06.663Z"
 },
 "via": "sitemap"
 },
@@ -10841,18 +10833,18 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-sda-t1a": {
-"lastmod": "2026-10-05T11:44:43.192Z",
+"lastmod": "2026-10-06T06:16:43.058Z",
 "notice": {
 "areas": [],
 "cancelled": false,
 "dates": [
 {
-"end": "2026-10-06T09:04:00.000Z",
-"start": "2026-10-06T07:59:00.000Z"
+"end": "2026-10-08T08:49:00.000Z",
+"start": "2026-10-08T07:44:00.000Z"
 },
 {
-"end": "2026-10-07T08:56:00.000Z",
-"start": "2026-10-07T07:51:00.000Z"
+"end": "2026-10-09T08:41:00.000Z",
+"start": "2026-10-09T07:36:00.000Z"
 }
 ],
 "height": null,
@@ -10867,13 +10859,13 @@
 "markers": [],
 "name": "FAA Operations Advisory",
 "page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-sda-t1a",
-"raw": "SPACEX SDA-T1A, VANDENBERG SFB, CA\nPRIMARY:\t10/06/26\t0759Z-0904Z\nBACKUP:\t\t10/07/26\t0751Z-0856Z",
+"raw": "SPACEX SDA-T1A, VANDENBERG SFB, CA\nPRIMARY:\t10/08/26\t0744Z-0849Z\nBACKUP:\t\t10/09/26\t0736Z-0841Z",
 "reason": "SPACEX SDA-T1A, VANDENBERG SFB, CA",
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-05T11:44:43.192Z"
+"updated": "2026-10-06T06:16:43.058Z"
 },
 "via": "sitemap"
 },
@@ -210796,7 +210788,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20705%2F26": {
-"lastmod": "2026-10-05T23:42:47.444Z",
+"lastmod": "2026-10-06T10:00:24.007Z",
 "notice": {
 "areas": [
 [
@@ -211447,9 +211439,9 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=705&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-10-05T23:42:47.444Z"
+"updated": "2026-10-06T10:00:24.007Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20710%2F22": {
 "lastmod": "",
@@ -214401,7 +214393,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-FAJO-A3813%2F26": {
-"lastmod": "2026-10-05T23:23:30.718Z",
+"lastmod": "2026-10-06T04:50:29.316Z",
 "notice": {
 "areas": [
 [
@@ -214476,12 +214468,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82651549",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-05T23:23:30.718Z"
+"updated": "2026-10-06T04:50:29.316Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-FAJO-A3817%2F26": {
-"lastmod": "2026-10-05T23:23:30.718Z",
+"lastmod": "2026-10-06T07:23:37.671Z",
 "notice": {
 "areas": [
 [
@@ -214552,9 +214544,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82652461",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-05T23:23:30.718Z"
+"updated": "2026-10-06T07:23:37.671Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-FIMM-A0007%2F25": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -233539,7 +233531,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1300%2F26": {
-"lastmod": "2026-10-05T17:21:46.351Z",
+"lastmod": "2026-10-06T18:18:30.711Z",
 "notice": {
 "areas": [
 [
@@ -233614,9 +233606,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82659503",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-05T17:21:46.351Z"
+"updated": "2026-10-06T18:18:30.711Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NZZC-B4420%2F26": {
 "gone": "2026-09-26",
@@ -257986,7 +257978,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-10%2F039-26": {
-"lastmod": "2026-10-05T23:23:30.718Z",
+"lastmod": "2026-10-06T10:10:24.527Z",
 "notice": {
 "areas": [
 [
@@ -258041,12 +258033,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82653688",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-05T23:23:30.718Z"
+"updated": "2026-10-06T10:10:24.527Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-10%2F054-26": {
-"lastmod": "2026-10-05T23:42:47.444Z",
+"lastmod": "2026-10-06T21:44:28.922Z",
 "notice": {
 "areas": [
 [
@@ -258133,9 +258125,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82661581",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-05T23:42:47.444Z"
+"updated": "2026-10-06T21:44:28.922Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-11%2F236": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -271478,7 +271470,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F037-26": {
-"lastmod": "2026-10-05T23:23:30.718Z",
+"lastmod": "2026-10-06T10:10:33.435Z",
 "notice": {
 "areas": [
 [
@@ -271545,12 +271537,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82653630",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-05T23:23:30.718Z"
+"updated": "2026-10-06T10:10:33.435Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F038-26": {
-"lastmod": "2026-10-05T23:23:30.718Z",
+"lastmod": "2026-10-06T10:10:39.207Z",
 "notice": {
 "areas": [
 [
@@ -271601,9 +271593,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82653664",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-05T23:23:30.718Z"
+"updated": "2026-10-06T10:10:39.207Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLHW-A0063%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
