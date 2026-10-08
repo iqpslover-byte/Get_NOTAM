@@ -1,169 +1,7 @@
 {
 "count": 390,
-"generated_utc": "2026-10-07T22:17:44Z",
+"generated_utc": "2026-10-08T02:17:58Z",
 "notices": [
-{
-"areas": [
-[
-[
-4.1167,
--32.7333
-],
-[
-3.65,
--28.65
-],
-[
-3.0833,
--28.7167
-],
-[
-3.5667,
--32.8
-],
-[
-4.1167,
--32.7333
-]
-],
-[
-[
-5.6167,
--50.2333
-],
-[
-5.75,
--48.9
-],
-[
-5.5833,
--48.8833
-],
-[
-5.45,
--50.2167
-],
-[
-5.6167,
--50.2333
-]
-],
-[
-[
-5.6833,
--48.5667
-],
-[
-5.7167,
--47.0333
-],
-[
-5.3167,
--47.0167
-],
-[
-5.2833,
--48.5667
-],
-[
-5.6833,
--48.5667
-]
-],
-[
-[
-4.4833,
--33.5833
-],
-[
-3.85,
--28.2833
-],
-[
-2.75,
--28.4167
-],
-[
-3.3833,
--33.7
-],
-[
-4.4833,
--33.5833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-08-28T00:01:00.000Z",
-"start": "2026-08-27T19:00:00.000Z"
-},
-{
-"end": "2026-08-29T00:01:00.000Z",
-"start": "2026-08-28T19:00:00.000Z"
-},
-{
-"end": "2026-08-30T00:01:00.000Z",
-"start": "2026-08-29T19:00:00.000Z"
-},
-{
-"end": "2026-08-31T00:01:00.000Z",
-"start": "2026-08-30T19:00:00.000Z"
-},
-{
-"end": "2026-09-01T00:01:00.000Z",
-"start": "2026-08-31T19:00:00.000Z"
-},
-{
-"end": "2026-09-02T00:01:00.000Z",
-"start": "2026-09-01T19:00:00.000Z"
-},
-{
-"end": "2026-09-03T00:01:00.000Z",
-"start": "2026-09-02T19:00:00.000Z"
-},
-{
-"end": "2026-09-04T00:01:00.000Z",
-"start": "2026-09-03T19:00:00.000Z"
-},
-{
-"end": "2026-09-05T00:01:00.000Z",
-"start": "2026-09-04T19:00:00.000Z"
-},
-{
-"end": "2026-09-06T00:01:00.000Z",
-"start": "2026-09-05T19:00:00.000Z"
-},
-{
-"end": "2026-09-07T00:01:00.000Z",
-"start": "2026-09-06T19:00:00.000Z"
-},
-{
-"end": "2026-09-08T00:01:00.000Z",
-"start": "2026-09-07T19:00:00.000Z"
-}
-],
-"height": null,
-"id": "nav-warning-HYDROLANT 1644/26",
-"kind": "NAVWARNING",
-"launches": [
-{
-"id": "launch-a57aed97-b94f-42e1-905e-9421dbd96ac8",
-"title": "MTG-I2"
-}
-],
-"markers": [],
-"name": "HYDROLANT 1644/26",
-"page": "https://space-notices.com/notice/nav-warning-HYDROLANT%201644%2F26",
-"raw": "221041Z AUG 26\nHYDROLANT 1644/26\nNORTH ATLANTIC.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   1900Z TO 0001Z DAILY 27 AUG THRU 07 SEP\n   IN AREAS BOUND BY:\n   A. 04-07.00N 032-44.00W, 03-39.00N 028-39.00W,\n      03-05.00N 028-43.00W, 03-34.00N 032-48.00W.\n   B. 05-37.00N 050-14.00W, 05-45.00N 048-54.00W,\n      05-35.00N 048-53.00W, 05-27.00N 050-13.00W.\n   C. 05-41.00N 048-34.00W, 05-43.00N 047-02.00W,\n      05-19.00N 047-01.00W, 05-17.00N 048-34.00W.\n   D. 04-29.00N 033-35.00W, 03-51.00N 028-17.00W,\n      02-45.00N 028-25.00W, 03-23.00N 033-42.00W.\n2. CANCEL THIS MSG 080100Z SEP 26.",
-"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
-"source": {
-"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=A&msgSqncNumber=1644&createdOn=26&category=14&output=html",
-"name": "US National Geospatial-Intelligence Agency"
-},
-"updated": ""
-},
 {
 "areas": [
 [
@@ -1796,142 +1634,6 @@
 "name": "US National Geospatial-Intelligence Agency"
 },
 "updated": ""
-},
-{
-"areas": [
-[
-[
-13.0333,
-115.6167
-],
-[
-13.35,
-116.0667
-],
-[
-12.4667,
-116.7167
-],
-[
-12.1667,
-116.2667
-],
-[
-13.0333,
-115.6167
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-11T20:00:00.000Z",
-"start": "2026-09-11T16:00:00.000Z"
-},
-{
-"end": "2026-09-12T20:00:00.000Z",
-"start": "2026-09-12T16:00:00.000Z"
-},
-{
-"end": "2026-09-13T20:00:00.000Z",
-"start": "2026-09-13T16:00:00.000Z"
-},
-{
-"end": "2026-09-14T20:00:00.000Z",
-"start": "2026-09-14T16:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-RPHI-B4419/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-63063b9d-ade9-4448-8717-6f910aa81188",
-"title": "Unknown Payload"
-}
-],
-"markers": [],
-"name": "B4419/26",
-"page": "https://space-notices.com/notice/notam-RPHI-B4419%2F26",
-"raw": "B4419/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/1245N11610E038\r\nA) RPHI B) 2609111600 C) 2609142000\r\nD) 1600-2000\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.\r\nEST FALL AREA FOR UNBURNED DEBRIS WI:\r\n130200N 1153700E -\r\n132100N 1160400E -\r\n122800N 1164300E -\r\n121000N 1161600E -\r\n130200N 1153700E\r\n(230NM WEST OF LUBANG AP).\r\nF) SFC G) UNL",
-"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82250280",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-08-28T13:52:15.329Z"
-},
-{
-"areas": [
-[
-[
-8.5833,
-118.8
-],
-[
-8.9,
-119.25
-],
-[
-8.7167,
-119.4833
-],
-[
-7.8333,
-120.1
-],
-[
-7.4333,
-119.5
-],
-[
-8.3167,
-118.8833
-],
-[
-8.5833,
-118.8
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-11T20:00:00.000Z",
-"start": "2026-09-11T16:00:00.000Z"
-},
-{
-"end": "2026-09-12T20:00:00.000Z",
-"start": "2026-09-12T16:00:00.000Z"
-},
-{
-"end": "2026-09-13T20:00:00.000Z",
-"start": "2026-09-13T16:00:00.000Z"
-},
-{
-"end": "2026-09-14T20:00:00.000Z",
-"start": "2026-09-14T16:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-RPHI-B4420/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-63063b9d-ade9-4448-8717-6f910aa81188",
-"title": "Unknown Payload"
-}
-],
-"markers": [],
-"name": "B4420/26",
-"page": "https://space-notices.com/notice/notam-RPHI-B4420%2F26",
-"raw": "B4420/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/0811N11926E046\r\nA) RPHI B) 2609111600 C) 2609142000\r\nD) 1600-2000\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.\r\nEST FALL AREA FOR UNBURNED DEBRIS WI:\r\n083500N 1184800E -\r\n085400N 1191500E -\r\n084300N 1192900E -\r\n075000N 1200600E -\r\n072600N 1193000E -\r\n081900N 1185300E -\r\n083500N 1184800E\r\n(58NM SOUTH OF PUERTO PRINCESA AP).\r\nF) SFC G) UNL",
-"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82250438",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-08-28T13:52:23.715Z"
 },
 {
 "areas": [
@@ -4012,118 +3714,6 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-08-09T22:15:48.565Z"
-},
-{
-"areas": [
-[
-[
-13.2833,
-115.4167
-],
-[
-13.6167,
-115.8667
-],
-[
-12.7333,
-116.5167
-],
-[
-12.4167,
-116.0667
-],
-[
-13.2833,
-115.4167
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-23T13:49:00.000Z",
-"start": "2026-09-23T13:24:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-RPHI-B4932/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "B4932/26",
-"page": "https://space-notices.com/notice/notam-RPHI-B4932%2F26",
-"raw": "B4932/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/1301N11558E038\r\nA) RPHI B) 2609231324 C) 2609231349\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA. \r\nEST FALL AREA OF UNBURNED DEBRIS WI:\r\n131700N 1152500E -\r\n133700N 1155200E -\r\n124400N 1163100E -\r\n122500N 1160400E -\r\n131700N 1152500E\r\n(223NM NORTHWEST OF PUERTO PRINCESA INTL AP).\r\nF) SFC G) UNL",
-"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82468261",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-18T10:11:31.068Z"
-},
-{
-"areas": [
-[
-[
-8.6833,
-118.7167
-],
-[
-9.0,
-119.1833
-],
-[
-8.9,
-119.3667
-],
-[
-8.0167,
-119.9833
-],
-[
-7.5833,
-119.3833
-],
-[
-8.4833,
-118.75
-],
-[
-8.6833,
-118.7167
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-23T14:00:00.000Z",
-"start": "2026-09-23T13:25:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-RPHI-B4933/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "B4933/26",
-"page": "https://space-notices.com/notice/notam-RPHI-B4933%2F26",
-"raw": "B4933/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/0818N11919E044\r\nA) RPHI B) 2609231325 C) 2609231400\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA. \r\nEST FALL AREA OF UNBURNED DEBRIS WI:\r\n084100N 1184300E -\r\n090000N 1191100E -\r\n085400N 1192200E -\r\n080100N 1195900E - \r\n073500N 1192300E -\r\n082900N 1184500E - \r\n084100N 1184300E\r\n(54NM SOUTHEAST OF PUERTO PRINCESA INTL AP).\r\nF) SFC G) UNL",
-"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82468398",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-18T10:29:29.756Z"
 },
 {
 "areas": [
@@ -26082,7 +25672,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82665986",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-06T10:10:39.234Z"
+"updated": "2026-10-07T09:55:43.624Z"
 },
 {
 "areas": [
@@ -26134,40 +25724,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82665979",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-06T10:10:39.234Z"
-},
-{
-"areas": [],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-08T08:49:00.000Z",
-"start": "2026-10-08T07:44:00.000Z"
-},
-{
-"end": "2026-10-09T08:41:00.000Z",
-"start": "2026-10-09T07:36:00.000Z"
-}
-],
-"height": null,
-"id": "infopage-faa-operations-advisory-spacex-sda-t1a",
-"kind": "INFOPAGE",
-"launches": [
-{
-"id": "launch-f9-sda-tranche-1-transport-layer-a",
-"title": "SDA Tranche 1 Transport Layer A"
-}
-],
-"markers": [],
-"name": "FAA Operations Advisory",
-"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-sda-t1a",
-"raw": "SPACEX SDA-T1A, VANDENBERG SFB, CA\nPRIMARY:\t10/08/26\t0744Z-0849Z\nBACKUP:\t\t10/09/26\t0736Z-0841Z",
-"reason": "SPACEX SDA-T1A, VANDENBERG SFB, CA",
-"source": {
-"link": "https://www.fly.faa.gov/adv/adv_spt",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-06T06:16:43.058Z"
+"updated": "2026-10-07T09:55:34.048Z"
 },
 {
 "areas": [
@@ -26223,7 +25780,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82665988",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-06T10:10:39.234Z"
+"updated": "2026-10-07T09:55:24.872Z"
 },
 {
 "areas": [
@@ -26311,7 +25868,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82665972",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-06T21:45:09.775Z"
+"updated": "2026-10-07T09:53:28.673Z"
 },
 {
 "areas": [],
@@ -26528,7 +26085,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82666035",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-06T21:45:09.775Z"
+"updated": "2026-10-07T10:02:28.756Z"
 },
 {
 "areas": [
@@ -26608,7 +26165,40 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82666046",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-06T21:45:09.775Z"
+"updated": "2026-10-07T10:02:35.552Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-09T08:41:00.000Z",
+"start": "2026-10-09T07:36:00.000Z"
+},
+{
+"end": "2026-10-10T08:34:00.000Z",
+"start": "2026-10-10T07:29:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-spacex-sda-t1a",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-sda-tranche-1-transport-layer-a",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-sda-t1a",
+"raw": "SPACEX SDA-T1A, VANDENBERG SFB, CA\nPRIMARY:\t10/09/26\t0736Z-0841Z\nBACKUP:\t\t10/10/26\t0729Z-0834Z",
+"reason": "SPACEX SDA-T1A, VANDENBERG SFB, CA",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-07T23:24:43.488Z"
 },
 {
 "areas": [
@@ -27016,7 +26606,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=709&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-10-06T21:45:09.775Z"
+"updated": "2026-10-07T14:00:27.173Z"
 },
 {
 "areas": [
@@ -27104,7 +26694,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82672104",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-06T21:45:09.775Z"
+"updated": "2026-10-07T18:36:28.918Z"
 },
 {
 "areas": [
@@ -27160,7 +26750,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82671400",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-05T18:24:44.221Z"
+"updated": "2026-10-07T17:44:32.934Z"
 },
 {
 "areas": [
@@ -27212,7 +26802,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82671378",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-05T18:24:44.221Z"
+"updated": "2026-10-07T17:44:24.681Z"
 },
 {
 "areas": [
@@ -27815,7 +27405,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=671&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-09-26T03:15:24.423Z"
+"updated": "2026-10-08T00:00:32.320Z"
 },
 {
 "areas": [
@@ -28054,7 +27644,7 @@
 "kind": "NAVWARNING",
 "launches": [
 {
-"id": "launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+"id": "launch-f9-sda-tranche-1-transport-layer-a",
 "title": "SDA Tranche 1 Transport Layer A"
 }
 ],
@@ -28067,7 +27657,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2828&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-09-30T04:14:14.354Z"
+"updated": "2026-10-07T23:26:43.967Z"
 },
 {
 "areas": [
@@ -28408,7 +27998,7 @@
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-05T18:24:44.221Z"
+"updated": "2026-10-07T19:32:42.496Z"
 },
 {
 "areas": [],
@@ -28446,6 +28036,66 @@
 "name": "Cadena OIS"
 },
 "updated": "2026-09-23T11:09:04.754Z"
+},
+{
+"areas": [
+[
+[
+-30.0,
+-149.1833
+],
+[
+-37.1333,
+-157.9833
+],
+[
+-44.3333,
+-170.2333
+],
+[
+-42.6833,
+-171.5167
+],
+[
+-35.4,
+-159.5
+],
+[
+-30.0,
+-152.7667
+],
+[
+-30.0,
+-149.1833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-13T12:25:00.000Z",
+"start": "2026-10-13T11:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B4954/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-dragon-crs-2-spx-35",
+"title": "Dragon CRS-2 SpX-35"
+}
+],
+"markers": [],
+"name": "B4954/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B4954%2F26",
+"raw": "B4954/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3728S15852W669\r\nA) NZZO B) 2610131130 C) 2610131225\r\nE) TEMPO DANGER AREA NZD092 (EAST AUCKLAND OCEANIC FIR) IS PRESCRIBED\r\nAS FLW:\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n30 00 S 149 11 W\r\n37 08 S 157 59 W\r\n44 20 S 170 14 W\r\n42 41 S 171 31 W\r\n35 24 S 159 30 W\r\n30 00 S 152 46 W\r\n30 00 S 149 11 W\r\nACTIVITY: SPACE DEBRIS RETURN\r\nUSING AGENCY: FOREIGN AEROSPACE FORCE\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED\r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "SPACE DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82675211",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-08T01:04:30.254Z"
 },
 {
 "areas": [
@@ -28916,7 +28566,183 @@
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-06T18:18:30.749Z"
+"updated": "2026-10-07T19:32:43.299Z"
+},
+{
+"areas": [
+[
+[
+-38.3,
+18.0
+],
+[
+-38.0,
+27.0
+],
+[
+-49.0333,
+25.25
+],
+[
+-60.0,
+22.5
+],
+[
+-59.0,
+10.0
+],
+[
+-48.7333,
+14.8333
+],
+[
+-38.3,
+18.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-08T11:01:00.000Z",
+"start": "2026-10-08T10:06:00.000Z"
+},
+{
+"end": "2026-10-09T10:53:00.000Z",
+"start": "2026-10-09T09:58:00.000Z"
+},
+{
+"end": "2026-10-10T10:46:00.000Z",
+"start": "2026-10-10T09:51:00.000Z"
+},
+{
+"end": "2026-10-11T10:38:00.000Z",
+"start": "2026-10-11T09:43:00.000Z"
+},
+{
+"end": "2026-10-12T10:31:00.000Z",
+"start": "2026-10-12T09:36:00.000Z"
+},
+{
+"end": "2026-10-14T10:16:00.000Z",
+"start": "2026-10-14T09:21:00.000Z"
+},
+{
+"end": "2026-10-15T10:08:00.000Z",
+"start": "2026-10-15T09:13:00.000Z"
+},
+{
+"end": "2026-10-16T10:01:00.000Z",
+"start": "2026-10-16T09:05:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROLANT 2001/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-f9-sda-tranche-1-transport-layer-a",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "HYDROLANT 2001/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROLANT%202001%2F26",
+"raw": "072317Z OCT 26\nHYDROLANT 2001/26.\nEASTERN INDIAN OCEAN.\nSOUTH ATLANTIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   081006Z TO 081101Z, 090958Z TO 091053Z\n   100951Z TO 101046Z, 110943Z TO 111038Z\n   120936Z TO 121031Z1, 30928Z TO 131023Z\n   140921Z TO 141016Z, 150913Z TO 151008Z\n   AND 160905Z TO 161001Z OCT\n   IN AREA BOUND BY\n   38-18.00S 018-00.00E, 38-00.00S 027-00.00E,\n   49-02.00S 025-15.00E, 60-00.00S 022-30.00E,\n   59-00.00S 010-00.00E, 48-44.00S 014-50.00E.\n2. CANCEL HYDROLANT 1935/26.\n3. CANCEL THIS MSG 151108Z OCT 26.",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=A&msgSqncNumber=2001&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-10-07T23:32:23.718Z"
+},
+{
+"areas": [
+[
+[
+-38.3,
+18.0
+],
+[
+-38.0,
+27.0
+],
+[
+-49.0333,
+25.25
+],
+[
+-60.0,
+22.5
+],
+[
+-59.0,
+10.0
+],
+[
+-48.7333,
+14.8333
+],
+[
+-38.3,
+18.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-08T11:01:00.000Z",
+"start": "2026-10-08T10:06:00.000Z"
+},
+{
+"end": "2026-10-09T10:53:00.000Z",
+"start": "2026-10-09T09:58:00.000Z"
+},
+{
+"end": "2026-10-10T10:46:00.000Z",
+"start": "2026-10-10T09:51:00.000Z"
+},
+{
+"end": "2026-10-11T10:38:00.000Z",
+"start": "2026-10-11T09:43:00.000Z"
+},
+{
+"end": "2026-10-12T10:31:00.000Z",
+"start": "2026-10-12T09:36:00.000Z"
+},
+{
+"end": "2026-10-14T10:16:00.000Z",
+"start": "2026-10-14T09:21:00.000Z"
+},
+{
+"end": "2026-10-15T10:08:00.000Z",
+"start": "2026-10-15T09:13:00.000Z"
+},
+{
+"end": "2026-10-16T10:01:00.000Z",
+"start": "2026-10-16T09:05:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2916/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-f9-sda-tranche-1-transport-layer-a",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2916/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202916%2F26",
+"raw": "072317Z OCT 26\nHYDROPAC 2916/26.\nEASTERN INDIAN OCEAN.\nSOUTH ATLANTIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   081006Z TO 081101Z, 090958Z TO 091053Z\n   100951Z TO 101046Z, 110943Z TO 111038Z\n   120936Z TO 121031Z1, 30928Z TO 131023Z\n   140921Z TO 141016Z, 150913Z TO 151008Z\n   AND 160905Z TO 161001Z OCT\n   IN AREA BOUND BY\n   38-18.00S 018-00.00E, 38-00.00S 027-00.00E,\n   49-02.00S 025-15.00E, 60-00.00S 022-30.00E,\n   59-00.00S 010-00.00E, 48-44.00S 014-50.00E.\n2. CANCEL HYDROPAC 2828/26.\n3. CANCEL THIS MSG 151108Z OCT 26.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2916&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-10-07T23:26:36.501Z"
 },
 {
 "areas": [
@@ -31820,7 +31646,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=705&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-10-06T10:00:24.007Z"
+"updated": "2026-10-07T14:00:38.266Z"
 },
 {
 "areas": [
@@ -31943,6 +31769,59 @@
 "name": "US Coast Guard"
 },
 "updated": "2026-10-05T18:24:44.210Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-16T04:27:00.000Z",
+"start": "2026-10-15T23:44:00.000Z"
+},
+{
+"end": "2026-10-17T04:18:00.000Z",
+"start": "2026-10-16T23:35:00.000Z"
+},
+{
+"end": "2026-10-18T04:09:00.000Z",
+"start": "2026-10-17T23:26:00.000Z"
+},
+{
+"end": "2026-10-19T04:00:00.000Z",
+"start": "2026-10-18T23:17:00.000Z"
+},
+{
+"end": "2026-10-20T03:51:00.000Z",
+"start": "2026-10-19T23:08:00.000Z"
+},
+{
+"end": "2026-10-21T03:42:00.000Z",
+"start": "2026-10-20T22:59:00.000Z"
+},
+{
+"end": "2026-10-22T03:33:00.000Z",
+"start": "2026-10-21T22:50:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-cadenaois-advisory-2779",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-ussf-xxx-th-2",
+"title": "USSF-xxx (\"TH-2\")"
+}
+],
+"markers": [],
+"name": "Cadena OIS Advisory 2779",
+"page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2779",
+"raw": "Primary Launch Day\t15 OCT\t2344Z-0427Z\nBackup Launch Day\t16 OCT\t2335Z-0418Z\nBackup Launch Day\t17 OCT\t2326Z-0409Z\nBackup Launch Day\t18 OCT\t2317Z-0400Z\nBackup Launch Day\t19 OCT\t2308Z-0351Z\nBackup Launch Day\t20 OCT\t2259Z-0342Z\nBackup Launch Day\t21 OCT\t2250Z-0333Z\n",
+"reason": "SpaceX TH-2",
+"source": {
+"link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
+"name": "Cadena OIS"
+},
+"updated": "2026-10-07T16:44:05.738Z"
 },
 {
 "areas": [
@@ -32255,6 +32134,180 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-29T06:36:51.394Z"
+},
+{
+"areas": [
+[
+[
+30.3833,
+-119.8667
+],
+[
+31.3333,
+-120.05
+],
+[
+32.5333,
+-120.2333
+],
+[
+34.55,
+-120.7
+],
+[
+34.6667,
+-120.6333
+],
+[
+34.6333,
+-120.45
+],
+[
+32.5,
+-120.15
+],
+[
+30.6833,
+-119.8
+],
+[
+30.4,
+-119.8167
+],
+[
+30.3833,
+-119.8667
+]
+],
+[
+[
+30.35,
+-119.9333
+],
+[
+30.3333,
+-119.5167
+],
+[
+29.7833,
+-118.8167
+],
+[
+29.4167,
+-118.75
+],
+[
+28.9167,
+-119.2667
+],
+[
+28.9333,
+-119.6833
+],
+[
+29.5,
+-120.3833
+],
+[
+29.8667,
+-120.45
+],
+[
+30.35,
+-119.9333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-08T08:30:00.000Z",
+"start": "2026-10-08T07:44:00.000Z"
+},
+{
+"end": "2026-10-09T08:22:00.000Z",
+"start": "2026-10-09T07:36:00.000Z"
+},
+{
+"end": "2026-10-10T08:15:00.000Z",
+"start": "2026-10-10T07:29:00.000Z"
+},
+{
+"end": "2026-10-11T08:07:00.000Z",
+"start": "2026-10-11T07:21:00.000Z"
+},
+{
+"end": "2026-10-12T08:00:00.000Z",
+"start": "2026-10-12T07:14:00.000Z"
+},
+{
+"end": "2026-10-13T07:52:00.000Z",
+"start": "2026-10-13T07:06:00.000Z"
+},
+{
+"end": "2026-10-14T07:45:00.000Z",
+"start": "2026-10-14T06:59:00.000Z"
+},
+{
+"end": "2026-10-15T07:37:00.000Z",
+"start": "2026-10-15T06:51:00.000Z"
+},
+{
+"end": "2026-10-16T07:49:00.000Z",
+"start": "2026-10-16T06:43:00.000Z"
+},
+{
+"end": "2026-11-08T08:49:00.000Z",
+"start": "2026-11-08T07:44:00.000Z"
+},
+{
+"end": "2026-11-09T08:41:00.000Z",
+"start": "2026-11-09T07:36:00.000Z"
+},
+{
+"end": "2026-11-10T08:34:00.000Z",
+"start": "2026-11-10T07:29:00.000Z"
+},
+{
+"end": "2026-11-11T08:26:00.000Z",
+"start": "2026-11-11T07:21:00.000Z"
+},
+{
+"end": "2026-11-12T08:19:00.000Z",
+"start": "2026-11-12T07:14:00.000Z"
+},
+{
+"end": "2026-11-13T08:11:00.000Z",
+"start": "2026-11-13T07:06:00.000Z"
+},
+{
+"end": "2026-11-14T08:04:00.000Z",
+"start": "2026-11-14T06:59:00.000Z"
+},
+{
+"end": "2026-11-15T07:56:00.000Z",
+"start": "2026-11-15T06:51:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA XII 710/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-f9-sda-tranche-1-transport-layer-a",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "NAVAREA XII 710/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20710%2F26",
+"raw": "072346Z OCT 26\nNAVAREA XII 710/26.\nNORTH PACIFIC.\nCALIFORNIA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING:\n   A. 080744Z TO 080830Z, 090736Z TO 090822Z,\n      100729Z TO 100815Z, 110721Z TO 110807Z,\n      120714Z TO 120800Z, 130706Z TO 130752Z,\n      140659Z TO 140745Z, 150651Z TO 150737Z AND\n      160643Z TO 160730Z OCT IN AREA BOUND BY\n      30-23.00N 119-52.00W, 31-20.00N 120-03.00W,\n      32-32.00N 120-14.00W, 34-33.00N 120-42.00W,\n      34-40.00N 120-38.00W, 34-38.00N 120-27.00W,\n      32-30.00N 120-09.00W, 30-41.00N 119-48.00W,\n      30-24.00N 119-49.00W, 30-23.00N 119-52.00W.\n   B. 080744Z TO 080849Z, 090736Z TO 090841Z,\n      100729Z TO 100834Z, 110721Z TO 110826Z,\n      120714Z TO 120819Z, 130706Z TO 130811Z,\n      140659Z TO 140804Z, 150651Z TO 150756Z AND\n      160643Z TO 160749Z OCT IN AREA BOUND BY\n      30-21.00N 119-56.00W, 30-20.00N 119-31.00W,\n      29-47.00N 118-49.00W, 29-25.00N 118-45.00W,\n      28-55.00N 119-16.00W, 28-56.00N 119-41.00W,\n      29-30.00N 120-23.00W, 29-52.00N 120-27.00W.\n2. CANCEL NAVAREA XII 671/26.\n3. CANCEL THIS MSG 160849Z OCT 26.",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=710&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-10-08T00:00:24.669Z"
 },
 {
 "areas": [],
@@ -34410,7 +34463,7 @@
 "link": "https://www.spacex.com/launches/crs35",
 "name": "SpaceX Website"
 },
-"updated": "2026-10-06T18:18:30.749Z"
+"updated": "2026-10-07T21:52:30.279Z"
 },
 {
 "areas": [],
@@ -34452,13 +34505,13 @@
 "markers": [],
 "name": "SpaceX Mission Page",
 "page": "https://space-notices.com/notice/infopage-spacex-sda-t1tl-a",
-"raw": "SpaceX is targeting no earlier than Tuesday, October 6 for a Falcon 9 launch of the Space Development Agency’s (SDA) fourth Tranche 1 data transport mission to low-Earth orbit (LEO) from Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California. Liftoff is targeted for 1:17 a.m. PT, with a backup opportunity available on Wednesday, October 7 at 1:02 a.m. PT, if needed. This is the fourth of nine Tranche 1 missions Falcon 9 will launch on behalf of the SDA.\n\nA live webcast of this mission will begin about 10 minutes prior to liftoff, which you can watch here and on X @SpaceX. \n\nThis will be the sixth flight for the first stage booster supporting this mission, which previously launched NROL-179, SDA-T1TL-E, and three Starlink missions. Following stage separation, the first stage will land on Landing Zone 4 (LZ-4) at Vandenberg Space Force Base.\n\n\nThe space vehicles launched during this mission will provide data transport as part of the SDA’s Proliferated Warfighter Space Architecture, a mesh network of optically connected satellites in low-Earth orbit that enable global military tactical communications and missile warning, indication, and tracking capabilities. Falcon 9 will deliver 21 data transport satellites comprising the fourth orbital plane in the SDA’s proliferated LEO architecture.  \n\nThere is the possibility that residents of Santa Barbara, San Luis Obispo, and Ventura counties may hear  one or more sonic booms during the launch, but what residents experience will depend on weather and other conditions.",
+"raw": "SpaceX is targeting no earlier than Saturday, October 10 for a Falcon 9 launch of the Space Development Agency’s (SDA) fourth Tranche 1 data transport mission to low-Earth orbit (LEO) from Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California. Liftoff is targeted for 12:29 a.m. PT, with a backup opportunity available on Sunday, October 11 at 12:32 a.m. PT, if needed. This is the fourth of nine Tranche 1 missions Falcon 9 will launch on behalf of the SDA.\n\nA live webcast of this mission will begin about 10 minutes prior to liftoff, which you can watch here and on X @SpaceX. \n\nThis will be the sixth flight for the first stage booster supporting this mission, which previously launched NROL-179, SDA-T1TL-E, and three Starlink missions. Following stage separation, the first stage will land on Landing Zone 4 (LZ-4) at Vandenberg Space Force Base.\n\n\nThe space vehicles launched during this mission will provide data transport as part of the SDA’s Proliferated Warfighter Space Architecture, a mesh network of optically connected satellites in low-Earth orbit that enable global military tactical communications and missile warning, indication, and tracking capabilities. Falcon 9 will deliver 21 data transport satellites comprising the fourth orbital plane in the SDA’s proliferated LEO architecture.  \n\nThere is the possibility that residents of Santa Barbara, San Luis Obispo, and Ventura counties may hear  one or more sonic booms during the launch, but what residents experience will depend on weather and other conditions.",
 "reason": null,
 "source": {
 "link": "https://www.spacex.com/launches/sda-t1tl-a",
 "name": "SpaceX Website"
 },
-"updated": "2026-10-05T09:14:29.640Z"
+"updated": "2026-10-08T01:30:28.806Z"
 },
 {
 "areas": [],
@@ -35383,5 +35436,5 @@
 "pending": 0,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 2967
+"total_known": 2972
 }
