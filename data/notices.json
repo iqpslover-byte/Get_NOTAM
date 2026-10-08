@@ -1,6 +1,6 @@
 {
-"count": 390,
-"generated_utc": "2026-10-08T02:17:58Z",
+"count": 393,
+"generated_utc": "2026-10-08T09:30:07Z",
 "notices": [
 {
 "areas": [
@@ -27968,6 +27968,74 @@
 "updated": "2026-10-06T07:23:37.671Z"
 },
 {
+"areas": [
+[
+[
+-38.3,
+18.0
+],
+[
+-38.0,
+27.0
+],
+[
+-49.0333,
+25.25
+],
+[
+-60.0,
+22.5
+],
+[
+-59.0,
+10.0
+],
+[
+-48.7333,
+14.8333
+],
+[
+-38.3,
+18.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-09T10:53:00.000Z",
+"start": "2026-10-09T09:58:00.000Z"
+},
+{
+"end": "2026-10-10T10:46:00.000Z",
+"start": "2026-10-10T09:51:00.000Z"
+},
+{
+"end": "2026-10-11T10:38:00.000Z",
+"start": "2026-10-11T09:43:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-FAJO-A3865/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-sda-tranche-1-transport-layer-a",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "A3865/26",
+"page": "https://space-notices.com/notice/notam-FAJO-A3865%2F26",
+"raw": "A3865/26 NOTAMN \r\nQ)FAJO/QWMLW/IV/BO/W/000/999/4848S02018E721\r\nA)FAJO B)2610090958 C)2610111038\r\nD)09 0958-1053, 10 0951-1046, 11 0943-1038\r\nE)AREA BOUNDED BY (3818S 01800E, 3800S 02700E, 4902S 02515E, 6000S\r\n02230E, 5900S 01000E, 4844S 01450E): SPACEX SDA-T1A STAGE 2 ROCKET\r\nRE-ENTRY OPS TAKING PLACE. APPLICABLE AIRSPACE DOWNGRADED TO  CLASS\r\nG.\r\nF)SFC G)UNL",
+"reason": "SPACEX SDA-T1A STAGE 2 ROCKET RE-ENTRY OPS TAKING PLACE.",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82676547",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-08T00:00:32.320Z"
+},
+{
 "areas": [],
 "cancelled": false,
 "dates": [
@@ -29424,6 +29492,212 @@
 "name": "Cadena OIS"
 },
 "updated": "2026-10-05T17:16:03.544Z"
+},
+{
+"areas": [
+[
+[
+31.0667,
+-77.9833
+],
+[
+31.6,
+-77.6833
+],
+[
+31.9167,
+-77.3667
+],
+[
+32.2333,
+-76.7333
+],
+[
+32.1833,
+-76.6333
+],
+[
+31.5667,
+-76.8833
+],
+[
+31.25,
+-77.2667
+],
+[
+31.0,
+-77.9333
+],
+[
+31.0667,
+-77.9833
+]
+],
+[
+[
+28.6167,
+-80.6
+],
+[
+28.8667,
+-80.4667
+],
+[
+30.15,
+-79.1
+],
+[
+29.95,
+-78.9
+],
+[
+28.5167,
+-80.3333
+],
+[
+28.4667,
+-80.5167
+],
+[
+28.6167,
+-80.6
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-13T11:14:00.000Z",
+"start": "2026-10-13T10:24:00.000Z"
+},
+{
+"end": "2026-10-14T10:48:00.000Z",
+"start": "2026-10-14T09:58:00.000Z"
+},
+{
+"end": "2026-10-15T10:25:00.000Z",
+"start": "2026-10-15T09:35:00.000Z"
+},
+{
+"end": "2026-10-16T10:03:00.000Z",
+"start": "2026-10-16T09:13:00.000Z"
+},
+{
+"end": "2026-10-17T09:40:00.000Z",
+"start": "2026-10-17T08:50:00.000Z"
+},
+{
+"end": "2026-10-18T09:15:00.000Z",
+"start": "2026-10-18T08:25:00.000Z"
+},
+{
+"end": "2026-10-19T08:52:00.000Z",
+"start": "2026-10-19T08:02:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA IV 970/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-f9-dragon-crs-2-spx-35",
+"title": "Dragon CRS-2 SpX-35"
+}
+],
+"markers": [],
+"name": "NAVAREA IV 970/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20IV%20970%2F26",
+"raw": "080708Z OCT 26\nNAVAREA IV 970/26.\nNORTH ATLANTIC.\nFLORIDA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   131024Z TO 131114Z OCT, ALTERNATE \n   140958Z TO 141048Z, 150935Z TO 151025Z, \n   160913Z TO 161003Z, 170850Z TO 170940Z,  \n   180825Z TO 180915Z, AND \n   190802Z TO 190852Z OCT IN AREAS BOUND BY:\n   A. 31-04.00N 077-59.00W, 31-36.00N 077-41.00W,\n      31-55.00N 077-22.00W, 32-14.00N 076-44.00W,\n      32-11.00N 076-38.00W, 31-34.00N 076-53.00W,\n      31-15.00N 077-16.00W, 31-00.00N 077-56.00W.\n   B. 28-37.95N 080-36.93W, 28-52.00N 080-28.00W,\n      30-09.00N 079-06.00W, 29-57.00N 078-54.00W,\n      28-31.00N 080-20.00W, 28-28.02N 080-31.80W.\n2. CANCEL THIS MSG 190952Z OCT 26.//\n\n",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=970&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-10-08T01:04:30.270Z"
+},
+{
+"areas": [
+[
+[
+-27.1,
+-149.5833
+],
+[
+-28.9,
+-148.0
+],
+[
+-37.1333,
+-157.9833
+],
+[
+-44.3333,
+-170.2333
+],
+[
+-42.6833,
+-171.5167
+],
+[
+-35.4,
+-159.5
+],
+[
+-27.1,
+-149.5833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-13T12:25:00.000Z",
+"start": "2026-10-13T11:30:00.000Z"
+},
+{
+"end": "2026-10-14T11:59:00.000Z",
+"start": "2026-10-14T11:04:00.000Z"
+},
+{
+"end": "2026-10-15T11:36:00.000Z",
+"start": "2026-10-15T10:41:00.000Z"
+},
+{
+"end": "2026-10-16T11:14:00.000Z",
+"start": "2026-10-16T10:19:00.000Z"
+},
+{
+"end": "2026-10-17T10:51:00.000Z",
+"start": "2026-10-17T09:56:00.000Z"
+},
+{
+"end": "2026-10-18T10:26:00.000Z",
+"start": "2026-10-18T09:31:00.000Z"
+},
+{
+"end": "2026-10-19T10:03:00.000Z",
+"start": "2026-10-19T09:08:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2920/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-f9-dragon-crs-2-spx-35",
+"title": "Dragon CRS-2 SpX-35"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2920/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202920%2F26",
+"raw": "080656Z OCT 26\nHYDROPAC 2920/26.\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS \n   131130Z TO 131225Z, 141104Z TO 141159Z,  \n   151041Z TO 151136Z, 161019Z TO 161114Z,  \n   170956Z TO 171051Z, 180931Z TO 181026Z\n   AND 190908Z TO 191003Z OCT \n   IN AREA BOUND BY\n   27-06.00S 149-35.00W, 28-54.00S 148-00.00W,\n   37-08.00S 157-59.00W, 44-20.00S 170-14.00W,\n   42-41.00S 171-31.00W, 35-24.00S 159-30.00W.\n2. CANCEL THIS MSG 191103Z OCT 26.//\n\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2920&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-10-08T01:04:30.270Z"
 },
 {
 "areas": [
@@ -35436,5 +35710,5 @@
 "pending": 0,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 2972
+"total_known": 2975
 }
