@@ -1,5 +1,5 @@
 {
-"count": 2862,
+"count": 2884,
 "notices": [
 {
 "areas": [
@@ -276055,6 +276055,330 @@
 "areas": [
 [
 [
+34.9833,
+-124.3
+],
+[
+35.0333,
+-122.3333
+],
+[
+34.2667,
+-122.25
+],
+[
+33.9,
+-124.2167
+],
+[
+34.9833,
+-124.3
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-09T12:23:00.000Z",
+"start": "2026-10-09T06:01:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-10/071-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-vsfb-operation-W7600",
+"title": "VSFB Operation W7600"
+}
+],
+"markers": [],
+"name": "10/071",
+"page": "https://space-notices.com/notice/notam-ZAK-10%2F071-26",
+"raw": "!CARF 10/071 ZAK AIRSPACE DCC ASTERION 26-1 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 345900N1241800W TO 350200N1222000W TO 341600N1221500W TO 335400N1241300W TO POINT OF ORIGIN SFC-UNL 2610090601-2610091223",
+"reason": "ASTERION 26-1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82671173",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T11:29:02.491Z"
+},
+{
+"areas": [
+[
+[
+34.9833,
+-124.3
+],
+[
+35.0333,
+-122.3333
+],
+[
+34.2667,
+-122.25
+],
+[
+33.9,
+-124.2167
+],
+[
+34.9833,
+-124.3
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-09T12:23:00.000Z",
+"start": "2026-10-09T06:01:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/077-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-vsfb-operation-W7600",
+"title": "VSFB Operation W7600"
+}
+],
+"markers": [],
+"name": "10/077",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F077-26",
+"raw": "!CARF 10/077 ZLA AIRSPACE DCC ASTERION 26-1 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 345900N1241800W TO 350200N1222000W TO 341600N1221500W TO 335400N1241300W TO POINT OF ORIGIN SFC-UNL 2610090601-2610091223",
+"reason": "ASTERION 26-1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82671220",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T11:26:52.781Z"
+},
+{
+"areas": [
+[
+[
+34.5333,
+-132.45
+],
+[
+34.75,
+-130.6833
+],
+[
+32.4,
+-130.3667
+],
+[
+32.2167,
+-132.1
+],
+[
+34.5333,
+-132.45
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-09T12:28:00.000Z",
+"start": "2026-10-09T06:01:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-10/074-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-vsfb-operation-W7600",
+"title": "VSFB Operation W7600"
+}
+],
+"markers": [],
+"name": "10/074",
+"page": "https://space-notices.com/notice/notam-ZAK-10%2F074-26",
+"raw": "!CARF 10/074 ZAK AIRSPACE DCC ASTERION 26-1 STNR ALT RESERVATION AREA C WI AN AREA DEFINED AS 343200N1322700W TO 344500N1304100W TO 322400N1302200W TO 321300N1320600W TO POINT OF ORIGIN SFC-UNL 2610090601-2610091228",
+"reason": "ASTERION 26-1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82671177",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T11:28:38.771Z"
+},
+{
+"areas": [
+[
+[
+34.7167,
+-120.5667
+],
+[
+34.6667,
+-120.9667
+],
+[
+34.6667,
+-121.1333
+],
+[
+34.8333,
+-121.1333
+],
+[
+34.8333,
+-120.5667
+],
+[
+34.7167,
+-120.5667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-09T12:32:00.000Z",
+"start": "2026-10-09T06:01:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/076-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-vsfb-operation-W7600",
+"title": "VSFB Operation W7600"
+}
+],
+"markers": [],
+"name": "10/076",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F076-26",
+"raw": "!CARF 10/076 ZLA AIRSPACE DCC ASTERION 26-1 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 344300N1203400W TO 344000N1205800W TO 344000N1210800W TO 345000N1210800W TO 345000N1203400W TO POINT OF ORIGIN SFC-UNL 2610090601-2610091232",
+"reason": "ASTERION 26-1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82671196",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T11:26:59.311Z"
+},
+{
+"areas": [
+[
+[
+24.5333,
+-164.1833
+],
+[
+25.4167,
+-161.9
+],
+[
+24.5833,
+-161.5667
+],
+[
+23.7,
+-163.8667
+],
+[
+24.5333,
+-164.1833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-09T12:34:00.000Z",
+"start": "2026-10-09T06:01:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-10/072-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-vsfb-operation-W7600",
+"title": "VSFB Operation W7600"
+}
+],
+"markers": [],
+"name": "10/072",
+"page": "https://space-notices.com/notice/notam-ZAK-10%2F072-26",
+"raw": "!CARF 10/072 ZAK AIRSPACE DCC ASTERION 26-1 STNR ALT RESERVATION AREA D WI AN AREA DEFINED AS 243200N1641100W TO 252500N1615400W TO 243500N1613400W TO 234200N1635200W TO POINT OF ORIGIN SFC-UNL 2610090601-2610091234",
+"reason": "ASTERION 26-1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82671178",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T11:28:48.257Z"
+},
+{
+"areas": [
+[
+[
+9.2667,
+167.35
+],
+[
+9.3833,
+167.55
+],
+[
+9.5,
+167.4833
+],
+[
+9.7667,
+167.9167
+],
+[
+9.3333,
+168.2
+],
+[
+8.9167,
+167.55
+],
+[
+9.2667,
+167.35
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-09T12:42:00.000Z",
+"start": "2026-10-09T06:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-10/047-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-vsfb-operation-W7600",
+"title": "VSFB Operation W7600"
+}
+],
+"markers": [],
+"name": "10/047",
+"page": "https://space-notices.com/notice/notam-ZAK-10%2F047-26",
+"raw": "!CARF 10/047 ZAK AIRSPACE DCC RTR AIROPS 448 STNR ALT RESERVATION WI AN AREA DEFINED AS 091600N1672100E TO 092300N1673300E TO 093000N1672900E TO 094600N1675500E TO 092000N1681200E TO 085500N1673300E TO POINT OF ORIGIN SFC-UNL 2610090600-2610091242",
+"reason": "RTR AIROPS 448",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82655570",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T11:28:10.695Z"
+},
+{
+"areas": [
+[
+[
 20.6,
 -133.65
 ],
@@ -276712,6 +277036,338 @@
 "areas": [
 [
 [
+31.75,
+-120.1
+],
+[
+31.8167,
+-120.0333
+],
+[
+31.2333,
+-119.9167
+],
+[
+31.1833,
+-120.0167
+],
+[
+31.75,
+-120.1
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-10T08:15:00.000Z",
+"start": "2026-10-10T07:29:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/121-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-sda-tranche-1-transport-layer-a",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "10/121",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F121-26",
+"raw": "!CARF 10/121 ZLA AIRSPACE DCC SX SDA-T1A 26-64 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 314500N1200600W TO 314900N1200200W TO 311400N1195500W TO 311100N1200100W TO POINT OF ORIGIN SFC-UNL 2610100729-2610100815",
+"reason": "SX SDA-T1A 26-64",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82690945",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T11:19:51.462Z"
+},
+{
+"areas": [
+[
+[
+32.2667,
+-120.2
+],
+[
+33.3833,
+-120.4
+],
+[
+34.5333,
+-120.65
+],
+[
+34.6333,
+-120.6333
+],
+[
+34.65,
+-120.6
+],
+[
+34.6,
+-120.5167
+],
+[
+33.3667,
+-120.3167
+],
+[
+32.3167,
+-120.1167
+],
+[
+32.2667,
+-120.2
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-10T08:15:00.000Z",
+"start": "2026-10-10T07:29:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/122-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-sda-tranche-1-transport-layer-a",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "10/122",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F122-26",
+"raw": "!CARF 10/122 ZLA AIRSPACE DCC SX SDA-T1A 26-64 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 321600N1201200W TO 332300N1202400W TO 343200N1203900W TO 343800N1203800W TO 343900N1203600W TO 343600N1203100W TO 332200N1201900W TO 321900N1200700W TO POINT OF ORIGIN SFC-UNL 2610100729-2610100815",
+"reason": "SX SDA-T1A 26-64",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82690953",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T11:19:59.859Z"
+},
+{
+"areas": [
+[
+[
+30.15,
+-120.1667
+],
+[
+30.0,
+-120.0
+],
+[
+29.1833,
+-120.0
+],
+[
+29.5,
+-120.3833
+],
+[
+29.8667,
+-120.45
+],
+[
+30.15,
+-120.1667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-10T08:34:00.000Z",
+"start": "2026-10-10T07:29:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-10/123-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-sda-tranche-1-transport-layer-a",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "10/123",
+"page": "https://space-notices.com/notice/notam-ZAK-10%2F123-26",
+"raw": "!CARF 10/123 ZAK AIRSPACE DCC SX SDA-T1A 26-64 STNR ALT RESERVATION AREA C WI AN AREA DEFINED AS 300900N1201000W TO 300000N1200000W TO 291100N1200000W TO 293000N1202300W TO 295200N1202700W TO POINT OF ORIGIN SFC-UNL 2610100729-2610100834",
+"reason": "SX SDA-T1A 26-64",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82690960",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T11:19:42.696Z"
+},
+{
+"areas": [
+[
+[
+34.9833,
+-124.3
+],
+[
+35.0333,
+-122.3333
+],
+[
+34.2667,
+-122.25
+],
+[
+33.9,
+-124.2167
+],
+[
+34.9833,
+-124.3
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-10T12:23:00.000Z",
+"start": "2026-10-10T06:01:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-10/085-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-vsfb-operation-W7600",
+"title": "VSFB Operation W7600"
+}
+],
+"markers": [],
+"name": "10/085",
+"page": "https://space-notices.com/notice/notam-ZAK-10%2F085-26",
+"raw": "!CARF 10/085 ZAK AIRSPACE DCC ASTERION 26-1 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 345900N1241800W TO 350200N1222000W TO 341600N1221500W TO 335400N1241300W TO POINT OF ORIGIN SFC-UNL 2610100601-2610101223",
+"reason": "ASTERION 26-1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82671998",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T11:29:26.215Z"
+},
+{
+"areas": [
+[
+[
+34.9833,
+-124.3
+],
+[
+35.0333,
+-122.3333
+],
+[
+34.2667,
+-122.25
+],
+[
+33.9,
+-124.2167
+],
+[
+34.9833,
+-124.3
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-10T12:23:00.000Z",
+"start": "2026-10-10T06:01:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/086-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-vsfb-operation-W7600",
+"title": "VSFB Operation W7600"
+}
+],
+"markers": [],
+"name": "10/086",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F086-26",
+"raw": "!CARF 10/086 ZLA AIRSPACE DCC ASTERION 26-1 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 345900N1241800W TO 350200N1222000W TO 341600N1221500W TO 335400N1241300W TO POINT OF ORIGIN SFC-UNL 2610100601-2610101223",
+"reason": "ASTERION 26-1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82672012",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T11:27:06.056Z"
+},
+{
+"areas": [
+[
+[
+34.5333,
+-132.45
+],
+[
+34.75,
+-130.6833
+],
+[
+32.4,
+-130.3667
+],
+[
+32.2167,
+-132.1
+],
+[
+34.5333,
+-132.45
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-10T12:28:00.000Z",
+"start": "2026-10-10T06:01:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-10/091-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-vsfb-operation-W7600",
+"title": "VSFB Operation W7600"
+}
+],
+"markers": [],
+"name": "10/091",
+"page": "https://space-notices.com/notice/notam-ZAK-10%2F091-26",
+"raw": "!CARF 10/091 ZAK AIRSPACE DCC ASTERION 26-1 STNR ALT RESERVATION AREA C WI AN AREA DEFINED AS 343200N1322700W TO 344500N1304100W TO 322400N1302200W TO 321300N1320600W TO POINT OF ORIGIN SFC-UNL 2610100601-2610101228",
+"reason": "ASTERION 26-1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82672157",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T11:29:08.471Z"
+},
+{
+"areas": [
+[
+[
 34.633333,
 -120.6
 ],
@@ -276865,6 +277521,62 @@
 "updated": "2026-10-02T22:00:26.853Z"
 },
 {
+"areas": [
+[
+[
+34.7167,
+-120.5667
+],
+[
+34.6667,
+-120.9667
+],
+[
+34.6667,
+-121.1333
+],
+[
+34.8333,
+-121.1333
+],
+[
+34.8333,
+-120.5667
+],
+[
+34.7167,
+-120.5667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-10T12:32:00.000Z",
+"start": "2026-10-10T06:01:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/087-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-vsfb-operation-W7600",
+"title": "VSFB Operation W7600"
+}
+],
+"markers": [],
+"name": "10/087",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F087-26",
+"raw": "!CARF 10/087 ZLA AIRSPACE DCC ASTERION 26-1 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 344300N1203400W TO 344000N1205800W TO 344000N1210800W TO 345000N1210800W TO 345000N1203400W TO POINT OF ORIGIN SFC-UNL 2610100601-2610101232",
+"reason": "ASTERION 26-1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82672038",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T11:27:13.628Z"
+},
+{
 "areas": [],
 "cancelled": false,
 "dates": [
@@ -276929,6 +277641,118 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-03T19:34:43.565Z"
+},
+{
+"areas": [
+[
+[
+24.5333,
+-164.1833
+],
+[
+25.4167,
+-161.9
+],
+[
+24.5833,
+-161.5667
+],
+[
+23.7,
+-163.8667
+],
+[
+24.5333,
+-164.1833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-10T12:34:00.000Z",
+"start": "2026-10-10T06:01:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-10/090-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-vsfb-operation-W7600",
+"title": "VSFB Operation W7600"
+}
+],
+"markers": [],
+"name": "10/090",
+"page": "https://space-notices.com/notice/notam-ZAK-10%2F090-26",
+"raw": "!CARF 10/090 ZAK AIRSPACE DCC ASTERION 26-1 STNR ALT RESERVATION AREA D WI AN AREA DEFINED AS 243200N1641100W TO 252500N1615400W TO 243500N1613400W TO 234200N1635200W TO POINT OF ORIGIN SFC-UNL 2610100601-2610101234",
+"reason": "ASTERION 26-1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82672164",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T11:29:17.454Z"
+},
+{
+"areas": [
+[
+[
+9.2667,
+167.35
+],
+[
+9.3833,
+167.55
+],
+[
+9.5,
+167.4833
+],
+[
+9.7667,
+167.9167
+],
+[
+9.3333,
+168.2
+],
+[
+8.9167,
+167.55
+],
+[
+9.2667,
+167.35
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-10T12:42:00.000Z",
+"start": "2026-10-10T06:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-10/081-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-vsfb-operation-W7600",
+"title": "VSFB Operation W7600"
+}
+],
+"markers": [],
+"name": "10/081",
+"page": "https://space-notices.com/notice/notam-ZAK-10%2F081-26",
+"raw": "!CARF 10/081 ZAK AIRSPACE DCC RTR AIROPS 448 STNR ALT RESERVATION WI AN AREA DEFINED AS 091600N1672100E TO 092300N1673300E TO 093000N1672900E TO 094600N1675500E TO 092000N1681200E TO 085500N1673300E TO POINT OF ORIGIN SFC-UNL 2610100600-2610101242",
+"reason": "RTR AIROPS 448",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82671401",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T11:28:24.657Z"
 },
 {
 "areas": [
@@ -277748,6 +278572,126 @@
 "areas": [
 [
 [
+32.2667,
+-120.2
+],
+[
+33.3833,
+-120.4
+],
+[
+34.5333,
+-120.65
+],
+[
+34.6333,
+-120.6333
+],
+[
+34.65,
+-120.6
+],
+[
+34.6,
+-120.5167
+],
+[
+33.3667,
+-120.3167
+],
+[
+32.3167,
+-120.1167
+],
+[
+32.2667,
+-120.2
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-11T08:07:00.000Z",
+"start": "2026-10-11T07:21:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/124-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-sda-tranche-1-transport-layer-a",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "10/124",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F124-26",
+"raw": "!CARF 10/124 ZLA AIRSPACE DCC SX SDA-T1A 26-64 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 321600N1201200W TO 332300N1202400W TO 343200N1203900W TO 343800N1203800W TO 343900N1203600W TO 343600N1203100W TO 332200N1201900W TO 321900N1200700W TO POINT OF ORIGIN SFC-UNL 2610110721-2610110807",
+"reason": "SX SDA-T1A 26-64",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82690977",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T11:19:37.632Z"
+},
+{
+"areas": [
+[
+[
+31.75,
+-120.1
+],
+[
+31.8167,
+-120.0333
+],
+[
+31.2333,
+-119.9167
+],
+[
+31.1833,
+-120.0167
+],
+[
+31.75,
+-120.1
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-11T08:07:00.000Z",
+"start": "2026-10-11T07:21:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/126-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-sda-tranche-1-transport-layer-a",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "10/126",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F126-26",
+"raw": "!CARF 10/126 ZLA AIRSPACE DCC SX SDA-T1A 26-64 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 314500N1200600W TO 314900N1200200W TO 311400N1195500W TO 311100N1200100W TO POINT OF ORIGIN SFC-UNL 2610110721-2610110807",
+"reason": "SX SDA-T1A 26-64",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82691007",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T11:26:36.371Z"
+},
+{
+"areas": [
+[
+[
 30.35,
 -119.933333
 ],
@@ -278384,6 +279328,62 @@
 "areas": [
 [
 [
+30.15,
+-120.1667
+],
+[
+30.0,
+-120.0
+],
+[
+29.1833,
+-120.0
+],
+[
+29.5,
+-120.3833
+],
+[
+29.8667,
+-120.45
+],
+[
+30.15,
+-120.1667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-11T08:26:00.000Z",
+"start": "2026-10-11T07:21:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-10/125-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-sda-tranche-1-transport-layer-a",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "10/125",
+"page": "https://space-notices.com/notice/notam-ZAK-10%2F125-26",
+"raw": "!CARF 10/125 ZAK AIRSPACE DCC SX SDA-T1A 26-64 STNR ALT RESERVATION AREA C WI AN AREA DEFINED AS 300900N1201000W TO 300000N1200000W TO 291100N1200000W TO 293000N1202300W TO 295200N1202700W TO POINT OF ORIGIN SFC-UNL 2610110721-2610110826",
+"reason": "SX SDA-T1A 26-64",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82691010",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T11:28:01.056Z"
+},
+{
+"areas": [
+[
+[
 -38.3,
 18.0
 ],
@@ -278841,21 +279841,44 @@
 "updated": "2026-10-08T05:18:34.482Z"
 },
 {
-"areas": [],
+"areas": [
+[
+[
+32.65,
+-119.6333
+],
+[
+32.8,
+-119.4
+],
+[
+34.5667,
+-120.4
+],
+[
+34.7,
+-120.5667
+],
+[
+34.5833,
+-120.6833
+],
+[
+32.65,
+-119.6333
+]
+]
+],
 "cancelled": false,
 "dates": [
 {
-"end": "2026-10-11T03:43:00.000Z",
-"start": "2026-10-10T23:00:00.000Z"
-},
-{
-"end": "2026-10-12T03:43:00.000Z",
+"end": "2026-10-12T03:23:00.000Z",
 "start": "2026-10-11T23:00:00.000Z"
 }
 ],
-"height": null,
-"id": "infopage-faa-operations-advisory-spacex-starlink-15-25",
-"kind": "INFOPAGE",
+"height": "Unlimited",
+"id": "notam-ZLA-10/120-26",
+"kind": "NOTAM",
 "launches": [
 {
 "id": "launch-f9-starlink-15-25",
@@ -278863,15 +279886,67 @@
 }
 ],
 "markers": [],
-"name": "FAA Operations Advisory",
-"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-25",
-"raw": "SPACEX STARLINK 15-25, VANDENBERG SFB, CA\nPRIMARY:\t10/10/26\t2300Z-0343Z\nBACKUP:\t\t10/11/26\t2300Z-0343Z",
-"reason": "SPACEX STARLINK 15-25, VANDENBERG SFB, CA",
+"name": "10/120",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F120-26",
+"raw": "!CARF 10/120 ZLA AIRSPACE DCC SX STARLINK 15-25 26-65 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 323900N1193800W TO 324800N1192400W TO 343400N1202400W TO 344200N1203400W TO 343500N1204100W TO POINT OF ORIGIN SFC-UNL 2610112300-2610120323",
+"reason": "SX STARLINK 15-25 26-65",
 "source": {
-"link": "https://www.fly.faa.gov/adv/adv_spt",
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82690943",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-07T19:32:42.496Z"
+"updated": "2026-10-09T11:19:32.156Z"
+},
+{
+"areas": [
+[
+[
+31.5833,
+-119.15
+],
+[
+32.35,
+-119.4667
+],
+[
+32.5333,
+-119.2667
+],
+[
+31.7667,
+-118.7667
+],
+[
+31.5833,
+-119.15
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-12T03:25:00.000Z",
+"start": "2026-10-11T23:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/119-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-25",
+"title": "Starlink Group 15-25"
+}
+],
+"markers": [],
+"name": "10/119",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F119-26",
+"raw": "!CARF 10/119 ZLA AIRSPACE DCC SX STARLINK 15-25 26-65 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 313500N1190900W TO 322100N1192800W TO 323200N1191600W TO 314600N1184600W TO POINT OF ORIGIN SFC-UNL 2610112300-2610120325",
+"reason": "SX STARLINK 15-25 26-65",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82690932",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T11:19:24.544Z"
 },
 {
 "areas": [
@@ -278932,6 +280007,39 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-08T01:04:30.254Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-13T03:43:00.000Z",
+"start": "2026-10-12T23:00:00.000Z"
+},
+{
+"end": "2026-10-14T03:43:00.000Z",
+"start": "2026-10-13T23:00:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-spacex-starlink-15-25",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-starlink-15-25",
+"title": "Starlink Group 15-25"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-25",
+"raw": "SPACEX STARLINK 15-25, VANDENBERG SFB, CA\nPRIMARY:\t10/12/26\t2300Z-0343Z\nBACKUP:\t\t10/13/26\t2300Z-0343Z",
+"reason": "SPACEX STARLINK 15-25, VANDENBERG SFB, CA",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T13:48:43.089Z"
 },
 {
 "areas": [
@@ -280043,55 +281151,6 @@
 "updated": "2026-09-28T21:33:34.811Z"
 },
 {
-"areas": [],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-12T03:43:00.000Z",
-"start": "2026-10-11T23:00:00.000Z"
-},
-{
-"end": "2026-10-13T03:43:00.000Z",
-"start": "2026-10-12T23:00:00.000Z"
-},
-{
-"end": "2026-10-14T03:43:00.000Z",
-"start": "2026-10-13T23:00:00.000Z"
-},
-{
-"end": "2026-10-15T03:43:00.000Z",
-"start": "2026-10-14T23:00:00.000Z"
-},
-{
-"end": "2026-10-16T03:43:00.000Z",
-"start": "2026-10-15T23:00:00.000Z"
-},
-{
-"end": "2026-10-17T03:43:00.000Z",
-"start": "2026-10-16T23:00:00.000Z"
-}
-],
-"height": null,
-"id": "infopage-cadenaois-advisory-2750",
-"kind": "INFOPAGE",
-"launches": [
-{
-"id": "launch-f9-starlink-15-25",
-"title": "Starlink Group 15-25"
-}
-],
-"markers": [],
-"name": "Cadena OIS Advisory 2750",
-"page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2750",
-"raw": "Primary Launch Day\t11 OCT\t\t2300Z-0343Z\nBackup Launch Day\t12 OCT\t\t2300Z-0343Z\nBackup Launch Day\t13 OCT\t\t2300Z-0343Z\nBackup Launch Day\t14 OCT\t\t2300Z-0343Z\nBackup Launch Day\t15 OCT\t\t2300Z-0343Z\nBackup Launch Day\t16 OCT\t\t2300Z-0343Z\n",
-"reason": "SpaceX Starlink 15-25",
-"source": {
-"link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
-"name": "Cadena OIS"
-},
-"updated": "2026-10-08T13:00:11.172Z"
-},
-{
 "areas": [
 [
 [
@@ -280752,6 +281811,143 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-08T13:59:32.015Z"
+},
+{
+"areas": [
+[
+[
+-30.0,
+-121.8833
+],
+[
+-30.0,
+-120.0
+],
+[
+-28.7167,
+-120.0
+],
+[
+-38.35,
+-115.0667
+],
+[
+-49.15,
+-107.3667
+],
+[
+-59.15,
+-95.5667
+],
+[
+-59.9667,
+-99.0833
+],
+[
+-44.5667,
+-114.2167
+],
+[
+-30.0,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-13T05:25:00.000Z",
+"start": "2026-10-13T00:47:00.000Z"
+},
+{
+"end": "2026-10-14T05:25:00.000Z",
+"start": "2026-10-14T00:47:00.000Z"
+},
+{
+"end": "2026-10-15T05:25:00.000Z",
+"start": "2026-10-15T00:47:00.000Z"
+},
+{
+"end": "2026-10-16T05:25:00.000Z",
+"start": "2026-10-16T00:47:00.000Z"
+},
+{
+"end": "2026-10-17T05:25:00.000Z",
+"start": "2026-10-17T00:47:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-SCIZ-W3459/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-25",
+"title": "Starlink Group 15-25"
+}
+],
+"markers": [],
+"name": "W3459/26",
+"page": "https://space-notices.com/notice/notam-SCIZ-W3459%2F26",
+"raw": "W3459/26 NOTAMN \r\nQ)SCIZ/QXXXX/IV/NBO/W/000/999/4501S11153W980\r\nA)SCIZ B)2610130047 C)2610170525\r\nD)DLY BTN 0047-0525\r\nE)ZONE...D... IN WATERS PACIFIC OCEAN DUE TO SPACE VEHICLE RE-ENTRY\r\nAND SPLASHDOWN ACTIVITY. THE AFECCTED AREA IS BOUNDED BY NXT GEO\r\nCOORD:\r\n300000S/1215300W\r\n300000S/1200000W\r\n284300S/1200000W\r\n382100S/1150400W\r\n490900S/1072200W\r\n590900S/0953400W\r\n595800S/0990500W\r\n443400S/1141300W\r\n300000S/1215300W\r\nINSTRUCTIONS: SANTIAGO OCEANIC CONTROL 10024KHZ FANS 1A EQUIPPED\r\nINFO PROVIDED BY SPACE X\r\nF)GND G)UNL",
+"reason": "SPACE VEHICLE RE-ENTRY AND SPLASHDOWN ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82694366",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T11:19:32.174Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-13T03:43:00.000Z",
+"start": "2026-10-12T23:00:00.000Z"
+},
+{
+"end": "2026-10-14T03:43:00.000Z",
+"start": "2026-10-13T23:00:00.000Z"
+},
+{
+"end": "2026-10-15T03:43:00.000Z",
+"start": "2026-10-14T23:00:00.000Z"
+},
+{
+"end": "2026-10-16T03:43:00.000Z",
+"start": "2026-10-15T23:00:00.000Z"
+},
+{
+"end": "2026-10-17T03:43:00.000Z",
+"start": "2026-10-16T23:00:00.000Z"
+},
+{
+"end": "2026-10-18T03:43:00.000Z",
+"start": "2026-10-17T23:00:00.000Z"
+},
+{
+"end": "2026-10-19T03:43:00.000Z",
+"start": "2026-10-18T23:00:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-cadenaois-advisory-2750",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-starlink-15-25",
+"title": "Starlink Group 15-25"
+}
+],
+"markers": [],
+"name": "Cadena OIS Advisory 2750",
+"page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2750",
+"raw": "Backup Launch Day\t12 OCT\t\t2300Z-0343Z\nBackup Launch Day\t13 OCT\t\t2300Z-0343Z\nBackup Launch Day\t14 OCT\t\t2300Z-0343Z\nBackup Launch Day\t15 OCT\t\t2300Z-0343Z\nBackup Launch Day\t16 OCT\t\t2300Z-0343Z\nBackup Launch Day\t17 OCT\t\t2300Z-0343Z\nBackup Launch Day\t18 OCT\t\t2300Z-0343Z",
+"reason": "SpaceX Starlink 15-25",
+"source": {
+"link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
+"name": "Cadena OIS"
+},
+"updated": "2026-10-09T10:52:04.313Z"
 },
 {
 "areas": [],
@@ -284279,6 +285475,86 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-08T19:02:30.812Z"
+},
+{
+"areas": [
+[
+[
+-36.6333,
+-131.0
+],
+[
+-43.3333,
+-129.1333
+],
+[
+-59.4167,
+-121.9833
+],
+[
+-59.95,
+-127.4
+],
+[
+-51.15,
+-131.0
+],
+[
+-36.6333,
+-131.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-16T06:08:00.000Z",
+"start": "2026-10-16T01:30:00.000Z"
+},
+{
+"end": "2026-10-17T05:59:00.000Z",
+"start": "2026-10-17T01:21:00.000Z"
+},
+{
+"end": "2026-10-18T05:50:00.000Z",
+"start": "2026-10-18T01:12:00.000Z"
+},
+{
+"end": "2026-10-19T05:41:00.000Z",
+"start": "2026-10-19T01:03:00.000Z"
+},
+{
+"end": "2026-10-20T05:32:00.000Z",
+"start": "2026-10-20T00:54:00.000Z"
+},
+{
+"end": "2026-10-21T05:23:00.000Z",
+"start": "2026-10-21T00:45:00.000Z"
+},
+{
+"end": "2026-10-22T05:14:00.000Z",
+"start": "2026-10-22T00:36:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-SCIZ-W3453/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-481",
+"title": "USSF-481"
+}
+],
+"markers": [],
+"name": "W3453/26",
+"page": "https://space-notices.com/notice/notam-SCIZ-W3453%2F26",
+"raw": "W3453/26 NOTAMN \r\nQ)SCIZ/QXXXX/IV/NBO/W/000/999/5009S12835W980\r\nA)SCIZ B)2610160130 C)2610220514\r\nD)16 0130-0608 17 0121-0559 18 0112-0550\r\n19 0103-0541 20 0054-0532 21 0045-0523\r\n22 0036-0514\r\nE)ZONE...D... IN WATERS PACIFIC OCEAN DUE TO SPACE VEHICLE RE-ENTRY\r\nAND SPLASHDOWN ACTIVITY. THE AFECCTED AREA IS BOUNDED BY NXT GEO\r\nCOORD: \r\n363800S/1310000W\r\n432000S/1290800W\r\n592500S/1215900W\r\n595700S/1272400W\r\n510900S/1310000W\r\n363800S/1310000W\r\nINSTRUCTIONS: SANTIAGO OCEANIC CONTROL 10024KHZ FANS 1A EQUIPPED \r\nINFO PROVIDED BY SPACE X\r\nF)SFC G)UNL",
+"reason": "SPACE VEHICLE RE-ENTRY AND SPLASHDOWN ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82693196",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T14:37:30.722Z"
 },
 {
 "areas": [
