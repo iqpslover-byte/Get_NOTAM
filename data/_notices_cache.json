@@ -244038,6 +244038,166 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-RPHI-B5404%2F26": {
+"lastmod": "2026-10-09T05:20:29.594Z",
+"notice": {
+"areas": [
+[
+[
+13.0333,
+115.6167
+],
+[
+13.35,
+116.0667
+],
+[
+12.4667,
+116.7167
+],
+[
+12.1667,
+116.2667
+],
+[
+13.0333,
+115.6167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-22T05:00:00.000Z",
+"start": "2026-10-22T02:00:00.000Z"
+},
+{
+"end": "2026-10-23T05:00:00.000Z",
+"start": "2026-10-23T02:00:00.000Z"
+},
+{
+"end": "2026-10-24T05:00:00.000Z",
+"start": "2026-10-24T02:00:00.000Z"
+},
+{
+"end": "2026-10-25T05:00:00.000Z",
+"start": "2026-10-25T02:00:00.000Z"
+},
+{
+"end": "2026-10-26T05:00:00.000Z",
+"start": "2026-10-26T02:00:00.000Z"
+},
+{
+"end": "2026-10-27T05:00:00.000Z",
+"start": "2026-10-27T02:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RPHI-B5404/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "B5404/26",
+"page": "https://space-notices.com/notice/notam-RPHI-B5404%2F26",
+"raw": "B5404/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/1245N11610E038\r\nA) RPHI B) 2610220200 C) 2610270500\r\nD) 0200-0500\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.\r\nEST FALL AREA OF UNBURNED DEBRIS WI:\r\n130200N 1153700E -\r\n132100N 1160400E -\r\n122800N 1164300E -\r\n121000N 1161600E -\r\n130200N 1153700E \r\n(200NM WEST OF BUSUANGA AP).\r\nF) SFC G) UNL",
+"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82688359",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T05:20:29.594Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-RPHI-B5405%2F26": {
+"lastmod": "2026-10-09T05:20:43.667Z",
+"notice": {
+"areas": [
+[
+[
+8.5833,
+118.8
+],
+[
+8.9,
+119.25
+],
+[
+8.7167,
+119.4833
+],
+[
+7.8333,
+120.1
+],
+[
+7.4333,
+119.5
+],
+[
+8.3167,
+118.8833
+],
+[
+8.5833,
+118.8
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-22T05:00:00.000Z",
+"start": "2026-10-22T02:00:00.000Z"
+},
+{
+"end": "2026-10-23T05:00:00.000Z",
+"start": "2026-10-23T02:00:00.000Z"
+},
+{
+"end": "2026-10-24T05:00:00.000Z",
+"start": "2026-10-24T02:00:00.000Z"
+},
+{
+"end": "2026-10-25T05:00:00.000Z",
+"start": "2026-10-25T02:00:00.000Z"
+},
+{
+"end": "2026-10-26T05:00:00.000Z",
+"start": "2026-10-26T02:00:00.000Z"
+},
+{
+"end": "2026-10-27T05:00:00.000Z",
+"start": "2026-10-27T02:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RPHI-B5405/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "B5405/26",
+"page": "https://space-notices.com/notice/notam-RPHI-B5405%2F26",
+"raw": "B5405/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/0811N11926E046\r\nA) RPHI B) 2610220200 C) 2610270500\r\nD) 0200-0500\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.\r\nEST FALL AREA FOR UNBURNED DEBRIS WI:\r\n083500N 1184800E -\r\n085400N 1191500E -\r\n084300N 1192900E -\r\n075000N 1200600E -\r\n072600N 1193000E -\r\n081900N 1185300E -\r\n083500N 1184800E\r\n(56NM SOUTH OF PUERTO PRINCESA AP).\r\nF) SFC G) UNL",
+"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82688386",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-09T05:20:43.667Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-SBAO-N0060%2F26": {
 "gone": "2026-09-28",
 "lastmod": "2026-09-06T21:50:53.427Z",
