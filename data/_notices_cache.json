@@ -9721,7 +9721,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209127-26": {
-"lastmod": "2026-10-09T11:29:21.179Z",
+"lastmod": "2026-10-09T16:56:44.992Z",
 "notice": {
 "areas": [
 [
@@ -9862,9 +9862,9 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-09T11:29:21.179Z"
+"updated": "2026-10-09T16:56:44.992Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-blueorigin-ng-2": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -11873,7 +11873,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-th-2": {
-"lastmod": "2026-10-09T14:37:30.761Z",
+"lastmod": "2026-10-09T19:52:42.589Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -11905,9 +11905,9 @@
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-09T14:37:30.761Z"
+"updated": "2026-10-09T19:52:42.589Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-stratolaunch-helena": {
 "lastmod": "2026-09-30T19:40:43.555Z",
@@ -236000,7 +236000,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1313%2F26": {
-"lastmod": "2026-10-09T11:19:32.174Z",
+"lastmod": "2026-10-09T18:42:29.429Z",
 "notice": {
 "areas": [
 [
@@ -236071,9 +236071,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82695495",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-09T11:19:32.174Z"
+"updated": "2026-10-09T18:42:29.429Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NZZC-B4420%2F26": {
 "gone": "2026-09-26",
@@ -246008,7 +246008,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SCIZ-W3459%2F26": {
-"lastmod": "2026-10-09T11:19:32.174Z",
+"lastmod": "2026-10-09T16:16:36.689Z",
 "notice": {
 "areas": [
 [
@@ -246091,9 +246091,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82694366",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-09T11:19:32.174Z"
+"updated": "2026-10-09T16:16:36.689Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SMPM-A0368%2F26": {
 "lastmod": "2026-09-27T19:52:14.739Z",
