@@ -6023,6 +6023,132 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/bnm-CGD-SE%20BNM%209079-26": {
+"lastmod": "2026-10-11T16:08:43.719Z",
+"notice": {
+"areas": [
+[
+[
+31.066667,
+-77.983333
+],
+[
+31.6,
+-77.683333
+],
+[
+31.916667,
+-77.366667
+],
+[
+32.233333,
+-76.733333
+],
+[
+32.183333,
+-76.633333
+],
+[
+31.566667,
+-76.883333
+],
+[
+31.25,
+-77.266667
+],
+[
+31.0,
+-77.933333
+],
+[
+31.066667,
+-77.983333
+]
+],
+[
+[
+28.6325,
+-80.615556
+],
+[
+28.866667,
+-80.466667
+],
+[
+30.15,
+-79.1
+],
+[
+29.95,
+-78.9
+],
+[
+28.516667,
+-80.333333
+],
+[
+28.466944,
+-80.53
+],
+[
+28.6325,
+-80.615556
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-13T11:14:00.000Z",
+"start": "2026-10-13T10:24:00.000Z"
+},
+{
+"end": "2026-10-14T10:48:00.000Z",
+"start": "2026-10-14T09:58:00.000Z"
+},
+{
+"end": "2026-10-15T10:25:00.000Z",
+"start": "2026-10-15T09:35:00.000Z"
+},
+{
+"end": "2026-10-16T10:03:00.000Z",
+"start": "2026-10-16T09:13:00.000Z"
+},
+{
+"end": "2026-10-17T09:40:00.000Z",
+"start": "2026-10-17T08:50:00.000Z"
+},
+{
+"end": "2026-10-18T09:15:00.000Z",
+"start": "2026-10-18T08:25:00.000Z"
+},
+{
+"end": "2026-10-19T08:52:00.000Z",
+"start": "2026-10-19T08:02:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SE BNM 9079-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "launch-f9-dragon-crs-2-spx-35",
+"title": "Dragon CRS-2 SpX-35"
+}
+],
+"markers": [],
+"name": "CGD-SE BNM 9079-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SE%20BNM%209079-26",
+"raw": "Launch Hazard Area\nMission: CRS-35 \nMessage Id: CGD-SE BNM 9079-26\n\n13/1024 OCT 26 to 13/1114 OCT 26. \n14/0958 OCT 26 to 14/1048 OCT 26. \n15/0935 OCT 26 to 15/1025 OCT 26. \n16/0913 OCT 26 to 16/1003 OCT 26. \n17/0850 OCT 26 to 17/0940 OCT 26. \n18/0825 OCT 26 to 18/0915 OCT 26. \n19/0802 OCT 26 to 19/0852 OCT 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
+"reason": "Launch Hazard Area - CRS-35",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-10-11T16:08:43.719Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/bnm-CGD-SE%20BNM%209137-25": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
