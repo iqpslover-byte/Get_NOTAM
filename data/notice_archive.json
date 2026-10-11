@@ -1,5 +1,5 @@
 {
-"count": 2877,
+"count": 2878,
 "notices": [
 {
 "areas": [
@@ -277416,140 +277416,6 @@
 "areas": [
 [
 [
-30.383333,
--119.866667
-],
-[
-31.333333,
--120.05
-],
-[
-32.533333,
--120.233333
-],
-[
-34.55,
--120.7
-],
-[
-34.666667,
--120.633333
-],
-[
-34.633333,
--120.45
-],
-[
-32.5,
--120.15
-],
-[
-30.683333,
--119.8
-],
-[
-30.4,
--119.816667
-],
-[
-30.383333,
--119.866667
-]
-],
-[
-[
-30.35,
--119.933333
-],
-[
-30.333333,
--119.516667
-],
-[
-29.783333,
--118.816667
-],
-[
-29.416667,
--118.75
-],
-[
-28.916667,
--119.266667
-],
-[
-28.933333,
--119.683333
-],
-[
-29.5,
--120.383333
-],
-[
-29.866667,
--120.45
-],
-[
-30.35,
--119.933333
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-05T09:11:00.000Z",
-"start": "2026-10-05T08:06:00.000Z"
-},
-{
-"end": "2026-10-06T09:04:00.000Z",
-"start": "2026-10-06T07:59:00.000Z"
-},
-{
-"end": "2026-10-07T08:56:00.000Z",
-"start": "2026-10-07T07:51:00.000Z"
-},
-{
-"end": "2026-10-08T08:49:00.000Z",
-"start": "2026-10-08T07:44:00.000Z"
-},
-{
-"end": "2026-10-09T08:41:00.000Z",
-"start": "2026-10-09T07:36:00.000Z"
-},
-{
-"end": "2026-10-10T08:34:00.000Z",
-"start": "2026-10-10T07:29:00.000Z"
-},
-{
-"end": "2026-10-11T08:26:00.000Z",
-"start": "2026-10-11T07:21:00.000Z"
-}
-],
-"height": null,
-"id": "lnm-54442",
-"kind": "LNM",
-"launches": [
-{
-"id": "launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
-"title": "SDA Tranche 1 Transport Layer A"
-}
-],
-"markers": [],
-"name": "54442",
-"page": "https://space-notices.com/notice/lnm-54442",
-"raw": "Hazardous operations will be conducted for Space X, SDA-T1A Launch Operations. Hazardous operation areas are bounded by the following coordinates and times:\n\nHazard Area A: \n30.38333333N, -119.86666667W \n31.33333333N, -120.05W \n32.53333333N, -120.23333333W \n34.55N, -120.7W \n34.66666667N, -120.63333333W \n34.63333333N, -120.45W \n32.5N, -120.15W \n30.68333333N, -119.8W \n30.4N, -119.81666667W (TO BEGINNING)\n             \n050806Z OCT TO 050852Z OCT 2026---- (PRIMARY) \n060759Z OCT TO 060845Z OCT 2026---- (BACKUP DAY) \n070751Z OCT TO 070837Z OCT 2026---- (BACKUP DAY) \n080744Z OCT TO 080830Z OCT 2026---- (BACKUP DAY) \n090736Z OCT TO 090822Z OCT 2026---- (BACKUP DAY) \n100729Z OCT TO 100815Z OCT 2026---- (BACKUP DAY) \n110721Z OCT TO 110807Z OCT 2026---- (BACKUP DAY) \n\nHazard Area B:\n30.35N, -119.93333333W \n30.33333333N, -119.51666667W \n29.78333333N, -118.81666667W \n29.41666667N, -118.75W \n28.91666667N, -119.26666667W \n28.93333333N, -119.68333333W \n29.5N, -120.38333333W \n29.86666667N, -120.45W (TO BEGINNING)\n            \n050806Z OCT TO 050911Z OCT 2026---- (PRIMARY) \n060759Z OCT TO 060904Z OCT 2026---- (BACKUP DAY) \n070751Z OCT TO 070856Z OCT 2026---- (BACKUP DAY) \n080744Z OCT TO 080849Z OCT 2026---- (BACKUP DAY) \n090736Z OCT TO 090841Z OCT 2026---- (BACKUP DAY) \n100729Z OCT TO 100834Z OCT 2026---- (BACKUP DAY) \n110721Z OCT TO 110826Z OCT 2026---- (BACKUP DAY) \n\nMariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16.",
-"reason": "Hazardous operations will be conducted for Space X SDA-T1A Launch Operations",
-"source": {
-"link": "https://www.navcen.uscg.gov/msi",
-"name": "US Coast Guard"
-},
-"updated": "2026-09-25T21:00:41.438Z"
-},
-{
-"areas": [
-[
-[
 30.3833,
 -119.8667
 ],
@@ -279729,6 +279595,160 @@
 "name": "US Coast Guard"
 },
 "updated": "2026-10-09T16:56:44.992Z"
+},
+{
+"areas": [
+[
+[
+30.383333,
+-119.866667
+],
+[
+31.333333,
+-120.05
+],
+[
+32.533333,
+-120.233333
+],
+[
+34.55,
+-120.7
+],
+[
+34.666667,
+-120.633333
+],
+[
+34.633333,
+-120.45
+],
+[
+32.5,
+-120.15
+],
+[
+30.683333,
+-119.8
+],
+[
+30.4,
+-119.816667
+],
+[
+30.383333,
+-119.866667
+]
+],
+[
+[
+30.35,
+-119.933333
+],
+[
+30.333333,
+-119.516667
+],
+[
+29.783333,
+-118.816667
+],
+[
+29.416667,
+-118.75
+],
+[
+28.916667,
+-119.266667
+],
+[
+28.933333,
+-119.683333
+],
+[
+29.5,
+-120.383333
+],
+[
+29.866667,
+-120.45
+],
+[
+30.35,
+-119.933333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-05T09:11:00.000Z",
+"start": "2026-10-05T08:06:00.000Z"
+},
+{
+"end": "2026-10-06T09:04:00.000Z",
+"start": "2026-10-06T07:59:00.000Z"
+},
+{
+"end": "2026-10-07T08:56:00.000Z",
+"start": "2026-10-07T07:51:00.000Z"
+},
+{
+"end": "2026-10-08T08:49:00.000Z",
+"start": "2026-10-08T07:44:00.000Z"
+},
+{
+"end": "2026-10-09T08:41:00.000Z",
+"start": "2026-10-09T07:36:00.000Z"
+},
+{
+"end": "2026-10-10T08:34:00.000Z",
+"start": "2026-10-10T07:29:00.000Z"
+},
+{
+"end": "2026-10-11T08:26:00.000Z",
+"start": "2026-10-11T07:21:00.000Z"
+},
+{
+"end": "2026-10-12T08:19:00.000Z",
+"start": "2026-10-12T07:14:00.000Z"
+},
+{
+"end": "2026-10-13T08:11:00.000Z",
+"start": "2026-10-13T07:06:00.000Z"
+},
+{
+"end": "2026-10-14T08:04:00.000Z",
+"start": "2026-10-14T06:59:00.000Z"
+},
+{
+"end": "2026-10-15T07:56:00.000Z",
+"start": "2026-10-15T06:51:00.000Z"
+},
+{
+"end": "2026-10-16T07:49:00.000Z",
+"start": "2026-10-16T06:43:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-54442",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-f9-sda-tranche-1-transport-layer-a",
+"title": "SDA Tranche 1 Transport Layer A"
+}
+],
+"markers": [],
+"name": "54442",
+"page": "https://space-notices.com/notice/lnm-54442",
+"raw": "$3c",
+"reason": "Hazardous operations will be conducted for Space X SDA-T1A Launch Operations",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-10-11T03:52:37.801Z"
 },
 {
 "areas": [
@@ -284642,6 +284662,90 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-08T19:44:29.611Z"
+},
+{
+"areas": [
+[
+[
+-27.4833,
+-136.3
+],
+[
+-26.95,
+-133.2167
+],
+[
+-43.3333,
+-129.1333
+],
+[
+-59.4167,
+-121.9833
+],
+[
+-59.95,
+-127.4
+],
+[
+-43.8167,
+-133.0833
+],
+[
+-27.4833,
+-136.3
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-16T06:08:00.000Z",
+"start": "2026-10-16T01:30:00.000Z"
+},
+{
+"end": "2026-10-17T05:59:00.000Z",
+"start": "2026-10-17T01:21:00.000Z"
+},
+{
+"end": "2026-10-18T05:50:00.000Z",
+"start": "2026-10-18T01:12:00.000Z"
+},
+{
+"end": "2026-10-19T05:41:00.000Z",
+"start": "2026-10-19T01:03:00.000Z"
+},
+{
+"end": "2026-10-20T05:32:00.000Z",
+"start": "2026-10-20T00:54:00.000Z"
+},
+{
+"end": "2026-10-21T05:23:00.000Z",
+"start": "2026-10-21T00:45:00.000Z"
+},
+{
+"end": "2026-10-22T05:14:00.000Z",
+"start": "2026-10-22T00:36:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 2951/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-f9-ussf-481",
+"title": "USSF-481"
+}
+],
+"markers": [],
+"name": "HYDROPAC 2951/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202951%2F26",
+"raw": "090000Z OCT 26\nHYDROPAC 2951/26.\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   160130Z TO 160608Z, 170121Z TO 170559Z,\n   180112Z TO 180550Z, 190103Z TO 190541Z,\n   200054Z TO 200532Z, 210045Z TO 210523Z \n   AND 220036Z TO 220514Z OCT\n   IN AREA BOUND BY\n   27-29.00S 136-18.00W, 26-57.00S 133-13.00W,\n   43-20.00S 129-08.00W, 59-25.00S 121-59.00W,\n   59-57.00S 127-24.00W, 43-49.00S 133-05.00W.\n2. CANCEL THIS MSG 220614Z OCT 26.//\n\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2951&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-10-11T02:54:16.365Z"
 },
 {
 "areas": [
