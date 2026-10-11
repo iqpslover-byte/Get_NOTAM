@@ -9721,6 +9721,98 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/bnm-CGD-SW%20BNM%209126-26": {
+"lastmod": "2026-10-08T22:36:44.423Z",
+"notice": {
+"areas": [
+[
+[
+36.116667,
+-123.766667
+],
+[
+36.25,
+-123.666667
+],
+[
+36.066667,
+-123.133333
+],
+[
+35.316667,
+-122.633333
+],
+[
+35.216667,
+-122.033333
+],
+[
+35.166667,
+-120.983333
+],
+[
+34.95,
+-120.65
+],
+[
+34.666667,
+-120.566667
+],
+[
+34.15,
+-120.916667
+],
+[
+34.166667,
+-121.416667
+],
+[
+33.466667,
+-121.283333
+],
+[
+33.416667,
+-121.65
+],
+[
+34.283333,
+-122.516667
+],
+[
+36.116667,
+-123.766667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-13T19:00:00.000Z",
+"start": "2026-10-13T13:00:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SW BNM 9126-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "other-stratolaunch-erebus",
+"title": "Erebus"
+}
+],
+"markers": [],
+"name": "CGD-SW BNM 9126-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209126-26",
+"raw": "Launch Hazard Area\nMission: EREBUS Launch Operations \nMessage Id: CGD-SW BNM 9126-26\n\n13/1300 OCT 26 to 13/1900 OCT 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
+"reason": "Launch Hazard Area - EREBUS Launch Operations",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-10-08T22:36:44.423Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209127-26": {
 "lastmod": "2026-10-09T16:56:44.992Z",
 "notice": {
@@ -11125,6 +11217,43 @@
 "name": "Cadena OIS"
 },
 "updated": "2026-10-05T17:16:03.544Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/infopage-cadenaois-advisory-2778": {
+"lastmod": "2026-10-07T16:40:04.948Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-13T19:00:00.000Z",
+"start": "2026-10-13T13:00:00.000Z"
+},
+{
+"end": "2026-10-15T19:00:00.000Z",
+"start": "2026-10-15T13:00:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-cadenaois-advisory-2778",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "other-stratolaunch-erebus",
+"title": "Erebus"
+}
+],
+"markers": [],
+"name": "Cadena OIS Advisory 2778",
+"page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2778",
+"raw": "Primary Launch Day\t13 OCT\t1300Z-1900Z\nBackup Launch Day\t15 OCT\t1300Z-1900Z\n",
+"reason": "Stratolaunch EREBUS",
+"source": {
+"link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
+"name": "Cadena OIS"
+},
+"updated": "2026-10-07T16:40:04.948Z"
 },
 "via": "sitemap"
 },
@@ -19329,6 +19458,98 @@
 "name": "US Coast Guard"
 },
 "updated": "2026-10-05T18:00:36.473Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/lnm-55528": {
+"lastmod": "2026-10-11T03:52:45.181Z",
+"notice": {
+"areas": [
+[
+[
+36.116667,
+-123.766667
+],
+[
+36.25,
+-123.666667
+],
+[
+36.066667,
+-123.133333
+],
+[
+35.316667,
+-122.633333
+],
+[
+35.216667,
+-122.033333
+],
+[
+35.166667,
+-120.983333
+],
+[
+34.95,
+-120.65
+],
+[
+34.666667,
+-120.566667
+],
+[
+34.15,
+-120.916667
+],
+[
+34.166667,
+-121.416667
+],
+[
+33.466667,
+-121.283333
+],
+[
+33.416667,
+-121.65
+],
+[
+34.283333,
+-122.516667
+],
+[
+36.116667,
+-123.766667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-13T17:00:00.000Z",
+"start": "2026-10-13T13:00:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-55528",
+"kind": "LNM",
+"launches": [
+{
+"id": "other-stratolaunch-erebus",
+"title": "Erebus"
+}
+],
+"markers": [],
+"name": "55528",
+"page": "https://space-notices.com/notice/lnm-55528",
+"raw": "Hazardous operations will be conducted for Launch Operation, EREBUS operation areas are bounded by the following coordinates and times:\n\nHazard Area A:\n36.1166666667N, -123.7666666667W\n36.2500000000N, -123.6666666667W\n36.0666666667N, -123.1333333333W\n35.3166666667N, -122.6333333333W\n35.2166666667N, -122.0333333333W\n35.1666666667N, -120.9833333333W\n34.9500000000N, -120.6500000000W\n34.6666666667N, -120.5666666667W\n34.1500000000N, -120.9166666667W\n34.1666666667N, -121.4166666667W\n33.4666666667N, -121.2833333333W\n33.4166666667N, -121.6500000000W\n34.2833333333N, -122.5166666667W\n\nHazard Times:\n131300Z OCT TO 131700Z OCT 2026                           \n\nMariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Stratolaunch at RangeOps@stratolaunch.com, 661-584-2365, or on VHF-FM Chan. 06 or 16.",
+"reason": "Hazardous operations will be conducted for Launch Operation",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-10-11T03:52:45.181Z"
 },
 "via": "sitemap"
 },
@@ -272810,6 +273031,106 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZJX-10%2F141-26": {
+"lastmod": "2026-10-11T09:57:33.319Z",
+"notice": {
+"areas": [
+[
+[
+28.6167,
+-80.6667
+],
+[
+28.6833,
+-80.5833
+],
+[
+28.7667,
+-80.55
+],
+[
+30.35,
+-79.0
+],
+[
+31.05,
+-78.0833
+],
+[
+31.7167,
+-77.65
+],
+[
+31.9167,
+-77.3333
+],
+[
+32.1667,
+-76.7833
+],
+[
+32.1333,
+-76.7333
+],
+[
+31.5833,
+-76.8833
+],
+[
+31.2167,
+-77.35
+],
+[
+30.9333,
+-77.95
+],
+[
+30.0667,
+-78.6333
+],
+[
+28.6833,
+-80.1833
+],
+[
+28.4833,
+-80.55
+],
+[
+28.6167,
+-80.6667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-13T11:14:00.000Z",
+"start": "2026-10-13T10:24:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZJX-10/141-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-dragon-crs-2-spx-35",
+"title": "Dragon CRS-2 SpX-35"
+}
+],
+"markers": [],
+"name": "10/141",
+"page": "https://space-notices.com/notice/notam-ZJX-10%2F141-26",
+"raw": "!CARF 10/141 ZJX AIRSPACE DCC EROP X4095 F9 CRS-35 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283700N0804000W TO 284100N0803500W TO 284600N0803300W TO 302100N0790000W TO 310300N0780500W TO 314300N0773900W TO 315500N0772000W TO 321000N0764700W TO 320800N0764400W TO 313500N0765300W TO 311300N0772100W TO 305600N0775700W TO 300400N0783800W TO 284100N0801100W TO 282900N0803300W TO POINT OF ORIGIN SFC-UNL CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS 2610131024-2610131114",
+"reason": "EROP X4095 F9 CRS-35",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82706431",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-11T09:57:33.319Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-ZJX-11%2F233": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -276653,6 +276974,330 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-10T09:54:33.492Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZLA-10%2F144-26": {
+"lastmod": "2026-10-11T10:03:37.156Z",
+"notice": {
+"areas": [
+[
+[
+33.9167,
+-121.8833
+],
+[
+33.9667,
+-121.9667
+],
+[
+33.7667,
+-122.6333
+],
+[
+33.7667,
+-122.65
+],
+[
+33.7833,
+-122.65
+],
+[
+34.1,
+-122.85
+],
+[
+34.4167,
+-123.0667
+],
+[
+35.2167,
+-123.5833
+],
+[
+36.3167,
+-124.3333
+],
+[
+36.35,
+-124.3333
+],
+[
+36.35,
+-124.3167
+],
+[
+36.8833,
+-123.1667
+],
+[
+37.0,
+-122.9333
+],
+[
+37.1,
+-122.7167
+],
+[
+37.1,
+-122.7
+],
+[
+36.1167,
+-122.0333
+],
+[
+35.9833,
+-121.9333
+],
+[
+35.6333,
+-121.5167
+],
+[
+35.1167,
+-120.9167
+],
+[
+34.95,
+-120.7333
+],
+[
+34.9667,
+-120.7333
+],
+[
+35.0,
+-120.7167
+],
+[
+35.0167,
+-120.7167
+],
+[
+35.0167,
+-120.7
+],
+[
+34.9167,
+-120.55
+],
+[
+34.9167,
+-120.5333
+],
+[
+34.9,
+-120.5333
+],
+[
+34.85,
+-120.5167
+],
+[
+34.7667,
+-120.4333
+],
+[
+34.75,
+-120.4333
+],
+[
+34.7,
+-120.4833
+],
+[
+34.65,
+-120.5
+],
+[
+34.6167,
+-120.4667
+],
+[
+34.6167,
+-120.45
+],
+[
+34.5167,
+-120.25
+],
+[
+34.4,
+-120.25
+],
+[
+34.4,
+-120.45
+],
+[
+34.3833,
+-120.4833
+],
+[
+34.25,
+-120.95
+],
+[
+34.2167,
+-120.9167
+],
+[
+34.1833,
+-120.9167
+],
+[
+34.1833,
+-120.9333
+],
+[
+33.9167,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-13T19:00:00.000Z",
+"start": "2026-10-13T13:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/144-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-stratolaunch-erebus",
+"title": "Erebus"
+}
+],
+"markers": [],
+"name": "10/144",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F144-26",
+"raw": "!CARF 10/144 ZLA AIRSPACE DCC ALBATROSS 26-3 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 335500N1215300W TO 335800N1215800W TO 334600N1223800W TO 334600N1223900W TO 334700N1223900W TO 340600N1225100W TO 342500N1230400W TO 351300N1233500W TO 361900N1242000W TO 362100N1242000W TO 362100N1241900W TO 365300N1231000W TO 370000N1225600W TO 370600N1224300W TO 370600N1224200W TO 360700N1220200W TO 355900N1215600W TO 353800N1213100W TO 350700N1205500W TO 345700N1204400W TO 345800N1204400W TO 350000N1204300W TO 350100N1204300W TO 350100N1204200W TO 345500N1203300W TO 345500N1203200W TO 345400N1203200W TO 345100N1203100W TO 344600N1202600W TO 344500N1202600W TO 344200N1202900W TO 343900N1203000W TO 343700N1202800W TO 343700N1202700W TO 343100N1201500W TO 342400N1201500W TO 342400N1202700W TO 342300N1202900W TO 341500N1205700W TO 341300N1205500W TO 341100N1205500W TO 341100N1205600W TO POINT OF ORIGIN SFC-UNL 2610131300-2610131900",
+"reason": "ALBATROSS 26-3",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82706443",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-11T10:03:37.156Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZLA-10%2F149-26": {
+"lastmod": "2026-10-11T10:03:24.479Z",
+"notice": {
+"areas": [
+[
+[
+32.65,
+-119.6333
+],
+[
+32.8,
+-119.4
+],
+[
+34.5667,
+-120.4
+],
+[
+34.7,
+-120.5667
+],
+[
+34.5833,
+-120.6833
+],
+[
+32.65,
+-119.6333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-14T03:23:00.000Z",
+"start": "2026-10-13T23:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/149-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-25",
+"title": "Starlink Group 15-25"
+}
+],
+"markers": [],
+"name": "10/149",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F149-26",
+"raw": "!CARF 10/149 ZLA AIRSPACE DCC SX STARLINK 15-25 26-65 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 323900N1193800W TO 324800N1192400W TO 343400N1202400W TO 344200N1203400W TO 343500N1204100W TO POINT OF ORIGIN SFC-UNL 2610132300-2610140323",
+"reason": "SX STARLINK 15-25 26-65",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82706482",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-11T10:03:24.479Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZLA-10%2F150-26": {
+"lastmod": "2026-10-11T10:12:24.503Z",
+"notice": {
+"areas": [
+[
+[
+31.5833,
+-119.15
+],
+[
+32.35,
+-119.4667
+],
+[
+32.5333,
+-119.2667
+],
+[
+31.7667,
+-118.7667
+],
+[
+31.5833,
+-119.15
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-14T03:25:00.000Z",
+"start": "2026-10-13T23:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/150-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-25",
+"title": "Starlink Group 15-25"
+}
+],
+"markers": [],
+"name": "10/150",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F150-26",
+"raw": "!CARF 10/150 ZLA AIRSPACE DCC SX STARLINK 15-25 26-65 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 313500N1190900W TO 322100N1192800W TO 323200N1191600W TO 314600N1184600W TO POINT OF ORIGIN SFC-UNL 2610132300-2610140325",
+"reason": "SX STARLINK 15-25 26-65",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82706494",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-11T10:12:24.503Z"
 },
 "via": "sitemap"
 },
@@ -288336,6 +288981,106 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZMA-10%2F143-26": {
+"lastmod": "2026-10-11T09:57:39.855Z",
+"notice": {
+"areas": [
+[
+[
+28.6167,
+-80.6667
+],
+[
+28.6833,
+-80.5833
+],
+[
+28.7667,
+-80.55
+],
+[
+30.35,
+-79.0
+],
+[
+31.05,
+-78.0833
+],
+[
+31.7167,
+-77.65
+],
+[
+31.9167,
+-77.3333
+],
+[
+32.1667,
+-76.7833
+],
+[
+32.1333,
+-76.7333
+],
+[
+31.5833,
+-76.8833
+],
+[
+31.2167,
+-77.35
+],
+[
+30.9333,
+-77.95
+],
+[
+30.0667,
+-78.6333
+],
+[
+28.6833,
+-80.1833
+],
+[
+28.4833,
+-80.55
+],
+[
+28.6167,
+-80.6667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-13T11:14:00.000Z",
+"start": "2026-10-13T10:24:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZMA-10/143-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-dragon-crs-2-spx-35",
+"title": "Dragon CRS-2 SpX-35"
+}
+],
+"markers": [],
+"name": "10/143",
+"page": "https://space-notices.com/notice/notam-ZMA-10%2F143-26",
+"raw": "!CARF 10/143 ZMA AIRSPACE DCC EROP X4095 F9 CRS-35 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283700N0804000W TO 284100N0803500W TO 284600N0803300W TO 302100N0790000W TO 310300N0780500W TO 314300N0773900W TO 315500N0772000W TO 321000N0764700W TO 320800N0764400W TO 313500N0765300W TO 311300N0772100W TO 305600N0775700W TO 300400N0783800W TO 284100N0801100W TO 282900N0803300W TO POINT OF ORIGIN SFC-UNL CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS 2610131024-2610131114",
+"reason": "EROP X4095 F9 CRS-35",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82706434",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-11T09:57:39.855Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-ZMA-10%2F154": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -291025,6 +291770,214 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-07T10:02:35.552Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZOA-10%2F145-26": {
+"lastmod": "2026-10-11T10:03:31.533Z",
+"notice": {
+"areas": [
+[
+[
+33.9167,
+-121.8833
+],
+[
+33.9667,
+-121.9667
+],
+[
+33.7667,
+-122.6333
+],
+[
+33.7667,
+-122.65
+],
+[
+33.7833,
+-122.65
+],
+[
+34.1,
+-122.85
+],
+[
+34.4167,
+-123.0667
+],
+[
+35.2167,
+-123.5833
+],
+[
+36.3167,
+-124.3333
+],
+[
+36.35,
+-124.3333
+],
+[
+36.35,
+-124.3167
+],
+[
+36.8833,
+-123.1667
+],
+[
+37.0,
+-122.9333
+],
+[
+37.1,
+-122.7167
+],
+[
+37.1,
+-122.7
+],
+[
+36.1167,
+-122.0333
+],
+[
+35.9833,
+-121.9333
+],
+[
+35.6333,
+-121.5167
+],
+[
+35.1167,
+-120.9167
+],
+[
+34.95,
+-120.7333
+],
+[
+34.9667,
+-120.7333
+],
+[
+35.0,
+-120.7167
+],
+[
+35.0167,
+-120.7167
+],
+[
+35.0167,
+-120.7
+],
+[
+34.9167,
+-120.55
+],
+[
+34.9167,
+-120.5333
+],
+[
+34.9,
+-120.5333
+],
+[
+34.85,
+-120.5167
+],
+[
+34.7667,
+-120.4333
+],
+[
+34.75,
+-120.4333
+],
+[
+34.7,
+-120.4833
+],
+[
+34.65,
+-120.5
+],
+[
+34.6167,
+-120.4667
+],
+[
+34.6167,
+-120.45
+],
+[
+34.5167,
+-120.25
+],
+[
+34.4,
+-120.25
+],
+[
+34.4,
+-120.45
+],
+[
+34.3833,
+-120.4833
+],
+[
+34.25,
+-120.95
+],
+[
+34.2167,
+-120.9167
+],
+[
+34.1833,
+-120.9167
+],
+[
+34.1833,
+-120.9333
+],
+[
+33.9167,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-13T19:00:00.000Z",
+"start": "2026-10-13T13:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZOA-10/145-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-stratolaunch-erebus",
+"title": "Erebus"
+}
+],
+"markers": [],
+"name": "10/145",
+"page": "https://space-notices.com/notice/notam-ZOA-10%2F145-26",
+"raw": "!CARF 10/145 ZOA AIRSPACE DCC ALBATROSS 26-3 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 335500N1215300W TO 335800N1215800W TO 334600N1223800W TO 334600N1223900W TO 334700N1223900W TO 340600N1225100W TO 342500N1230400W TO 351300N1233500W TO 361900N1242000W TO 362100N1242000W TO 362100N1241900W TO 365300N1231000W TO 370000N1225600W TO 370600N1224300W TO 370600N1224200W TO 360700N1220200W TO 355900N1215600W TO 353800N1213100W TO 350700N1205500W TO 345700N1204400W TO 345800N1204400W TO 350000N1204300W TO 350100N1204300W TO 350100N1204200W TO 345500N1203300W TO 345500N1203200W TO 345400N1203200W TO 345100N1203100W TO 344600N1202600W TO 344500N1202600W TO 344200N1202900W TO 343900N1203000W TO 343700N1202800W TO 343700N1202700W TO 343100N1201500W TO 342400N1201500W TO 342400N1202700W TO 342300N1202900W TO 341500N1205700W TO 341300N1205500W TO 341100N1205500W TO 341100N1205600W TO POINT OF ORIGIN SFC-UNL 2610131300-2610131900",
+"reason": "ALBATROSS 26-3",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82706440",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-11T10:03:31.533Z"
 },
 "via": "sitemap"
 },
@@ -297446,6 +298399,106 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-30T18:38:15.527Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZWY-10%2F142-26": {
+"lastmod": "2026-10-11T09:57:43.993Z",
+"notice": {
+"areas": [
+[
+[
+28.6167,
+-80.6667
+],
+[
+28.6833,
+-80.5833
+],
+[
+28.7667,
+-80.55
+],
+[
+30.35,
+-79.0
+],
+[
+31.05,
+-78.0833
+],
+[
+31.7167,
+-77.65
+],
+[
+31.9167,
+-77.3333
+],
+[
+32.1667,
+-76.7833
+],
+[
+32.1333,
+-76.7333
+],
+[
+31.5833,
+-76.8833
+],
+[
+31.2167,
+-77.35
+],
+[
+30.9333,
+-77.95
+],
+[
+30.0667,
+-78.6333
+],
+[
+28.6833,
+-80.1833
+],
+[
+28.4833,
+-80.55
+],
+[
+28.6167,
+-80.6667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-13T11:14:00.000Z",
+"start": "2026-10-13T10:24:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZWY-10/142-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-dragon-crs-2-spx-35",
+"title": "Dragon CRS-2 SpX-35"
+}
+],
+"markers": [],
+"name": "10/142",
+"page": "https://space-notices.com/notice/notam-ZWY-10%2F142-26",
+"raw": "!CARF 10/142 ZWY AIRSPACE DCC EROP X4095 F9 CRS-35 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283700N0804000W TO 284100N0803500W TO 284600N0803300W TO 302100N0790000W TO 310300N0780500W TO 314300N0773900W TO 315500N0772000W TO 321000N0764700W TO 320800N0764400W TO 313500N0765300W TO 311300N0772100W TO 305600N0775700W TO 300400N0783800W TO 284100N0801100W TO 282900N0803300W TO POINT OF ORIGIN SFC-UNL CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS 2610131024-2610131114",
+"reason": "EROP X4095 F9 CRS-35",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82706436",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-11T09:57:43.993Z"
 },
 "via": "sitemap"
 },
