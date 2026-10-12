@@ -273529,6 +273529,106 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZJX-10%2F153-26": {
+"lastmod": "2026-10-12T09:57:40.056Z",
+"notice": {
+"areas": [
+[
+[
+28.6167,
+-80.6667
+],
+[
+28.6833,
+-80.5833
+],
+[
+28.7667,
+-80.55
+],
+[
+30.35,
+-79.0
+],
+[
+31.05,
+-78.0833
+],
+[
+31.7167,
+-77.65
+],
+[
+31.9167,
+-77.3333
+],
+[
+32.1667,
+-76.7833
+],
+[
+32.1333,
+-76.7333
+],
+[
+31.5833,
+-76.8833
+],
+[
+31.2167,
+-77.35
+],
+[
+30.9333,
+-77.95
+],
+[
+30.0667,
+-78.6333
+],
+[
+28.6833,
+-80.1833
+],
+[
+28.4833,
+-80.55
+],
+[
+28.6167,
+-80.6667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-14T10:48:00.000Z",
+"start": "2026-10-14T09:58:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZJX-10/153-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-dragon-crs-2-spx-35",
+"title": "Dragon CRS-2 SpX-35"
+}
+],
+"markers": [],
+"name": "10/153",
+"page": "https://space-notices.com/notice/notam-ZJX-10%2F153-26",
+"raw": "!CARF 10/153 ZJX AIRSPACE DCC EROP X4095 F9 CRS-35 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283700N0804000W TO 284100N0803500W TO 284600N0803300W TO 302100N0790000W TO 310300N0780500W TO 314300N0773900W TO 315500N0772000W TO 321000N0764700W TO 320800N0764400W TO 313500N0765300W TO 311300N0772100W TO 305600N0775700W TO 300400N0783800W TO 284100N0801100W TO 282900N0803300W TO POINT OF ORIGIN SFC-UNL. CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS 2610140958-2610141048",
+"reason": "EROP X4095 F9 CRS-35",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82713866",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-12T09:57:40.056Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-ZJX-11%2F233": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -282013,6 +282113,62 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZLHW-A5150%2F26": {
+"lastmod": "2026-10-12T10:32:06.059Z",
+"notice": {
+"areas": [
+[
+[
+40.0333,
+102.6667
+],
+[
+39.8833,
+100.3167
+],
+[
+38.9833,
+100.4167
+],
+[
+39.1333,
+102.75
+],
+[
+40.0333,
+102.6667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-14T06:44:00.000Z",
+"start": "2026-10-14T01:39:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLHW-A5150/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5150/26",
+"page": "https://space-notices.com/notice/notam-ZLHW-A5150%2F26",
+"raw": "A5150/26 NOTAMN\r\nQ)ZLHW/QRDCA/IV/BO/W/000/999/3930N10132E061\r\nA)ZLHW B)2610140139 C)2610140644 \r\nD)0139-0302,0521-0644\r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN400200E1024023-N395311E1001911-N385922E1002528-N390807E1024516, \r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA. \r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA ESTABLISHED",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82713461",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-12T10:32:06.059Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-ZMA-01%2F047": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -289547,6 +289703,106 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZMA-10%2F154-26": {
+"lastmod": "2026-10-12T10:31:58.168Z",
+"notice": {
+"areas": [
+[
+[
+28.6167,
+-80.6667
+],
+[
+28.6833,
+-80.5833
+],
+[
+28.7667,
+-80.55
+],
+[
+30.35,
+-79.0
+],
+[
+31.05,
+-78.0833
+],
+[
+31.7167,
+-77.65
+],
+[
+31.9167,
+-77.3333
+],
+[
+32.1667,
+-76.7833
+],
+[
+32.1333,
+-76.7333
+],
+[
+31.5833,
+-76.8833
+],
+[
+31.2167,
+-77.35
+],
+[
+30.9333,
+-77.95
+],
+[
+30.0667,
+-78.6333
+],
+[
+28.6833,
+-80.1833
+],
+[
+28.4833,
+-80.55
+],
+[
+28.6167,
+-80.6667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-14T10:48:00.000Z",
+"start": "2026-10-14T09:58:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZMA-10/154-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-dragon-crs-2-spx-35",
+"title": "Dragon CRS-2 SpX-35"
+}
+],
+"markers": [],
+"name": "10/154",
+"page": "https://space-notices.com/notice/notam-ZMA-10%2F154-26",
+"raw": "!CARF 10/154 ZMA AIRSPACE DCC EROP X4095 F9 CRS-35 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283700N0804000W TO 284100N0803500W TO 284600N0803300W TO 302100N0790000W TO 310300N0780500W TO 314300N0773900W TO 315500N0772000W TO 321000N0764700W TO 320800N0764400W TO 313500N0765300W TO 311300N0772100W TO 305600N0775700W TO 300400N0783800W TO 284100N0801100W TO 282900N0803300W TO POINT OF ORIGIN SFC-UNL. CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS. 2610140958-2610141048",
+"reason": "EROP X4095 F9 CRS-35",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82713863",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-12T10:31:58.168Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-ZMA-10%2F156": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -295597,6 +295853,62 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZWUQ-A5151%2F26": {
+"lastmod": "2026-10-12T10:32:09.990Z",
+"notice": {
+"areas": [
+[
+[
+38.05,
+85.25
+],
+[
+37.7333,
+83.5667
+],
+[
+36.85,
+83.8167
+],
+[
+37.1833,
+85.5167
+],
+[
+38.05,
+85.25
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-14T06:44:00.000Z",
+"start": "2026-10-14T01:39:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZWUQ-A5151/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5151/26",
+"page": "https://space-notices.com/notice/notam-ZWUQ-A5151%2F26",
+"raw": "A5151/26 NOTAMN\r\nQ)ZWUQ/QRDCA/IV/BO/W/000/999/3727N08432E050\r\nA)ZWUQ B)2610140139 C)2610140644 \r\nD)0139-0302,0521-0644\r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN380347E0851557-N374418E0833421-N365138E0834933-N371106E0853113, \r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA. \r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82713470",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-12T10:32:09.990Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-ZWY-01%2F046": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -298897,6 +299209,106 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-11T09:57:43.993Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZWY-10%2F152-26": {
+"lastmod": "2026-10-12T09:57:44.356Z",
+"notice": {
+"areas": [
+[
+[
+28.6167,
+-80.6667
+],
+[
+28.6833,
+-80.5833
+],
+[
+28.7667,
+-80.55
+],
+[
+30.35,
+-79.0
+],
+[
+31.05,
+-78.0833
+],
+[
+31.7167,
+-77.65
+],
+[
+31.9167,
+-77.3333
+],
+[
+32.1667,
+-76.7833
+],
+[
+32.1333,
+-76.7333
+],
+[
+31.5833,
+-76.8833
+],
+[
+31.2167,
+-77.35
+],
+[
+30.9333,
+-77.95
+],
+[
+30.0667,
+-78.6333
+],
+[
+28.6833,
+-80.1833
+],
+[
+28.4833,
+-80.55
+],
+[
+28.6167,
+-80.6667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-14T10:48:00.000Z",
+"start": "2026-10-14T09:58:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZWY-10/152-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-dragon-crs-2-spx-35",
+"title": "Dragon CRS-2 SpX-35"
+}
+],
+"markers": [],
+"name": "10/152",
+"page": "https://space-notices.com/notice/notam-ZWY-10%2F152-26",
+"raw": "!CARF 10/152 ZWY AIRSPACE DCC EROP X4095 F9 CRS-35 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283700N0804000W TO 284100N0803500W TO 284600N0803300W TO 302100N0790000W TO 310300N0780500W TO 314300N0773900W TO 315500N0772000W TO 321000N0764700W TO 320800N0764400W TO 313500N0765300W TO 311300N0772100W TO 305600N0775700W TO 300400N0783800W TO 284100N0801100W TO 282900N0803300W TO POINT OF ORIGIN SFC-UNL. CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS. 2610140958-2610141048",
+"reason": "EROP X4095 F9 CRS-35",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82713870",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-12T09:57:44.356Z"
 },
 "via": "sitemap"
 },
@@ -302241,6 +302653,706 @@
 "updated": "2026-08-09T22:30:22.700Z"
 },
 "via": "sitemap"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR05GD28": {
+"lastmod": "2026-10-07T05:00:58.621Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": null,
+"id": "tceq-water-quality-permit-TXR05GD28",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.985555,
+-97.187222
+],
+[
+25.9811,
+-97.191286
+],
+[
+25.983222,
+-97.191072
+],
+[
+25.98512,
+-97.190767
+],
+[
+25.986442,
+-97.189917
+],
+[
+25.987966,
+-97.188494
+],
+[
+25.989736,
+-97.187217
+],
+[
+25.990659,
+-97.186792
+],
+[
+25.993141,
+-97.18458
+],
+[
+25.994017,
+-97.183056
+]
+],
+"name": "TXR05GD28",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR05GD28",
+"raw": null,
+"reason": "STARBASE PRODUCTION SITE",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR05GD28&lgl_id=28841216&pita_id=28841219&phys_id=28841218&princ_id=641482642005192&affil_role=2&reg_ent_id=242603202014238&permit_type_code=SWD&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-07T05:00:58.621Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR05GD61": {
+"lastmod": "2026-10-07T05:00:58.621Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": null,
+"id": "tceq-water-quality-permit-TXR05GD61",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.997492,
+-97.155464
+],
+[
+25.997872,
+-97.158972
+],
+[
+25.995883,
+-97.158266
+],
+[
+25.995791,
+-97.158216
+],
+[
+25.995044,
+-97.155716
+]
+],
+"name": "TXR05GD61",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR05GD61",
+"raw": null,
+"reason": "STARBASE LAUNCH PAD SITE",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR05GD61&lgl_id=28882604&pita_id=28882607&phys_id=28882606&princ_id=641482642005192&affil_role=2&reg_ent_id=582741122022321&permit_type_code=SWD&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-07T05:00:58.621Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR05GK86": {
+"lastmod": "2026-10-07T05:00:58.621Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": null,
+"id": "tceq-water-quality-permit-TXR05GK86",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.952234,
+-97.249791
+],
+[
+25.951864,
+-97.248919
+],
+[
+25.951247,
+-97.248652
+],
+[
+25.949217,
+-97.251094
+],
+[
+25.950361,
+-97.251003
+],
+[
+25.951742,
+-97.250631
+],
+[
+25.952158,
+-97.249352
+]
+],
+"name": "TXR05GK86",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR05GK86",
+"raw": null,
+"reason": "STARBASE - MASSEY SITE",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR05GK86&lgl_id=29808283&pita_id=29808286&phys_id=29808285&princ_id=641482642005192&affil_role=2&reg_ent_id=461605662022168&permit_type_code=SWD&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-07T05:00:58.621Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR05GY56": {
+"lastmod": "2026-10-07T05:00:58.621Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": null,
+"id": "tceq-water-quality-permit-TXR05GY56",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.908451,
+-97.43362
+],
+[
+25.908858,
+-97.434381
+]
+],
+"name": "TXR05GY56",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR05GY56",
+"raw": null,
+"reason": "STARBASE BROWNSVILLE MATERIAL MANAGEMENT SITE ST12",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR05GY56&lgl_id=32683800&pita_id=32683803&phys_id=32683802&princ_id=641482642005192&affil_role=2&reg_ent_id=728657052026055&permit_type_code=SWD&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-07T05:00:58.621Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR05HD65": {
+"lastmod": "2026-10-07T05:00:58.621Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": null,
+"id": "tceq-water-quality-permit-TXR05HD65",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.975655,
+-97.347508
+],
+[
+25.973405,
+-97.341397
+]
+],
+"name": "TXR05HD65",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR05HD65",
+"raw": null,
+"reason": "PORT WELD-FAB SHOP",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR05HD65&lgl_id=33221567&pita_id=33221570&phys_id=33221569&princ_id=641482642005192&affil_role=2&reg_ent_id=882555212026251&permit_type_code=SWD&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-07T05:00:58.621Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR1511PE": {
+"lastmod": "2026-10-07T05:00:58.621Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-12-31T00:00:00.000Z",
+"start": "2023-12-15T00:00:00.000Z"
+}
+],
+"height": null,
+"id": "tceq-water-quality-permit-TXR1511PE",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.962544,
+-97.213375
+]
+],
+"name": "TXR1511PE",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR1511PE",
+"raw": null,
+"reason": "RIO WEST SUBDIVISION",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1511PE&lgl_id=29346151&pita_id=29346154&phys_id=29346153&princ_id=641482642005192&affil_role=2&reg_ent_id=242603202014238&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-07T05:00:58.621Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR1515PQ": {
+"lastmod": "2026-10-07T05:00:58.621Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-12-31T00:00:00.000Z",
+"start": "2024-01-26T00:00:00.000Z"
+}
+],
+"height": null,
+"id": "tceq-water-quality-permit-TXR1515PQ",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.996969,
+-97.156269
+]
+],
+"name": "TXR1515PQ",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR1515PQ",
+"raw": null,
+"reason": "STARBASE - PAD 2",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1515PQ&lgl_id=29479519&pita_id=29479522&phys_id=29479521&princ_id=641482642005192&affil_role=2&reg_ent_id=582741122022321&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-07T05:00:58.621Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR1532XZ": {
+"lastmod": "2026-10-07T05:00:58.621Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-12-31T00:00:00.000Z",
+"start": "2026-05-01T00:00:00.000Z"
+}
+],
+"height": null,
+"id": "tceq-water-quality-permit-TXR1532XZ",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.963088,
+-97.231811
+]
+],
+"name": "TXR1532XZ",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR1532XZ",
+"raw": null,
+"reason": "SPACEX - HUDDLESTON SITE",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1532XZ&lgl_id=32820324&pita_id=32820327&phys_id=32820326&princ_id=641482642005192&affil_role=2&reg_ent_id=297407382026110&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-07T05:00:58.621Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR1554TF": {
+"lastmod": "2026-10-07T05:00:58.621Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-12-31T00:00:00.000Z",
+"start": "2025-01-09T00:00:00.000Z"
+}
+],
+"height": null,
+"id": "tceq-water-quality-permit-TXR1554TF",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.964777,
+-97.241625
+]
+],
+"name": "TXR1554TF",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR1554TF",
+"raw": null,
+"reason": "STARBASE AD ASTRA - HUDDLESTON SITE",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1554TF&lgl_id=30710258&pita_id=30710261&phys_id=30710260&princ_id=641482642005192&affil_role=2&reg_ent_id=242603202014238&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-07T05:00:58.621Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR1560ZC": {
+"lastmod": "2026-10-07T05:00:58.621Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-02-28T00:00:00.000Z",
+"start": "2026-08-16T00:00:00.000Z"
+}
+],
+"height": null,
+"id": "tceq-water-quality-permit-TXR1560ZC",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.934775,
+-97.3693
+]
+],
+"name": "TXR1560ZC",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR1560ZC",
+"raw": null,
+"reason": "SOUTH PORT FACILITY",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1560ZC&lgl_id=33100652&pita_id=33100655&phys_id=33100654&princ_id=641482642005192&affil_role=2&reg_ent_id=727311932026223&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-07T05:00:58.621Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR1571ZR": {
+"lastmod": "2026-10-07T05:00:58.621Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-12-12T00:00:00.000Z",
+"start": "2026-10-12T00:00:00.000Z"
+}
+],
+"height": null,
+"id": "tceq-water-quality-permit-TXR1571ZR",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.959938,
+-97.228019
+]
+],
+"name": "TXR1571ZR",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR1571ZR",
+"raw": null,
+"reason": "HAUL ROAD PROJECT SITE",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1571ZR&lgl_id=33355221&pita_id=33355224&phys_id=33355223&princ_id=641482642005192&affil_role=2&reg_ent_id=461605662022168&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-07T05:00:58.621Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR1572ZR": {
+"lastmod": "2026-10-07T05:00:58.621Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-14T00:00:00.000Z",
+"start": "2026-10-09T00:00:00.000Z"
+}
+],
+"height": null,
+"id": "tceq-water-quality-permit-TXR1572ZR",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.993116,
+-97.478408
+]
+],
+"name": "TXR1572ZR",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR1572ZR",
+"raw": null,
+"reason": "TITAN EAST LOT",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1572ZR&lgl_id=33355249&pita_id=33355252&phys_id=33355251&princ_id=641482642005192&affil_role=2&reg_ent_id=172608342026281&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-07T05:00:58.621Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR1574WH": {
+"lastmod": "2026-10-07T05:00:58.621Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-12-31T00:00:00.000Z",
+"start": "2025-11-15T00:00:00.000Z"
+}
+],
+"height": null,
+"id": "tceq-water-quality-permit-TXR1574WH",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.96319,
+-97.25346
+]
+],
+"name": "TXR1574WH",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR1574WH",
+"raw": null,
+"reason": "MASSEY WAY WATERLINE EXTENSION IMPROVEMENT PROJECT",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1574WH&lgl_id=32084665&pita_id=32084668&phys_id=32084667&princ_id=641482642005192&affil_role=2&reg_ent_id=461605662022168&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-07T05:00:58.621Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR1575YT": {
+"lastmod": "2026-10-07T05:00:58.621Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2028-01-31T00:00:00.000Z",
+"start": "2026-07-08T00:00:00.000Z"
+}
+],
+"height": null,
+"id": "tceq-water-quality-permit-TXR1575YT",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.960838,
+-97.323336
+]
+],
+"name": "TXR1575YT",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR1575YT",
+"raw": null,
+"reason": "PORTLANDIA PROJECT SITE",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1575YT&lgl_id=33006384&pita_id=33006387&phys_id=33006386&princ_id=641482642005192&affil_role=2&reg_ent_id=734365202026188&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-07T05:00:58.621Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR1593ZL": {
+"lastmod": "2026-10-07T05:00:58.621Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-30T00:00:00.000Z",
+"start": "2026-09-18T00:00:00.000Z"
+}
+],
+"height": null,
+"id": "tceq-water-quality-permit-TXR1593ZL",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.945555,
+-97.396666
+]
+],
+"name": "TXR1593ZL",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR1593ZL",
+"raw": null,
+"reason": "PORT INDUSTRIAL PARK",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1593ZL&lgl_id=33263200&pita_id=33263203&phys_id=33263202&princ_id=641482642005192&affil_role=2&reg_ent_id=815764482026260&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-07T05:00:58.621Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR1595ZL": {
+"lastmod": "2026-10-07T05:00:58.621Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-01-28T00:00:00.000Z",
+"start": "2026-09-28T00:00:00.000Z"
+}
+],
+"height": null,
+"id": "tceq-water-quality-permit-TXR1595ZL",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.988214,
+-97.368811
+]
+],
+"name": "TXR1595ZL",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR1595ZL",
+"raw": null,
+"reason": "NORTH PORT METER STATION",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1595ZL&lgl_id=33263527&pita_id=33263530&phys_id=33263529&princ_id=641482642005192&affil_role=2&reg_ent_id=224320002026261&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-07T05:00:58.621Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXRNEBY28": {
+"lastmod": "2026-10-07T05:00:58.621Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [],
+"height": null,
+"id": "tceq-water-quality-permit-TXRNEBY28",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.90731,
+-97.44053
+]
+],
+"name": "TXRNEBY28",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXRNEBY28",
+"raw": null,
+"reason": "SPACEX BILLY MITCHELL SITE",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXRNEBY28&lgl_id=27717007&pita_id=27717010&phys_id=27717009&princ_id=641482642005192&affil_role=2&reg_ent_id=784727812001309&permit_type_code=SWD&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-07T05:00:58.621Z"
+},
+"via": "entry"
 },
 "https://space-notices.com/notice/tfr-EHKK-6%2F4585": {
 "lastmod": "2026-09-22T15:37:56.981Z",
@@ -309774,7 +310886,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZJX-6%2F8897": {
-"lastmod": "2026-10-12T01:57:58.084Z",
+"lastmod": "2026-10-12T01:56:03.668Z",
 "notice": {
 "areas": [
 [
@@ -309941,12 +311053,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82711261",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-12T01:57:58.084Z"
+"updated": "2026-10-12T01:56:03.668Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZJX-6%2F8901": {
-"lastmod": "2026-10-12T01:57:58.084Z",
+"lastmod": "2026-10-12T02:14:58.159Z",
 "notice": {
 "areas": [
 [
@@ -310113,9 +311225,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82711343",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-12T01:57:58.084Z"
+"updated": "2026-10-12T02:14:58.159Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZLA-6%2F7181": {
 "lastmod": "2026-10-08T14:51:19.675Z",
@@ -315707,7 +316819,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-6%2F8898": {
-"lastmod": "2026-10-12T01:57:58.084Z",
+"lastmod": "2026-10-12T01:55:58.039Z",
 "notice": {
 "areas": [
 [
@@ -315874,9 +316986,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82711267",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-12T01:57:58.084Z"
+"updated": "2026-10-12T01:55:58.039Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-6%2F8899": {
 "lastmod": "2026-10-12T01:57:58.072Z",
@@ -316051,7 +317163,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-6%2F8900": {
-"lastmod": "2026-10-12T01:57:58.084Z",
+"lastmod": "2026-10-12T01:58:57.607Z",
 "notice": {
 "areas": [
 [
@@ -316218,8 +317330,8 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82711281",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-12T01:57:58.084Z"
+"updated": "2026-10-12T01:58:57.607Z"
 },
-"via": "entry"
+"via": "sitemap"
 }
 }
