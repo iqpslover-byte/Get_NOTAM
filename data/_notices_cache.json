@@ -302655,7 +302655,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tceq-water-quality-permit-TXR05GD28": {
-"lastmod": "2026-10-07T05:00:58.621Z",
+"lastmod": "2026-10-12T14:12:51.487Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -302719,12 +302719,12 @@
 "link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR05GD28&lgl_id=28841216&pita_id=28841219&phys_id=28841218&princ_id=641482642005192&affil_role=2&reg_ent_id=242603202014238&permit_type_code=SWD&return_to=permit_list_by_cn&cn_number=CN602867657",
 "name": "Texas Commission on Environmental Quality"
 },
-"updated": "2026-10-07T05:00:58.621Z"
+"updated": "2026-10-12T14:12:51.487Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tceq-water-quality-permit-TXR05GD61": {
-"lastmod": "2026-10-07T05:00:58.621Z",
+"lastmod": "2026-10-12T14:12:40.618Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -302768,12 +302768,12 @@
 "link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR05GD61&lgl_id=28882604&pita_id=28882607&phys_id=28882606&princ_id=641482642005192&affil_role=2&reg_ent_id=582741122022321&permit_type_code=SWD&return_to=permit_list_by_cn&cn_number=CN602867657",
 "name": "Texas Commission on Environmental Quality"
 },
-"updated": "2026-10-07T05:00:58.621Z"
+"updated": "2026-10-12T14:12:40.618Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tceq-water-quality-permit-TXR05GK86": {
-"lastmod": "2026-10-07T05:00:58.621Z",
+"lastmod": "2026-10-12T14:12:34.197Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -302825,12 +302825,12 @@
 "link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR05GK86&lgl_id=29808283&pita_id=29808286&phys_id=29808285&princ_id=641482642005192&affil_role=2&reg_ent_id=461605662022168&permit_type_code=SWD&return_to=permit_list_by_cn&cn_number=CN602867657",
 "name": "Texas Commission on Environmental Quality"
 },
-"updated": "2026-10-07T05:00:58.621Z"
+"updated": "2026-10-12T14:12:34.197Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tceq-water-quality-permit-TXR05GY56": {
-"lastmod": "2026-10-07T05:00:58.621Z",
+"lastmod": "2026-10-12T14:12:26.038Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -302862,12 +302862,12 @@
 "link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR05GY56&lgl_id=32683800&pita_id=32683803&phys_id=32683802&princ_id=641482642005192&affil_role=2&reg_ent_id=728657052026055&permit_type_code=SWD&return_to=permit_list_by_cn&cn_number=CN602867657",
 "name": "Texas Commission on Environmental Quality"
 },
-"updated": "2026-10-07T05:00:58.621Z"
+"updated": "2026-10-12T14:12:26.038Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tceq-water-quality-permit-TXR05HD65": {
-"lastmod": "2026-10-07T05:00:58.621Z",
+"lastmod": "2026-10-12T14:12:19.976Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -302899,12 +302899,88 @@
 "link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR05HD65&lgl_id=33221567&pita_id=33221570&phys_id=33221569&princ_id=641482642005192&affil_role=2&reg_ent_id=882555212026251&permit_type_code=SWD&return_to=permit_list_by_cn&cn_number=CN602867657",
 "name": "Texas Commission on Environmental Quality"
 },
-"updated": "2026-10-07T05:00:58.621Z"
+"updated": "2026-10-12T14:12:19.976Z"
 },
-"via": "entry"
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR1509UI": {
+"lastmod": "2026-10-12T14:12:07.291Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2025-12-31T00:00:00.000Z",
+"start": "2025-04-16T00:00:00.000Z"
+}
+],
+"height": null,
+"id": "tceq-water-quality-permit-TXR1509UI",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.985218,
+-97.186529
+]
+],
+"name": "TXR1509UI",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR1509UI",
+"raw": null,
+"reason": "SPACEX UTILITY BUNDLE PROJECT",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1509UI&lgl_id=31533450&pita_id=31533453&phys_id=31533452&princ_id=641482642005192&affil_role=2&reg_ent_id=242603202014238&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-12T14:12:07.291Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR1510UQ": {
+"lastmod": "2026-10-12T14:12:01.075Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-03-31T00:00:00.000Z",
+"start": "2025-05-19T00:00:00.000Z"
+}
+],
+"height": null,
+"id": "tceq-water-quality-permit-TXR1510UQ",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.919151,
+-97.391714
+]
+],
+"name": "TXR1510UQ",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR1510UQ",
+"raw": null,
+"reason": "BROWNE LOT - PHASE 2",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1510UQ&lgl_id=31592152&pita_id=31592155&phys_id=31592154&princ_id=641482642005192&affil_role=2&reg_ent_id=242603202014238&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-12T14:12:01.075Z"
+},
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tceq-water-quality-permit-TXR1511PE": {
-"lastmod": "2026-10-07T05:00:58.621Z",
+"lastmod": "2026-10-12T14:11:53.936Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -302937,12 +303013,12 @@
 "link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1511PE&lgl_id=29346151&pita_id=29346154&phys_id=29346153&princ_id=641482642005192&affil_role=2&reg_ent_id=242603202014238&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
 "name": "Texas Commission on Environmental Quality"
 },
-"updated": "2026-10-07T05:00:58.621Z"
+"updated": "2026-10-12T14:11:53.936Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tceq-water-quality-permit-TXR1515PQ": {
-"lastmod": "2026-10-07T05:00:58.621Z",
+"lastmod": "2026-10-12T14:11:46.609Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -302975,12 +303051,50 @@
 "link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1515PQ&lgl_id=29479519&pita_id=29479522&phys_id=29479521&princ_id=641482642005192&affil_role=2&reg_ent_id=582741122022321&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
 "name": "Texas Commission on Environmental Quality"
 },
-"updated": "2026-10-07T05:00:58.621Z"
+"updated": "2026-10-12T14:11:46.609Z"
 },
-"via": "entry"
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR1532NU": {
+"lastmod": "2026-10-12T14:11:32.669Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2023-12-31T00:00:00.000Z",
+"start": "2023-07-28T00:00:00.000Z"
+}
+],
+"height": null,
+"id": "tceq-water-quality-permit-TXR1532NU",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.992166,
+-97.178189
+]
+],
+"name": "TXR1532NU",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR1532NU",
+"raw": null,
+"reason": "STARBASE EXPANSION PROJECT",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1532NU&lgl_id=28925209&pita_id=28925212&phys_id=28925211&princ_id=641482642005192&affil_role=2&reg_ent_id=242603202014238&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-12T14:11:32.669Z"
+},
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tceq-water-quality-permit-TXR1532XZ": {
-"lastmod": "2026-10-07T05:00:58.621Z",
+"lastmod": "2026-10-12T14:11:23.239Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -303013,12 +303127,50 @@
 "link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1532XZ&lgl_id=32820324&pita_id=32820327&phys_id=32820326&princ_id=641482642005192&affil_role=2&reg_ent_id=297407382026110&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
 "name": "Texas Commission on Environmental Quality"
 },
-"updated": "2026-10-07T05:00:58.621Z"
+"updated": "2026-10-12T14:11:23.239Z"
 },
-"via": "entry"
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR1553PO": {
+"lastmod": "2026-10-12T14:10:57.798Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2024-03-31T00:00:00.000Z",
+"start": "2024-01-12T00:00:00.000Z"
+}
+],
+"height": null,
+"id": "tceq-water-quality-permit-TXR1553PO",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.918725,
+-97.3909
+]
+],
+"name": "TXR1553PO",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR1553PO",
+"raw": null,
+"reason": "BROWNE LOT PROJECT SITE",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1553PO&lgl_id=29468955&pita_id=29468958&phys_id=29468957&princ_id=641482642005192&affil_role=2&reg_ent_id=242603202014238&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-12T14:10:57.798Z"
+},
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tceq-water-quality-permit-TXR1554TF": {
-"lastmod": "2026-10-07T05:00:58.621Z",
+"lastmod": "2026-10-12T14:10:51.878Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -303051,12 +303203,12 @@
 "link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1554TF&lgl_id=30710258&pita_id=30710261&phys_id=30710260&princ_id=641482642005192&affil_role=2&reg_ent_id=242603202014238&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
 "name": "Texas Commission on Environmental Quality"
 },
-"updated": "2026-10-07T05:00:58.621Z"
+"updated": "2026-10-12T14:10:51.878Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tceq-water-quality-permit-TXR1560ZC": {
-"lastmod": "2026-10-07T05:00:58.621Z",
+"lastmod": "2026-10-12T14:10:43.217Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -303089,12 +303241,50 @@
 "link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1560ZC&lgl_id=33100652&pita_id=33100655&phys_id=33100654&princ_id=641482642005192&affil_role=2&reg_ent_id=727311932026223&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
 "name": "Texas Commission on Environmental Quality"
 },
-"updated": "2026-10-07T05:00:58.621Z"
+"updated": "2026-10-12T14:10:43.217Z"
 },
-"via": "entry"
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR1570NN": {
+"lastmod": "2026-10-12T14:10:36.515Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2023-12-31T00:00:00.000Z",
+"start": "2023-07-12T00:00:00.000Z"
+}
+],
+"height": null,
+"id": "tceq-water-quality-permit-TXR1570NN",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.918128,
+-97.3827
+]
+],
+"name": "TXR1570NN",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR1570NN",
+"raw": null,
+"reason": "PARKING LOT PROJECT NW CORNER OF OKLAHOMA AVE AND HWY 4",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1570NN&lgl_id=28879532&pita_id=28879535&phys_id=28879534&princ_id=641482642005192&affil_role=2&reg_ent_id=242603202014238&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-12T14:10:36.515Z"
+},
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tceq-water-quality-permit-TXR1571ZR": {
-"lastmod": "2026-10-07T05:00:58.621Z",
+"lastmod": "2026-10-12T14:10:26.891Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -303127,12 +303317,12 @@
 "link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1571ZR&lgl_id=33355221&pita_id=33355224&phys_id=33355223&princ_id=641482642005192&affil_role=2&reg_ent_id=461605662022168&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
 "name": "Texas Commission on Environmental Quality"
 },
-"updated": "2026-10-07T05:00:58.621Z"
+"updated": "2026-10-12T14:10:26.891Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tceq-water-quality-permit-TXR1572ZR": {
-"lastmod": "2026-10-07T05:00:58.621Z",
+"lastmod": "2026-10-12T14:10:23.106Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -303165,12 +303355,12 @@
 "link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1572ZR&lgl_id=33355249&pita_id=33355252&phys_id=33355251&princ_id=641482642005192&affil_role=2&reg_ent_id=172608342026281&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
 "name": "Texas Commission on Environmental Quality"
 },
-"updated": "2026-10-07T05:00:58.621Z"
+"updated": "2026-10-12T14:10:23.106Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tceq-water-quality-permit-TXR1574WH": {
-"lastmod": "2026-10-07T05:00:58.621Z",
+"lastmod": "2026-10-12T14:10:17.615Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -303203,12 +303393,12 @@
 "link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1574WH&lgl_id=32084665&pita_id=32084668&phys_id=32084667&princ_id=641482642005192&affil_role=2&reg_ent_id=461605662022168&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
 "name": "Texas Commission on Environmental Quality"
 },
-"updated": "2026-10-07T05:00:58.621Z"
+"updated": "2026-10-12T14:10:17.615Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tceq-water-quality-permit-TXR1575YT": {
-"lastmod": "2026-10-07T05:00:58.621Z",
+"lastmod": "2026-10-12T14:10:04.770Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -303241,12 +303431,88 @@
 "link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1575YT&lgl_id=33006384&pita_id=33006387&phys_id=33006386&princ_id=641482642005192&affil_role=2&reg_ent_id=734365202026188&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
 "name": "Texas Commission on Environmental Quality"
 },
-"updated": "2026-10-07T05:00:58.621Z"
+"updated": "2026-10-12T14:10:04.770Z"
 },
-"via": "entry"
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR1577MD": {
+"lastmod": "2026-10-12T14:09:53.917Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2023-12-31T00:00:00.000Z",
+"start": "2023-02-01T00:00:00.000Z"
+}
+],
+"height": null,
+"id": "tceq-water-quality-permit-TXR1577MD",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.9907,
+-97.1856
+]
+],
+"name": "TXR1577MD",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR1577MD",
+"raw": null,
+"reason": "STARBASE ST JUDE HOUSING PROJECT",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1577MD&lgl_id=28397783&pita_id=28397786&phys_id=28397785&princ_id=641482642005192&affil_role=2&reg_ent_id=242603202014238&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-12T14:09:53.917Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR1579OU": {
+"lastmod": "2026-10-12T14:09:27.547Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2023-12-31T00:00:00.000Z",
+"start": "2023-10-27T00:00:00.000Z"
+}
+],
+"height": null,
+"id": "tceq-water-quality-permit-TXR1579OU",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.963186,
+-97.252366
+]
+],
+"name": "TXR1579OU",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR1579OU",
+"raw": null,
+"reason": "HWY 4 TURNING LANES FOR MASSEY AND AD ASTRA SITES",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1579OU&lgl_id=29163553&pita_id=29163556&phys_id=29163555&princ_id=641482642005192&affil_role=2&reg_ent_id=461605662022168&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-10-12T14:09:27.547Z"
+},
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tceq-water-quality-permit-TXR1593ZL": {
-"lastmod": "2026-10-07T05:00:58.621Z",
+"lastmod": "2026-10-12T14:09:18.512Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -303279,12 +303545,12 @@
 "link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1593ZL&lgl_id=33263200&pita_id=33263203&phys_id=33263202&princ_id=641482642005192&affil_role=2&reg_ent_id=815764482026260&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
 "name": "Texas Commission on Environmental Quality"
 },
-"updated": "2026-10-07T05:00:58.621Z"
+"updated": "2026-10-12T14:09:18.512Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tceq-water-quality-permit-TXR1595ZL": {
-"lastmod": "2026-10-07T05:00:58.621Z",
+"lastmod": "2026-10-12T14:09:10.084Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -303317,12 +303583,12 @@
 "link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1595ZL&lgl_id=33263527&pita_id=33263530&phys_id=33263529&princ_id=641482642005192&affil_role=2&reg_ent_id=224320002026261&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
 "name": "Texas Commission on Environmental Quality"
 },
-"updated": "2026-10-07T05:00:58.621Z"
+"updated": "2026-10-12T14:09:10.084Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tceq-water-quality-permit-TXRNEBY28": {
-"lastmod": "2026-10-07T05:00:58.621Z",
+"lastmod": "2026-10-12T14:08:59.809Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -303350,9 +303616,9 @@
 "link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXRNEBY28&lgl_id=27717007&pita_id=27717010&phys_id=27717009&princ_id=641482642005192&affil_role=2&reg_ent_id=784727812001309&permit_type_code=SWD&return_to=permit_list_by_cn&cn_number=CN602867657",
 "name": "Texas Commission on Environmental Quality"
 },
-"updated": "2026-10-07T05:00:58.621Z"
+"updated": "2026-10-12T14:08:59.809Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-EHKK-6%2F4585": {
 "lastmod": "2026-09-22T15:37:56.981Z",
