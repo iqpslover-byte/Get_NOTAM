@@ -277879,6 +277879,126 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZLA-10%2F169-26": {
+"lastmod": "2026-10-11T05:39:09.010Z",
+"notice": {
+"areas": [
+[
+[
+32.2667,
+-120.2167
+],
+[
+32.4167,
+-119.9833
+],
+[
+34.5833,
+-120.4667
+],
+[
+34.6667,
+-120.5333
+],
+[
+34.65,
+-120.65
+],
+[
+34.5167,
+-120.65
+],
+[
+32.2667,
+-120.2167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-16T04:07:00.000Z",
+"start": "2026-10-15T23:44:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/169-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-481",
+"title": "USSF-481"
+}
+],
+"markers": [],
+"name": "10/169",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F169-26",
+"raw": "!CARF 10/169 ZLA AIRSPACE DCC SX F9 TH-2 67 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 321600N1201300W TO 322500N1195900W TO 343500N1202800W TO 344000N1203200W TO 343900N1203900W TO 343100N1203900W TO POINT OF ORIGIN SFC-UNL 2610152344-2610160407",
+"reason": "SX F9 TH-2 67",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82724214",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-11T05:39:09.010Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/notam-ZLA-10%2F170-26": {
+"lastmod": "2026-10-11T05:39:09.010Z",
+"notice": {
+"areas": [
+[
+[
+31.7333,
+-120.15
+],
+[
+31.9833,
+-119.8667
+],
+[
+31.35,
+-119.7
+],
+[
+31.15,
+-120.0833
+],
+[
+31.7333,
+-120.15
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-16T04:10:00.000Z",
+"start": "2026-10-15T23:44:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/170-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-481",
+"title": "USSF-481"
+}
+],
+"markers": [],
+"name": "10/170",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F170-26",
+"raw": "!CARF 10/170 ZLA AIRSPACE DCC SX F9 TH-2 67 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 314400N1200900W TO 315900N1195200W TO 312100N1194200W TO 310900N1200500W TO POINT OF ORIGIN SFC-UNL 2610152344-2610160410",
+"reason": "SX F9 TH-2 67",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82724234",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-11T05:39:09.010Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/notam-ZLHW-A0063%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {

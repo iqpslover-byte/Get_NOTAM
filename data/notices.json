@@ -1,75 +1,7 @@
 {
-"count": 467,
-"generated_utc": "2026-10-13T03:54:55Z",
+"count": 468,
+"generated_utc": "2026-10-13T12:12:55Z",
 "notices": [
-{
-"areas": [
-[
-[
-30.7167,
-125.8333
-],
-[
-30.2167,
-125.55
-],
-[
-29.8,
-126.25
-],
-[
-30.25,
-126.6
-],
-[
-30.7167,
-125.8333
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-09T11:00:00.000Z",
-"start": "2026-09-09T08:00:00.000Z"
-},
-{
-"end": "2026-09-10T11:00:00.000Z",
-"start": "2026-09-10T08:00:00.000Z"
-},
-{
-"end": "2026-09-11T11:00:00.000Z",
-"start": "2026-09-11T08:00:00.000Z"
-},
-{
-"end": "2026-09-12T11:00:00.000Z",
-"start": "2026-09-12T08:00:00.000Z"
-},
-{
-"end": "2026-09-13T11:00:00.000Z",
-"start": "2026-09-13T08:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-RJJJ-P4267/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "P4267/26",
-"page": "https://space-notices.com/notice/notam-RJJJ-P4267%2F26",
-"raw": "P4267/26 NOTAMN\r\nQ)RJJJ/QXXXX/IV/NBO/E/000/165/3016N12604E030\r\nA)RJJJ B)2609090800 C)2609131100\r\nD)0800/1100\r\nE)DUE TO AN AEROSPACE FLIGHT ACTIVITY, THE FLIGHT SAFETY OF THE\r\nAIRCRAFT IN FOLLOWING AREA MAY BE AFFECTED THRU SEP 09-13 2026,\r\n0800-1100 DLY\r\n\r\nAREA:\r\n304300N1255000E - 301300N1253300E - 294800N1261500E - 301500N1263600E\r\n- 304300N1255000E\r\n\r\nALTITUDE:\r\nSFC - UNL\r\n\r\nRMK: ATC WILL NOT CLEAR IFR FLT THRU THIS AREA FOR THE FLIGHT SAFETY\r\nF)SFC G)UNL",
-"reason": "AN AEROSPACE FLIGHT ACTIVITY",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82269153",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-08-31T05:42:05.258Z"
-},
 {
 "areas": [
 [
@@ -30809,6 +30741,118 @@
 "areas": [
 [
 [
+32.2667,
+-120.2167
+],
+[
+32.4167,
+-119.9833
+],
+[
+34.5833,
+-120.4667
+],
+[
+34.6667,
+-120.5333
+],
+[
+34.65,
+-120.65
+],
+[
+34.5167,
+-120.65
+],
+[
+32.2667,
+-120.2167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-16T04:07:00.000Z",
+"start": "2026-10-15T23:44:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/169-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-481",
+"title": "USSF-481"
+}
+],
+"markers": [],
+"name": "10/169",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F169-26",
+"raw": "!CARF 10/169 ZLA AIRSPACE DCC SX F9 TH-2 67 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 321600N1201300W TO 322500N1195900W TO 343500N1202800W TO 344000N1203200W TO 343900N1203900W TO 343100N1203900W TO POINT OF ORIGIN SFC-UNL 2610152344-2610160407",
+"reason": "SX F9 TH-2 67",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82724214",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-11T05:39:09.010Z"
+},
+{
+"areas": [
+[
+[
+31.7333,
+-120.15
+],
+[
+31.9833,
+-119.8667
+],
+[
+31.35,
+-119.7
+],
+[
+31.15,
+-120.0833
+],
+[
+31.7333,
+-120.15
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-16T04:10:00.000Z",
+"start": "2026-10-15T23:44:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/170-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-481",
+"title": "USSF-481"
+}
+],
+"markers": [],
+"name": "10/170",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F170-26",
+"raw": "!CARF 10/170 ZLA AIRSPACE DCC SX F9 TH-2 67 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 314400N1200900W TO 315900N1195200W TO 312100N1194200W TO 310900N1200500W TO POINT OF ORIGIN SFC-UNL 2610152344-2610160410",
+"reason": "SX F9 TH-2 67",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82724234",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-11T05:39:09.010Z"
+},
+{
+"areas": [
+[
+[
 31.1833,
 -120.0167
 ],
@@ -41077,5 +41121,5 @@
 "pending": 7,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3093
+"total_known": 3095
 }
