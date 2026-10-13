@@ -11720,7 +11720,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-bandwagon-5": {
-"lastmod": "2026-10-13T12:44:07.149Z",
+"lastmod": "2026-10-13T15:52:43.484Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -11752,9 +11752,9 @@
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-13T12:44:07.149Z"
+"updated": "2026-10-13T15:52:43.484Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-crs-35": {
 "lastmod": "2026-10-07T19:32:43.299Z",
@@ -11981,7 +11981,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-15": {
-"lastmod": "2026-10-12T15:16:27.036Z",
+"lastmod": "2026-10-13T15:52:44.479Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -12013,9 +12013,9 @@
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-12T15:16:27.036Z"
+"updated": "2026-10-13T15:52:44.479Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-25": {
 "lastmod": "2026-10-09T13:48:43.089Z",
@@ -12298,7 +12298,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-stratolaunch-erebus": {
-"lastmod": "2026-10-13T12:37:43.048Z",
+"lastmod": "2026-10-13T15:52:42.573Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -12326,9 +12326,9 @@
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-13T12:37:43.048Z"
+"updated": "2026-10-13T15:52:42.573Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-stratolaunch-helena": {
 "lastmod": "2026-09-30T19:40:43.555Z",
@@ -88571,7 +88571,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%202882%2F26": {
-"lastmod": "2026-10-05T03:38:50.924Z",
+"lastmod": "2026-10-13T16:17:22.718Z",
 "notice": {
 "areas": [
 [
@@ -88658,7 +88658,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2882&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-10-05T03:38:50.924Z"
+"updated": "2026-10-13T16:17:22.718Z"
 },
 "via": "sitemap"
 },
@@ -89105,7 +89105,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%202916%2F26": {
-"lastmod": "2026-10-07T23:26:36.501Z",
+"lastmod": "2026-10-13T17:55:47.017Z",
 "notice": {
 "areas": [
 [
@@ -89192,7 +89192,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2916&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-10-07T23:26:36.501Z"
+"updated": "2026-10-13T17:55:47.017Z"
 },
 "via": "sitemap"
 },
@@ -230605,6 +230605,118 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-MMFR-B2888%2F26": {
+"lastmod": "2026-10-13T19:49:29.015Z",
+"notice": {
+"areas": [
+[
+[
+28.1833,
+-117.3333
+],
+[
+28.8333,
+-117.8167
+],
+[
+29.0333,
+-117.9833
+],
+[
+29.25,
+-118.0333
+],
+[
+29.4,
+-118.1333
+],
+[
+29.5833,
+-118.2
+],
+[
+31.5833,
+-119.15
+],
+[
+31.7667,
+-118.7667
+],
+[
+29.8,
+-117.65
+],
+[
+29.6,
+-117.2667
+],
+[
+28.8333,
+-117.3167
+],
+[
+28.2,
+-117.3167
+],
+[
+28.1833,
+-117.3333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T02:57:00.000Z",
+"start": "2026-10-20T22:14:00.000Z"
+},
+{
+"end": "2026-10-22T02:42:00.000Z",
+"start": "2026-10-21T21:59:00.000Z"
+},
+{
+"end": "2026-10-23T02:28:00.000Z",
+"start": "2026-10-22T21:45:00.000Z"
+},
+{
+"end": "2026-10-24T02:13:00.000Z",
+"start": "2026-10-23T21:30:00.000Z"
+},
+{
+"end": "2026-10-25T01:59:00.000Z",
+"start": "2026-10-24T21:16:00.000Z"
+},
+{
+"end": "2026-10-26T01:45:00.000Z",
+"start": "2026-10-25T21:02:00.000Z"
+},
+{
+"end": "2026-10-27T01:30:00.000Z",
+"start": "2026-10-26T20:47:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MMFR-B2888/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-15",
+"title": "Starlink Group 15-15"
+}
+],
+"markers": [],
+"name": "B2888/26",
+"page": "https://space-notices.com/notice/notam-MMFR-B2888%2F26",
+"raw": "B2888/26 NOTAMN\r\r\nQ) MMFR/QRDCA/IV/BO/W/000/999/\r\r\nA) MMFR\r\r\nB) 2610202214\r\r\nC) 2610270130\r\r\nD) 20 2214-0257, 21 2159-0242, 22 2145-0228, 23 2130-0213,\r\r\n   24 2116-0159, 25 2102-0145, 26 2047-0130\r\r\nE) DANGEROUS AREA FOR REENTRY OF ROCKET SPACEX 15-15 STAGE 1 \r\r\n   LATERAL LIMIT AREA FORMED BY THE UNION OF THE FLW POINTS:\r\r\n   2811N 11720W\r\r\n   2850N 11749W\r\r\n   2902N 11759W\r\r\n   2915N 11802W\r\r\n   2924N 11808W\r\r\n   2935N 11812W\r\r\n   3135N 11909W\r\r\n   3146N 11846W\r\r\n   2948N 11739W\r\r\n   2936N 11716W\r\r\n   2850N 11719W\r\r\n   2812N 11719W\r\r\n   2811N 11720W\r\r\n   (MMFR)\r\r\nF) SFC\r\r\nG) UNL",
+"reason": "DANGEROUS AREA FOR REENTRY OF ROCKET SPACEX 15-15 STAGE 1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82731694",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-13T19:49:29.015Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-MTEG-A0046%2F26": {
 "lastmod": "2026-09-26T14:10:06.294Z",
 "notice": {
@@ -247179,7 +247291,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SCIZ-W3484%2F26": {
-"lastmod": "2026-10-12T15:16:27.036Z",
+"lastmod": "2026-10-13T16:48:29.566Z",
 "notice": {
 "areas": [
 [
@@ -247294,9 +247406,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82729386",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-12T15:16:27.036Z"
+"updated": "2026-10-13T16:48:29.566Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SMPM-A0368%2F26": {
 "lastmod": "2026-09-27T19:52:14.739Z",

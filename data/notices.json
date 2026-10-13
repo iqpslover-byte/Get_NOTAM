@@ -1,6 +1,6 @@
 {
-"count": 483,
-"generated_utc": "2026-10-13T19:34:50Z",
+"count": 484,
+"generated_utc": "2026-10-13T23:27:42Z",
 "notices": [
 {
 "areas": [
@@ -31052,7 +31052,7 @@
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-13T12:37:43.048Z"
+"updated": "2026-10-13T15:52:42.573Z"
 },
 {
 "areas": [
@@ -32448,7 +32448,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2916&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-10-07T23:26:36.501Z"
+"updated": "2026-10-13T17:55:47.017Z"
 },
 {
 "areas": [
@@ -33133,7 +33133,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2882&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-10-05T03:38:50.924Z"
+"updated": "2026-10-13T16:17:22.718Z"
 },
 {
 "areas": [
@@ -36371,7 +36371,7 @@
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-13T12:44:07.149Z"
+"updated": "2026-10-13T15:52:43.484Z"
 },
 {
 "areas": [
@@ -37108,7 +37108,7 @@
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-12T15:16:27.036Z"
+"updated": "2026-10-13T15:52:44.479Z"
 },
 {
 "areas": [
@@ -38044,6 +38044,114 @@
 "areas": [
 [
 [
+28.1833,
+-117.3333
+],
+[
+28.8333,
+-117.8167
+],
+[
+29.0333,
+-117.9833
+],
+[
+29.25,
+-118.0333
+],
+[
+29.4,
+-118.1333
+],
+[
+29.5833,
+-118.2
+],
+[
+31.5833,
+-119.15
+],
+[
+31.7667,
+-118.7667
+],
+[
+29.8,
+-117.65
+],
+[
+29.6,
+-117.2667
+],
+[
+28.8333,
+-117.3167
+],
+[
+28.2,
+-117.3167
+],
+[
+28.1833,
+-117.3333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T02:57:00.000Z",
+"start": "2026-10-20T22:14:00.000Z"
+},
+{
+"end": "2026-10-22T02:42:00.000Z",
+"start": "2026-10-21T21:59:00.000Z"
+},
+{
+"end": "2026-10-23T02:28:00.000Z",
+"start": "2026-10-22T21:45:00.000Z"
+},
+{
+"end": "2026-10-24T02:13:00.000Z",
+"start": "2026-10-23T21:30:00.000Z"
+},
+{
+"end": "2026-10-25T01:59:00.000Z",
+"start": "2026-10-24T21:16:00.000Z"
+},
+{
+"end": "2026-10-26T01:45:00.000Z",
+"start": "2026-10-25T21:02:00.000Z"
+},
+{
+"end": "2026-10-27T01:30:00.000Z",
+"start": "2026-10-26T20:47:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MMFR-B2888/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-15",
+"title": "Starlink Group 15-15"
+}
+],
+"markers": [],
+"name": "B2888/26",
+"page": "https://space-notices.com/notice/notam-MMFR-B2888%2F26",
+"raw": "B2888/26 NOTAMN\r\r\nQ) MMFR/QRDCA/IV/BO/W/000/999/\r\r\nA) MMFR\r\r\nB) 2610202214\r\r\nC) 2610270130\r\r\nD) 20 2214-0257, 21 2159-0242, 22 2145-0228, 23 2130-0213,\r\r\n   24 2116-0159, 25 2102-0145, 26 2047-0130\r\r\nE) DANGEROUS AREA FOR REENTRY OF ROCKET SPACEX 15-15 STAGE 1 \r\r\n   LATERAL LIMIT AREA FORMED BY THE UNION OF THE FLW POINTS:\r\r\n   2811N 11720W\r\r\n   2850N 11749W\r\r\n   2902N 11759W\r\r\n   2915N 11802W\r\r\n   2924N 11808W\r\r\n   2935N 11812W\r\r\n   3135N 11909W\r\r\n   3146N 11846W\r\r\n   2948N 11739W\r\r\n   2936N 11716W\r\r\n   2850N 11719W\r\r\n   2812N 11719W\r\r\n   2811N 11720W\r\r\n   (MMFR)\r\r\nF) SFC\r\r\nG) UNL",
+"reason": "DANGEROUS AREA FOR REENTRY OF ROCKET SPACEX 15-15 STAGE 1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82731694",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-13T19:49:29.015Z"
+},
+{
+"areas": [
+[
+[
 -30.0,
 -121.8833
 ],
@@ -38154,7 +38262,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82729386",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-12T15:16:27.036Z"
+"updated": "2026-10-13T16:48:29.566Z"
 },
 {
 "areas": [
@@ -42346,8 +42454,8 @@
 "updated": "2026-10-12T14:08:59.809Z"
 }
 ],
-"pending": 9,
+"pending": 10,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3110
+"total_known": 3111
 }
