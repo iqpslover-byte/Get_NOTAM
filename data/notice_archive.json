@@ -1,5 +1,5 @@
 {
-"count": 2949,
+"count": 2953,
 "notices": [
 {
 "areas": [
@@ -283420,7 +283420,7 @@
 "markers": [],
 "name": "54442",
 "page": "https://space-notices.com/notice/lnm-54442",
-"raw": "$3c",
+"raw": "$3b",
 "reason": "Hazardous operations will be conducted for Space X SDA-T1A Launch Operations",
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
@@ -286994,7 +286994,7 @@
 "markers": [],
 "name": "CGD-SW BNM 9121-26",
 "page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209121-26",
-"raw": "$3d",
+"raw": "$3c",
 "reason": "Re-Entry - NASA Crew-12 Reentry",
 "source": {
 "link": "https://www.navcen.uscg.gov/chart",
@@ -289238,6 +289238,39 @@
 "cancelled": false,
 "dates": [
 {
+"end": "2026-10-24T10:12:00.000Z",
+"start": "2026-10-24T05:29:00.000Z"
+},
+{
+"end": "2026-10-25T09:57:00.000Z",
+"start": "2026-10-25T05:14:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-spacex-starlink-15-16",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-starlink-15-16",
+"title": "Starlink Group 15-16"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-16",
+"raw": "SPACEX STARLINK 15-16, VANDENBERG SFB, CA\nPRIMARY:\t10/24/26\t0529Z-1012Z\nBACKUP:\t\t10/25/26\t0514Z-0957Z",
+"reason": "SPACEX STARLINK 15-16, VANDENBERG SFB, CA",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-13T15:56:24.323Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
 "end": "2026-10-19T12:13:00.000Z",
 "start": "2026-10-19T10:30:00.000Z"
 },
@@ -289285,6 +289318,204 @@
 "name": "Cadena OIS"
 },
 "updated": "2026-10-13T12:44:05.312Z"
+},
+{
+"areas": [
+[
+[
+28.6,
+-80.5833
+],
+[
+28.6,
+-80.4333
+],
+[
+28.4333,
+-80.1167
+],
+[
+28.35,
+-80.1333
+],
+[
+28.4667,
+-80.5333
+],
+[
+28.6,
+-80.5833
+]
+],
+[
+[
+26.1,
+-76.0333
+],
+[
+26.1667,
+-76.0167
+],
+[
+25.6,
+-73.9333
+],
+[
+25.45,
+-73.7333
+],
+[
+25.0667,
+-73.7667
+],
+[
+24.9,
+-73.9833
+],
+[
+24.9667,
+-74.55
+],
+[
+26.1,
+-76.0333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-19T12:13:00.000Z",
+"start": "2026-10-19T10:30:00.000Z"
+},
+{
+"end": "2026-10-20T12:13:00.000Z",
+"start": "2026-10-20T10:30:00.000Z"
+},
+{
+"end": "2026-10-21T12:13:00.000Z",
+"start": "2026-10-21T10:30:00.000Z"
+},
+{
+"end": "2026-10-22T12:13:00.000Z",
+"start": "2026-10-22T10:30:00.000Z"
+},
+{
+"end": "2026-10-23T12:13:00.000Z",
+"start": "2026-10-23T10:30:00.000Z"
+},
+{
+"end": "2026-10-24T12:13:00.000Z",
+"start": "2026-10-24T10:30:00.000Z"
+},
+{
+"end": "2026-10-25T12:13:00.000Z",
+"start": "2026-10-25T10:30:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA IV 992/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-f9-bandwagon-5-dedicated-mid-inclina",
+"title": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)"
+}
+],
+"markers": [],
+"name": "NAVAREA IV 992/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20IV%20992%2F26",
+"raw": "140835Z OCT 26\nNAVAREA IV 992/26.\nNORTH ATLANTIC.\nFLORIDA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING\n   191030Z TO 191213Z OCT, ALTERNATE\n   1030Z TO 1213Z DAILY 20 THRU 25 OCT\n   IN AREAS BOUND BY:\n   A. 28-36.83N 080-35.92W, 28-36.00N 080-26.00W,\n      28-26.00N 080-07.00W, 28-21.00N 080-08.00W,\n      28-28.80N 080-32.22W.\n   B. 26-06.00N 076-02.00W, 26-10.00N 076-01.00W,\n      25-36.00N 073-56.00W, 25-27.00N 073-44.00W,\n      25-04.00N 073-46.00W, 24-54.00N 073-59.00W,\n      24-58.00N 074-33.00W.\n2. CANCEL THIS MSG 251313Z OCT 26.//\n\n\n",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=992&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-10-14T08:39:22.720Z"
+},
+{
+"areas": [
+[
+[
+41.4667,
+-140.05
+],
+[
+30.3333,
+-125.4667
+],
+[
+21.2167,
+-118.35
+],
+[
+20.8667,
+-118.75
+],
+[
+29.0167,
+-127.5167
+],
+[
+40.1833,
+-141.4
+],
+[
+41.4667,
+-140.05
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-19T15:28:00.000Z",
+"start": "2026-10-19T13:34:00.000Z"
+},
+{
+"end": "2026-10-20T15:28:00.000Z",
+"start": "2026-10-20T13:34:00.000Z"
+},
+{
+"end": "2026-10-21T15:28:00.000Z",
+"start": "2026-10-21T13:34:00.000Z"
+},
+{
+"end": "2026-10-22T15:28:00.000Z",
+"start": "2026-10-22T13:34:00.000Z"
+},
+{
+"end": "2026-10-23T15:28:00.000Z",
+"start": "2026-10-23T13:34:00.000Z"
+},
+{
+"end": "2026-10-24T15:28:00.000Z",
+"start": "2026-10-24T13:34:00.000Z"
+},
+{
+"end": "2026-10-25T15:28:00.000Z",
+"start": "2026-10-25T13:34:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA XII 724/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-f9-bandwagon-5-dedicated-mid-inclina",
+"title": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)"
+}
+],
+"markers": [],
+"name": "NAVAREA XII 724/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20724%2F26",
+"raw": "121112Z OCT 26\nNAVAREA XII 724/26.\nNORTH PACIFIC.\nCALIFORNIA.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   191334Z TO 191528Z OCT, ALTERNATE\n   1334Z TO 1528Z DAILY 20 THRU 25 OCT\n   IN AREA BOUND BY\n   41-28.51N 140-03.17W, 30-20.60N 125-28.93W,\n   21-13.00N 118-21.00W, 20-52.00N 118-45.00W,\n   29-01.72N 127-31.33W, 40-11.11N 141-24.84W.\n2. CANCEL THIS MSG 251628Z OCT 26.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=724&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-10-14T09:48:14.238Z"
 },
 {
 "areas": [
@@ -289361,6 +289592,59 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-12T23:56:29.796Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T02:57:00.000Z",
+"start": "2026-10-20T22:14:00.000Z"
+},
+{
+"end": "2026-10-22T02:42:00.000Z",
+"start": "2026-10-21T21:59:00.000Z"
+},
+{
+"end": "2026-10-23T02:28:00.000Z",
+"start": "2026-10-22T21:45:00.000Z"
+},
+{
+"end": "2026-10-24T02:13:00.000Z",
+"start": "2026-10-23T21:30:00.000Z"
+},
+{
+"end": "2026-10-25T01:59:00.000Z",
+"start": "2026-10-24T21:16:00.000Z"
+},
+{
+"end": "2026-10-26T01:45:00.000Z",
+"start": "2026-10-25T21:02:00.000Z"
+},
+{
+"end": "2026-10-27T01:30:00.000Z",
+"start": "2026-10-26T20:47:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-cadenaois-advisory-2829",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-starlink-15-15",
+"title": "Starlink Group 15-15"
+}
+],
+"markers": [],
+"name": "Cadena OIS Advisory 2829",
+"page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2829",
+"raw": "Primary Launch Day\t20 OCT\t2214Z-0257Z\nBackup Launch Day\t21 OCT\t2159Z-0242Z\nBackup Launch Day\t22 OCT\t2145Z-0228Z\nBackup Launch Day\t23 OCT\t2130Z-0213Z\nBackup Launch Day\t24 OCT\t2116Z-0159Z\nBackup Launch Day\t25 OCT\t2102Z-0145Z\nBackup Launch Day\t26 OCT\t2047Z-0130Z\n",
+"reason": "SpaceX Starlink 15-15",
+"source": {
+"link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
+"name": "Cadena OIS"
+},
+"updated": "2026-10-14T12:00:08.005Z"
 },
 {
 "areas": [
@@ -289956,7 +290240,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82735627",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-14T03:40:29.527Z"
+"updated": "2026-10-14T06:36:29.475Z"
 },
 {
 "areas": [
