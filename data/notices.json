@@ -1,6 +1,6 @@
 {
-"count": 484,
-"generated_utc": "2026-10-13T23:27:42Z",
+"count": 485,
+"generated_utc": "2026-10-14T02:11:07Z",
 "notices": [
 {
 "areas": [
@@ -38156,6 +38156,82 @@
 -121.8833
 ],
 [
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-28.7167,
+-120.0
+],
+[
+-30.0,
+-120.0
+],
+[
+-30.0,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T04:39:00.000Z",
+"start": "2026-10-21T00:01:00.000Z"
+},
+{
+"end": "2026-10-22T04:24:00.000Z",
+"start": "2026-10-21T23:46:00.000Z"
+},
+{
+"end": "2026-10-23T04:10:00.000Z",
+"start": "2026-10-22T23:32:00.000Z"
+},
+{
+"end": "2026-10-24T03:55:00.000Z",
+"start": "2026-10-23T23:17:00.000Z"
+},
+{
+"end": "2026-10-26T03:27:00.000Z",
+"start": "2026-10-25T22:49:00.000Z"
+},
+{
+"end": "2026-10-27T03:12:00.000Z",
+"start": "2026-10-26T22:34:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1326/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-15",
+"title": "Starlink Group 15-15"
+}
+],
+"markers": [],
+"name": "A1326/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1326%2F26",
+"raw": "A1326/26 NOTAMN\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2858S12112W113\r\nA) NTTT\r\nB) 2610210001 C) 2610270312\r\nD) 21 0001-0439, 21 2346-0424, 22 2332-0410, 23 2317-0355, 24\r\n 2303-0341, 25 2249-0327, 26 2234-0312\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX\r\n STARLINK 15-15 IN TAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING\r\n POINTS : \r\n3000S 12153W, 2759S 12244W, 2709S 12043W, 2843S 12000W, 3000S\r\n 12000W, 3000S 12153W \r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : SCIZ \r\n\r\nTHE FRENCH VERSION OF THIS NOTAM IS C02463/26\r\nF) SFC G) UNL",
+"reason": "SPACE DEBRIS RETURN OF SPACEX STARLINK 15-15",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82733828",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-13T19:49:29.027Z"
+},
+{
+"areas": [
+[
+[
+-30.0,
+-121.8833
+],
+[
 -30.0,
 -120.0
 ],
@@ -42457,5 +42533,5 @@
 "pending": 10,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3111
+"total_known": 3112
 }
