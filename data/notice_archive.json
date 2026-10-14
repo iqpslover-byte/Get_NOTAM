@@ -1,5 +1,5 @@
 {
-"count": 2954,
+"count": 2945,
 "notices": [
 {
 "areas": [
@@ -256408,330 +256408,6 @@
 "areas": [
 [
 [
-36.3333,
--124.3167
-],
-[
-35.4833,
--123.0
-],
-[
-35.3167,
--122.1667
-],
-[
-35.55,
--121.65
-],
-[
-35.6167,
--121.5333
-],
-[
-35.25,
--121.1
-],
-[
-35.0667,
--120.8
-],
-[
-35.0,
--120.7
-],
-[
-34.7667,
--120.5
-],
-[
-34.65,
--120.5333
-],
-[
-34.4,
--120.5
-],
-[
-34.2667,
--120.9167
-],
-[
-34.1833,
--120.9833
-],
-[
-34.1167,
--121.4333
-],
-[
-33.7833,
--122.6333
-],
-[
-34.0833,
--122.8333
-],
-[
-35.85,
--125.5333
-],
-[
-36.5167,
--124.9
-],
-[
-36.3333,
--124.3167
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-29T05:00:00.000Z",
-"start": "2026-09-28T23:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZAK-09/327-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "other-stratolaunch-operation-super-kristy",
-"title": "Operation Super Kristy"
-}
-],
-"markers": [],
-"name": "09/327",
-"page": "https://space-notices.com/notice/notam-ZAK-09%2F327-26",
-"raw": "!CARF 09/327 ZAK AIRSPACE DCC QUEEN OF THE SKIES 26-4 STNR ALT RESERVATION WI AN AREA DEFINED AS 362000N1241900W TO 352900N1230000W TO 351900N1221000W TO 353300N1213900W TO 353700N1213200W TO 351500N1210600W TO 350400N1204800W TO 350000N1204200W TO 344600N1203000W TO 343900N1203200W TO 342400N1203000W TO 341600N1205500W TO 341100N1205900W TO 340700N1212600W TO 334700N1223800W TO 340500N1225000W TO 355100N1253200W TO 363100N1245400W TO POINT OF ORIGIN SFC-UNL 2609282300-2609290500",
-"reason": "QUEEN OF THE SKIES 26-4",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82552469",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-27T20:05:09.373Z"
-},
-{
-"areas": [
-[
-[
-36.3333,
--124.3167
-],
-[
-35.4833,
--123.0
-],
-[
-35.3167,
--122.1667
-],
-[
-35.55,
--121.65
-],
-[
-35.6167,
--121.5333
-],
-[
-35.25,
--121.1
-],
-[
-35.0667,
--120.8
-],
-[
-35.0,
--120.7
-],
-[
-34.7667,
--120.5
-],
-[
-34.65,
--120.5333
-],
-[
-34.4,
--120.5
-],
-[
-34.2667,
--120.9167
-],
-[
-34.1833,
--120.9833
-],
-[
-34.1167,
--121.4333
-],
-[
-33.7833,
--122.6333
-],
-[
-34.0833,
--122.8333
-],
-[
-35.85,
--125.5333
-],
-[
-36.5167,
--124.9
-],
-[
-36.3333,
--124.3167
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-29T05:00:00.000Z",
-"start": "2026-09-28T23:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLA-09/328-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "other-stratolaunch-operation-super-kristy",
-"title": "Operation Super Kristy"
-}
-],
-"markers": [],
-"name": "09/328",
-"page": "https://space-notices.com/notice/notam-ZLA-09%2F328-26",
-"raw": "!CARF 09/328 ZLA AIRSPACE DCC QUEEN OF THE SKIES 26-4 STNR ALT RESERVATION WI AN AREA DEFINED AS 362000N1241900W TO 352900N1230000W TO 351900N1221000W TO 353300N1213900W TO 353700N1213200W TO 351500N1210600W TO 350400N1204800W TO 350000N1204200W TO 344600N1203000W TO 343900N1203200W TO 342400N1203000W TO 341600N1205500W TO 341100N1205900W TO 340700N1212600W TO 334700N1223800W TO 340500N1225000W TO 355100N1253200W TO 363100N1245400W TO POINT OF ORIGIN SFC-UNL 2609282300-2609290500",
-"reason": "QUEEN OF THE SKIES 26-4",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82552467",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-27T20:05:00.851Z"
-},
-{
-"areas": [
-[
-[
-36.3333,
--124.3167
-],
-[
-35.4833,
--123.0
-],
-[
-35.3167,
--122.1667
-],
-[
-35.55,
--121.65
-],
-[
-35.6167,
--121.5333
-],
-[
-35.25,
--121.1
-],
-[
-35.0667,
--120.8
-],
-[
-35.0,
--120.7
-],
-[
-34.7667,
--120.5
-],
-[
-34.65,
--120.5333
-],
-[
-34.4,
--120.5
-],
-[
-34.2667,
--120.9167
-],
-[
-34.1833,
--120.9833
-],
-[
-34.1167,
--121.4333
-],
-[
-33.7833,
--122.6333
-],
-[
-34.0833,
--122.8333
-],
-[
-35.85,
--125.5333
-],
-[
-36.5167,
--124.9
-],
-[
-36.3333,
--124.3167
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-29T05:00:00.000Z",
-"start": "2026-09-28T23:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZOA-09/326-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "other-stratolaunch-operation-super-kristy",
-"title": "Operation Super Kristy"
-}
-],
-"markers": [],
-"name": "09/326",
-"page": "https://space-notices.com/notice/notam-ZOA-09%2F326-26",
-"raw": "!CARF 09/326 ZOA AIRSPACE DCC QUEEN OF THE SKIES 26-4 STNR ALT RESERVATION WI AN AREA DEFINED AS 362000N1241900W TO 352900N1230000W TO 351900N1221000W TO 353300N1213900W TO 353700N1213200W TO 351500N1210600W TO 350400N1204800W TO 350000N1204200W TO 344600N1203000W TO 343900N1203200W TO 342400N1203000W TO 341600N1205500W TO 341100N1205900W TO 340700N1212600W TO 334700N1223800W TO 340500N1225000W TO 355100N1253200W TO 363100N1245400W TO POINT OF ORIGIN SFC-UNL 2609282300-2609290500",
-"reason": "QUEEN OF THE SKIES 26-4",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82552471",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-27T20:05:14.093Z"
-},
-{
-"areas": [
-[
-[
 25.9667,
 -97.1833
 ],
@@ -257240,687 +256916,6 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-26T02:08:50.471Z"
-},
-{
-"areas": [
-[
-[
-33.816667,
--121.083333
-],
-[
-33.7,
--121.55
-],
-[
-34.933333,
--123.4
-],
-[
-35.666667,
--124.133333
-],
-[
-35.9,
--123.883333
-],
-[
-35.0,
--122.583333
-],
-[
-35.216667,
--121.016667
-],
-[
-34.816667,
--120.566667
-],
-[
-34.2,
--120.8
-],
-[
-33.816667,
--121.083333
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-29T05:00:00.000Z",
-"start": "2026-09-28T20:00:00.000Z"
-},
-{
-"end": "2026-10-01T05:00:00.000Z",
-"start": "2026-09-30T20:00:00.000Z"
-}
-],
-"height": null,
-"id": "bnm-CGD-SW BNM 9105-26",
-"kind": "BNM",
-"launches": [
-{
-"id": "other-stratolaunch-operation-super-kristy",
-"title": "Operation Super Kristy"
-}
-],
-"markers": [],
-"name": "CGD-SW BNM 9105-26",
-"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209105-26",
-"raw": "Launch Hazard Area\nMission: Stratolaunch Super Kristy \nMessage Id: CGD-SW BNM 9105-26\n\n28/2000 SEP 26 to 29/0500 SEP 26. \n30/2000 SEP 26 to 01/0500 OCT 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
-"reason": "Launch Hazard Area - Stratolaunch Super Kristy",
-"source": {
-"link": "https://www.navcen.uscg.gov/chart",
-"name": "US Coast Guard"
-},
-"updated": "2026-09-03T22:10:18.076Z"
-},
-{
-"areas": [
-[
-[
-35.8,
--123.916667
-],
-[
-35.766667,
--124.066667
-],
-[
-35.616667,
--124.1
-],
-[
-35.05,
--123.5
-],
-[
-34.716667,
--123.083333
-],
-[
-33.7,
--121.55
-],
-[
-33.85,
--121.116667
-],
-[
-34.2,
--120.816667
-],
-[
-34.8,
--120.533333
-],
-[
-35.216667,
--121.016667
-],
-[
-35.083333,
--121.916667
-],
-[
-34.866667,
--122.35
-],
-[
-35.683333,
--123.566667
-],
-[
-35.8,
--123.916667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-01T05:00:00.000Z",
-"start": "2026-09-30T20:00:00.000Z"
-}
-],
-"height": null,
-"id": "bnm-CGD-SW BNM 9114-26",
-"kind": "BNM",
-"launches": [
-{
-"id": "other-stratolaunch-operation-super-kristy",
-"title": "Operation Super Kristy"
-}
-],
-"markers": [],
-"name": "CGD-SW BNM 9114-26",
-"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209114-26",
-"raw": "Launch Hazard Area\nMission: Stratolaunch Super Kristy \nMessage Id: CGD-SW BNM 9114-26\n\n30/2000 SEP 26 to 01/0500 OCT 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
-"reason": "Launch Hazard Area - Stratolaunch Super Kristy",
-"source": {
-"link": "https://www.navcen.uscg.gov/chart",
-"name": "US Coast Guard"
-},
-"updated": "2026-09-29T20:09:38.698Z"
-},
-{
-"areas": [],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-01T05:00:00.000Z",
-"start": "2026-09-30T23:00:00.000Z"
-}
-],
-"height": null,
-"id": "infopage-faa-operations-advisory-stratolaunch-helena",
-"kind": "INFOPAGE",
-"launches": [
-{
-"id": "other-stratolaunch-operation-super-kristy",
-"title": "Operation Super Kristy"
-}
-],
-"markers": [],
-"name": "FAA Operations Advisory",
-"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-stratolaunch-helena",
-"raw": "STRATOLAUNCH HELENA, MOJAVE AIR AND SPACEPORT, CA\nPRIMARY:\t09/30/26\t2300Z-0500Z",
-"reason": "STRATOLAUNCH HELENA, MOJAVE AIR AND SPACEPORT, CA",
-"source": {
-"link": "https://www.fly.faa.gov/adv/adv_spt",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-30T19:40:43.555Z"
-},
-{
-"areas": [
-[
-[
-33.816667,
--121.083333
-],
-[
-33.7,
--121.55
-],
-[
-34.933333,
--123.4
-],
-[
-35.666667,
--124.133333
-],
-[
-35.9,
--123.883333
-],
-[
-35.0,
--122.583333
-],
-[
-35.216667,
--121.016667
-],
-[
-34.816667,
--120.566667
-],
-[
-34.2,
--120.8
-],
-[
-33.816667,
--121.083333
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-29T05:00:00.000Z",
-"start": "2026-09-28T20:00:00.000Z"
-},
-{
-"end": "2026-10-01T05:00:00.000Z",
-"start": "2026-09-30T20:00:00.000Z"
-}
-],
-"height": null,
-"id": "lnm-53052",
-"kind": "LNM",
-"launches": [
-{
-"id": "other-stratolaunch-operation-super-kristy",
-"title": "Operation Super Kristy"
-}
-],
-"markers": [],
-"name": "53052",
-"page": "https://space-notices.com/notice/lnm-53052",
-"raw": "Hazardous operations will be conducted for STRATOLAUNCH, Operation Super Kristy Hazardous operation areas are bounded by the following coordinates and times:\n\nHazard Area A:\n33.8166666667N\t-121.0833333333W\n33.7N\t-121.55W\n34.9333333333N\t-123.4W\n35.6666666667N, -124.1333333333W\n35.9N, -123.8833333333W\n35N, -122.5833333333W\n35.2166666667N,\t-121.0166666667W\n34.8166666667N,\t-120.5666666667W\n34.2N, -120.8W (TO BEGINNING)\n\n282000Z SEP TO 290500Z SEP                             \n30200Z SEP TO 010500Z OCT                               \n\nMariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Stratolaunch at RangeOps@stratolaunch.com, 661-584-2365, or on VHF-FM Chan. 06 or 16.\n",
-"reason": "Hazardous operations will be conducted for STRATOLAUNCH, Operation Super Kristy",
-"source": {
-"link": "https://www.navcen.uscg.gov/msi",
-"name": "US Coast Guard"
-},
-"updated": "2026-09-03T22:00:11.606Z"
-},
-{
-"areas": [
-[
-[
-35.8,
--123.916667
-],
-[
-35.766667,
--124.066667
-],
-[
-35.616667,
--124.1
-],
-[
-35.05,
--123.5
-],
-[
-34.716667,
--123.083333
-],
-[
-33.7,
--121.55
-],
-[
-33.85,
--121.116667
-],
-[
-34.2,
--120.816667
-],
-[
-34.8,
--120.533333
-],
-[
-35.216667,
--121.016667
-],
-[
-35.083333,
--121.916667
-],
-[
-34.866667,
--122.35
-],
-[
-35.683333,
--123.566667
-],
-[
-35.8,
--123.916667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-01T05:00:00.000Z",
-"start": "2026-09-30T20:00:00.000Z"
-}
-],
-"height": null,
-"id": "lnm-54725",
-"kind": "LNM",
-"launches": [
-{
-"id": "other-stratolaunch-operation-super-kristy",
-"title": "Operation Super Kristy"
-}
-],
-"markers": [],
-"name": "54725",
-"page": "https://space-notices.com/notice/lnm-54725",
-"raw": "Hazardous operations will be conducted for STRATOLAUNCH, Operation Super Kristy Hazardous operation areas are bounded by the following coordinates and times:\n\nHazard Area A:\n35.8N,\t-123.916667W\n35.766667N,\t-124.066667W\n35.616667N, -124.1W\n35.05N, -123.5W\n34.716667N,\t-123.083333W\n33.7N,\t-121.55W\n33.85N,\t-121.116667W\n34.2N,\t-120.816667W\n34.8N,\t-120.533333W\n35.216667N,\t-121.016667W\n35.083333N,\t-121.916667W\n34.866667N,\t-122.35W\n35.683333N,\t-123.566667W\n\n302000Z SEP TO 010500Z OCT                               \n\nMariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Stratolaunch at RangeOps@stratolaunch.com, 661-584-2365, or on VHF-FM Chan. 06 or 16.",
-"reason": "Hazardous operations will be conducted for STRATOLAUNCH Operation Super Kristy",
-"source": {
-"link": "https://www.navcen.uscg.gov/msi",
-"name": "US Coast Guard"
-},
-"updated": "2026-09-29T20:00:25.902Z"
-},
-{
-"areas": [
-[
-[
-36.3333,
--124.3167
-],
-[
-35.4833,
--123.0
-],
-[
-35.3167,
--122.1667
-],
-[
-35.55,
--121.65
-],
-[
-35.6167,
--121.5333
-],
-[
-35.25,
--121.1
-],
-[
-35.0667,
--120.8
-],
-[
-35.0,
--120.7
-],
-[
-34.7667,
--120.5
-],
-[
-34.65,
--120.5333
-],
-[
-34.4,
--120.5
-],
-[
-34.2667,
--120.9167
-],
-[
-34.1833,
--120.9833
-],
-[
-34.1167,
--121.4333
-],
-[
-33.7833,
--122.6333
-],
-[
-34.0833,
--122.8333
-],
-[
-35.85,
--125.5333
-],
-[
-36.5167,
--124.9
-],
-[
-36.3333,
--124.3167
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-01T05:00:00.000Z",
-"start": "2026-09-30T23:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZAK-09/349-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "other-stratolaunch-operation-super-kristy",
-"title": "Operation Super Kristy"
-}
-],
-"markers": [],
-"name": "09/349",
-"page": "https://space-notices.com/notice/notam-ZAK-09%2F349-26",
-"raw": "!CARF 09/349 ZAK AIRSPACE DCC QUEEN OF THE SKIES 26-4 STNR ALT RESERVATION WI AN AREA DEFINED AS 362000N1241900W TO 352900N1230000W TO 351900N1221000W TO 353300N1213900W TO 353700N1213200W TO 351500N1210600W TO 350400N1204800W TO 350000N1204200W TO 344600N1203000W TO 343900N1203200W TO 342400N1203000W TO 341600N1205500W TO 341100N1205900W TO 340700N1212600W TO 334700N1223800W TO 340500N1225000W TO 355100N1253200W TO 363100N1245400W TO POINT OF ORIGIN SFC-UNL 2609302300-2610010500",
-"reason": "QUEEN OF THE SKIES 26-4",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82564459",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-28T10:17:45.504Z"
-},
-{
-"areas": [
-[
-[
-36.3333,
--124.3167
-],
-[
-35.4833,
--123.0
-],
-[
-35.3167,
--122.1667
-],
-[
-35.55,
--121.65
-],
-[
-35.6167,
--121.5333
-],
-[
-35.25,
--121.1
-],
-[
-35.0667,
--120.8
-],
-[
-35.0,
--120.7
-],
-[
-34.7667,
--120.5
-],
-[
-34.65,
--120.5333
-],
-[
-34.4,
--120.5
-],
-[
-34.2667,
--120.9167
-],
-[
-34.1833,
--120.9833
-],
-[
-34.1167,
--121.4333
-],
-[
-33.7833,
--122.6333
-],
-[
-34.0833,
--122.8333
-],
-[
-35.85,
--125.5333
-],
-[
-36.5167,
--124.9
-],
-[
-36.3333,
--124.3167
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-01T05:00:00.000Z",
-"start": "2026-09-30T23:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLA-09/347-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "other-stratolaunch-operation-super-kristy",
-"title": "Operation Super Kristy"
-}
-],
-"markers": [],
-"name": "09/347",
-"page": "https://space-notices.com/notice/notam-ZLA-09%2F347-26",
-"raw": "!CARF 09/347 ZLA AIRSPACE DCC QUEEN OF THE SKIES 26-4 STNR ALT RESERVATION WI AN AREA DEFINED AS 362000N1241900W TO 352900N1230000W TO 351900N1221000W TO 353300N1213900W TO 353700N1213200W TO 351500N1210600W TO 350400N1204800W TO 350000N1204200W TO 344600N1203000W TO 343900N1203200W TO 342400N1203000W TO 341600N1205500W TO 341100N1205900W TO 340700N1212600W TO 334700N1223800W TO 340500N1225000W TO 355100N1253200W TO 363100N1245400W TO POINT OF ORIGIN SFC-UNL 2609302300-2610010500",
-"reason": "QUEEN OF THE SKIES 26-4",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82564451",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-28T10:15:30.530Z"
-},
-{
-"areas": [
-[
-[
-36.3333,
--124.3167
-],
-[
-35.4833,
--123.0
-],
-[
-35.3167,
--122.1667
-],
-[
-35.55,
--121.65
-],
-[
-35.6167,
--121.5333
-],
-[
-35.25,
--121.1
-],
-[
-35.0667,
--120.8
-],
-[
-35.0,
--120.7
-],
-[
-34.7667,
--120.5
-],
-[
-34.65,
--120.5333
-],
-[
-34.4,
--120.5
-],
-[
-34.2667,
--120.9167
-],
-[
-34.1833,
--120.9833
-],
-[
-34.1167,
--121.4333
-],
-[
-33.7833,
--122.6333
-],
-[
-34.0833,
--122.8333
-],
-[
-35.85,
--125.5333
-],
-[
-36.5167,
--124.9
-],
-[
-36.3333,
--124.3167
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-01T05:00:00.000Z",
-"start": "2026-09-30T23:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZOA-09/348-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "other-stratolaunch-operation-super-kristy",
-"title": "Operation Super Kristy"
-}
-],
-"markers": [],
-"name": "09/348",
-"page": "https://space-notices.com/notice/notam-ZOA-09%2F348-26",
-"raw": "!CARF 09/348 ZOA AIRSPACE DCC QUEEN OF THE SKIES 26-4 STNR ALT RESERVATION WI AN AREA DEFINED AS 362000N1241900W TO 352900N1230000W TO 351900N1221000W TO 353300N1213900W TO 353700N1213200W TO 351500N1210600W TO 350400N1204800W TO 350000N1204200W TO 344600N1203000W TO 343900N1203200W TO 342400N1203000W TO 341600N1205500W TO 341100N1205900W TO 340700N1212600W TO 334700N1223800W TO 340500N1225000W TO 355100N1253200W TO 363100N1245400W TO POINT OF ORIGIN SFC-UNL 2609302300-2610010500",
-"reason": "QUEEN OF THE SKIES 26-4",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82564468",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-28T10:17:50.373Z"
 },
 {
 "areas": [
@@ -282315,6 +281310,94 @@
 "updated": "2026-10-12T01:55:58.039Z"
 },
 {
+"areas": [
+[
+[
+36.116667,
+-123.766667
+],
+[
+36.25,
+-123.666667
+],
+[
+36.066667,
+-123.133333
+],
+[
+35.316667,
+-122.633333
+],
+[
+35.216667,
+-122.033333
+],
+[
+35.166667,
+-120.983333
+],
+[
+34.95,
+-120.65
+],
+[
+34.666667,
+-120.566667
+],
+[
+34.15,
+-120.916667
+],
+[
+34.166667,
+-121.416667
+],
+[
+33.466667,
+-121.283333
+],
+[
+33.416667,
+-121.65
+],
+[
+34.283333,
+-122.516667
+],
+[
+36.116667,
+-123.766667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-15T17:00:00.000Z",
+"start": "2026-10-15T13:00:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SW BNM 9130-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "other-stratolaunch-erebus",
+"title": "Erebus"
+}
+],
+"markers": [],
+"name": "CGD-SW BNM 9130-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209130-26",
+"raw": "Launch Hazard Area\nMission: Stratolaunch EREBUS Launch Operations \nMessage Id: CGD-SW BNM 9130-26\n\n15/1300 OCT 26 to 15/1700 OCT 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
+"reason": "Launch Hazard Area - Stratolaunch EREBUS Launch Operations",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-10-14T20:32:42.300Z"
+},
+{
 "areas": [],
 "cancelled": false,
 "dates": [
@@ -289264,7 +288347,7 @@
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-13T15:56:24.323Z"
+"updated": "2026-10-14T13:36:42.420Z"
 },
 {
 "areas": [],
@@ -289507,7 +288590,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82741035",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-14T09:48:14.237Z"
+"updated": "2026-10-14T14:39:31.826Z"
 },
 {
 "areas": [
@@ -289668,6 +288751,136 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-12T23:56:29.796Z"
+},
+{
+"areas": [
+[
+[
+29.8,
+-117.65
+],
+[
+29.866667,
+-117.9
+],
+[
+29.583333,
+-118.2
+],
+[
+29.4,
+-118.133333
+],
+[
+29.25,
+-118.033333
+],
+[
+29.033333,
+-117.983333
+],
+[
+28.2,
+-117.316667
+],
+[
+28.833333,
+-117.316667
+],
+[
+29.6,
+-117.266667
+],
+[
+29.8,
+-117.65
+]
+],
+[
+[
+29.8,
+-117.65
+],
+[
+34.466667,
+-120.3
+],
+[
+34.666667,
+-120.6
+],
+[
+34.65,
+-120.65
+],
+[
+34.5,
+-120.65
+],
+[
+29.583333,
+-118.2
+],
+[
+29.866667,
+-117.9
+],
+[
+29.8,
+-117.65
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T02:57:00.000Z",
+"start": "2026-10-20T22:14:00.000Z"
+},
+{
+"end": "2026-10-22T02:42:00.000Z",
+"start": "2026-10-21T21:59:00.000Z"
+},
+{
+"end": "2026-10-23T02:28:00.000Z",
+"start": "2026-10-22T21:45:00.000Z"
+},
+{
+"end": "2026-10-24T02:13:00.000Z",
+"start": "2026-10-23T21:30:00.000Z"
+},
+{
+"end": "2026-10-25T01:59:00.000Z",
+"start": "2026-10-24T21:16:00.000Z"
+},
+{
+"end": "2026-10-26T01:45:00.000Z",
+"start": "2026-10-25T21:02:00.000Z"
+},
+{
+"end": "2026-10-27T01:30:00.000Z",
+"start": "2026-10-26T20:47:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SW BNM 9129-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-15",
+"title": "Starlink Group 15-15"
+}
+],
+"markers": [],
+"name": "CGD-SW BNM 9129-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209129-26",
+"raw": "Launch Hazard Area\nMission: SpaceX Starlink g15-15\nMessage Id: CGD-SW BNM 9129-26\n\n\n20/2214 OCT 26 to 21/0257 OCT 26. \n21/2159 OCT 26 to 22/0242 OCT 26. \n22/2145 OCT 26 to 23/0228 OCT 26. \n23/2130 OCT 26 to 24/0213 OCT 26. \n24/2116 OCT 26 to 25/0159 OCT 26. \n25/2102 OCT 26 to 26/0145 OCT 26. \n26/2047 OCT 26 to 27/0130 OCT 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
+"reason": "Launch Hazard Area - SpaceX Starlink g15-15",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-10-14T12:00:12.142Z"
 },
 {
 "areas": [],

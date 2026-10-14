@@ -7128,6 +7128,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209105-26": {
+"gone": "2026-10-14",
 "lastmod": "2026-09-03T22:10:18.076Z",
 "notice": {
 "areas": [
@@ -8185,6 +8186,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209114-26": {
+"gone": "2026-10-14",
 "lastmod": "2026-09-29T20:09:38.698Z",
 "notice": {
 "areas": [
@@ -10082,6 +10084,232 @@
 "name": "US Coast Guard"
 },
 "updated": "2026-10-09T16:56:44.992Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/bnm-CGD-SW%20BNM%209129-26": {
+"lastmod": "2026-10-14T12:00:12.142Z",
+"notice": {
+"areas": [
+[
+[
+29.8,
+-117.65
+],
+[
+29.866667,
+-117.9
+],
+[
+29.583333,
+-118.2
+],
+[
+29.4,
+-118.133333
+],
+[
+29.25,
+-118.033333
+],
+[
+29.033333,
+-117.983333
+],
+[
+28.2,
+-117.316667
+],
+[
+28.833333,
+-117.316667
+],
+[
+29.6,
+-117.266667
+],
+[
+29.8,
+-117.65
+]
+],
+[
+[
+29.8,
+-117.65
+],
+[
+34.466667,
+-120.3
+],
+[
+34.666667,
+-120.6
+],
+[
+34.65,
+-120.65
+],
+[
+34.5,
+-120.65
+],
+[
+29.583333,
+-118.2
+],
+[
+29.866667,
+-117.9
+],
+[
+29.8,
+-117.65
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T02:57:00.000Z",
+"start": "2026-10-20T22:14:00.000Z"
+},
+{
+"end": "2026-10-22T02:42:00.000Z",
+"start": "2026-10-21T21:59:00.000Z"
+},
+{
+"end": "2026-10-23T02:28:00.000Z",
+"start": "2026-10-22T21:45:00.000Z"
+},
+{
+"end": "2026-10-24T02:13:00.000Z",
+"start": "2026-10-23T21:30:00.000Z"
+},
+{
+"end": "2026-10-25T01:59:00.000Z",
+"start": "2026-10-24T21:16:00.000Z"
+},
+{
+"end": "2026-10-26T01:45:00.000Z",
+"start": "2026-10-25T21:02:00.000Z"
+},
+{
+"end": "2026-10-27T01:30:00.000Z",
+"start": "2026-10-26T20:47:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SW BNM 9129-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-15",
+"title": "Starlink Group 15-15"
+}
+],
+"markers": [],
+"name": "CGD-SW BNM 9129-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209129-26",
+"raw": "Launch Hazard Area\nMission: SpaceX Starlink g15-15\nMessage Id: CGD-SW BNM 9129-26\n\n\n20/2214 OCT 26 to 21/0257 OCT 26. \n21/2159 OCT 26 to 22/0242 OCT 26. \n22/2145 OCT 26 to 23/0228 OCT 26. \n23/2130 OCT 26 to 24/0213 OCT 26. \n24/2116 OCT 26 to 25/0159 OCT 26. \n25/2102 OCT 26 to 26/0145 OCT 26. \n26/2047 OCT 26 to 27/0130 OCT 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
+"reason": "Launch Hazard Area - SpaceX Starlink g15-15",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-10-14T12:00:12.142Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/bnm-CGD-SW%20BNM%209130-26": {
+"lastmod": "2026-10-14T20:32:42.300Z",
+"notice": {
+"areas": [
+[
+[
+36.116667,
+-123.766667
+],
+[
+36.25,
+-123.666667
+],
+[
+36.066667,
+-123.133333
+],
+[
+35.316667,
+-122.633333
+],
+[
+35.216667,
+-122.033333
+],
+[
+35.166667,
+-120.983333
+],
+[
+34.95,
+-120.65
+],
+[
+34.666667,
+-120.566667
+],
+[
+34.15,
+-120.916667
+],
+[
+34.166667,
+-121.416667
+],
+[
+33.466667,
+-121.283333
+],
+[
+33.416667,
+-121.65
+],
+[
+34.283333,
+-122.516667
+],
+[
+36.116667,
+-123.766667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-15T17:00:00.000Z",
+"start": "2026-10-15T13:00:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SW BNM 9130-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "other-stratolaunch-erebus",
+"title": "Erebus"
+}
+],
+"markers": [],
+"name": "CGD-SW BNM 9130-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209130-26",
+"raw": "Launch Hazard Area\nMission: Stratolaunch EREBUS Launch Operations \nMessage Id: CGD-SW BNM 9130-26\n\n15/1300 OCT 26 to 15/1700 OCT 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
+"reason": "Launch Hazard Area - Stratolaunch EREBUS Launch Operations",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-10-14T20:32:42.300Z"
 },
 "via": "sitemap"
 },
@@ -12075,7 +12303,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-16": {
-"lastmod": "2026-10-13T15:56:24.323Z",
+"lastmod": "2026-10-14T13:36:42.420Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -12107,9 +12335,9 @@
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-13T15:56:24.323Z"
+"updated": "2026-10-14T13:36:42.420Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-25": {
 "lastmod": "2026-10-09T13:48:43.089Z",
@@ -12425,6 +12653,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-stratolaunch-helena": {
+"gone": "2026-10-14",
 "lastmod": "2026-09-30T19:40:43.555Z",
 "notice": {
 "areas": [],
@@ -16517,6 +16746,7 @@
 "via": "entry"
 },
 "https://space-notices.com/notice/lnm-53052": {
+"gone": "2026-10-14",
 "lastmod": "2026-09-03T22:00:11.606Z",
 "notice": {
 "areas": [
@@ -18898,6 +19128,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-54725": {
+"gone": "2026-10-14",
 "lastmod": "2026-09-29T20:00:25.902Z",
 "notice": {
 "areas": [
@@ -236246,7 +236477,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-MYNA-A0556%2F26": {
-"lastmod": "2026-10-14T09:48:14.237Z",
+"lastmod": "2026-10-14T14:39:31.826Z",
 "notice": {
 "areas": [
 [
@@ -236321,9 +236552,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82741035",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-14T09:48:14.237Z"
+"updated": "2026-10-14T14:39:31.826Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1186%2F26": {
 "gone": "2026-09-25",
@@ -261778,6 +262009,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-09%2F327-26": {
+"gone": "2026-10-14",
 "lastmod": "2026-09-27T20:05:09.373Z",
 "notice": {
 "areas": [
@@ -262138,6 +262370,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-09%2F349-26": {
+"gone": "2026-10-14",
 "lastmod": "2026-09-28T10:17:45.504Z",
 "notice": {
 "areas": [
@@ -276644,6 +276877,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F328-26": {
+"gone": "2026-10-14",
 "lastmod": "2026-09-27T20:05:00.851Z",
 "notice": {
 "areas": [
@@ -276756,6 +276990,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F347-26": {
+"gone": "2026-10-14",
 "lastmod": "2026-09-28T10:15:30.530Z",
 "notice": {
 "areas": [
@@ -293968,6 +294203,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZOA-09%2F326-26": {
+"gone": "2026-10-14",
 "lastmod": "2026-09-27T20:05:14.093Z",
 "notice": {
 "areas": [
@@ -294080,6 +294316,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZOA-09%2F348-26": {
+"gone": "2026-10-14",
 "lastmod": "2026-09-28T10:17:50.373Z",
 "notice": {
 "areas": [
