@@ -1,5 +1,5 @@
 {
-"count": 2953,
+"count": 2954,
 "notices": [
 {
 "areas": [
@@ -286994,7 +286994,7 @@
 "markers": [],
 "name": "CGD-SW BNM 9121-26",
 "page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209121-26",
-"raw": "$3c",
+"raw": "$3b",
 "reason": "Re-Entry - NASA Crew-12 Reentry",
 "source": {
 "link": "https://www.navcen.uscg.gov/chart",
@@ -289432,6 +289432,82 @@
 "name": "US National Geospatial-Intelligence Agency"
 },
 "updated": "2026-10-14T08:39:22.720Z"
+},
+{
+"areas": [
+[
+[
+26.0667,
+-76.0
+],
+[
+26.1,
+-76.0333
+],
+[
+26.1667,
+-76.0167
+],
+[
+26.1667,
+-76.0
+],
+[
+26.0667,
+-76.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-19T12:13:00.000Z",
+"start": "2026-10-19T10:30:00.000Z"
+},
+{
+"end": "2026-10-20T12:13:00.000Z",
+"start": "2026-10-20T10:30:00.000Z"
+},
+{
+"end": "2026-10-21T12:13:00.000Z",
+"start": "2026-10-21T10:30:00.000Z"
+},
+{
+"end": "2026-10-22T12:13:00.000Z",
+"start": "2026-10-22T10:30:00.000Z"
+},
+{
+"end": "2026-10-23T12:13:00.000Z",
+"start": "2026-10-23T10:30:00.000Z"
+},
+{
+"end": "2026-10-24T12:13:00.000Z",
+"start": "2026-10-24T10:30:00.000Z"
+},
+{
+"end": "2026-10-25T12:13:00.000Z",
+"start": "2026-10-25T10:30:00.000Z"
+}
+],
+"height": "6000FT",
+"id": "notam-MYNA-A0556/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-bandwagon-5-dedicated-mid-inclina",
+"title": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)"
+}
+],
+"markers": [],
+"name": "A0556/26",
+"page": "https://space-notices.com/notice/notam-MYNA-A0556%2F26",
+"raw": "A0556/26 NOTAMN\r\nQ) MYNA/QRTCA/IV/BO/W/000/060/2607N07601W004\r\nA) MYNA\r\nB) 2610191030 C) 2610251213\r\nD) DLY 1030-1213\r\nE) TEMPORARY RESTRICTED AREA SPACEX BANDWAGON-5 ROCKET LAUNCH WILL\r\nTAKE PLACE WI COORD:\r\n260400N0760000W-\r\n260600N0760200W-\r\n261000N0760100W-\r\n261000N0760000W-\r\n260400N0760000W. CTN ADZ\r\nF) SFC G) 6000FT AMSL\r\nUNITED STATES NOTAM OFFICE DISCLAIMS FOREIGN NOTAM ACCURACY\r\nOR COMPLETENESS",
+"reason": "SPACEX BANDWAGON-5 ROCKET LAUNCH",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82741035",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-14T09:48:14.237Z"
 },
 {
 "areas": [
