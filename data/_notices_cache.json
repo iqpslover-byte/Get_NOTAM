@@ -237264,7 +237264,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1326%2F26": {
-"lastmod": "2026-10-13T19:49:29.027Z",
+"lastmod": "2026-10-14T00:29:30.907Z",
 "notice": {
 "areas": [
 [
@@ -237339,9 +237339,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82733828",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-13T19:49:29.027Z"
+"updated": "2026-10-14T00:29:30.907Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NZZC-B4420%2F26": {
 "gone": "2026-09-26",
@@ -241808,6 +241808,158 @@
 "updated": "2026-09-24T09:07:55.783Z"
 },
 "via": "sitemap"
+},
+"https://space-notices.com/notice/notam-RJJJ-P5062%2F26": {
+"lastmod": "2026-10-14T03:40:29.498Z",
+"notice": {
+"areas": [
+[
+[
+30.7667,
+125.75
+],
+[
+30.25,
+126.6
+],
+[
+29.8,
+126.25
+],
+[
+30.3167,
+125.4
+],
+[
+30.7667,
+125.75
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-23T21:00:00.000Z",
+"start": "2026-10-23T18:00:00.000Z"
+},
+{
+"end": "2026-10-24T21:00:00.000Z",
+"start": "2026-10-24T18:00:00.000Z"
+},
+{
+"end": "2026-10-25T21:00:00.000Z",
+"start": "2026-10-25T18:00:00.000Z"
+},
+{
+"end": "2026-10-26T21:00:00.000Z",
+"start": "2026-10-26T18:00:00.000Z"
+},
+{
+"end": "2026-10-27T21:00:00.000Z",
+"start": "2026-10-27T18:00:00.000Z"
+},
+{
+"end": "2026-10-28T21:00:00.000Z",
+"start": "2026-10-28T18:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RJJJ-P5062/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "P5062/26",
+"page": "https://space-notices.com/notice/notam-RJJJ-P5062%2F26",
+"raw": "P5062/26 NOTAMN\r\nQ)RJJJ/QXXXX/IV/NBO/E/000/999/3017N12600E032\r\nA)RJJJ B)2610231800 C)2610282100\r\nD)1800/2100\r\nE)DUE TO AN AEROSPACE FLIGHT ACTIVITY, THE FLIGHT SAFETY OF THE\r\nAIRCRAFT IN FOLLOWING AREA MAY BE AFFECTED THRU OCT 23-28 2026.\r\n\r\nAREA:\r\n3046N12545E - 3015N12636E - 2948N12615E - 3019N12524E - 3046N12545E\r\n\r\nALTITUDE:\r\nSFC - UNL\r\n\r\nRMK: ATC WILL NOT CLEAR IFR FLT THRU THIS AREA FOR THE FLIGHT SAFETY.\r\nNOTAM VALID TIME IS BASED ON CHINA AEROSPACE FLIGHT ACTIVITY TENT\r\nSCHEDULE PROVIDED BY THE CAA.\r\nTHE EXACT AFFECTED DATE WILL BE NOTIFIED BY FURTHER NOTAM RJJJ ONCE\r\nTHE SCHEDULE IS DETERMINED.\r\nF)SFC G)UNL",
+"reason": "DUE TO AN AEROSPACE FLIGHT ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82734858",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-14T03:40:29.498Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-RJJJ-P5065%2F26": {
+"lastmod": "2026-10-14T03:40:29.527Z",
+"notice": {
+"areas": [
+[
+[
+30.7167,
+125.8167
+],
+[
+30.25,
+126.6
+],
+[
+29.8,
+126.25
+],
+[
+30.2333,
+125.55
+],
+[
+30.7167,
+125.8167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-23T21:00:00.000Z",
+"start": "2026-10-23T18:00:00.000Z"
+},
+{
+"end": "2026-10-24T21:00:00.000Z",
+"start": "2026-10-24T18:00:00.000Z"
+},
+{
+"end": "2026-10-25T21:00:00.000Z",
+"start": "2026-10-25T18:00:00.000Z"
+},
+{
+"end": "2026-10-26T21:00:00.000Z",
+"start": "2026-10-26T18:00:00.000Z"
+},
+{
+"end": "2026-10-27T21:00:00.000Z",
+"start": "2026-10-27T18:00:00.000Z"
+},
+{
+"end": "2026-10-28T21:00:00.000Z",
+"start": "2026-10-28T18:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RJJJ-P5065/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "P5065/26",
+"page": "https://space-notices.com/notice/notam-RJJJ-P5065%2F26",
+"raw": "P5065/26 NOTAMN\r\nQ)RJJJ/QXXXX/IV/NBO/E/000/999/3016N12603E030\r\nA)RJJJ B)2610231800 C)2610282100\r\nD)1800/2100\r\nE)DUE TO AN AEROSPACE FLIGHT ACTIVITY, THE FLIGHT SAFETY OF THE\r\nAIRCRAFT IN FOLLOWING AREA MAY BE AFFECTED THRU OCT 23-28 2026.\r\n\r\nAREA:\r\n3043N12549E - 3015N12636E - 2948N12615E - 3014N12533E - 3043N12549E\r\n\r\nALTITUDE:\r\nSFC - UNL\r\n\r\nRMK: ATC WILL NOT CLEAR IFR FLT THRU THIS AREA FOR THE FLIGHT SAFETY.\r\nNOTAM VALID TIME IS BASED ON CHINA AEROSPACE FLIGHT ACTIVITY TENT\r\nSCHEDULE PROVIDED BY THE CAA.\r\nTHE EXACT AFFECTED DATE WILL BE NOTIFIED BY FURTHER NOTAM RJJJ ONCE\r\nTHE SCHEDULE IS DETERMINED.\r\nF)SFC G)UNL",
+"reason": "DUE TO AN AEROSPACE FLIGHT ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82735627",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-14T03:40:29.527Z"
+},
+"via": "entry"
 },
 "https://space-notices.com/notice/notam-RJJJ-P5338%2F25": {
 "lastmod": "2026-04-23T14:04:24.726Z",
