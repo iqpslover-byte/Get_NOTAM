@@ -7607,6 +7607,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209110-26": {
+"gone": "2026-10-15",
 "lastmod": "2026-09-21T19:31:01.396Z",
 "notice": {
 "areas": [
@@ -7899,6 +7900,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209112-26": {
+"gone": "2026-10-15",
 "lastmod": "2026-09-28T20:27:39.089Z",
 "notice": {
 "areas": [
@@ -11332,6 +11334,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-cadenaois-advisory-2756": {
+"gone": "2026-10-15",
 "lastmod": "2026-09-23T11:18:04.256Z",
 "notice": {
 "areas": [],
@@ -12747,6 +12750,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-transporter-18": {
+"gone": "2026-10-15",
 "lastmod": "2026-09-22T19:50:45.211Z",
 "notice": {
 "areas": [],
@@ -13236,6 +13240,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-spacex-transporter18": {
+"gone": "2026-10-15",
 "lastmod": "2026-10-01T21:07:22.836Z",
 "notice": {
 "areas": [],
@@ -18202,6 +18207,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-54098": {
+"gone": "2026-10-15",
 "lastmod": "2026-09-21T19:15:10.684Z",
 "notice": {
 "areas": [
@@ -87305,6 +87311,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%202790%2F26": {
+"gone": "2026-10-15",
 "lastmod": "2026-09-26T03:16:42.403Z",
 "notice": {
 "areas": [
@@ -237924,6 +237931,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1268%2F26": {
+"gone": "2026-10-15",
 "lastmod": "2026-09-24T20:28:06.167Z",
 "notice": {
 "areas": [
@@ -240838,6 +240846,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NZZO-B4723%2F26": {
+"gone": "2026-10-15",
 "lastmod": "2026-09-24T20:57:51.509Z",
 "notice": {
 "areas": [
@@ -263154,6 +263163,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-09%2F370-26": {
+"gone": "2026-10-15",
 "lastmod": "2026-09-30T12:24:45.867Z",
 "notice": {
 "areas": [
@@ -263230,6 +263240,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-09%2F372-26": {
+"gone": "2026-10-15",
 "lastmod": "2026-09-30T12:24:55.006Z",
 "notice": {
 "areas": [
@@ -263314,6 +263325,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-09%2F384-26": {
+"gone": "2026-10-15",
 "lastmod": "2026-09-30T14:01:30.551Z",
 "notice": {
 "areas": [
@@ -263390,6 +263402,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-09%2F388-26": {
+"gone": "2026-10-15",
 "lastmod": "2026-09-30T14:08:15.716Z",
 "notice": {
 "areas": [
@@ -277723,6 +277736,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F374-26": {
+"gone": "2026-10-15",
 "lastmod": "2026-09-30T12:31:30.546Z",
 "notice": {
 "areas": [
@@ -277799,6 +277813,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F375-26": {
+"gone": "2026-10-15",
 "lastmod": "2026-09-30T12:31:38.880Z",
 "notice": {
 "areas": [
@@ -277883,6 +277898,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F385-26": {
+"gone": "2026-10-15",
 "lastmod": "2026-09-30T14:01:40.133Z",
 "notice": {
 "areas": [
@@ -277959,6 +277975,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-09%2F387-26": {
+"gone": "2026-10-15",
 "lastmod": "2026-09-30T14:06:01.235Z",
 "notice": {
 "areas": [
