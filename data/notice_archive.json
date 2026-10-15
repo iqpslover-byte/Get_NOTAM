@@ -1,5 +1,5 @@
 {
-"count": 2947,
+"count": 2948,
 "notices": [
 {
 "areas": [
@@ -281483,7 +281483,7 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-14T20:32:42.313Z"
+"updated": "2026-10-14T22:44:34.391Z"
 },
 {
 "areas": [],
@@ -286922,6 +286922,58 @@
 "areas": [
 [
 [
+35.2833,
+120.1833
+],
+[
+35.0,
+120.7667
+],
+[
+34.7667,
+120.6
+],
+[
+35.0833,
+120.0167
+],
+[
+35.2833,
+120.1833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T03:54:00.000Z",
+"start": "2026-10-21T03:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZSHA-A5223/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5223/26",
+"page": "https://space-notices.com/notice/notam-ZSHA-A5223%2F26",
+"raw": "A5223/26 NOTAMN\r\nQ)ZSHA/QRDCA/IV/BO/W/000/999/3502N12023E019\r\nA)ZSHA B)2610210330 C)2610210354 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN351700E1201100-N350000E1204600-N344600E1203600-N350500E1200100,\r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82748669",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-14T06:36:29.497Z"
+},
+{
+"areas": [
+[
+[
 33.7833,
 -119.25
 ],
@@ -288968,7 +289020,7 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-14T12:00:12.142Z"
+"updated": "2026-10-14T21:20:42.120Z"
 },
 {
 "areas": [],
@@ -289151,7 +289203,7 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-14T12:00:12.142Z"
+"updated": "2026-10-14T22:44:45.473Z"
 },
 {
 "areas": [

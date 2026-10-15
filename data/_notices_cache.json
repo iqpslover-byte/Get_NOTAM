@@ -10088,7 +10088,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209129-26": {
-"lastmod": "2026-10-14T12:00:12.142Z",
+"lastmod": "2026-10-14T21:20:42.120Z",
 "notice": {
 "areas": [
 [
@@ -10217,9 +10217,9 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-14T12:00:12.142Z"
+"updated": "2026-10-14T21:20:42.120Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209130-26": {
 "lastmod": "2026-10-14T20:32:42.300Z",
@@ -20441,7 +20441,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-56268": {
-"lastmod": "2026-10-14T20:32:42.313Z",
+"lastmod": "2026-10-14T22:44:34.391Z",
 "notice": {
 "areas": [
 [
@@ -20528,12 +20528,12 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-14T20:32:42.313Z"
+"updated": "2026-10-14T22:44:34.391Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-56271": {
-"lastmod": "2026-10-14T12:00:12.142Z",
+"lastmod": "2026-10-14T22:44:45.473Z",
 "notice": {
 "areas": [
 [
@@ -20662,9 +20662,9 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-14T12:00:12.142Z"
+"updated": "2026-10-14T22:44:45.473Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROARC%2010%2F24": {
 "lastmod": "",
@@ -295891,6 +295891,62 @@
 "updated": "2026-08-21T00:28:12.999Z"
 },
 "via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZSHA-A5223%2F26": {
+"lastmod": "2026-10-14T06:36:29.497Z",
+"notice": {
+"areas": [
+[
+[
+35.2833,
+120.1833
+],
+[
+35.0,
+120.7667
+],
+[
+34.7667,
+120.6
+],
+[
+35.0833,
+120.0167
+],
+[
+35.2833,
+120.1833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T03:54:00.000Z",
+"start": "2026-10-21T03:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZSHA-A5223/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5223/26",
+"page": "https://space-notices.com/notice/notam-ZSHA-A5223%2F26",
+"raw": "A5223/26 NOTAMN\r\nQ)ZSHA/QRDCA/IV/BO/W/000/999/3502N12023E019\r\nA)ZSHA B)2610210330 C)2610210354 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN351700E1201100-N350000E1204600-N344600E1203600-N350500E1200100,\r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82748669",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-14T06:36:29.497Z"
+},
+"via": "entry"
 },
 "https://space-notices.com/notice/notam-ZSU-04%2F308-26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
