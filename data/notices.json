@@ -1,137 +1,7 @@
 {
-"count": 404,
-"generated_utc": "2026-10-16T16:59:29Z",
+"count": 406,
+"generated_utc": "2026-10-16T20:06:39Z",
 "notices": [
-{
-"areas": [
-[
-[
-29.8,
--117.65
-],
-[
-34.466667,
--120.3
-],
-[
-34.666667,
--120.6
-],
-[
-34.65,
--120.65
-],
-[
-34.5,
--120.65
-],
-[
-29.583333,
--118.2
-],
-[
-29.866667,
--117.9
-],
-[
-29.8,
--117.65
-]
-],
-[
-[
-29.8,
--117.65
-],
-[
-29.866667,
--117.9
-],
-[
-29.583333,
--118.2
-],
-[
-29.4,
--118.133333
-],
-[
-29.25,
--118.033333
-],
-[
-29.033333,
--117.983333
-],
-[
-28.2,
--117.316667
-],
-[
-28.833333,
--117.316667
-],
-[
-29.6,
--117.266667
-],
-[
-29.8,
--117.65
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-10T19:20:00.000Z",
-"start": "2026-09-10T15:37:00.000Z"
-},
-{
-"end": "2026-09-11T19:06:00.000Z",
-"start": "2026-09-11T15:23:00.000Z"
-},
-{
-"end": "2026-09-12T18:52:00.000Z",
-"start": "2026-09-12T15:09:00.000Z"
-},
-{
-"end": "2026-09-13T18:38:00.000Z",
-"start": "2026-09-13T14:55:00.000Z"
-},
-{
-"end": "2026-09-14T18:24:00.000Z",
-"start": "2026-09-14T14:41:00.000Z"
-},
-{
-"end": "2026-09-15T18:10:00.000Z",
-"start": "2026-09-15T14:27:00.000Z"
-},
-{
-"end": "2026-09-16T17:57:00.000Z",
-"start": "2026-09-16T14:14:00.000Z"
-}
-],
-"height": null,
-"id": "lnm-52835",
-"kind": "LNM",
-"launches": [
-{
-"id": "launch-3e0456da-14b1-4ac3-b59e-35fefb1d1530",
-"title": "USSF-153"
-}
-],
-"markers": [],
-"name": "52835",
-"page": "https://space-notices.com/notice/lnm-52835",
-"raw": "Hazardous operations will be conducted for Space X, Starlink R-2 Launch operations. Hazardous operation areas are bounded by the following coordinates and times:\n\nHazard Area A: \n29.8N                                       -117.65W \n34.46666667N                         -120.3W \n34.66666667N                         -120.6W \n34.65N                                     -120.65W \n34.5N                                       -120.65W \n29.58333333N                         -118.2W \n29.86666667N                         -117.9W \n(TO BEGINNING)\n\n101537Z SEP TO 101902Z SEP 2026---- (PRIMARY) \n111523Z SEP TO 111848Z SEP 2026---- (BACKUP DAY) \n121509Z SEP TO 121834Z SEP 2026---- (BACKUP DAY) \n131455Z SEP TO 131820Z SEP 2026---- (BACKUP DAY) \n141441Z SEP TO 141806Z SEP 2026---- (BACKUP DAY) \n151427Z SEP TO 151752Z SEP 2026---- (BACKUP DAY) \n161414Z SEP TO 161739Z SEP 2026---- (BACKUP DAY) \n\nHazard Area B:\n29.8N                                       -117.65W \n29.86666667N                         -117.9W \n29.58333333N                         -118.2W \n29.4N                                       -118.13333333W \n29.25N                                     -118.03333333W \n29.03333333N                         -117.98333333W \n28.2N                                       -117.31666667W \n28.83333333N                         -117.31666667W \n29.6N                                       -117.26666667W \n(TO BEGINNING)\n\n101537Z SEP TO 101920Z SEP 2026---- (PRIMARY) \n111523Z SEP TO 111906Z SEP 2026---- (BACKUP DAY) \n121509Z SEP TO 121852Z SEP 2026---- (BACKUP DAY) \n131455Z SEP TO 131838Z SEP 2026---- (BACKUP DAY) \n141441Z SEP TO 141824Z SEP 2026---- (BACKUP DAY) \n151427Z SEP TO 151810Z SEP 2026---- (BACKUP DAY) \n161414Z SEP TO 161757Z SEP 2026---- (BACKUP DAY) \n\nMariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16.",
-"reason": "Hazardous operations will be conducted for Space X, Starlink R-2 Launch operations",
-"source": {
-"link": "https://www.navcen.uscg.gov/msi",
-"name": "US Coast Guard"
-},
-"updated": "2026-09-01T22:16:08.296Z"
-},
 {
 "areas": [
 [
@@ -25160,6 +25030,58 @@
 "areas": [
 [
 [
+8.2667,
+162.4667
+],
+[
+5.9667,
+165.3
+],
+[
+5.55,
+164.95
+],
+[
+7.85,
+162.1333
+],
+[
+8.2667,
+162.4667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T04:19:00.000Z",
+"start": "2026-10-21T03:32:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-KZAK-A5037/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5037/26",
+"page": "https://space-notices.com/notice/notam-KZAK-A5037%2F26",
+"raw": "A5037/26 NOTAMN\nQ) KZAK/QWMLW/IV/BO/W/000/999/\nA) KZAK\nB) 2610210332\nC) 2610210419\nE) THE CIVIL AVIATION AUTHORITY OF CHINA HAS PLANNED A ROCKET LAUNCH. DEBRIS FROM THIS LAUNCH WILL FALL WI AN AREA DEFINED AS 081600N1622800E TO 055800N1651800E TO  053300N1645700E TO 075100N1620800E TO POINT OF ORIGIN. IN THE INTEREST OF SAFETY ALL NON-PARTICIPATING AIR TRAFFIC ARE ADVISED TO AVOID THE NOTAMED AREA. IFR AIRCRAFT UNDER ATC JURISDICTION SHOULD ANTICIPATE CLEARANCE AROUND THE NOTAMED AREA.\nF) SFC\nG) UNL",
+"reason": "ROCKET LAUNCH",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82771250",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-16T18:15:35.125Z"
+},
+{
+"areas": [
+[
+[
 33.7833,
 -119.25
 ],
@@ -28378,6 +28300,86 @@
 -121.8833
 ],
 [
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-28.7167,
+-120.0
+],
+[
+-30.0,
+-120.0
+],
+[
+-30.0,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-24T11:54:00.000Z",
+"start": "2026-10-24T07:16:00.000Z"
+},
+{
+"end": "2026-10-25T11:39:00.000Z",
+"start": "2026-10-25T07:01:00.000Z"
+},
+{
+"end": "2026-10-26T11:25:00.000Z",
+"start": "2026-10-26T06:47:00.000Z"
+},
+{
+"end": "2026-10-27T11:10:00.000Z",
+"start": "2026-10-27T06:32:00.000Z"
+},
+{
+"end": "2026-10-28T10:56:00.000Z",
+"start": "2026-10-28T06:18:00.000Z"
+},
+{
+"end": "2026-10-29T10:42:00.000Z",
+"start": "2026-10-29T06:04:00.000Z"
+},
+{
+"end": "2026-10-30T10:27:00.000Z",
+"start": "2026-10-30T05:49:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1334/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-16",
+"title": "Starlink Group 15-16"
+}
+],
+"markers": [],
+"name": "A1334/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1334%2F26",
+"raw": "A1334/26 NOTAMN\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2858S12112W113\r\nA) NTTT\r\nB) 2610240716 C) 2610301027\r\nD) 24 0716-1154, 25 0701-1139, 26 0647-1125, 27 0632-1110\r\n28 0618-1056, 29 0604-1042, 30 0549-1027\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX\r\n STARLINK 15-16 IN TAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING\r\n POINTS : \r\n3000S 12153W, 2759S 12244W, 2709S 12043W, 2843S 12000W, 3000S\r\n 12000W, 3000S 12153W \r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : SCIZ \r\n\r\nTHE FRENCH VERSION OF THIS NOTAM IS C2486/26\r\nF) SFC G) UNL",
+"reason": "TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX STARLINK 15-16",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82771301",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-16T18:20:29.816Z"
+},
+{
+"areas": [
+[
+[
+-30.0,
+-121.8833
+],
+[
 -30.0,
 -120.0
 ],
@@ -28456,7 +28458,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82768825",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-15T11:04:06.224Z"
+"updated": "2026-10-16T14:31:28.806Z"
 },
 {
 "areas": [
@@ -28873,6 +28875,150 @@
 "name": "US National Geospatial-Intelligence Agency"
 },
 "updated": "2026-10-15T12:35:04.720Z"
+},
+{
+"areas": [
+[
+[
+22.8833,
+166.6
+],
+[
+23.3,
+165.9667
+],
+[
+24.8833,
+166.6167
+],
+[
+24.5333,
+168.0
+],
+[
+21.3167,
+175.7333
+],
+[
+20.9167,
+176.3833
+],
+[
+19.3333,
+175.7167
+],
+[
+19.6333,
+174.45
+],
+[
+22.8833,
+166.6
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-19T20:13:00.000Z",
+"start": "2026-10-19T19:57:00.000Z"
+},
+{
+"end": "2026-10-20T20:13:00.000Z",
+"start": "2026-10-20T19:57:00.000Z"
+},
+{
+"end": "2026-10-21T20:13:00.000Z",
+"start": "2026-10-21T19:57:00.000Z"
+},
+{
+"end": "2026-10-22T20:13:00.000Z",
+"start": "2026-10-22T19:57:00.000Z"
+},
+{
+"end": "2026-10-23T20:13:00.000Z",
+"start": "2026-10-23T19:57:00.000Z"
+},
+{
+"end": "2026-10-24T20:13:00.000Z",
+"start": "2026-10-24T19:57:00.000Z"
+},
+{
+"end": "2026-10-25T20:13:00.000Z",
+"start": "2026-10-25T19:57:00.000Z"
+},
+{
+"end": "2026-10-26T20:13:00.000Z",
+"start": "2026-10-26T19:57:00.000Z"
+},
+{
+"end": "2026-10-27T20:13:00.000Z",
+"start": "2026-10-27T19:57:00.000Z"
+},
+{
+"end": "2026-10-28T20:13:00.000Z",
+"start": "2026-10-28T19:57:00.000Z"
+},
+{
+"end": "2026-10-29T20:13:00.000Z",
+"start": "2026-10-29T19:57:00.000Z"
+},
+{
+"end": "2026-10-30T20:13:00.000Z",
+"start": "2026-10-30T19:57:00.000Z"
+},
+{
+"end": "2026-10-31T20:13:00.000Z",
+"start": "2026-10-31T19:57:00.000Z"
+},
+{
+"end": "2026-11-01T20:13:00.000Z",
+"start": "2026-11-01T19:57:00.000Z"
+},
+{
+"end": "2026-11-02T20:13:00.000Z",
+"start": "2026-11-02T19:57:00.000Z"
+},
+{
+"end": "2026-11-03T20:13:00.000Z",
+"start": "2026-11-03T19:57:00.000Z"
+},
+{
+"end": "2026-11-04T20:13:00.000Z",
+"start": "2026-11-04T19:57:00.000Z"
+},
+{
+"end": "2026-11-05T20:13:00.000Z",
+"start": "2026-11-05T19:57:00.000Z"
+},
+{
+"end": "2026-11-06T20:13:00.000Z",
+"start": "2026-11-06T19:57:00.000Z"
+},
+{
+"end": "2026-11-07T20:13:00.000Z",
+"start": "2026-11-07T19:57:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-KZAK-A5039/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-h3-24-martian-moons-exploration-mmx",
+"title": "Martian Moons eXploration (MMX)"
+}
+],
+"markers": [],
+"name": "A5039/26",
+"page": "https://space-notices.com/notice/notam-KZAK-A5039%2F26",
+"raw": "A5039/26 NOTAMN\nQ) KZAK/QWMLW/IV/BO/W/000/999/\nA) KZAK\nB) 2610191957\nC) 2611072013\nD) DLY 1957-2013\nE) THE JAPAN AEROSPACE EXPLORATION AGENCY (JAXA) HAS PLANNED A\nROCKET LAUNCH. DEBRIS FROM THIS LAUNCH WILL FALL WI AN AREA DEFINED\nAS 225335N 1663659E TO 231816N 1655800E TO 245321N 1663711E TO 243232N 1680000E TO  211928N 1754400E TO 205530N 1762318E TO 192032N 1754348E TO 193850N 1742700E TO POINT OF ORIGIN. IN THE INTEREST OF SAFETY ALL NON-PARTICIPATING AIR TFC ARE ADZ TO AVOID THE NOTAMED AREA. IFR ACFT UNDER ATC JURISDICTION SHOULD ANTICIPATE CLR AROUND THE NOTAMED AREA.\nF) SFC\nG) UNL",
+"reason": "THE JAPAN AEROSPACE EXPLORATION AGENCY (JAXA) HAS PLANNED A ROCKET LAUNCH",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82771983",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-15T12:35:18.717Z"
 },
 {
 "areas": [
@@ -32843,5 +32989,5 @@
 "pending": 10,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3135
+"total_known": 3138
 }

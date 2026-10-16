@@ -221637,6 +221637,210 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-KZAK-A5037%2F26": {
+"lastmod": "2026-10-16T18:15:35.125Z",
+"notice": {
+"areas": [
+[
+[
+8.2667,
+162.4667
+],
+[
+5.9667,
+165.3
+],
+[
+5.55,
+164.95
+],
+[
+7.85,
+162.1333
+],
+[
+8.2667,
+162.4667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T04:19:00.000Z",
+"start": "2026-10-21T03:32:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-KZAK-A5037/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5037/26",
+"page": "https://space-notices.com/notice/notam-KZAK-A5037%2F26",
+"raw": "A5037/26 NOTAMN\nQ) KZAK/QWMLW/IV/BO/W/000/999/\nA) KZAK\nB) 2610210332\nC) 2610210419\nE) THE CIVIL AVIATION AUTHORITY OF CHINA HAS PLANNED A ROCKET LAUNCH. DEBRIS FROM THIS LAUNCH WILL FALL WI AN AREA DEFINED AS 081600N1622800E TO 055800N1651800E TO  053300N1645700E TO 075100N1620800E TO POINT OF ORIGIN. IN THE INTEREST OF SAFETY ALL NON-PARTICIPATING AIR TRAFFIC ARE ADVISED TO AVOID THE NOTAMED AREA. IFR AIRCRAFT UNDER ATC JURISDICTION SHOULD ANTICIPATE CLEARANCE AROUND THE NOTAMED AREA.\nF) SFC\nG) UNL",
+"reason": "ROCKET LAUNCH",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82771250",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-16T18:15:35.125Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-KZAK-A5039%2F26": {
+"lastmod": "2026-10-15T12:35:18.717Z",
+"notice": {
+"areas": [
+[
+[
+22.8833,
+166.6
+],
+[
+23.3,
+165.9667
+],
+[
+24.8833,
+166.6167
+],
+[
+24.5333,
+168.0
+],
+[
+21.3167,
+175.7333
+],
+[
+20.9167,
+176.3833
+],
+[
+19.3333,
+175.7167
+],
+[
+19.6333,
+174.45
+],
+[
+22.8833,
+166.6
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-19T20:13:00.000Z",
+"start": "2026-10-19T19:57:00.000Z"
+},
+{
+"end": "2026-10-20T20:13:00.000Z",
+"start": "2026-10-20T19:57:00.000Z"
+},
+{
+"end": "2026-10-21T20:13:00.000Z",
+"start": "2026-10-21T19:57:00.000Z"
+},
+{
+"end": "2026-10-22T20:13:00.000Z",
+"start": "2026-10-22T19:57:00.000Z"
+},
+{
+"end": "2026-10-23T20:13:00.000Z",
+"start": "2026-10-23T19:57:00.000Z"
+},
+{
+"end": "2026-10-24T20:13:00.000Z",
+"start": "2026-10-24T19:57:00.000Z"
+},
+{
+"end": "2026-10-25T20:13:00.000Z",
+"start": "2026-10-25T19:57:00.000Z"
+},
+{
+"end": "2026-10-26T20:13:00.000Z",
+"start": "2026-10-26T19:57:00.000Z"
+},
+{
+"end": "2026-10-27T20:13:00.000Z",
+"start": "2026-10-27T19:57:00.000Z"
+},
+{
+"end": "2026-10-28T20:13:00.000Z",
+"start": "2026-10-28T19:57:00.000Z"
+},
+{
+"end": "2026-10-29T20:13:00.000Z",
+"start": "2026-10-29T19:57:00.000Z"
+},
+{
+"end": "2026-10-30T20:13:00.000Z",
+"start": "2026-10-30T19:57:00.000Z"
+},
+{
+"end": "2026-10-31T20:13:00.000Z",
+"start": "2026-10-31T19:57:00.000Z"
+},
+{
+"end": "2026-11-01T20:13:00.000Z",
+"start": "2026-11-01T19:57:00.000Z"
+},
+{
+"end": "2026-11-02T20:13:00.000Z",
+"start": "2026-11-02T19:57:00.000Z"
+},
+{
+"end": "2026-11-03T20:13:00.000Z",
+"start": "2026-11-03T19:57:00.000Z"
+},
+{
+"end": "2026-11-04T20:13:00.000Z",
+"start": "2026-11-04T19:57:00.000Z"
+},
+{
+"end": "2026-11-05T20:13:00.000Z",
+"start": "2026-11-05T19:57:00.000Z"
+},
+{
+"end": "2026-11-06T20:13:00.000Z",
+"start": "2026-11-06T19:57:00.000Z"
+},
+{
+"end": "2026-11-07T20:13:00.000Z",
+"start": "2026-11-07T19:57:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-KZAK-A5039/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-h3-24-martian-moons-exploration-mmx",
+"title": "Martian Moons eXploration (MMX)"
+}
+],
+"markers": [],
+"name": "A5039/26",
+"page": "https://space-notices.com/notice/notam-KZAK-A5039%2F26",
+"raw": "A5039/26 NOTAMN\nQ) KZAK/QWMLW/IV/BO/W/000/999/\nA) KZAK\nB) 2610191957\nC) 2611072013\nD) DLY 1957-2013\nE) THE JAPAN AEROSPACE EXPLORATION AGENCY (JAXA) HAS PLANNED A\nROCKET LAUNCH. DEBRIS FROM THIS LAUNCH WILL FALL WI AN AREA DEFINED\nAS 225335N 1663659E TO 231816N 1655800E TO 245321N 1663711E TO 243232N 1680000E TO  211928N 1754400E TO 205530N 1762318E TO 192032N 1754348E TO 193850N 1742700E TO POINT OF ORIGIN. IN THE INTEREST OF SAFETY ALL NON-PARTICIPATING AIR TFC ARE ADZ TO AVOID THE NOTAMED AREA. IFR ACFT UNDER ATC JURISDICTION SHOULD ANTICIPATE CLR AROUND THE NOTAMED AREA.\nF) SFC\nG) UNL",
+"reason": "THE JAPAN AEROSPACE EXPLORATION AGENCY (JAXA) HAS PLANNED A ROCKET LAUNCH",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82771983",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-15T12:35:18.717Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/notam-KZMA-A3035%2F22": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -238923,6 +239127,90 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-NTTT-A1334%2F26": {
+"lastmod": "2026-10-16T18:20:29.816Z",
+"notice": {
+"areas": [
+[
+[
+-30.0,
+-121.8833
+],
+[
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-28.7167,
+-120.0
+],
+[
+-30.0,
+-120.0
+],
+[
+-30.0,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-24T11:54:00.000Z",
+"start": "2026-10-24T07:16:00.000Z"
+},
+{
+"end": "2026-10-25T11:39:00.000Z",
+"start": "2026-10-25T07:01:00.000Z"
+},
+{
+"end": "2026-10-26T11:25:00.000Z",
+"start": "2026-10-26T06:47:00.000Z"
+},
+{
+"end": "2026-10-27T11:10:00.000Z",
+"start": "2026-10-27T06:32:00.000Z"
+},
+{
+"end": "2026-10-28T10:56:00.000Z",
+"start": "2026-10-28T06:18:00.000Z"
+},
+{
+"end": "2026-10-29T10:42:00.000Z",
+"start": "2026-10-29T06:04:00.000Z"
+},
+{
+"end": "2026-10-30T10:27:00.000Z",
+"start": "2026-10-30T05:49:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1334/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-16",
+"title": "Starlink Group 15-16"
+}
+],
+"markers": [],
+"name": "A1334/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1334%2F26",
+"raw": "A1334/26 NOTAMN\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2858S12112W113\r\nA) NTTT\r\nB) 2610240716 C) 2610301027\r\nD) 24 0716-1154, 25 0701-1139, 26 0647-1125, 27 0632-1110\r\n28 0618-1056, 29 0604-1042, 30 0549-1027\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX\r\n STARLINK 15-16 IN TAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING\r\n POINTS : \r\n3000S 12153W, 2759S 12244W, 2709S 12043W, 2843S 12000W, 3000S\r\n 12000W, 3000S 12153W \r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : SCIZ \r\n\r\nTHE FRENCH VERSION OF THIS NOTAM IS C2486/26\r\nF) SFC G) UNL",
+"reason": "TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX STARLINK 15-16",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82771301",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-16T18:20:29.816Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-NZZC-B4420%2F26": {
 "gone": "2026-09-26",
 "lastmod": "2026-09-06T00:57:03.240Z",
@@ -249345,7 +249633,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SCIZ-W3534%2F26": {
-"lastmod": "2026-10-15T11:04:06.224Z",
+"lastmod": "2026-10-16T14:31:28.806Z",
 "notice": {
 "areas": [
 [
@@ -249432,9 +249720,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82768825",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-15T11:04:06.224Z"
+"updated": "2026-10-16T14:31:28.806Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SMPM-A0368%2F26": {
 "lastmod": "2026-09-27T19:52:14.739Z",
