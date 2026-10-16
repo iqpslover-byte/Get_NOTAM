@@ -1,5 +1,5 @@
 {
-"count": 2868,
+"count": 2873,
 "notices": [
 {
 "areas": [
@@ -276474,7 +276474,7 @@
 "markers": [],
 "name": "CGD-SW BNM 9121-26",
 "page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209121-26",
-"raw": "$3c",
+"raw": "$3b",
 "reason": "Re-Entry - NASA Crew-12 Reentry",
 "source": {
 "link": "https://www.navcen.uscg.gov/chart",
@@ -277968,6 +277968,58 @@
 "areas": [
 [
 [
+13.2833,
+115.9167
+],
+[
+13.6333,
+116.3667
+],
+[
+12.7667,
+117.05
+],
+[
+12.4333,
+116.6167
+],
+[
+13.2833,
+115.9167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-22T03:15:00.000Z",
+"start": "2026-10-22T02:50:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RPHI-B5549/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "B5549/26",
+"page": "https://space-notices.com/notice/notam-RPHI-B5549%2F26",
+"raw": "B5549/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/1302N11629E038\r\nA) RPHI B) 2610220250 C) 2610220315\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.\r\nEST FALL AREA OF UNBURNED DEBRIS WI:\r\n131700N 1155500E -\r\n133800N 1162200E -\r\n124600N 1170300E -\r\n122600N 1163700E -\r\n131700N 1155500E\r\n(185NM WEST OF BUSUANGA AP).\r\nF) SFC G) UNL",
+"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82764400",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-15T05:05:25.626Z"
+},
+{
+"areas": [
+[
+[
 31.15,
 -120.0833
 ],
@@ -278039,6 +278091,66 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-08T19:35:36.130Z"
+},
+{
+"areas": [
+[
+[
+8.0,
+119.95
+],
+[
+8.4333,
+120.5333
+],
+[
+7.5833,
+121.2167
+],
+[
+7.4667,
+121.1667
+],
+[
+7.1333,
+120.7333
+],
+[
+7.1333,
+120.6167
+],
+[
+8.0,
+119.95
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-22T03:26:00.000Z",
+"start": "2026-10-22T02:51:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RPHI-B5550/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "B5550/26",
+"page": "https://space-notices.com/notice/notam-RPHI-B5550%2F26",
+"raw": "B5550/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/0747N12035E041\r\nA) RPHI B) 2610220251 C) 2610220326\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.\r\nEST FALL AREA OF UNBURNED DEBRIS WI:\r\n080000N 1195700E -\r\n082600N 1203200E -\r\n073500N 1211300E -\r\n072800N 1211000E -\r\n070800N 1204400E -\r\n070800N 1203700E -\r\n080000N 1195700E\r\n(127NM SOUTHEAST OF PUERTO PRINCESA AP).\r\nF) SFC G) UNL",
+"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82764477",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-15T05:05:25.626Z"
 },
 {
 "areas": [
@@ -279756,6 +279868,94 @@
 "areas": [
 [
 [
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-38.35,
+-115.0667
+],
+[
+-49.15,
+-107.3667
+],
+[
+-59.15,
+-95.5667
+],
+[
+-59.9667,
+-99.0833
+],
+[
+-44.5667,
+-114.2167
+],
+[
+-27.9833,
+-122.7333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T04:39:00.000Z",
+"start": "2026-10-21T00:01:00.000Z"
+},
+{
+"end": "2026-10-22T04:24:00.000Z",
+"start": "2026-10-21T23:46:00.000Z"
+},
+{
+"end": "2026-10-23T04:10:00.000Z",
+"start": "2026-10-22T23:32:00.000Z"
+},
+{
+"end": "2026-10-24T03:55:00.000Z",
+"start": "2026-10-23T23:17:00.000Z"
+},
+{
+"end": "2026-10-25T03:41:00.000Z",
+"start": "2026-10-24T23:03:00.000Z"
+},
+{
+"end": "2026-10-26T03:27:00.000Z",
+"start": "2026-10-25T22:49:00.000Z"
+},
+{
+"end": "2026-10-27T03:12:00.000Z",
+"start": "2026-10-26T22:34:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3004/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-f9-starlink-15-15",
+"title": "Starlink Group 15-15"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3004/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203004%2F26",
+"raw": "160307Z OCT 26\nHYDROPAC 3004/26.\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   210001Z TO 210439Z, 212346Z TO 220424Z,\n   222332Z TO 230410Z, 232317Z TO 240355Z,\n   242303Z TO 250341Z, 252249Z TO 260327Z \n   AND 262234Z TO 270312Z OCT \n   IN AREA BOUND BY\n   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,\n   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,\n   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,\n   44-34.00S 114-13.00W.\n2. CANCEL THIS MSG 270412Z OCT 26.//\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3004&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-10-15T09:32:30.085Z"
+},
+{
+"areas": [
+[
+[
 -30.0,
 -121.8833
 ],
@@ -280292,6 +280492,244 @@
 "name": "Cadena OIS"
 },
 "updated": "2026-10-15T11:04:05.569Z"
+},
+{
+"areas": [
+[
+[
+-53.5,
+172.0
+],
+[
+-53.5,
+173.5
+],
+[
+-56.5,
+172.5
+],
+[
+-56.5,
+171.0
+],
+[
+-53.5,
+172.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T08:45:00.000Z",
+"start": "2026-10-21T05:00:00.000Z"
+},
+{
+"end": "2026-10-22T08:45:00.000Z",
+"start": "2026-10-22T05:00:00.000Z"
+},
+{
+"end": "2026-10-23T08:45:00.000Z",
+"start": "2026-10-23T05:00:00.000Z"
+},
+{
+"end": "2026-10-24T08:45:00.000Z",
+"start": "2026-10-24T05:00:00.000Z"
+},
+{
+"end": "2026-10-25T08:45:00.000Z",
+"start": "2026-10-25T05:00:00.000Z"
+},
+{
+"end": "2026-10-26T08:45:00.000Z",
+"start": "2026-10-26T05:00:00.000Z"
+},
+{
+"end": "2026-10-27T08:45:00.000Z",
+"start": "2026-10-27T05:00:00.000Z"
+},
+{
+"end": "2026-10-28T08:45:00.000Z",
+"start": "2026-10-28T05:00:00.000Z"
+},
+{
+"end": "2026-10-29T08:45:00.000Z",
+"start": "2026-10-29T05:00:00.000Z"
+},
+{
+"end": "2026-10-30T08:45:00.000Z",
+"start": "2026-10-30T05:00:00.000Z"
+},
+{
+"end": "2026-10-31T08:45:00.000Z",
+"start": "2026-10-31T05:00:00.000Z"
+},
+{
+"end": "2026-11-01T08:45:00.000Z",
+"start": "2026-11-01T05:00:00.000Z"
+},
+{
+"end": "2026-11-02T08:45:00.000Z",
+"start": "2026-11-02T05:00:00.000Z"
+},
+{
+"end": "2026-11-03T08:45:00.000Z",
+"start": "2026-11-03T05:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3005/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-electron-were-not-hawking-around-3x-hawkeye-360",
+"title": "We're Not Hawking Around (3x HawkEye 360)"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3005/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203005%2F26",
+"raw": "160313Z OCT 26\nHYDROPAC 3005/26.\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   0500Z TO 0845Z DAILY 21 OCT THRU 03 NOV\n   IN AREA BOUND BY\n   53-30.00S 172-00.00E, 53-30.00S 173-30.00E,\n   56-30.00S 172-30.00E, 56-30.00S 171-00.00E.\n2. CANCEL THIS MSG 030945Z NOV 26.//\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3005&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-10-12T23:36:35.185Z"
+},
+{
+"areas": [
+[
+[
+-39.2,
+178.0
+],
+[
+-39.25,
+178.05
+],
+[
+-39.75,
+177.9
+],
+[
+-39.75,
+177.6
+],
+[
+-39.25,
+177.7
+],
+[
+-39.2,
+177.8
+],
+[
+-39.2,
+178.0
+]
+],
+[
+[
+-43.5,
+175.5
+],
+[
+-43.5,
+177.5
+],
+[
+-46.5,
+176.5
+],
+[
+-46.5,
+174.5
+],
+[
+-43.5,
+175.5
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T08:45:00.000Z",
+"start": "2026-10-21T05:00:00.000Z"
+},
+{
+"end": "2026-10-22T08:45:00.000Z",
+"start": "2026-10-22T05:00:00.000Z"
+},
+{
+"end": "2026-10-23T08:45:00.000Z",
+"start": "2026-10-23T05:00:00.000Z"
+},
+{
+"end": "2026-10-24T08:45:00.000Z",
+"start": "2026-10-24T05:00:00.000Z"
+},
+{
+"end": "2026-10-25T08:45:00.000Z",
+"start": "2026-10-25T05:00:00.000Z"
+},
+{
+"end": "2026-10-26T08:45:00.000Z",
+"start": "2026-10-26T05:00:00.000Z"
+},
+{
+"end": "2026-10-27T08:45:00.000Z",
+"start": "2026-10-27T05:00:00.000Z"
+},
+{
+"end": "2026-10-28T08:45:00.000Z",
+"start": "2026-10-28T05:00:00.000Z"
+},
+{
+"end": "2026-10-29T08:45:00.000Z",
+"start": "2026-10-29T05:00:00.000Z"
+},
+{
+"end": "2026-10-30T08:45:00.000Z",
+"start": "2026-10-30T05:00:00.000Z"
+},
+{
+"end": "2026-10-31T08:45:00.000Z",
+"start": "2026-10-31T05:00:00.000Z"
+},
+{
+"end": "2026-11-01T08:45:00.000Z",
+"start": "2026-11-01T05:00:00.000Z"
+},
+{
+"end": "2026-11-02T08:45:00.000Z",
+"start": "2026-11-02T05:00:00.000Z"
+},
+{
+"end": "2026-11-03T08:45:00.000Z",
+"start": "2026-11-03T05:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3006/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-electron-were-not-hawking-around-3x-hawkeye-360",
+"title": "We're Not Hawking Around (3x HawkEye 360)"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3006/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203006%2F26",
+"raw": "160315Z OCT 26\nHYDROPAC 3006/26.\nSOUTH PACIFIC.\nNEW ZEALAND.\n1. HAZARDOUS OPERATIONS 0500Z TO 0845Z \n   DAILY 21 OCT THRU 03 NOV:\n   A. ROCKET LAUNCHING IN AREA BOUND BY\n      39-12.00S 178-00.00E, 39-15.00S 178-03.00E,\n      39-45.00S 177-54.00E, 39-45.00S 177-36.00E,\n      39-15.00S 177-42.00E, 39-12.00S 177-48.00E.\n   B. SPACE DEBRIS IN AREA BOUND BY\n      43-30.00S 175-30.00E, 43-30.00S 177-30.00E,\n      46-30.00S 176-30.00E, 46-30.00S 174-30.00E.\n2. CANCEL THIS MSG 030945Z NOV 26.//\n\n",
+"reason": "HAZARDOUS OPERATIONS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3006&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-10-12T23:36:35.185Z"
 },
 {
 "areas": [
