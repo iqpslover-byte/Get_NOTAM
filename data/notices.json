@@ -1,6 +1,6 @@
 {
-"count": 406,
-"generated_utc": "2026-10-16T20:06:39Z",
+"count": 407,
+"generated_utc": "2026-10-16T23:02:48Z",
 "notices": [
 {
 "areas": [
@@ -24221,7 +24221,7 @@
 "markers": [],
 "name": "CGD-SW BNM 9121-26",
 "page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209121-26",
-"raw": "$3c",
+"raw": "$3b",
 "reason": "Re-Entry - NASA Crew-12 Reentry",
 "source": {
 "link": "https://www.navcen.uscg.gov/chart",
@@ -28291,6 +28291,114 @@
 "name": "Cadena OIS"
 },
 "updated": "2026-10-15T11:04:05.569Z"
+},
+{
+"areas": [
+[
+[
+28.1833,
+-117.3333
+],
+[
+28.8333,
+-117.8167
+],
+[
+29.0333,
+-117.9833
+],
+[
+29.25,
+-118.0333
+],
+[
+29.4,
+-118.1333
+],
+[
+29.5833,
+-118.2
+],
+[
+31.5833,
+-119.15
+],
+[
+31.7667,
+-118.7667
+],
+[
+29.8,
+-117.65
+],
+[
+29.6,
+-117.2667
+],
+[
+28.8333,
+-117.3167
+],
+[
+28.2,
+-117.3167
+],
+[
+28.1833,
+-117.3333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-24T10:12:00.000Z",
+"start": "2026-10-24T05:29:00.000Z"
+},
+{
+"end": "2026-10-25T09:57:00.000Z",
+"start": "2026-10-25T05:14:00.000Z"
+},
+{
+"end": "2026-10-26T09:43:00.000Z",
+"start": "2026-10-26T05:00:00.000Z"
+},
+{
+"end": "2026-10-27T09:28:00.000Z",
+"start": "2026-10-27T04:45:00.000Z"
+},
+{
+"end": "2026-10-28T09:14:00.000Z",
+"start": "2026-10-28T04:31:00.000Z"
+},
+{
+"end": "2026-10-29T09:00:00.000Z",
+"start": "2026-10-29T04:17:00.000Z"
+},
+{
+"end": "2026-10-30T08:45:00.000Z",
+"start": "2026-10-30T04:02:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MMFR-B3055/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-16",
+"title": "Starlink Group 15-16"
+}
+],
+"markers": [],
+"name": "B3055/26",
+"page": "https://space-notices.com/notice/notam-MMFR-B3055%2F26",
+"raw": "B3055/26 NOTAMN\r\r\nQ) MMFR/QRDCA/IV/BO/W/000/999/\r\r\nA) MMFR\r\r\nB) 2610240529\r\r\nC) 2610300845\r\r\nD) 24 0529-1012, 25 0514-0957, 26 0500-0943, 27 0445-0928, 28 0431-0914,\r\r\n   29 0417-0900, 30 0402-0845 \r\r\nE) DANGEROUS AREA FOR REENTRY OF ROCKET SPACEX 15-16 STAGE 1 \r\r\n   LATERAL LIMIT AREA FORMED BY THE UNION OF THE FLW POINTS:\r\r\n   2811N 11720W\r\r\n   2850N 11749W\r\r\n   2902N 11759W\r\r\n   2915N 11802W\r\r\n   2924N 11808W\r\r\n   2935N 11812W\r\r\n   3135N 11909W\r\r\n   3146N 11846W\r\r\n   2948N 11739W\r\r\n   2936N 11716W\r\r\n   2850N 11719W\r\r\n   2812N 11719W\r\r\n   2811N 11720W\r\r\n   (MMFR)\r\r\nF) SFC\r\r\nG) UNL",
+"reason": "DANGEROUS AREA FOR REENTRY OF ROCKET SPACEX 15-16 STAGE 1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82772379",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-16T18:20:29.854Z"
 },
 {
 "areas": [
@@ -32989,5 +33097,5 @@
 "pending": 10,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3138
+"total_known": 3139
 }
