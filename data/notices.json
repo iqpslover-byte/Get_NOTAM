@@ -1,59 +1,7 @@
 {
-"count": 410,
-"generated_utc": "2026-10-17T11:12:34Z",
+"count": 409,
+"generated_utc": "2026-10-17T14:26:57Z",
 "notices": [
-{
-"areas": [
-[
-[
-9.4667,
-119.2167
-],
-[
-8.95,
-119.6
-],
-[
-8.75,
-119.3333
-],
-[
-9.2667,
-118.95
-],
-[
-9.4667,
-119.2167
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-17T12:54:00.000Z",
-"start": "2026-09-17T12:25:00.000Z"
-}
-],
-"height": null,
-"id": "nav-warning-HYDROPAC 2680/26",
-"kind": "NAVWARNING",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "HYDROPAC 2680/26",
-"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202680%2F26",
-"raw": "161600Z SEP 26\nHYDROPAC 2680/26.\nSULU SEA.\nPHILIPPINES.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   171225Z TO 171254Z SEP\n   IN AREA BOUND BY\n   09-28.00N 119-13.00E, 08-57.00N 119-36.00E,\n   08-45.00N 119-20.00E, 09-16.00N 118-57.00E.\n2. CANCEL THIS MSG 171354Z SEP 26.\n\n",
-"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
-"source": {
-"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2680&createdOn=26&category=14&output=html",
-"name": "US National Geospatial-Intelligence Agency"
-},
-"updated": "2026-09-16T16:05:46.093Z"
-},
 {
 "areas": [
 [
@@ -23599,7 +23547,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82777283",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-14T14:39:31.849Z"
+"updated": "2026-10-17T11:06:05.857Z"
 },
 {
 "areas": [
@@ -26734,7 +26682,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82777044",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-16T18:15:35.149Z"
+"updated": "2026-10-17T11:05:54.915Z"
 },
 {
 "areas": [
@@ -26786,7 +26734,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82777061",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-16T18:15:35.149Z"
+"updated": "2026-10-17T11:05:51.030Z"
 },
 {
 "areas": [
@@ -26838,7 +26786,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82777071",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-16T18:15:35.149Z"
+"updated": "2026-10-17T11:05:47.371Z"
 },
 {
 "areas": [],
