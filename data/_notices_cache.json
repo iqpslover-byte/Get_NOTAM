@@ -9347,7 +9347,7 @@
 "markers": [],
 "name": "CGD-SW BNM 9121-26",
 "page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209121-26",
-"raw": "$3b",
+"raw": "$3c",
 "reason": "Re-Entry - NASA Crew-12 Reentry",
 "source": {
 "link": "https://www.navcen.uscg.gov/chart",
@@ -294639,7 +294639,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZMA-10%2F214-26": {
-"lastmod": "2026-10-17T11:06:05.857Z",
+"lastmod": "2026-10-17T14:45:25.449Z",
 "notice": {
 "areas": [
 [
@@ -294702,12 +294702,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82778561",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-17T11:06:05.857Z"
+"updated": "2026-10-17T14:45:25.449Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZMA-10%2F215-26": {
-"lastmod": "2026-10-17T11:06:05.857Z",
+"lastmod": "2026-10-17T14:45:35.986Z",
 "notice": {
 "areas": [
 [
@@ -294766,9 +294766,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82778569",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-17T11:06:05.857Z"
+"updated": "2026-10-17T14:45:35.986Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZMA-11%2F162": {
 "lastmod": "2026-04-23T14:04:24.726Z",

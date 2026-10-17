@@ -1,149 +1,7 @@
 {
-"count": 410,
-"generated_utc": "2026-10-17T19:43:57Z",
+"count": 408,
+"generated_utc": "2026-10-17T22:41:52Z",
 "notices": [
-{
-"areas": [
-[
-[
--5.9167,
--34.5667
-],
-[
--6.2167,
--34.65
-],
-[
--6.3833,
--34.5667
-],
-[
--6.5167,
--34.1833
-],
-[
--6.3833,
--34.0167
-],
-[
--6.05,
--33.9333
-],
-[
--5.8667,
--34.05
-],
-[
--5.8167,
--34.4167
-],
-[
--5.9167,
--34.5667
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-15T20:00:00.000Z",
-"start": "2026-09-15T08:00:00.000Z"
-},
-{
-"end": "2026-09-16T20:00:00.000Z",
-"start": "2026-09-16T08:00:00.000Z"
-},
-{
-"end": "2026-09-17T20:00:00.000Z",
-"start": "2026-09-17T08:00:00.000Z"
-}
-],
-"height": null,
-"id": "nav-warning-HYDROLANT 1792/26",
-"kind": "NAVWARNING",
-"launches": [],
-"markers": [],
-"name": "HYDROLANT 1792/26",
-"page": "https://space-notices.com/notice/nav-warning-HYDROLANT%201792%2F26",
-"raw": "100927Z SEP 26\nHYDROLANT 1792/26.\nSOUTH ATLANTIC.\nBRAZIL.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   0800Z TO 2000Z DAILY 15 THRU 17 SEP \n   IN AREA BOUND BY\n   05-55.28S 034-34.36W, 06-13.92S 034-39.38W,\n   06-23.59S 034-34.44W, 06-31.87S 034-11.54W,\n   06-23.83S 034-01.81W, 06-03.44S 033-56.53W,\n   05-52.66S 034-03.34W, 05-49.30S 034-25.37W.\n2. CANCEL THIS MSG 172100Z SEP 26.",
-"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
-"source": {
-"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=A&msgSqncNumber=1792&createdOn=26&category=14&output=html",
-"name": "US National Geospatial-Intelligence Agency"
-},
-"updated": ""
-},
-{
-"areas": [
-[
-[
--5.9167,
--34.5667
-],
-[
--5.8167,
--34.4167
-],
-[
--5.8667,
--34.05
-],
-[
--6.05,
--33.9333
-],
-[
--6.3833,
--34.0167
-],
-[
--6.5167,
--34.1833
-],
-[
--6.3833,
--34.5667
-],
-[
--6.2167,
--34.65
-],
-[
--5.9167,
--34.5667
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-15T20:00:00.000Z",
-"start": "2026-09-15T08:00:00.000Z"
-},
-{
-"end": "2026-09-16T20:00:00.000Z",
-"start": "2026-09-16T08:00:00.000Z"
-},
-{
-"end": "2026-09-17T20:00:00.000Z",
-"start": "2026-09-17T08:00:00.000Z"
-}
-],
-"height": null,
-"id": "nav-warning-HYDROLANT 1798/26",
-"kind": "NAVWARNING",
-"launches": [],
-"markers": [],
-"name": "HYDROLANT 1798/26",
-"page": "https://space-notices.com/notice/nav-warning-HYDROLANT%201798%2F26",
-"raw": "110104Z SEP 26\nHYDROLANT 1798/26.\nSOUTH ATLANTIC.\nBRAZIL.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING\n   0800Z TO 2000Z DAILY 15 THRU 17 SEP \n   IN AREA BOUND BY\n   05-55.28S 034-34.36W, 05-49.30S 034-25.37W,\n   05-52.66S 034-03.34W, 06-03.44S 033-56.53W,\n   06-23.83S 034-01.81W, 06-31.87S 034-11.54W,\n   06-23.59S 034-34.44W, 06-13.92S 034-39.38W.\n2. CANCEL HYDROLANT 1792/26.\n3. CANCEL THIS MSG 172100Z SEP 26.",
-"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
-"source": {
-"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=A&msgSqncNumber=1798&createdOn=26&category=14&output=html",
-"name": "US National Geospatial-Intelligence Agency"
-},
-"updated": ""
-},
 {
 "areas": [
 [
@@ -23499,7 +23357,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82778561",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-17T11:06:05.857Z"
+"updated": "2026-10-17T14:45:25.449Z"
 },
 {
 "areas": [
@@ -23559,7 +23417,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82778569",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-17T11:06:05.857Z"
+"updated": "2026-10-17T14:45:35.986Z"
 },
 {
 "areas": [
@@ -24249,7 +24107,7 @@
 "markers": [],
 "name": "CGD-SW BNM 9121-26",
 "page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209121-26",
-"raw": "$3b",
+"raw": "$3c",
 "reason": "Re-Entry - NASA Crew-12 Reentry",
 "source": {
 "link": "https://www.navcen.uscg.gov/chart",
