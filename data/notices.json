@@ -1,59 +1,7 @@
 {
-"count": 409,
-"generated_utc": "2026-10-17T14:26:57Z",
+"count": 410,
+"generated_utc": "2026-10-17T17:33:27Z",
 "notices": [
-{
-"areas": [
-[
-[
-37.65,
-33.2667
-],
-[
-37.5333,
-33.2667
-],
-[
-37.4833,
-33.75
-],
-[
-37.6167,
-33.75
-],
-[
-37.65,
-33.2667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-17T14:30:00.000Z",
-"start": "2026-09-17T06:30:00.000Z"
-}
-],
-"height": "65000FT",
-"id": "notam-LTAA-A4045/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "A4045/26",
-"page": "https://space-notices.com/notice/notam-LTAA-A4045%2F26",
-"raw": "A4045/26 NOTAMN\r\nQ) LTAA/QWMLW/IV/BO /W /000/650/3735N03331E013\r\nA) LTAA B) 2609170630 C) 2609171430\r\nE) ROCKET FIRING WILL TAKE PLACE.\r\nRMK: AIR TRAFFIC FLOW REGULATION NOTAM SHALL BE ISSUED.\r\nAREA(LTTSA-11R): 373929N0331618E 373256N0331618E 372938N0334527E \r\n373711N0334532E 373929N0331618E\r\nF) SFC G) 65000FT AMSL",
-"reason": "ROCKET FIRING WILL TAKE PLACE.",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82428060",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-15T07:16:16.406Z"
-},
 {
 "areas": [
 [
@@ -23493,6 +23441,130 @@
 "areas": [
 [
 [
+26.1667,
+-76.0
+],
+[
+25.6,
+-73.9333
+],
+[
+25.45,
+-73.7333
+],
+[
+25.0667,
+-73.7667
+],
+[
+24.9,
+-73.9833
+],
+[
+24.9667,
+-74.55
+],
+[
+26.0667,
+-76.0
+],
+[
+26.1667,
+-76.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-19T12:13:00.000Z",
+"start": "2026-10-19T10:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZMA-10/214-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-bandwagon-5-dedicated-mid-inclina",
+"title": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)"
+}
+],
+"markers": [],
+"name": "10/214",
+"page": "https://space-notices.com/notice/notam-ZMA-10%2F214-26",
+"raw": "!CARF 10/214 ZMA AIRSPACE DCC EROP X4107 F9 BANDWAGON-5 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 261000N0760000W TO 253600N0735600W TO 252700N0734400W TO 250400N0734600W TO 245400N0735900W TO 245800N0743300W TO 260400N0760000W TO POINT OF ORIGIN SFC-UNL . CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS. 2610191030-2610191213",
+"reason": "EROP X4107 F9 BANDWAGON-5",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82778561",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-17T11:06:05.857Z"
+},
+{
+"areas": [
+[
+[
+28.5333,
+-80.6167
+],
+[
+28.6167,
+-80.55
+],
+[
+28.5667,
+-80.3667
+],
+[
+28.35,
+-79.9167
+],
+[
+28.2667,
+-79.9667
+],
+[
+28.4,
+-80.3333
+],
+[
+28.5333,
+-80.6167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-19T12:13:00.000Z",
+"start": "2026-10-19T10:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZMA-10/215-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-bandwagon-5-dedicated-mid-inclina",
+"title": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)"
+}
+],
+"markers": [],
+"name": "10/215",
+"page": "https://space-notices.com/notice/notam-ZMA-10%2F215-26",
+"raw": "!CARF 10/215 ZMA AIRSPACE DCC EROP X4107 F9 BANDWAGON-5 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283200N0803700W TO 283700N0803300W TO 283400N0802200W TO 282100N0795500W TO 281600N0795800W TO 282400N0802000W TO POINT OF ORIGIN SFC-UNL CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS. 2610191030-2610191213",
+"reason": "EROP X4107 F9 BANDWAGON-5",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82778569",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-17T11:06:05.857Z"
+},
+{
+"areas": [
+[
+[
 22.1167,
 -120.0
 ],
@@ -33209,5 +33281,5 @@
 "pending": 10,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3143
+"total_known": 3145
 }

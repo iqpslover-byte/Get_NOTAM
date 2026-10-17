@@ -294638,6 +294638,138 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZMA-10%2F214-26": {
+"lastmod": "2026-10-17T11:06:05.857Z",
+"notice": {
+"areas": [
+[
+[
+26.1667,
+-76.0
+],
+[
+25.6,
+-73.9333
+],
+[
+25.45,
+-73.7333
+],
+[
+25.0667,
+-73.7667
+],
+[
+24.9,
+-73.9833
+],
+[
+24.9667,
+-74.55
+],
+[
+26.0667,
+-76.0
+],
+[
+26.1667,
+-76.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-19T12:13:00.000Z",
+"start": "2026-10-19T10:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZMA-10/214-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-bandwagon-5-dedicated-mid-inclina",
+"title": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)"
+}
+],
+"markers": [],
+"name": "10/214",
+"page": "https://space-notices.com/notice/notam-ZMA-10%2F214-26",
+"raw": "!CARF 10/214 ZMA AIRSPACE DCC EROP X4107 F9 BANDWAGON-5 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 261000N0760000W TO 253600N0735600W TO 252700N0734400W TO 250400N0734600W TO 245400N0735900W TO 245800N0743300W TO 260400N0760000W TO POINT OF ORIGIN SFC-UNL . CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS. 2610191030-2610191213",
+"reason": "EROP X4107 F9 BANDWAGON-5",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82778561",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-17T11:06:05.857Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/notam-ZMA-10%2F215-26": {
+"lastmod": "2026-10-17T11:06:05.857Z",
+"notice": {
+"areas": [
+[
+[
+28.5333,
+-80.6167
+],
+[
+28.6167,
+-80.55
+],
+[
+28.5667,
+-80.3667
+],
+[
+28.35,
+-79.9167
+],
+[
+28.2667,
+-79.9667
+],
+[
+28.4,
+-80.3333
+],
+[
+28.5333,
+-80.6167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-19T12:13:00.000Z",
+"start": "2026-10-19T10:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZMA-10/215-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-bandwagon-5-dedicated-mid-inclina",
+"title": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)"
+}
+],
+"markers": [],
+"name": "10/215",
+"page": "https://space-notices.com/notice/notam-ZMA-10%2F215-26",
+"raw": "!CARF 10/215 ZMA AIRSPACE DCC EROP X4107 F9 BANDWAGON-5 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283200N0803700W TO 283700N0803300W TO 283400N0802200W TO 282100N0795500W TO 281600N0795800W TO 282400N0802000W TO POINT OF ORIGIN SFC-UNL CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS. 2610191030-2610191213",
+"reason": "EROP X4107 F9 BANDWAGON-5",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82778569",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-17T11:06:05.857Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/notam-ZMA-11%2F162": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
