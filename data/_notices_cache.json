@@ -9347,7 +9347,7 @@
 "markers": [],
 "name": "CGD-SW BNM 9121-26",
 "page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209121-26",
-"raw": "$3b",
+"raw": "$3c",
 "reason": "Re-Entry - NASA Crew-12 Reentry",
 "source": {
 "link": "https://www.navcen.uscg.gov/chart",
@@ -90321,7 +90321,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%202949%2F26": {
-"lastmod": "2026-10-10T13:00:13.455Z",
+"lastmod": "2026-10-16T21:50:57.385Z",
 "notice": {
 "areas": [
 [
@@ -90412,7 +90412,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2949&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-10-10T13:00:13.455Z"
+"updated": "2026-10-16T21:50:57.385Z"
 },
 "via": "sitemap"
 },
@@ -221694,7 +221694,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-KZAK-A5039%2F26": {
-"lastmod": "2026-10-15T12:35:18.717Z",
+"lastmod": "2026-10-16T19:46:37.127Z",
 "notice": {
 "areas": [
 [
@@ -221837,9 +221837,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82771983",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-15T12:35:18.717Z"
+"updated": "2026-10-16T19:46:37.127Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-KZMA-A3035%2F22": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -232420,7 +232420,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-MMFR-B3055%2F26": {
-"lastmod": "2026-10-16T18:20:29.854Z",
+"lastmod": "2026-10-16T20:05:28.589Z",
 "notice": {
 "areas": [
 [
@@ -232527,9 +232527,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82772379",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-16T18:20:29.854Z"
+"updated": "2026-10-16T20:05:28.589Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-MTEG-A0046%2F26": {
 "lastmod": "2026-09-26T14:10:06.294Z",
