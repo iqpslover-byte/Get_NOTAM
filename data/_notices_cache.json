@@ -319372,6 +319372,378 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/tfr-ZMA-6%2F0105": {
+"lastmod": "2026-10-18T13:59:29.395Z",
+"notice": {
+"areas": [
+[
+[
+28.6347,
+-80.7878
+],
+[
+28.8442,
+-80.0833
+],
+[
+28.81336,
+-80.08896
+],
+[
+28.76732,
+-80.0697
+],
+[
+28.71985,
+-80.0557
+],
+[
+28.6714,
+-80.04708
+],
+[
+28.62244,
+-80.04392
+],
+[
+28.57345,
+-80.04624
+],
+[
+28.52489,
+-80.05401
+],
+[
+28.47724,
+-80.06715
+],
+[
+28.43095,
+-80.08553
+],
+[
+28.38645,
+-80.10896
+],
+[
+28.34419,
+-80.13722
+],
+[
+28.30456,
+-80.17002
+],
+[
+28.26794,
+-80.20705
+],
+[
+28.23469,
+-80.24796
+],
+[
+28.225,
+-80.2667
+],
+[
+28.4169,
+-80.5081
+],
+[
+28.4169,
+-80.6331
+],
+[
+28.4169,
+-80.6956
+],
+[
+28.5225,
+-80.7303
+],
+[
+28.6347,
+-80.7878
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-19T12:13:00.000Z",
+"start": "2026-10-19T10:20:00.000Z"
+}
+],
+"height": "18000ft",
+"id": "tfr-ZMA-6/0105",
+"kind": "TFR",
+"launches": [
+{
+"id": "launch-f9-bandwagon-5-dedicated-mid-inclina",
+"title": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)"
+}
+],
+"markers": [],
+"name": "FDC 6/0105",
+"page": "https://space-notices.com/notice/tfr-ZMA-6%2F0105",
+"raw": "!FDC 6/0105 ZMA FL..AIRSPACE CAPE CANAVERAL, FL..TEMPORARY FLIGHT RESTRICTIONS. PURSUANT TO 14 CFR SECTION 91.143, SPACE OPS AREA, ACFT OPS ARE PROHIBITED WI AN AREA DEFINED AS 283805N0804716W (ORL079029.4) TO 285039N0800500W (MLB040053) THEN CLOCKWISE ON A 30NM ARC CENTERED ON 283703N0803647W (MLB009030.7) TO 281330N0801600W (MLB077020.8) TO 282501N0803029W (MLB027019.8) TO 282501N0803759W (MLB007018.7) TO 282501N0804144W (MLB357018.9) TO 283121N0804349W (MLB356025.5) TO POINT OF ORIGIN SFC-FL180 EFFECTIVE 2610191020 UTC (0620 LOCAL 10/19/26) UNTIL 2610191213 UTC (0813 LOCAL 10/19/26). EXCLUDING AIRSPACE OVER INTERNATIONAL WATERS. SPACE OPS AREA: ACFT OPS ARE PROHIBITED. MIAMI CENTER /ZMA/ ARTCC, TEL 305-716-1589, IS THE FAA CDN FAC. 2610191020-2610191213",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82784486",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-18T13:59:29.395Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/tfr-ZMA-6%2F0110": {
+"lastmod": "2026-10-18T13:59:29.395Z",
+"notice": {
+"areas": [
+[
+[
+28.6347,
+-80.7878
+],
+[
+28.8442,
+-80.0833
+],
+[
+28.81336,
+-80.08896
+],
+[
+28.76732,
+-80.0697
+],
+[
+28.71985,
+-80.0557
+],
+[
+28.6714,
+-80.04708
+],
+[
+28.62244,
+-80.04392
+],
+[
+28.57345,
+-80.04624
+],
+[
+28.52489,
+-80.05401
+],
+[
+28.47724,
+-80.06715
+],
+[
+28.43095,
+-80.08553
+],
+[
+28.38645,
+-80.10896
+],
+[
+28.34419,
+-80.13722
+],
+[
+28.30456,
+-80.17002
+],
+[
+28.26794,
+-80.20705
+],
+[
+28.23469,
+-80.24796
+],
+[
+28.225,
+-80.2667
+],
+[
+28.4169,
+-80.5081
+],
+[
+28.4169,
+-80.6331
+],
+[
+28.4169,
+-80.6956
+],
+[
+28.5225,
+-80.7303
+],
+[
+28.6347,
+-80.7878
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T12:13:00.000Z",
+"start": "2026-10-21T10:20:00.000Z"
+}
+],
+"height": "18000ft",
+"id": "tfr-ZMA-6/0110",
+"kind": "TFR",
+"launches": [
+{
+"id": "launch-f9-bandwagon-5-dedicated-mid-inclina",
+"title": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)"
+}
+],
+"markers": [],
+"name": "FDC 6/0110",
+"page": "https://space-notices.com/notice/tfr-ZMA-6%2F0110",
+"raw": "!FDC 6/0110 ZMA FL..AIRSPACE CAPE CANAVERAL, FL..TEMPORARY FLIGHT RESTRICTIONS. PURSUANT TO 14 CFR SECTION 91.143, SPACE OPS AREA, ACFT OPS ARE PROHIBITED WI AN AREA DEFINED AS 283805N0804716W (ORL079029.4) TO 285039N0800500W (MLB040053) THEN CLOCKWISE ON A 30NM ARC CENTERED ON 283703N0803647W (MLB009030.7) TO 281330N0801600W (MLB077020.8) TO 282501N0803029W (MLB027019.8) TO 282501N0803759W (MLB007018.7) TO 282501N0804144W (MLB357018.9) TO 283121N0804349W (MLB356025.5) TO POINT OF ORIGIN SFC-FL180 EFFECTIVE 2610211020 UTC (0620 LOCAL 10/21/26) UNTIL 2610211213 UTC (0813 LOCAL 10/21/26). EXCLUDING AIRSPACE OVER INTERNATIONAL WATERS. SPACE OPS AREA: ACFT OPS ARE PROHIBITED.  MIAMI CENTER /ZMA/ ARTCC, TEL 305-716-1589, IS THE FAA CDN FAC. 2610211020-2610211213",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82784483",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-18T13:59:29.395Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/tfr-ZMA-6%2F0113": {
+"lastmod": "2026-10-18T13:59:29.395Z",
+"notice": {
+"areas": [
+[
+[
+28.6347,
+-80.7878
+],
+[
+28.8442,
+-80.0833
+],
+[
+28.81336,
+-80.08896
+],
+[
+28.76732,
+-80.0697
+],
+[
+28.71985,
+-80.0557
+],
+[
+28.6714,
+-80.04708
+],
+[
+28.62244,
+-80.04392
+],
+[
+28.57345,
+-80.04624
+],
+[
+28.52489,
+-80.05401
+],
+[
+28.47724,
+-80.06715
+],
+[
+28.43095,
+-80.08553
+],
+[
+28.38645,
+-80.10896
+],
+[
+28.34419,
+-80.13722
+],
+[
+28.30456,
+-80.17002
+],
+[
+28.26794,
+-80.20705
+],
+[
+28.23469,
+-80.24796
+],
+[
+28.225,
+-80.2667
+],
+[
+28.4169,
+-80.5081
+],
+[
+28.4169,
+-80.6331
+],
+[
+28.4169,
+-80.6956
+],
+[
+28.5225,
+-80.7303
+],
+[
+28.6347,
+-80.7878
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-20T12:13:00.000Z",
+"start": "2026-10-20T10:20:00.000Z"
+}
+],
+"height": "18000ft",
+"id": "tfr-ZMA-6/0113",
+"kind": "TFR",
+"launches": [
+{
+"id": "launch-f9-bandwagon-5-dedicated-mid-inclina",
+"title": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)"
+}
+],
+"markers": [],
+"name": "FDC 6/0113",
+"page": "https://space-notices.com/notice/tfr-ZMA-6%2F0113",
+"raw": "!FDC 6/0113 ZMA FL..AIRSPACE CAPE CANAVERAL, FL..TEMPORARY FLIGHT RESTRICTIONS. PURSUANT TO 14 CFR SECTION 91.143, SPACE OPS AREA, ACFT OPS ARE PROHIBITED WI AN AREA DEFINED AS 283805N0804716W (ORL079029.4) TO 285039N0800500W (MLB040053) THEN CLOCKWISE ON A 30NM ARC CENTERED ON 283703N0803647W (MLB009030.7) TO 281330N0801600W (MLB077020.8) TO 282501N0803029W (MLB027019.8) TO 282501N0803759W (MLB007018.7) TO 282501N0804144W (MLB357018.9) TO 283121N0804349W (MLB356025.5) TO POINT OF ORIGIN SFC-FL180 EFFECTIVE 2610201020 UTC (0620 LOCAL 10/20/26) UNTIL 2610201213 UTC (0813 LOCAL 10/20/26). EXCLUDING AIRSPACE OVER INTERNATIONAL WATERS. SPACE OPS AREA: ACFT OPS ARE PROHIBITED.  MIAMI CENTER /ZMA/ ARTCC, TEL 305-716-1589, IS THE FAA CDN FAC. 2610201020-2610201213",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82784484",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-18T13:59:29.395Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/tfr-ZMA-6%2F0605": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
