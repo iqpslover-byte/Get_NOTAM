@@ -1,5 +1,5 @@
 {
-"count": 2884,
+"count": 2888,
 "notices": [
 {
 "areas": [
@@ -277327,6 +277327,330 @@
 "updated": "2026-10-02T17:31:27.512Z"
 },
 {
+"areas": [
+[
+[
+32.0167,
+-121.6333
+],
+[
+31.6167,
+-123.6667
+],
+[
+30.75,
+-127.45
+],
+[
+29.2333,
+-132.95
+],
+[
+28.3333,
+-135.85
+],
+[
+31.3833,
+-136.9167
+],
+[
+32.3167,
+-134.5
+],
+[
+34.2167,
+-129.0
+],
+[
+35.2167,
+-123.5667
+],
+[
+34.6167,
+-123.1833
+],
+[
+34.4167,
+-123.05
+],
+[
+34.1,
+-122.85
+],
+[
+33.7833,
+-122.6333
+],
+[
+33.75,
+-122.75
+],
+[
+33.2167,
+-122.4
+],
+[
+33.25,
+-122.3167
+],
+[
+32.7333,
+-122.0167
+],
+[
+32.2333,
+-121.7167
+],
+[
+32.0167,
+-121.6333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-19T23:00:00.000Z",
+"start": "2026-10-19T10:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-10/210-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-vsfb-ganera",
+"title": "Gamera"
+}
+],
+"markers": [],
+"name": "10/210",
+"page": "https://space-notices.com/notice/notam-ZAK-10%2F210-26",
+"raw": "!CARF 10/210 ZAK AIRSPACE DCC GAMERA 26-3 STNR ALT RESERVATION WI AN AREA DEFINED AS 320100N1213800W TO 313700N1234000W TO 304500N1272700W TO 291400N1325700W TO 282000N1355100W TO 312300N1365500W TO 321900N1343000W TO 341300N1290000W TO 351300N1233400W TO 343700N1231100W TO 342500N1230300W TO 340600N1225100W TO 334700N1223800W TO 334500N1224500W TO 331300N1222400W TO 331500N1221900W TO 324400N1220100W TO 321400N1214300W TO POINT OF ORIGIN SFC-UNL 2610191000-2610192300",
+"reason": "GAMERA 26-3",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82777309",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-17T22:37:48.183Z"
+},
+{
+"areas": [
+[
+[
+32.0167,
+-121.6333
+],
+[
+31.6167,
+-123.6667
+],
+[
+30.75,
+-127.45
+],
+[
+29.2333,
+-132.95
+],
+[
+28.3333,
+-135.85
+],
+[
+31.3833,
+-136.9167
+],
+[
+32.3167,
+-134.5
+],
+[
+34.2167,
+-129.0
+],
+[
+35.2167,
+-123.5667
+],
+[
+34.6167,
+-123.1833
+],
+[
+34.4167,
+-123.05
+],
+[
+34.1,
+-122.85
+],
+[
+33.7833,
+-122.6333
+],
+[
+33.75,
+-122.75
+],
+[
+33.2167,
+-122.4
+],
+[
+33.25,
+-122.3167
+],
+[
+32.7333,
+-122.0167
+],
+[
+32.2333,
+-121.7167
+],
+[
+32.0167,
+-121.6333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-19T23:00:00.000Z",
+"start": "2026-10-19T10:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/208-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-vsfb-ganera",
+"title": "Gamera"
+}
+],
+"markers": [],
+"name": "10/208",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F208-26",
+"raw": "!CARF 10/208 ZLA AIRSPACE DCC GAMERA 26-3 STNR ALT RESERVATION WI AN AREA DEFINED AS 320100N1213800W TO 313700N1234000W TO 304500N1272700W TO 291400N1325700W TO 282000N1355100W TO 312300N1365500W TO 321900N1343000W TO 341300N1290000W TO 351300N1233400W TO 343700N1231100W TO 342500N1230300W TO 340600N1225100W TO 334700N1223800W TO 334500N1224500W TO 331300N1222400W TO 331500N1221900W TO 324400N1220100W TO 321400N1214300W TO POINT OF ORIGIN SFC-UNL 2610191000-2610192300",
+"reason": "GAMERA 26-3",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82777315",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-17T10:51:35.914Z"
+},
+{
+"areas": [
+[
+[
+32.0167,
+-121.6333
+],
+[
+31.6167,
+-123.6667
+],
+[
+30.75,
+-127.45
+],
+[
+29.2333,
+-132.95
+],
+[
+28.3333,
+-135.85
+],
+[
+31.3833,
+-136.9167
+],
+[
+32.3167,
+-134.5
+],
+[
+34.2167,
+-129.0
+],
+[
+35.2167,
+-123.5667
+],
+[
+34.6167,
+-123.1833
+],
+[
+34.4167,
+-123.05
+],
+[
+34.1,
+-122.85
+],
+[
+33.7833,
+-122.6333
+],
+[
+33.75,
+-122.75
+],
+[
+33.2167,
+-122.4
+],
+[
+33.25,
+-122.3167
+],
+[
+32.7333,
+-122.0167
+],
+[
+32.2333,
+-121.7167
+],
+[
+32.0167,
+-121.6333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-19T23:00:00.000Z",
+"start": "2026-10-19T10:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZOA-10/209-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-vsfb-ganera",
+"title": "Gamera"
+}
+],
+"markers": [],
+"name": "10/209",
+"page": "https://space-notices.com/notice/notam-ZOA-10%2F209-26",
+"raw": "!CARF 10/209 ZOA AIRSPACE DCC GAMERA 26-3 STNR ALT RESERVATION WI AN AREA DEFINED AS 320100N1213800W TO 313700N1234000W TO 304500N1272700W TO 291400N1325700W TO 282000N1355100W TO 312300N1365500W TO 321900N1343000W TO 341300N1290000W TO 351300N1233400W TO 343700N1231100W TO 342500N1230300W TO 340600N1225100W TO 334700N1223800W TO 334500N1224500W TO 331300N1222400W TO 331500N1221900W TO 324400N1220100W TO 321400N1214300W TO POINT OF ORIGIN SFC-UNL 2610191000-2610192300",
+"reason": "GAMERA 26-3",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82777313",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-17T10:51:30.588Z"
+},
+{
 "areas": [],
 "cancelled": false,
 "dates": [
@@ -278166,6 +278490,118 @@
 "name": "US National Geospatial-Intelligence Agency"
 },
 "updated": "2026-10-07T14:00:38.266Z"
+},
+{
+"areas": [
+[
+[
+34.2167,
+-122.2667
+],
+[
+32.3833,
+-121.8
+],
+[
+31.3,
+-128.0667
+],
+[
+32.7833,
+-128.55
+],
+[
+34.2167,
+-122.2667
+]
+],
+[
+[
+31.2333,
+-133.85
+],
+[
+30.6667,
+-135.8833
+],
+[
+29.5667,
+-135.4667
+],
+[
+30.1167,
+-133.45
+],
+[
+31.2333,
+-133.85
+]
+],
+[
+[
+28.65,
+-141.0667
+],
+[
+28.05,
+-142.3
+],
+[
+27.45,
+-143.0
+],
+[
+26.85,
+-142.6833
+],
+[
+26.9333,
+-141.7
+],
+[
+27.4,
+-140.3833
+],
+[
+28.65,
+-141.0667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-19T21:00:00.000Z",
+"start": "2026-10-19T09:00:00.000Z"
+},
+{
+"end": "2026-10-20T21:00:00.000Z",
+"start": "2026-10-20T09:00:00.000Z"
+},
+{
+"end": "2026-10-21T21:00:00.000Z",
+"start": "2026-10-21T09:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA XII 727/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "other-vsfb-ganera",
+"title": "Gamera"
+}
+],
+"markers": [],
+"name": "NAVAREA XII 727/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20727%2F26",
+"raw": "151844Z OCT 26\nNAVAREA XII 727/26\nNORTH PACIFIC.\n1. HAZARDOUS OPERATIONS 190900Z TO 192100Z OCT,\n   ALTERNATE 0900Z TO 2100Z DAILY 20 AND 21 OCT\n   IN AREAS BOUND BY:\n   A. 34-13.00N 122-16.00W, 32-23.00N 121-48.00W,\n      31-18.00N 128-04.00W, 32-47.00N 128-33.00W\n   B. 31-14.00N 133-51.00W, 30-40.00N 135-53.00W,\n      29-34.00N 135-28.00W, 30-07.00N 133-27.00W.\n   C. 28-39.00N 141-04.00W, 28-03.00N 142-18.00W,\n      27-27.00N 143-00.00W, 26-51.00N 142-41.00W,\n      26-56.00N 141-42.00W, 27-24.00N 140-23.00W.\n2. CANCEL THIS MSG 212200Z OCT 26.\n",
+"reason": "HAZARDOUS OPERATIONS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=727&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-10-17T22:38:15.281Z"
 },
 {
 "areas": [],
