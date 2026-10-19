@@ -1,254 +1,7 @@
 {
-"count": 434,
-"generated_utc": "2026-10-19T17:47:44Z",
+"count": 439,
+"generated_utc": "2026-10-19T22:39:36Z",
 "notices": [
-{
-"areas": [
-[
-[
--5.9167,
--34.5667
-],
-[
--6.2167,
--34.65
-],
-[
--6.3833,
--34.5667
-],
-[
--6.5167,
--34.1833
-],
-[
--6.3833,
--34.0167
-],
-[
--6.05,
--33.9333
-],
-[
--5.8667,
--34.05
-],
-[
--5.8167,
--34.4167
-],
-[
--5.9167,
--34.5667
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-15T20:00:00.000Z",
-"start": "2026-09-15T08:00:00.000Z"
-},
-{
-"end": "2026-09-16T20:00:00.000Z",
-"start": "2026-09-16T08:00:00.000Z"
-},
-{
-"end": "2026-09-17T20:00:00.000Z",
-"start": "2026-09-17T08:00:00.000Z"
-},
-{
-"end": "2026-09-18T20:00:00.000Z",
-"start": "2026-09-18T08:00:00.000Z"
-},
-{
-"end": "2026-09-19T20:00:00.000Z",
-"start": "2026-09-19T08:00:00.000Z"
-}
-],
-"height": null,
-"id": "nav-warning-HYDROLANT 1803/26",
-"kind": "NAVWARNING",
-"launches": [],
-"markers": [],
-"name": "HYDROLANT 1803/26",
-"page": "https://space-notices.com/notice/nav-warning-HYDROLANT%201803%2F26",
-"raw": "112318Z SEP 26\nHYDROLANT 1803/26.\nSOUTH ATLANTIC.\nBRAZIL.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   0800Z TO 2000Z DAILY 15 THRU 19 SEP\n   IN AREA BOUND BY\n   05-55.28S 034-34.36W, 06-13.92S 034-39.38W,\n   06-23.59S 034-34.44W, 06-31.87S 034-11.54W,\n   06-23.83S 034-01.81W, 06-03.44S 033-56.53W,\n   05-52.66S 034-03.34W, 05-49.30S 034-25.37W.\n2. CANCEL HYDROLANT 1798/26.\n3. CANCEL THIS MSG 192100Z SEP 26.",
-"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
-"source": {
-"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=A&msgSqncNumber=1803&createdOn=26&category=14&output=html",
-"name": "US National Geospatial-Intelligence Agency"
-},
-"updated": ""
-},
-{
-"areas": [
-[
-[
-29.58333,
--72.13333
-],
-[
-29.26667,
--75.18333
-],
-[
-28.76667,
--75.18333
-],
-[
-28.31667,
--71.2
-],
-[
-28.63333,
--71.25
-],
-[
-29.35,
--71.25
-],
-[
-29.58333,
--72.13333
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-13T21:10:00.000Z",
-"start": "2026-09-13T18:40:00.000Z"
-},
-{
-"end": "2026-09-14T21:10:00.000Z",
-"start": "2026-09-14T18:40:00.000Z"
-},
-{
-"end": "2026-09-15T21:10:00.000Z",
-"start": "2026-09-15T18:40:00.000Z"
-},
-{
-"end": "2026-09-16T21:10:00.000Z",
-"start": "2026-09-16T18:40:00.000Z"
-},
-{
-"end": "2026-09-17T21:10:00.000Z",
-"start": "2026-09-17T18:40:00.000Z"
-},
-{
-"end": "2026-09-18T21:10:00.000Z",
-"start": "2026-09-18T18:40:00.000Z"
-},
-{
-"end": "2026-09-19T21:10:00.000Z",
-"start": "2026-09-19T18:40:00.000Z"
-}
-],
-"height": null,
-"id": "lnm-53575",
-"kind": "LNM",
-"launches": [
-{
-"id": "launch-ad358a4d-c541-409b-9366-9c2f2da4aeb9",
-"title": "O3b mPower 11-13"
-}
-],
-"markers": [],
-"name": "53575",
-"page": "https://space-notices.com/notice/lnm-53575",
-"raw": "Space Operations/Hazardous Warning Area/Commercial (Hazardous)\n\nFrom: 2026-09-13 To: 2027-03-12\n\nLocation:\n29-34-59.988N/072-07-59.988W\n29-21-00.000N/071-15-00.000W\n28-37-59.988N/071-15-00.000W\n28-19-00.012N/071-12-00.000W\n28-46-00.012N/075-10-59.988W\n29-16-00.012N/075-10-59.988W\n29-34-59.988N/072-07-59.988W\n\n1. SPACE LAUNCH OPERATIONS, WHICH MAY BE HAZARDOUS TO SURFACE VESSELS, WILL\nBE CONDUCTED WITHIN PORTIONS OF THE FOLLOWING HAZARD AREAS FOR MPOWER-F:\nA. FROM 29-16-00N/075-11-00W\nTO 29-35-00N/072-08-00W\nTO 29-21-00N/071-15-00W\nTO 28-38-00N/071-15-00W\nTO 28-19-00N/072-12-00W\nTO 28-46-00N/075-11-00W TO BEGINNING\nB. FROM 28-36-31N/080-35-38W\nTO 28-39-00N/080-29-00W\nTO 28-39-00N/080-06-00W\nTO 28-33-00N/080-06-00W\nTO 28-31-00N/080-22-00W\nTO 28-31-00N/080-33-17W TO BEGINNING\n2. HAZARD PERIODS FOR PRIMARY LAUNCH DAY AND BACKUP LAUNCH DAYS (ALL TIMES\nARE REPRESENTED AS ZULU TIME UNLESS OTHERWISE INDICATED):\n13/1840 SEP 26 TO 13/2110 SEP 26.\n14/1840 SEP 26 TO 14/2110 SEP 26.\n15/1840 SEP 26 TO 15/2110 SEP 26.\n16/1840 SEP 26 TO 16/2110 SEP 26.\n17/1840 SEP 26 TO 17/2110 SEP 26.\n18/1840 SEP 26 TO 18/2110 SEP 26.\n19/1840 SEP 26 TO 19/2110 SEP 26.\n3. THE U.S. SPACE FORCE AND KENNEDY SPACE CENTER MAY CHOOSE TO ENFORCE A\nRESTRICTED AREA AS SPECIFIED IN 33 CFR 334.525 AND 33 CFR 334.595. PRIMARILY\nBEGINNING 2 HOURS PRIOR TO THE SCHEDULED LAUNCH WINDOW OF ANY ROCKET\nLAUNCHES. THE RESTRICTED AREA WOULD REMAIN IN EFFECT UNTIL SUSPENDED BY SPACE\nLAUNCH DELTA 45.\n4. THE U.S. COAST GUARD IS PROVIDING THIS NOTICE TO ADVISE MARINERS OF THESE\nHAZARDOUS AREAS IDENTIFIED BY U.S. SPACE FORCE AND/OR A COMMERCIAL SPACE\nOPERATION, WHICH MAY IMPACT NAVIGATION INTERESTS. NAVIGATION HAZARDS FROM\nROCKET LAUNCH ACTIVITIES MAY INCLUDE FREE FALLING DEBRIS AND/OR DESCENDING\nVEHICLES OR VEHICLE COMPONENTS UNDER VARIOUS MEANS OF CONTROL. MARINERS ARE\nURGED TO AVOID WATERS WITHIN ROCKET FLIGHT TRAJECTORIES/HAZARD AREAS DURING\nLAUNCH WINDOWS AS DETAILED ABOVE.\n5. FOR MORE INFORMATION, MARINERS MAY CONTACT THE U.S. SPACE FORCE LAUNCH\nINFORMATION HOTLINE AT 1-800-470-7232 OR BY VISITING\nWWW.PATRICK.SPACEFORCE.MIL. FOR NAVIGATIONAL SAFETY, MARINERS ARE ADVISED TO\nREFER TO WWW.NAVCEN.USCG.GOV/MSI TO VIEW THE LOCAL NOTICE TO MARINERS (LNM)\nAND THE GEOSPATIAL CHART AT WWW.NAVCEN.USCG.GOV/CHART FOR INFORMATION ON\nSPACE LAUNCH AND RECOVERY OPERATIONS (SOLAR).",
-"reason": "Space launch operations will be conducted for MPOWER-F",
-"source": {
-"link": "https://www.navcen.uscg.gov/msi",
-"name": "US Coast Guard"
-},
-"updated": "2026-09-13T16:48:06.264Z"
-},
-{
-"areas": [
-[
-[
-28.65,
--80.1
-],
-[
-28.65,
--80.48333
-],
-[
-28.60861,
--80.59389
-],
-[
-28.51667,
--80.55472
-],
-[
-28.51667,
--80.36667
-],
-[
-28.55,
--80.1
-],
-[
-28.65,
--80.1
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-13T21:10:00.000Z",
-"start": "2026-09-13T18:40:00.000Z"
-},
-{
-"end": "2026-09-14T21:10:00.000Z",
-"start": "2026-09-14T18:40:00.000Z"
-},
-{
-"end": "2026-09-15T21:10:00.000Z",
-"start": "2026-09-15T18:40:00.000Z"
-},
-{
-"end": "2026-09-16T21:10:00.000Z",
-"start": "2026-09-16T18:40:00.000Z"
-},
-{
-"end": "2026-09-17T21:10:00.000Z",
-"start": "2026-09-17T18:40:00.000Z"
-},
-{
-"end": "2026-09-18T21:10:00.000Z",
-"start": "2026-09-18T18:40:00.000Z"
-},
-{
-"end": "2026-09-19T21:10:00.000Z",
-"start": "2026-09-19T18:40:00.000Z"
-}
-],
-"height": null,
-"id": "lnm-53576",
-"kind": "LNM",
-"launches": [
-{
-"id": "launch-ad358a4d-c541-409b-9366-9c2f2da4aeb9",
-"title": "O3b mPower 11-13"
-}
-],
-"markers": [],
-"name": "53576",
-"page": "https://space-notices.com/notice/lnm-53576",
-"raw": "Space Operations/Hazardous Warning Area/Commercial (Hazardous)\n\nFrom: 2026-09-13 To: 2027-03-12\n\nLocation:\n28-38-60.000N/080-05-60.000W\n28-33-00.000N/080-05-60.000W\n28-31-00.012N/080-22-00.012W\n28-31-00.012N/080-33-16.992W\n28-36-30.996N/080-35-38.004W\n28-38-60.000N/080-28-59.988W\n28-38-60.000N/080-05-60.000W\n\n1. SPACE LAUNCH OPERATIONS, WHICH MAY BE HAZARDOUS TO SURFACE VESSELS, WILL\nBE CONDUCTED WITHIN PORTIONS OF THE FOLLOWING HAZARD AREAS FOR MPOWER-F:\nA. FROM 29-16-00N/075-11-00W\nTO 29-35-00N/072-08-00W\nTO 29-21-00N/071-15-00W\nTO 28-38-00N/071-15-00W\nTO 28-19-00N/072-12-00W\nTO 28-46-00N/075-11-00W TO BEGINNING\nB. FROM 28-36-31N/080-35-38W\nTO 28-39-00N/080-29-00W\nTO 28-39-00N/080-06-00W\nTO 28-33-00N/080-06-00W\nTO 28-31-00N/080-22-00W\nTO 28-31-00N/080-33-17W TO BEGINNING\n2. HAZARD PERIODS FOR PRIMARY LAUNCH DAY AND BACKUP LAUNCH DAYS (ALL TIMES\nARE REPRESENTED AS ZULU TIME UNLESS OTHERWISE INDICATED):\n13/1840 SEP 26 TO 13/2110 SEP 26.\n14/1840 SEP 26 TO 14/2110 SEP 26.\n15/1840 SEP 26 TO 15/2110 SEP 26.\n16/1840 SEP 26 TO 16/2110 SEP 26.\n17/1840 SEP 26 TO 17/2110 SEP 26.\n18/1840 SEP 26 TO 18/2110 SEP 26.\n19/1840 SEP 26 TO 19/2110 SEP 26.\n3. THE U.S. SPACE FORCE AND KENNEDY SPACE CENTER MAY CHOOSE TO ENFORCE A\nRESTRICTED AREA AS SPECIFIED IN 33 CFR 334.525 AND 33 CFR 334.595. PRIMARILY\nBEGINNING 2 HOURS PRIOR TO THE SCHEDULED LAUNCH WINDOW OF ANY ROCKET\nLAUNCHES. THE RESTRICTED AREA WOULD REMAIN IN EFFECT UNTIL SUSPENDED BY SPACE\nLAUNCH DELTA 45.\n4. THE U.S. COAST GUARD IS PROVIDING THIS NOTICE TO ADVISE MARINERS OF THESE\nHAZARDOUS AREAS IDENTIFIED BY U.S. SPACE FORCE AND/OR A COMMERCIAL SPACE\nOPERATION, WHICH MAY IMPACT NAVIGATION INTERESTS. NAVIGATION HAZARDS FROM\nROCKET LAUNCH ACTIVITIES MAY INCLUDE FREE FALLING DEBRIS AND/OR DESCENDING\nVEHICLES OR VEHICLE COMPONENTS UNDER VARIOUS MEANS OF CONTROL. MARINERS ARE\nURGED TO AVOID WATERS WITHIN ROCKET FLIGHT TRAJECTORIES/HAZARD AREAS DURING\nLAUNCH WINDOWS AS DETAILED ABOVE.\n5. FOR MORE INFORMATION, MARINERS MAY CONTACT THE U.S. SPACE FORCE LAUNCH\nINFORMATION HOTLINE AT 1-800-470-7232 OR BY VISITING\nWWW.PATRICK.SPACEFORCE.MIL. FOR NAVIGATIONAL SAFETY, MARINERS ARE ADVISED TO\nREFER TO WWW.NAVCEN.USCG.GOV/MSI TO VIEW THE LOCAL NOTICE TO MARINERS (LNM)\nAND THE GEOSPATIAL CHART AT WWW.NAVCEN.USCG.GOV/CHART FOR INFORMATION ON\nSPACE LAUNCH AND RECOVERY OPERATIONS (SOLAR).",
-"reason": "Space launch operations will be conducted for MPOWER-F",
-"source": {
-"link": "https://www.navcen.uscg.gov/msi",
-"name": "US Coast Guard"
-},
-"updated": "2026-09-13T16:48:18.572Z"
-},
 {
 "areas": [
 [
@@ -25803,7 +25556,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82791317",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-19T02:28:28.107Z"
+"updated": "2026-10-19T13:12:28.707Z"
 },
 {
 "areas": [
@@ -25856,6 +25609,170 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-16T18:15:35.125Z"
+},
+{
+"areas": [
+[
+[
+-38.9833,
+178.2167
+],
+[
+-39.8,
+178.4
+],
+[
+-39.8,
+177.5
+],
+[
+-39.3,
+177.3
+],
+[
+-39.1,
+177.6
+],
+[
+-39.1,
+177.9
+],
+[
+-38.9833,
+178.2167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T08:50:00.000Z",
+"start": "2026-10-21T06:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZC-B5113/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-electron-were-not-hawking-around-3x-hawkeye-360",
+"title": "We're Not Hawking Around (3x HawkEye 360)"
+}
+],
+"markers": [],
+"name": "B5113/26",
+"page": "https://space-notices.com/notice/notam-NZZC-B5113%2F26",
+"raw": "B5113/26 NOTAMN\r\nQ) NZZC/QRDCA/IV/BO /W /000/999/3926S17756E032\r\nA) NZZC B) 2610210630 C) 2610210850\r\nE) TEMPO DANGER AREA NZD025 (MAHIA EAST CAPE) IS PRESCRIBED AS\r\nFLW: EXCLUDING THAT AREA CO-INCIDENT WITH NZR401,\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n38 59 00.20 S 178 13 59.90 E\r\n39 48 00.00 S 178 24 00.00 E\r\n39 48 00.00 S 177 30 00.00 E\r\n39 18 00.00 S 177 18 00.00 E\r\n39 06 00.00 S 177 36 32.80 E\r\n39 06 00.00 S 177 54 00.00 E\r\n38 59 00.20 S 178 13 59.90 E\r\nACTIVITY: ROCKET LAUNCH\r\nUSING AGENCY: ROCKET LAB LIMITED,\r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638 PRESCRIBED PURSUANT TO \r\nCIVIL AVIATION RULE PART 71 UNDER A DELEGATED AUTHORITY ISSUED BY \r\nTHE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET LAUNCH",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82796275",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-16T09:08:24.062Z"
+},
+{
+"areas": [
+[
+[
+-43.5,
+177.5
+],
+[
+-46.5,
+176.5
+],
+[
+-46.5,
+174.5
+],
+[
+-43.5,
+175.5
+],
+[
+-43.5,
+177.5
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T08:50:00.000Z",
+"start": "2026-10-21T06:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B5114/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-electron-were-not-hawking-around-3x-hawkeye-360",
+"title": "We're Not Hawking Around (3x HawkEye 360)"
+}
+],
+"markers": [],
+"name": "B5114/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B5114%2F26",
+"raw": "B5114/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/4501S17602E113\r\nA) NZZO B) 2610210630 C) 2610210850\r\nE) TEMPO DANGER AREA NZD026 (WEST CHATHAM ISLANDS) \r\nIS PRESCRIBED AS FLW:\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n43 30 00.00 S 177 30 00.00 E\r\n46 30 00.00 S 176 30 00.00 E\r\n46 30 00.00 S 174 30 00.00 E\r\n43 30 00.00 S 175 30 00.00 E\r\n43 30 00.00 S 177 30 00.00 E\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED, \r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED \r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82796279",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-16T09:08:24.062Z"
+},
+{
+"areas": [
+[
+[
+-53.5,
+173.5
+],
+[
+-56.5,
+172.5
+],
+[
+-56.5,
+171.0
+],
+[
+-53.5,
+172.0
+],
+[
+-53.5,
+173.5
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T08:50:00.000Z",
+"start": "2026-10-21T06:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B5115/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-electron-were-not-hawking-around-3x-hawkeye-360",
+"title": "We're Not Hawking Around (3x HawkEye 360)"
+}
+],
+"markers": [],
+"name": "B5115/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B5115%2F26",
+"raw": "B5115/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/5500S17218E102\r\nA) NZZO B) 2610210630 C) 2610210850\r\nE) TEMPO DANGER AREA NZD027 (SOUTHEAST CAMPBELL ISLAND) \r\nIS PRESCRIBED AS FLW:\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n53 30 00.00 S 173 30 00.00 E\r\n56 30 00.00 S 172 30 00.00 E\r\n56 30 00.00 S 171 00 00.00 E\r\n53 30 00.00 S 172 00 00.00 E\r\n53 30 00.00 S 173 30 00.00 E\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED, \r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638 \r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71\r\nUNDER A DELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82796355",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-16T09:08:24.062Z"
 },
 {
 "areas": [],
@@ -27392,7 +27309,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82793650",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-19T10:33:24.548Z"
+"updated": "2026-10-19T15:48:24.560Z"
 },
 {
 "areas": [
@@ -28400,6 +28317,230 @@
 "areas": [
 [
 [
+-38.9833,
+178.2167
+],
+[
+-39.8,
+178.4
+],
+[
+-39.8,
+177.5
+],
+[
+-39.3,
+177.3
+],
+[
+-39.1,
+177.6
+],
+[
+-39.1,
+177.9
+],
+[
+-38.9833,
+178.2167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-22T08:50:00.000Z",
+"start": "2026-10-22T06:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZC-B5116/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-electron-were-not-hawking-around-3x-hawkeye-360",
+"title": "We're Not Hawking Around (3x HawkEye 360)"
+}
+],
+"markers": [],
+"name": "B5116/26",
+"page": "https://space-notices.com/notice/notam-NZZC-B5116%2F26",
+"raw": "B5116/26 NOTAMN\r\nQ) NZZC/QRDCA/IV/BO /W /000/999/3926S17756E032\r\nA) NZZC B) 2610220630 C) 2610220850\r\nE) TEMPO DANGER AREA NZD025 (MAHIA EAST CAPE) IS PRESCRIBED AS\r\nFLW: EXCLUDING THAT AREA CO-INCIDENT WITH NZR401,\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n38 59 00.20 S 178 13 59.90 E\r\n39 48 00.00 S 178 24 00.00 E\r\n39 48 00.00 S 177 30 00.00 E\r\n39 18 00.00 S 177 18 00.00 E\r\n39 06 00.00 S 177 36 32.80 E\r\n39 06 00.00 S 177 54 00.00 E\r\n38 59 00.20 S 178 13 59.90 E\r\nACTIVITY: ROCKET LAUNCH\r\nUSING AGENCY: ROCKET LAB LIMITED,\r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638 PRESCRIBED PURSUANT TO \r\nCIVIL AVIATION RULE PART 71 UNDER A DELEGATED AUTHORITY ISSUED BY \r\nTHE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET LAUNCH",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82796379",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-16T09:08:24.062Z"
+},
+{
+"areas": [
+[
+[
+-43.5,
+177.5
+],
+[
+-46.5,
+176.5
+],
+[
+-46.5,
+174.5
+],
+[
+-43.5,
+175.5
+],
+[
+-43.5,
+177.5
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-22T08:50:00.000Z",
+"start": "2026-10-22T06:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B5117/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-electron-were-not-hawking-around-3x-hawkeye-360",
+"title": "We're Not Hawking Around (3x HawkEye 360)"
+}
+],
+"markers": [],
+"name": "B5117/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B5117%2F26",
+"raw": "B5117/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/4501S17602E113\r\nA) NZZO B) 2610220630 C) 2610220850\r\nE) TEMPO DANGER AREA NZD026 (WEST CHATHAM ISLANDS) \r\nIS PRESCRIBED AS FLW:\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n43 30 00.00 S 177 30 00.00 E\r\n46 30 00.00 S 176 30 00.00 E\r\n46 30 00.00 S 174 30 00.00 E\r\n43 30 00.00 S 175 30 00.00 E\r\n43 30 00.00 S 177 30 00.00 E\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED, \r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED \r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82796394",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-16T09:08:24.062Z"
+},
+{
+"areas": [
+[
+[
+-53.5,
+173.5
+],
+[
+-56.5,
+172.5
+],
+[
+-56.5,
+171.0
+],
+[
+-53.5,
+172.0
+],
+[
+-53.5,
+173.5
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-22T08:50:00.000Z",
+"start": "2026-10-22T06:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B5118/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-electron-were-not-hawking-around-3x-hawkeye-360",
+"title": "We're Not Hawking Around (3x HawkEye 360)"
+}
+],
+"markers": [],
+"name": "B5118/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B5118%2F26",
+"raw": "B5118/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/5500S17218E102\r\nA) NZZO B) 2610220630 C) 2610220850\r\nE) TEMPO DANGER AREA NZD027 (SOUTHEAST CAMPBELL ISLAND) \r\nIS PRESCRIBED AS FLW:\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n53 30 00.00 S 173 30 00.00 E\r\n56 30 00.00 S 172 30 00.00 E\r\n56 30 00.00 S 171 00 00.00 E\r\n53 30 00.00 S 172 00 00.00 E\r\n53 30 00.00 S 173 30 00.00 E\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED, \r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638 \r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71\r\nUNDER A DELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82796413",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-16T09:08:24.062Z"
+},
+{
+"areas": [
+[
+[
+22.1167,
+-120.0
+],
+[
+29.0333,
+-127.5167
+],
+[
+40.1833,
+-141.4167
+],
+[
+41.4833,
+-140.5
+],
+[
+30.35,
+-125.4833
+],
+[
+23.4833,
+-120.0
+],
+[
+22.1167,
+-120.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-22T15:28:00.000Z",
+"start": "2026-10-22T13:34:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-10/262-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-bandwagon-5-dedicated-mid-inclina",
+"title": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)"
+}
+],
+"markers": [],
+"name": "10/262",
+"page": "https://space-notices.com/notice/notam-ZAK-10%2F262-26",
+"raw": "!CARF 10/262 ZAK AIRSPACE DCC GOLDILOCKS GRUMPY 26-1 STNR ALT RESERVATION GRUMPY 26-1 WI AN AREA DEFINED AS 220700N1200000W TO 290200N1273100W TO 401100N1412500W TO 412900N1403000W TO 302100N1252900W TO 232900N1200000W TO POINT OF ORIGIN SFC-UNL 2610221334-2610221528",
+"reason": "GOLDILOCKS GRUMPY 26-1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82794995",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-19T10:25:54.376Z"
+},
+{
+"areas": [
+[
+[
 -27.4833,
 -136.3
 ],
@@ -28734,10 +28875,6 @@
 "cancelled": false,
 "dates": [
 {
-"end": "2026-10-19T12:13:00.000Z",
-"start": "2026-10-19T10:30:00.000Z"
-},
-{
 "end": "2026-10-20T12:13:00.000Z",
 "start": "2026-10-20T10:30:00.000Z"
 },
@@ -28774,13 +28911,13 @@
 "markers": [],
 "name": "Cadena OIS Advisory 2828",
 "page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2828",
-"raw": "Primary Launch Day\t19 Oct\t1030Z-1213Z\nBackup Launch Day\t20 Oct\t1030Z-1213Z\nBackup Launch Day\t21 Oct\t1030Z-1213Z\nBackup Launch Day\t22 Oct\t1030Z-1213Z\nBackup Launch Day\t23 Oct\t1030Z-1213Z\nBackup Launch Day\t24 Oct\t1030Z-1213Z\nBackup Launch Day\t25 Oct\t1030Z-1213Z\n",
+"raw": "Backup Launch Day\t20 Oct\t1030Z-1213Z\nBackup Launch Day\t21 Oct\t1030Z-1213Z\nBackup Launch Day\t22 Oct\t1030Z-1213Z\nBackup Launch Day\t23 Oct\t1030Z-1213Z\nBackup Launch Day\t24 Oct\t1030Z-1213Z\nBackup Launch Day\t25 Oct\t1030Z-1213Z\n",
 "reason": "SpaceX Bandwagon-5",
 "source": {
 "link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
 "name": "Cadena OIS"
 },
-"updated": "2026-10-13T12:44:05.312Z"
+"updated": "2026-10-19T15:52:04.386Z"
 },
 {
 "areas": [
@@ -30805,6 +30942,59 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-16T14:31:28.806Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-28T09:14:00.000Z",
+"start": "2026-10-28T04:31:00.000Z"
+},
+{
+"end": "2026-10-29T09:00:00.000Z",
+"start": "2026-10-29T04:17:00.000Z"
+},
+{
+"end": "2026-10-30T08:45:00.000Z",
+"start": "2026-10-30T04:02:00.000Z"
+},
+{
+"end": "2026-10-31T08:31:00.000Z",
+"start": "2026-10-31T03:48:00.000Z"
+},
+{
+"end": "2026-11-01T08:16:00.000Z",
+"start": "2026-11-01T03:33:00.000Z"
+},
+{
+"end": "2026-11-02T08:02:00.000Z",
+"start": "2026-11-02T03:19:00.000Z"
+},
+{
+"end": "2026-11-03T07:48:00.000Z",
+"start": "2026-11-03T03:05:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-cadenaois-advisory-2833",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-starlink-15-18",
+"title": "Starlink Group 15-18"
+}
+],
+"markers": [],
+"name": "Cadena OIS Advisory 2833",
+"page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2833",
+"raw": "Primary Launch Day\t28 OCT\t0431Z-0914Z\nBackup Launch Day\t29 OCT\t0417Z-0900Z\nBackup Launch Day\t30 OCT\t0402Z-0845Z\nBackup Launch Day\t31 OCT\t0348Z-0831Z\nBackup Launch Day\t01 NOV\t0333Z-0816Z\nBackup Launch Day\t02 NOV\t0319Z-0802Z\nBackup Launch Day\t03 NOV\t0305Z-0748Z\n",
+"reason": "SpaceX Starlink 15-18",
+"source": {
+"link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
+"name": "Cadena OIS"
+},
+"updated": "2026-10-19T15:56:04.071Z"
 },
 {
 "areas": [
@@ -35332,8 +35522,8 @@
 "updated": "2026-10-12T14:08:59.809Z"
 }
 ],
-"pending": 10,
+"pending": 12,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3174
+"total_known": 3182
 }
