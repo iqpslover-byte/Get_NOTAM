@@ -91951,6 +91951,198 @@
 },
 "via": "backfill"
 },
+"https://space-notices.com/notice/nav-warning-HYDROPAC%203026%2F26": {
+"lastmod": "2026-10-17T11:05:54.915Z",
+"notice": {
+"areas": [
+[
+[
+12.4167,
+116.6
+],
+[
+13.2667,
+115.9
+],
+[
+13.6167,
+116.35
+],
+[
+12.7667,
+117.05
+],
+[
+12.4167,
+116.6
+]
+],
+[
+[
+7.1333,
+120.7167
+],
+[
+8.0,
+120.05
+],
+[
+8.3333,
+120.5
+],
+[
+7.4667,
+121.1667
+],
+[
+7.1333,
+120.7167
+]
+],
+[
+[
+7.1333,
+120.6167
+],
+[
+8.0,
+119.95
+],
+[
+8.4333,
+120.5333
+],
+[
+7.5667,
+121.2
+],
+[
+7.1333,
+120.6167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-22T07:00:00.000Z",
+"start": "2026-10-22T01:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3026/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3026/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203026%2F26",
+"raw": "190032Z OCT 26\nHYDROPAC 3026/26.\nSOUTH CHINA SEA.\nSULU SEA.\nPHILIPPINES.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   220100Z TO 220700Z OCT IN AREAS BOUND BY:\n   A. 12-25.80N 116-36.60E, 13-16.80N 115-54.60E,\n      13-37.80N 116-21.60E, 12-46.20N 117-03.00E.\n   B. 07-08.40N 120-43.80E, 08-00.00N 120-03.60E,\n      08-20.40N 120-30.00E, 07-28.20N 121-10.20E.\n   C. 07-08.40N 120-37.20E, 08-00.00N 119-57.00E,\n      08-26.40N 120-32.40E, 07-34.80N 121-12.60E.\n2. CANCEL THIS MSG 220800Z OCT 26.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3026&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-10-17T11:05:54.915Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/nav-warning-HYDROPAC%203028%2F26": {
+"lastmod": "2026-10-16T20:05:28.617Z",
+"notice": {
+"areas": [
+[
+[
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-38.35,
+-115.0667
+],
+[
+-49.15,
+-107.3667
+],
+[
+-59.15,
+-95.5667
+],
+[
+-59.9667,
+-99.0833
+],
+[
+-44.5667,
+-114.2167
+],
+[
+-27.9833,
+-122.7333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-24T11:54:00.000Z",
+"start": "2026-10-24T07:16:00.000Z"
+},
+{
+"end": "2026-10-25T11:39:00.000Z",
+"start": "2026-10-25T07:01:00.000Z"
+},
+{
+"end": "2026-10-26T11:25:00.000Z",
+"start": "2026-10-26T06:47:00.000Z"
+},
+{
+"end": "2026-10-27T11:10:00.000Z",
+"start": "2026-10-27T06:32:00.000Z"
+},
+{
+"end": "2026-10-28T10:56:00.000Z",
+"start": "2026-10-28T06:18:00.000Z"
+},
+{
+"end": "2026-10-29T10:42:00.000Z",
+"start": "2026-10-29T06:04:00.000Z"
+},
+{
+"end": "2026-10-30T10:27:00.000Z",
+"start": "2026-10-30T05:49:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3028/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-f9-starlink-15-16",
+"title": "Starlink Group 15-16"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3028/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203028%2F26",
+"raw": "190343Z OCT 26\nHYDROPAC 3028/26.\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   240716Z TO 241154Z, 250701Z TO 251139Z, \n   260647Z TO 261125Z, 270632Z TO 271110Z, \n   280618Z TO 281056Z, 290604Z TO 291042Z \n   AND 300549Z TO 301027Z OCT \n   IN AREA BOUND BY\n   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,\n   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,\n   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,\n   44-34.00S 114-13.00W.\n2. CANCEL THIS MSG 301127Z OCT 26.//\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3028&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-10-16T20:05:28.617Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/nav-warning-HYDROPAC%203030%2F21": {
 "lastmod": "",
 "notice": {
@@ -216001,6 +216193,140 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20737%2F26": {
+"lastmod": "2026-10-16T20:05:28.617Z",
+"notice": {
+"areas": [
+[
+[
+29.8,
+-117.65
+],
+[
+34.4667,
+-120.3
+],
+[
+34.6667,
+-120.6
+],
+[
+34.65,
+-120.65
+],
+[
+34.5,
+-120.65
+],
+[
+29.5833,
+-118.2
+],
+[
+29.8667,
+-117.9
+],
+[
+29.8,
+-117.65
+]
+],
+[
+[
+29.8,
+-117.65
+],
+[
+29.8667,
+-117.9
+],
+[
+29.5833,
+-118.2
+],
+[
+29.4,
+-118.1333
+],
+[
+29.25,
+-118.0333
+],
+[
+29.0333,
+-117.9833
+],
+[
+28.2,
+-117.3167
+],
+[
+28.8333,
+-117.3167
+],
+[
+29.6,
+-117.2667
+],
+[
+29.8,
+-117.65
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-24T10:12:00.000Z",
+"start": "2026-10-24T05:29:00.000Z"
+},
+{
+"end": "2026-10-25T09:57:00.000Z",
+"start": "2026-10-25T05:14:00.000Z"
+},
+{
+"end": "2026-10-26T09:43:00.000Z",
+"start": "2026-10-26T05:00:00.000Z"
+},
+{
+"end": "2026-10-27T09:28:00.000Z",
+"start": "2026-10-27T04:45:00.000Z"
+},
+{
+"end": "2026-10-28T09:14:00.000Z",
+"start": "2026-10-28T04:31:00.000Z"
+},
+{
+"end": "2026-10-29T09:00:00.000Z",
+"start": "2026-10-29T04:17:00.000Z"
+},
+{
+"end": "2026-10-30T08:45:00.000Z",
+"start": "2026-10-30T04:02:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA XII 737/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-f9-starlink-15-16",
+"title": "Starlink Group 15-16"
+}
+],
+"markers": [],
+"name": "NAVAREA XII 737/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20737%2F26",
+"raw": "170558Z OCT 26\nNAVAREA XII 737/26.\nNORTH PACIFIC.\nCALIFORNIA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING: \n   A. 240529Z TO 240954Z OCT, ALTERNATE\n      250514Z TO 250939Z, 260500Z TO 260925Z,\n      270445Z TO 270910Z, 280431Z TO 280856Z,\n      290417Z TO 290842Z AND \n      300402Z TO 300827Z OCT IN AREA BOUND BY \n      29-48.00N 117-39.00W, 34-28.00N 120-18.00W,\n      34-40.00N 120-36.00W, 34-39.00N 120-39.00W,\n      34-30.00N 120-39.00W, 29-35.00N 118-12.00W,\n      29-52.00N 117-54.00W.\n   B. 240529Z TO 241012Z OCT, ALTERNATE\n      250514Z TO 250957Z, 260500Z TO 260943Z,\n      270445Z TO 270928Z, 280431Z TO 280914Z,\n      290417Z TO 290900Z AND \n      300402Z TO 300845Z OCT IN AREA BOUND BY \n      29-48.00N 117-39.00W, 29-52.00N 117-54.00W,\n      29-35.00N 118-12.00W, 29-24.00N 118-08.00W,\n      29-15.00N 118-02.00W, 29-02.00N 117-59.00W,\n      28-12.00N 117-19.00W, 28-50.00N 117-19.00W,\n      29-36.00N 117-16.00W.\n2. CANCEL THIS MSG 300945Z OCT 26.",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=737&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-10-16T20:05:28.617Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20739%2F22": {
 "lastmod": "",
 "notice": {
@@ -245002,6 +245328,62 @@
 "updated": "2026-10-02T08:00:50.882Z"
 },
 "via": "sitemap"
+},
+"https://space-notices.com/notice/notam-RKRR-D3252%2F26": {
+"lastmod": "2026-10-17T11:05:54.915Z",
+"notice": {
+"areas": [
+[
+[
+30.3167,
+125.3833
+],
+[
+30.7667,
+125.75
+],
+[
+30.7167,
+125.8167
+],
+[
+30.2167,
+125.5333
+],
+[
+30.3167,
+125.3833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-23T19:46:00.000Z",
+"start": "2026-10-23T19:19:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RKRR-D3252/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "D3252/26",
+"page": "https://space-notices.com/notice/notam-RKRR-D3252%2F26",
+"raw": "D3252/26 NOTAMN  \r\nQ)RKRR/QRDCA/IV/BO/W/000/999/3030N12539E019\r\nA)RKRR B)2610231919 C)2610231946\r\nE)TEMPO DANGER AREA ACT AS FLW DUE TO CHINA SPACE ACTIVITY AREA\r\nBOUNDED BY THE FOLLOWING \r\n301900N1252300E-304600N1254500E-304324N1254922E-301322N1253229E-30190\r\n0N1252300E \r\n\r\nRMK : \r\nNOTAM VALID TIME IS BASED ON CHINA AEROSPACE FLIGHT ACTIVITY TENT\r\nSCHEDULE PROVIDED BY THE CAAC. A REPLACEMENT NOTAM WILL BE ISSUED\r\nACCORDINGLY ONCE THE EXACT SCHEDULED IS DISSEMINATED.\r\nF)SFC G)UNL",
+"reason": "CHINA SPACE ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82786176",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-17T11:05:54.915Z"
+},
+"via": "entry"
 },
 "https://space-notices.com/notice/notam-RKRR-Z0219%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
