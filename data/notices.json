@@ -1,6 +1,6 @@
 {
-"count": 424,
-"generated_utc": "2026-10-19T05:22:19Z",
+"count": 432,
+"generated_utc": "2026-10-19T11:18:02Z",
 "notices": [
 {
 "areas": [
@@ -25820,6 +25820,130 @@
 "areas": [
 [
 [
+28.5333,
+-80.6167
+],
+[
+28.6167,
+-80.55
+],
+[
+28.5667,
+-80.3667
+],
+[
+28.35,
+-79.9167
+],
+[
+28.2667,
+-79.9667
+],
+[
+28.4,
+-80.3333
+],
+[
+28.5333,
+-80.6167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T12:13:00.000Z",
+"start": "2026-10-21T10:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZMA-10/236-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-bandwagon-5-dedicated-mid-inclina",
+"title": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)"
+}
+],
+"markers": [],
+"name": "10/236",
+"page": "https://space-notices.com/notice/notam-ZMA-10%2F236-26",
+"raw": "!CARF 10/236 ZMA AIRSPACE DCC EROP X4107 F9 BANDWAGON-5 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283200N0803700W TO 283700N0803300W TO 283400N0802200W TO 282100N0795500W TO 281600N0795800W TO 282400N0802000W TO POINT OF ORIGIN SFC-UNL. CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS 2610211030-2610211213",
+"reason": "EROP X4107 F9 BANDWAGON-5",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82789206",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-18T18:06:32.925Z"
+},
+{
+"areas": [
+[
+[
+26.1667,
+-76.0
+],
+[
+25.6,
+-73.9333
+],
+[
+25.45,
+-73.7333
+],
+[
+25.0667,
+-73.7667
+],
+[
+24.9,
+-73.9833
+],
+[
+24.9667,
+-74.55
+],
+[
+26.0667,
+-76.0
+],
+[
+26.1667,
+-76.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T12:13:00.000Z",
+"start": "2026-10-21T10:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZMA-10/237-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-bandwagon-5-dedicated-mid-inclina",
+"title": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)"
+}
+],
+"markers": [],
+"name": "10/237",
+"page": "https://space-notices.com/notice/notam-ZMA-10%2F237-26",
+"raw": "!CARF 10/237 ZMA AIRSPACE DCC EROP X4107 F9 BANDWAGON-5 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 261000N0760000W TO 253600N0735600W TO 252700N0734400W TO 250400N0734600W TO 245400N0735900W TO 245800N0743300W TO 260400N0760000W TO POINT OF ORIGIN SFC-UNL. CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS 2610211030-2610211213",
+"reason": "EROP X4107 F9 BANDWAGON-5",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82789204",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-18T18:06:32.925Z"
+},
+{
+"areas": [
+[
+[
 28.6347,
 -80.7878
 ],
@@ -25932,6 +26056,66 @@
 "reason": "SPACE OPS AREA",
 "source": {
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82784483",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-18T18:06:32.925Z"
+},
+{
+"areas": [
+[
+[
+22.1167,
+-120.0
+],
+[
+29.0333,
+-127.5167
+],
+[
+40.1833,
+-141.4167
+],
+[
+41.4833,
+-140.5
+],
+[
+30.35,
+-125.4833
+],
+[
+23.4833,
+-120.0
+],
+[
+22.1167,
+-120.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T15:28:00.000Z",
+"start": "2026-10-21T13:34:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-10/241-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-bandwagon-5-dedicated-mid-inclina",
+"title": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)"
+}
+],
+"markers": [],
+"name": "10/241",
+"page": "https://space-notices.com/notice/notam-ZAK-10%2F241-26",
+"raw": "!CARF 10/241 ZAK AIRSPACE DCC GOLDILOCKS GRUMPY 26-1 STNR ALT RESERVATION GRUMPY 26-1 WI AN AREA DEFINED AS 220700N1200000W TO 290200N1273100W TO 401100N1412500W TO 412900N1403000W TO 302100N1252900W TO 232900N1200000W TO POINT OF ORIGIN SFC-UNL 2610211334-2610211528",
+"reason": "GOLDILOCKS GRUMPY 26-1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82789231",
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-18T18:06:32.925Z"
@@ -26699,6 +26883,438 @@
 "name": "US National Geospatial-Intelligence Agency"
 },
 "updated": "2026-10-17T22:38:15.281Z"
+},
+{
+"areas": [
+[
+[
+32.0167,
+-121.6333
+],
+[
+31.6167,
+-123.6667
+],
+[
+30.75,
+-127.45
+],
+[
+29.2333,
+-132.95
+],
+[
+28.3333,
+-135.85
+],
+[
+31.3833,
+-136.9167
+],
+[
+32.3167,
+-134.5
+],
+[
+34.2167,
+-129.0
+],
+[
+35.2167,
+-123.5667
+],
+[
+34.6167,
+-123.1833
+],
+[
+34.4167,
+-123.05
+],
+[
+34.1,
+-122.85
+],
+[
+33.7833,
+-122.6333
+],
+[
+33.75,
+-122.75
+],
+[
+33.2167,
+-122.4
+],
+[
+33.25,
+-122.3167
+],
+[
+32.7333,
+-122.0167
+],
+[
+32.2333,
+-121.7167
+],
+[
+32.0167,
+-121.6333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T23:00:00.000Z",
+"start": "2026-10-21T10:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-10/242-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-vsfb-ganera",
+"title": "Gamera"
+}
+],
+"markers": [],
+"name": "10/242",
+"page": "https://space-notices.com/notice/notam-ZAK-10%2F242-26",
+"raw": "!CARF 10/242 ZAK AIRSPACE DCC GAMERA 26-3 STNR ALT RESERVATION WI AN AREA DEFINED AS 320100N1213800W TO 313700N1234000W TO 304500N1272700W TO 291400N1325700W TO 282000N1355100W TO 312300N1365500W TO 321900N1343000W TO 341300N1290000W TO 351300N1233400W TO 343700N1231100W TO 342500N1230300W TO 340600N1225100W TO 334700N1223800W TO 334500N1224500W TO 331300N1222400W TO 331500N1221900W TO 324400N1220100W TO 321400N1214300W TO POINT OF ORIGIN SFC-UNL 2610211000-2610212300",
+"reason": "GAMERA 26-3",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82789254",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-18T10:04:35.569Z"
+},
+{
+"areas": [
+[
+[
+32.0167,
+-121.6333
+],
+[
+31.6167,
+-123.6667
+],
+[
+30.75,
+-127.45
+],
+[
+29.2333,
+-132.95
+],
+[
+28.3333,
+-135.85
+],
+[
+31.3833,
+-136.9167
+],
+[
+32.3167,
+-134.5
+],
+[
+34.2167,
+-129.0
+],
+[
+35.2167,
+-123.5667
+],
+[
+34.6167,
+-123.1833
+],
+[
+34.4167,
+-123.05
+],
+[
+34.1,
+-122.85
+],
+[
+33.7833,
+-122.6333
+],
+[
+33.75,
+-122.75
+],
+[
+33.2167,
+-122.4
+],
+[
+33.25,
+-122.3167
+],
+[
+32.7333,
+-122.0167
+],
+[
+32.2333,
+-121.7167
+],
+[
+32.0167,
+-121.6333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T23:00:00.000Z",
+"start": "2026-10-21T10:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/243-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-vsfb-ganera",
+"title": "Gamera"
+}
+],
+"markers": [],
+"name": "10/243",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F243-26",
+"raw": "!CARF 10/243 ZLA AIRSPACE DCC GAMERA 26-3 STNR ALT RESERVATION WI AN AREA DEFINED AS 320100N1213800W TO 313700N1234000W TO 304500N1272700W TO 291400N1325700W TO 282000N1355100W TO 312300N1365500W TO 321900N1343000W TO 341300N1290000W TO 351300N1233400W TO 343700N1231100W TO 342500N1230300W TO 340600N1225100W TO 334700N1223800W TO 334500N1224500W TO 331300N1222400W TO 331500N1221900W TO 324400N1220100W TO 321400N1214300W TO POINT OF ORIGIN SFC-UNL 2610211000-2610212300",
+"reason": "GAMERA 26-3",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82789253",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-18T10:04:35.569Z"
+},
+{
+"areas": [
+[
+[
+32.0167,
+-121.6333
+],
+[
+31.6167,
+-123.6667
+],
+[
+30.75,
+-127.45
+],
+[
+29.2333,
+-132.95
+],
+[
+28.3333,
+-135.85
+],
+[
+31.3833,
+-136.9167
+],
+[
+32.3167,
+-134.5
+],
+[
+34.2167,
+-129.0
+],
+[
+35.2167,
+-123.5667
+],
+[
+34.6167,
+-123.1833
+],
+[
+34.4167,
+-123.05
+],
+[
+34.1,
+-122.85
+],
+[
+33.7833,
+-122.6333
+],
+[
+33.75,
+-122.75
+],
+[
+33.2167,
+-122.4
+],
+[
+33.25,
+-122.3167
+],
+[
+32.7333,
+-122.0167
+],
+[
+32.2333,
+-121.7167
+],
+[
+32.0167,
+-121.6333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T23:00:00.000Z",
+"start": "2026-10-21T10:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZOA-10/245-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-vsfb-ganera",
+"title": "Gamera"
+}
+],
+"markers": [],
+"name": "10/245",
+"page": "https://space-notices.com/notice/notam-ZOA-10%2F245-26",
+"raw": "!CARF 10/245 ZOA AIRSPACE DCC GAMERA 26-3 STNR ALT RESERVATION WI AN AREA DEFINED AS 320100N1213800W TO 313700N1234000W TO 304500N1272700W TO 291400N1325700W TO 282000N1355100W TO 312300N1365500W TO 321900N1343000W TO 341300N1290000W TO 351300N1233400W TO 343700N1231100W TO 342500N1230300W TO 340600N1225100W TO 334700N1223800W TO 334500N1224500W TO 331300N1222400W TO 331500N1221900W TO 324400N1220100W TO 321400N1214300W TO POINT OF ORIGIN SFC-UNL 2610211000-2610212300",
+"reason": "GAMERA 26-3",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82789251",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-18T10:04:35.569Z"
+},
+{
+"areas": [
+[
+[
+34.5833,
+-120.6833
+],
+[
+34.7,
+-120.5667
+],
+[
+34.5667,
+-120.4
+],
+[
+32.8,
+-119.4
+],
+[
+32.65,
+-119.6333
+],
+[
+34.5833,
+-120.6833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-22T02:22:00.000Z",
+"start": "2026-10-21T21:59:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/256-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-15",
+"title": "Starlink Group 15-15"
+}
+],
+"markers": [],
+"name": "10/256",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F256-26",
+"raw": "!CARF 10/256 ZLA AIRSPACE DCC SX F9 STRLNK G15-15 26-68 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 343500N1204100W TO 344200N1203400W TO 343400N1202400W TO 324800N1192400W TO 323900N1193800W TO POINT OF ORIGIN SFC-UNL 2610212159-2610220222",
+"reason": "SX F9 STRLNK G15-15 26-68",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82789320",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-18T10:13:31.751Z"
+},
+{
+"areas": [
+[
+[
+31.5833,
+-119.15
+],
+[
+32.35,
+-119.4667
+],
+[
+32.5333,
+-119.2667
+],
+[
+31.7667,
+-118.7667
+],
+[
+31.5833,
+-119.15
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-22T02:24:00.000Z",
+"start": "2026-10-21T21:59:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/255-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-15",
+"title": "Starlink Group 15-15"
+}
+],
+"markers": [],
+"name": "10/255",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F255-26",
+"raw": "!CARF 10/255 ZLA AIRSPACE DCC SX F9 STRLNK G15-15 26-68 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 313500N1190900W TO 322100N1192800W TO 323200N1191600W TO 314600N1184600W TO POINT OF ORIGIN SFC-UNL 2610212159-2610220224",
+"reason": "SX F9 STRLNK G15-15 26-68",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82789297",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-18T10:13:31.751Z"
 },
 {
 "areas": [],
@@ -27648,7 +28264,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3026&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-10-17T11:05:54.915Z"
+"updated": "2026-10-19T00:39:02.304Z"
 },
 {
 "areas": [
@@ -27948,7 +28564,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82786176",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-17T11:05:54.915Z"
+"updated": "2026-10-19T02:28:28.096Z"
 },
 {
 "areas": [],
@@ -29694,7 +30310,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=737&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-10-16T20:05:28.617Z"
+"updated": "2026-10-19T03:48:23.919Z"
 },
 {
 "areas": [
@@ -29890,7 +30506,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3028&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-10-16T20:05:28.617Z"
+"updated": "2026-10-19T03:45:50.093Z"
 },
 {
 "areas": [
@@ -34589,5 +35205,5 @@
 "pending": 10,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3164
+"total_known": 3172
 }
