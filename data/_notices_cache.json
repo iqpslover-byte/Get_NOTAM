@@ -319373,7 +319373,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-6%2F0105": {
-"lastmod": "2026-10-18T13:59:29.395Z",
+"lastmod": "2026-10-18T18:06:12.440Z",
 "notice": {
 "areas": [
 [
@@ -319492,12 +319492,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82784486",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-18T13:59:29.395Z"
+"updated": "2026-10-18T18:06:12.440Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-6%2F0110": {
-"lastmod": "2026-10-18T13:59:29.395Z",
+"lastmod": "2026-10-18T18:06:32.925Z",
 "notice": {
 "areas": [
 [
@@ -319616,12 +319616,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82784483",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-18T13:59:29.395Z"
+"updated": "2026-10-18T18:06:32.925Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-6%2F0113": {
-"lastmod": "2026-10-18T13:59:29.395Z",
+"lastmod": "2026-10-18T18:06:05.855Z",
 "notice": {
 "areas": [
 [
@@ -319740,9 +319740,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82784484",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-18T13:59:29.395Z"
+"updated": "2026-10-18T18:06:05.855Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-6%2F0605": {
 "lastmod": "2026-04-23T14:04:24.726Z",
