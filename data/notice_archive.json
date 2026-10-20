@@ -1,5 +1,5 @@
 {
-"count": 2921,
+"count": 2922,
 "notices": [
 {
 "areas": [
@@ -278794,7 +278794,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82796275",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-16T09:08:24.062Z"
+"updated": "2026-10-19T19:45:31.982Z"
 },
 {
 "areas": [
@@ -278846,7 +278846,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82796279",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-16T09:08:24.062Z"
+"updated": "2026-10-19T19:47:41.164Z"
 },
 {
 "areas": [
@@ -278898,7 +278898,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82796355",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-16T09:08:24.062Z"
+"updated": "2026-10-19T19:47:51.069Z"
 },
 {
 "areas": [],
@@ -280329,6 +280329,58 @@
 "areas": [
 [
 [
+17.1667,
+124.0833
+],
+[
+17.1667,
+128.75
+],
+[
+21.0,
+128.75
+],
+[
+21.0,
+120.75
+],
+[
+17.1667,
+124.0833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-21T23:30:00.000Z",
+"start": "2026-10-21T21:30:00.000Z"
+}
+],
+"height": "41000ft",
+"id": "notam-RPHI-B5637/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-15",
+"title": "Starlink Group 15-15"
+}
+],
+"markers": [],
+"name": "B5637/26",
+"page": "https://space-notices.com/notice/notam-RPHI-B5637%2F26",
+"raw": "B5637/26 NOTAMN\r\nQ) RPHI/QRALW/IV/NBO/W /000/410/1908N12448E259\r\nA) RPHI B) 2610212130 C) 2610212330\r\nE) SPECIAL OPS (DROPSONDES FOR TYPH CHAMPI) WILL TAKE PLACE WI:\r\n210000N 1204500E (POTIB) -\r\n171000N 1240500E -\r\n171000N 1284500E -\r\n210000N 1284500E -\r\n210000N 1204500E (POTIB)\r\n\r\nRMK: \r\n1. TYPE OF ACFT: ASTRA SPX\r\n2. ACFT REGISTRY: B20001\r\n3. CS: DOTS100\r\n4. OPR: AEROSPACE INDUSTRIAL DEVELOPMENT CORPORATION (AIDC)\r\n5. ALT OF DROPSONDES RELEASE: 41000FT\r\nF) SFC G) FL410",
+"reason": "SPECIAL OPS (DROPSONDES FOR TYPH CHAMPI) WILL TAKE PLACE",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82798338",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-19T15:48:34.085Z"
+},
+{
+"areas": [
+[
+[
 34.5833,
 -120.6833
 ],
@@ -281497,7 +281549,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82796379",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-16T09:08:24.062Z"
+"updated": "2026-10-19T19:54:31.988Z"
 },
 {
 "areas": [
@@ -281549,7 +281601,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82796394",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-16T09:08:24.062Z"
+"updated": "2026-10-19T19:56:32.058Z"
 },
 {
 "areas": [
@@ -281601,7 +281653,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82796413",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-16T09:08:24.062Z"
+"updated": "2026-10-19T19:56:40.379Z"
 },
 {
 "areas": [
@@ -281661,7 +281713,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82794995",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-19T10:25:54.376Z"
+"updated": "2026-10-19T17:47:04.906Z"
 },
 {
 "areas": [
