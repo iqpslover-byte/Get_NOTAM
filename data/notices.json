@@ -1,6 +1,6 @@
 {
 "count": 438,
-"generated_utc": "2026-10-20T17:34:10Z",
+"generated_utc": "2026-10-20T20:54:41Z",
 "notices": [
 {
 "areas": [],
@@ -18223,35 +18223,6 @@
 "updated": "2026-10-07T16:40:04.948Z"
 },
 {
-"areas": [],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-15T19:00:00.000Z",
-"start": "2026-10-15T13:00:00.000Z"
-}
-],
-"height": null,
-"id": "infopage-faa-operations-advisory-stratolaunch-erebus",
-"kind": "INFOPAGE",
-"launches": [
-{
-"id": "other-stratolaunch-erebus",
-"title": "Erebus"
-}
-],
-"markers": [],
-"name": "FAA Operations Advisory",
-"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-stratolaunch-erebus",
-"raw": "STRATOLAUNCH EREBUS, MOJAVE AIR AND SPACEPORT, CA\nPRIMARY:\t10/15/26\t1300Z-1900Z",
-"reason": "STRATOLAUNCH EREBUS, MOJAVE AIR AND SPACEPORT, CA",
-"source": {
-"link": "https://www.fly.faa.gov/adv/adv_spt",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-13T15:52:42.573Z"
-},
-{
 "areas": [
 [
 [
@@ -30883,6 +30854,39 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-16T14:31:28.806Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-26T19:00:00.000Z",
+"start": "2026-10-26T13:00:00.000Z"
+},
+{
+"end": "2026-11-02T20:00:00.000Z",
+"start": "2026-11-02T14:00:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-stratolaunch-erebus",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "other-stratolaunch-erebus",
+"title": "Erebus"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-stratolaunch-erebus",
+"raw": "STRATOLAUNCH EREBUS, MOJAVE AIR AND SPACEPORT, CA\nPRIMARY:\t10/26/26\t1300Z-1900Z\nBACKUP:\t\t11/02/26\t1400Z-2000Z",
+"reason": "STRATOLAUNCH EREBUS, MOJAVE AIR AND SPACEPORT, CA",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-20T13:40:43.808Z"
 },
 {
 "areas": [],
