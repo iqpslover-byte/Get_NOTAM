@@ -1,374 +1,7 @@
 {
-"count": 440,
-"generated_utc": "2026-10-20T01:18:49Z",
+"count": 436,
+"generated_utc": "2026-10-20T06:39:53Z",
 "notices": [
-{
-"areas": [
-[
-[
-69.8833,
-16.35
-],
-[
-70.2,
-15.2167
-],
-[
-69.6,
-13.6667
-],
-[
-69.3833,
-14.3333
-],
-[
-69.3833,
-15.2333
-],
-[
-69.8833,
-16.35
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-15T03:00:00.000Z",
-"start": "2026-09-14T18:00:00.000Z"
-},
-{
-"end": "2026-09-16T03:00:00.000Z",
-"start": "2026-09-15T18:00:00.000Z"
-},
-{
-"end": "2026-09-17T03:00:00.000Z",
-"start": "2026-09-16T18:00:00.000Z"
-},
-{
-"end": "2026-09-18T03:00:00.000Z",
-"start": "2026-09-17T18:00:00.000Z"
-},
-{
-"end": "2026-09-19T03:00:00.000Z",
-"start": "2026-09-18T18:00:00.000Z"
-},
-{
-"end": "2026-09-20T03:00:00.000Z",
-"start": "2026-09-19T18:00:00.000Z"
-}
-],
-"height": null,
-"id": "nav-warning-HYDROARC 232/26",
-"kind": "NAVWARNING",
-"launches": [],
-"markers": [],
-"name": "HYDROARC 232/26",
-"page": "https://space-notices.com/notice/nav-warning-HYDROARC%20232%2F26",
-"raw": "131906Z SEP 26\nHYDROARC 232/26.\nNORWEGIAN SEA.\nNORWAY.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   1800Z TO 0300Z DAILY 14 THRU 19 SEP \n   IN AREA BOUND BY\n   69-53.08N 016-21.58E, 70-12.38N 015-13.81E,\n   69-36.32N 013-40.39E, 69-23.53N 014-20.64E,\n   69-23.11N 015-14.66E.\n2. CANCEL THIS MSG 200400Z SEP 26.",
-"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
-"source": {
-"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=C&msgSqncNumber=232&createdOn=26&category=14&output=html",
-"name": "US National Geospatial-Intelligence Agency"
-},
-"updated": ""
-},
-{
-"areas": [
-[
-[
-9.2667,
-118.95
-],
-[
-9.4667,
-119.2167
-],
-[
-8.95,
-119.5833
-],
-[
-8.7667,
-119.3333
-],
-[
-9.2667,
-118.95
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-17T04:00:00.000Z",
-"start": "2026-09-17T00:00:00.000Z"
-},
-{
-"end": "2026-09-18T04:00:00.000Z",
-"start": "2026-09-18T00:00:00.000Z"
-},
-{
-"end": "2026-09-19T04:00:00.000Z",
-"start": "2026-09-19T00:00:00.000Z"
-},
-{
-"end": "2026-09-20T04:00:00.000Z",
-"start": "2026-09-20T00:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-RPHI-B4692/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "B4692/26",
-"page": "https://space-notices.com/notice/notam-RPHI-B4692%2F26",
-"raw": "B4692/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/0907N11916E022\r\nA) RPHI B) 2609170000 C) 2609200400\r\nD) 0000-0400\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA. \r\nESTIMATED FALL AREA OF UNBURNED DEBRIS WI:\r\n091600N 1185700E -\r\n092800N 1191300E -\r\n085700N 1193500E -\r\n084600N 1192000E -\r\n091600N 1185700E\r\n(29NM SOUTHEAST PUERTO PRINCESA AP).\r\nF) SFC G) UNL",
-"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82355290",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-08T10:18:53.827Z"
-},
-{
-"areas": [
-[
-[
-9.2667,
-118.95
-],
-[
-9.4667,
-119.2167
-],
-[
-8.95,
-119.5833
-],
-[
-8.7667,
-119.3333
-],
-[
-9.2667,
-118.95
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-17T04:00:00.000Z",
-"start": "2026-09-17T00:00:00.000Z"
-},
-{
-"end": "2026-09-18T04:00:00.000Z",
-"start": "2026-09-18T00:00:00.000Z"
-},
-{
-"end": "2026-09-19T04:00:00.000Z",
-"start": "2026-09-19T00:00:00.000Z"
-},
-{
-"end": "2026-09-20T04:00:00.000Z",
-"start": "2026-09-20T00:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-RPHI-B4694/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "B4694/26",
-"page": "https://space-notices.com/notice/notam-RPHI-B4694%2F26",
-"raw": "B4694/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/0907N11916E022\r\nA) RPHI B) 2609170000 C) 2609200400\r\nD) 0000-0400\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA. \r\nEST FALL AREA OF UNBURNED DEBRIS WI:\r\n091600N 1185700E -\r\n092800N 1191300E -\r\n085700N 1193500E -\r\n084600N 1192000E -\r\n091600N 1185700E\r\n(29NM SOUTHEAST PUERTO PRINCESA AP).\r\nF) SFC G) UNL",
-"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82355539",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-08T10:54:54.325Z"
-},
-{
-"areas": [
-[
-[
-40.1667,
-105.6833
-],
-[
-40.1667,
-105.25
-],
-[
-39.45,
-105.2833
-],
-[
-39.45,
-105.7167
-],
-[
-40.1667,
-105.6833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-20T06:23:00.000Z",
-"start": "2026-09-20T04:44:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLHW-A4694/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-5af31461-bce5-4cfb-a0ee-b527cf285d90",
-"title": "Unknown Payload"
-}
-],
-"markers": [],
-"name": "A4694/26",
-"page": "https://space-notices.com/notice/notam-ZLHW-A4694%2F26",
-"raw": "A4694/26 NOTAMN\r\nQ)ZLHW/QRDCA/IV/BO/W/000/999/3949N10529E024\r\nA)ZLHW B)2609200444 C)2609200623 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN401057E1054147-N401015E1051550-N392703E1051719-N392744E1054309,BAC\r\nK TO START.\r\nVERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82452626",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-17T04:14:08.380Z"
-},
-{
-"areas": [
-[
-[
-39.3833,
-103.2667
-],
-[
-39.4167,
-104.25
-],
-[
-40.1333,
-104.2
-],
-[
-40.1,
-103.2167
-],
-[
-39.3833,
-103.2667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-20T06:23:00.000Z",
-"start": "2026-09-20T04:44:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLHW-A4695/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-5af31461-bce5-4cfb-a0ee-b527cf285d90",
-"title": "Unknown Payload"
-}
-],
-"markers": [],
-"name": "A4695/26",
-"page": "https://space-notices.com/notice/notam-ZLHW-A4695%2F26",
-"raw": "A4695/26 NOTAMN\r\nQ)ZLHW/QRDCA/IV/BO/W/000/999/3945N10344E032\r\nA)ZLHW B)2609200444 C)2609200623 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN392308E1031609-N392519E1041544-N400828E1041240-N400618E1031313,\r\nBACK TO START.\r\nVERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82452645",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-17T04:14:14.291Z"
-},
-{
-"areas": [
-[
-[
-37.8667,
-85.35
-],
-[
-37.6167,
-84.05
-],
-[
-37.6167,
-82.1667
-],
-[
-36.5833,
-82.1667
-],
-[
-36.5833,
-85.4167
-],
-[
-37.1333,
-85.4167
-],
-[
-37.1667,
-85.5833
-],
-[
-37.8667,
-85.35
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-20T06:23:00.000Z",
-"start": "2026-09-20T04:44:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZWUQ-A4696/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-5af31461-bce5-4cfb-a0ee-b527cf285d90",
-"title": "Unknown Payload"
-}
-],
-"markers": [],
-"name": "A4696/26",
-"page": "https://space-notices.com/notice/notam-ZWUQ-A4696%2F26",
-"raw": "A4696/26 NOTAMN\r\nQ)ZWUQ/QRDCA/IV/BO/W/000/999/3713N08345E088\r\nA)ZWUQ B)2609200444 C)2609200623 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN375221E0852104-N373739E0840312-N373700E0821000-N363500E0821000-N36\r\n3500E0852500-N370823E0852529-N371035E0853511,\r\nBACK TO START.\r\nVERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82452682",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-17T04:14:20.769Z"
-},
 {
 "areas": [],
 "cancelled": false,
@@ -27249,7 +26882,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82798338",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-19T15:48:34.085Z"
+"updated": "2026-10-20T00:54:29.028Z"
 },
 {
 "areas": [
@@ -28836,6 +28469,222 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-17T11:05:47.371Z"
+},
+{
+"areas": [
+[
+[
+30.7167,
+125.8167
+],
+[
+30.25,
+126.6
+],
+[
+29.8,
+126.25
+],
+[
+30.2333,
+125.55
+],
+[
+30.7167,
+125.8167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-23T19:46:00.000Z",
+"start": "2026-10-23T19:19:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RJJJ-P5197/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "P5197/26",
+"page": "https://space-notices.com/notice/notam-RJJJ-P5197%2F26",
+"raw": "P5197/26 NOTAMN\r\nQ)RJJJ/QXXXX/IV/NBO/E/000/999/3016N12603E030\r\nA)RJJJ B)2610231919 C)2610231946\r\nE)DUE TO AN AEROSPACE FLIGHT ACTIVITY, THE FLIGHT SAFETY OF THE\r\nAIRCRAFT IN FOLLOWING AREA MAY BE AFFECTED ON OCT 23 2026,\r\n1919-1946.\r\n\r\nAREA:\r\n3043N12549E - 3015N12636E - 2948N12615E - 3014N12533E - 3043N12549E\r\n\r\nALTITUDE:\r\nSFC - UNL\r\n\r\nRMK: ATC WILL NOT CLEAR IFR FLT THRU THIS AREA FOR THE FLIGHT SAFETY.\r\nF)SFC G)UNL",
+"reason": "AN AEROSPACE FLIGHT ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82799424",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-20T03:49:28.352Z"
+},
+{
+"areas": [
+[
+[
+49.80548,
+141.3
+],
+[
+49.39832,
+146.22408
+],
+[
+48.21175,
+150.76444
+],
+[
+46.34115,
+154.62238
+],
+[
+43.92013,
+157.62523
+],
+[
+41.09682,
+159.71662
+],
+[
+38.01695,
+160.92027
+],
+[
+34.81516,
+161.30276
+],
+[
+31.61239,
+160.94727
+],
+[
+28.51634,
+159.93933
+],
+[
+25.62287,
+158.36121
+],
+[
+23.01716,
+156.2914
+],
+[
+20.77416,
+153.80646
+],
+[
+18.95813,
+150.98343
+],
+[
+17.62151,
+147.90196
+],
+[
+16.80337,
+144.64529
+],
+[
+16.52792,
+141.3
+],
+[
+16.80337,
+137.95471
+],
+[
+17.62151,
+134.69804
+],
+[
+18.95813,
+131.61657
+],
+[
+20.77416,
+128.79354
+],
+[
+23.01716,
+126.3086
+],
+[
+25.62287,
+124.23879
+],
+[
+28.51634,
+122.66067
+],
+[
+31.61239,
+121.65273
+],
+[
+34.81516,
+121.29724
+],
+[
+38.01695,
+121.67973
+],
+[
+41.09682,
+122.88338
+],
+[
+43.92013,
+124.97477
+],
+[
+46.34115,
+127.97762
+],
+[
+48.21175,
+131.83556
+],
+[
+49.39832,
+136.37592
+],
+[
+49.80548,
+141.3
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-23T19:46:00.000Z",
+"start": "2026-10-23T18:49:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RJJJ-Q2506/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "Q2506/26",
+"page": "https://space-notices.com/notice/notam-RJJJ-Q2506%2F26",
+"raw": "Q2506/26 NOTAMN\r\nQ)RJJJ/QARCH/IV/BO/E/000/999/3310N14118E999\r\nA)RJJJ B)2610231849 C)2610231946\r\nE)ALTN RTE ARE ESTABLISHED DUE TO AN AEROSPACE FLIGHT ACTIVITY.\r\n\r\n1.FLT PLANNED RTE IS REQ TO BE FILED AS FLW\r\n   Z401(BTN IGMON AND POTET)\r\n    ALTN RTE: IGMON - 3012N12645E - POTET\r\n\r\n2.SEE NOTAM RJAAYNYX P5197/26\r\nF)SFC G)UNL",
+"reason": "AN AEROSPACE FLIGHT ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82799467",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-20T04:48:28.385Z"
 },
 {
 "areas": [
@@ -31462,7 +31311,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2998&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-10-15T12:35:04.720Z"
+"updated": "2026-10-20T00:08:10.739Z"
 },
 {
 "areas": [
@@ -35577,5 +35426,5 @@
 "pending": 12,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3183
+"total_known": 3185
 }

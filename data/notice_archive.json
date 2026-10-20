@@ -1,5 +1,5 @@
 {
-"count": 2922,
+"count": 2924,
 "notices": [
 {
 "areas": [
@@ -280375,7 +280375,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82798338",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-19T15:48:34.085Z"
+"updated": "2026-10-20T00:54:29.028Z"
 },
 {
 "areas": [
@@ -281962,6 +281962,222 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-17T11:05:47.371Z"
+},
+{
+"areas": [
+[
+[
+30.7167,
+125.8167
+],
+[
+30.25,
+126.6
+],
+[
+29.8,
+126.25
+],
+[
+30.2333,
+125.55
+],
+[
+30.7167,
+125.8167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-23T19:46:00.000Z",
+"start": "2026-10-23T19:19:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RJJJ-P5197/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "P5197/26",
+"page": "https://space-notices.com/notice/notam-RJJJ-P5197%2F26",
+"raw": "P5197/26 NOTAMN\r\nQ)RJJJ/QXXXX/IV/NBO/E/000/999/3016N12603E030\r\nA)RJJJ B)2610231919 C)2610231946\r\nE)DUE TO AN AEROSPACE FLIGHT ACTIVITY, THE FLIGHT SAFETY OF THE\r\nAIRCRAFT IN FOLLOWING AREA MAY BE AFFECTED ON OCT 23 2026,\r\n1919-1946.\r\n\r\nAREA:\r\n3043N12549E - 3015N12636E - 2948N12615E - 3014N12533E - 3043N12549E\r\n\r\nALTITUDE:\r\nSFC - UNL\r\n\r\nRMK: ATC WILL NOT CLEAR IFR FLT THRU THIS AREA FOR THE FLIGHT SAFETY.\r\nF)SFC G)UNL",
+"reason": "AN AEROSPACE FLIGHT ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82799424",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-20T03:49:28.352Z"
+},
+{
+"areas": [
+[
+[
+49.80548,
+141.3
+],
+[
+49.39832,
+146.22408
+],
+[
+48.21175,
+150.76444
+],
+[
+46.34115,
+154.62238
+],
+[
+43.92013,
+157.62523
+],
+[
+41.09682,
+159.71662
+],
+[
+38.01695,
+160.92027
+],
+[
+34.81516,
+161.30276
+],
+[
+31.61239,
+160.94727
+],
+[
+28.51634,
+159.93933
+],
+[
+25.62287,
+158.36121
+],
+[
+23.01716,
+156.2914
+],
+[
+20.77416,
+153.80646
+],
+[
+18.95813,
+150.98343
+],
+[
+17.62151,
+147.90196
+],
+[
+16.80337,
+144.64529
+],
+[
+16.52792,
+141.3
+],
+[
+16.80337,
+137.95471
+],
+[
+17.62151,
+134.69804
+],
+[
+18.95813,
+131.61657
+],
+[
+20.77416,
+128.79354
+],
+[
+23.01716,
+126.3086
+],
+[
+25.62287,
+124.23879
+],
+[
+28.51634,
+122.66067
+],
+[
+31.61239,
+121.65273
+],
+[
+34.81516,
+121.29724
+],
+[
+38.01695,
+121.67973
+],
+[
+41.09682,
+122.88338
+],
+[
+43.92013,
+124.97477
+],
+[
+46.34115,
+127.97762
+],
+[
+48.21175,
+131.83556
+],
+[
+49.39832,
+136.37592
+],
+[
+49.80548,
+141.3
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-23T19:46:00.000Z",
+"start": "2026-10-23T18:49:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RJJJ-Q2506/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "Q2506/26",
+"page": "https://space-notices.com/notice/notam-RJJJ-Q2506%2F26",
+"raw": "Q2506/26 NOTAMN\r\nQ)RJJJ/QARCH/IV/BO/E/000/999/3310N14118E999\r\nA)RJJJ B)2610231849 C)2610231946\r\nE)ALTN RTE ARE ESTABLISHED DUE TO AN AEROSPACE FLIGHT ACTIVITY.\r\n\r\n1.FLT PLANNED RTE IS REQ TO BE FILED AS FLW\r\n   Z401(BTN IGMON AND POTET)\r\n    ALTN RTE: IGMON - 3012N12645E - POTET\r\n\r\n2.SEE NOTAM RJAAYNYX P5197/26\r\nF)SFC G)UNL",
+"reason": "AN AEROSPACE FLIGHT ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82799467",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-20T04:48:28.385Z"
 },
 {
 "areas": [
@@ -284588,7 +284804,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2998&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-10-15T12:35:04.720Z"
+"updated": "2026-10-20T00:08:10.739Z"
 },
 {
 "areas": [
