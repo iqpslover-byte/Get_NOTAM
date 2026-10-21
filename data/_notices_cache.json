@@ -9347,7 +9347,7 @@
 "markers": [],
 "name": "CGD-SW BNM 9121-26",
 "page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209121-26",
-"raw": "$3c",
+"raw": "$3b",
 "reason": "Re-Entry - NASA Crew-12 Reentry",
 "source": {
 "link": "https://www.navcen.uscg.gov/chart",
@@ -11729,15 +11729,11 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-cadenaois-advisory-2829": {
-"lastmod": "2026-10-14T12:00:08.005Z",
+"lastmod": "2026-10-21T14:24:04.546Z",
 "notice": {
 "areas": [],
 "cancelled": false,
 "dates": [
-{
-"end": "2026-10-21T02:57:00.000Z",
-"start": "2026-10-20T22:14:00.000Z"
-},
 {
 "end": "2026-10-22T02:42:00.000Z",
 "start": "2026-10-21T21:59:00.000Z"
@@ -11775,13 +11771,13 @@
 "markers": [],
 "name": "Cadena OIS Advisory 2829",
 "page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2829",
-"raw": "Primary Launch Day\t20 OCT\t2214Z-0257Z\nBackup Launch Day\t21 OCT\t2159Z-0242Z\nBackup Launch Day\t22 OCT\t2145Z-0228Z\nBackup Launch Day\t23 OCT\t2130Z-0213Z\nBackup Launch Day\t24 OCT\t2116Z-0159Z\nBackup Launch Day\t25 OCT\t2102Z-0145Z\nBackup Launch Day\t26 OCT\t2047Z-0130Z\n",
+"raw": "Backup Launch Day\t21 OCT\t2159Z-0242Z\nBackup Launch Day\t22 OCT\t2145Z-0228Z\nBackup Launch Day\t23 OCT\t2130Z-0213Z\nBackup Launch Day\t24 OCT\t2116Z-0159Z\nBackup Launch Day\t25 OCT\t2102Z-0145Z\nBackup Launch Day\t26 OCT\t2047Z-0130Z\n",
 "reason": "SpaceX Starlink 15-15",
 "source": {
 "link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
 "name": "Cadena OIS"
 },
-"updated": "2026-10-14T12:00:08.005Z"
+"updated": "2026-10-21T14:24:04.546Z"
 },
 "via": "sitemap"
 },
@@ -239956,6 +239952,90 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-NTTT-A1355%2F26": {
+"lastmod": "2026-10-21T15:24:28.547Z",
+"notice": {
+"areas": [
+[
+[
+-30.0,
+-121.8833
+],
+[
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-28.7167,
+-120.0
+],
+[
+-30.0,
+-120.0
+],
+[
+-30.0,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-28T10:56:00.000Z",
+"start": "2026-10-28T06:18:00.000Z"
+},
+{
+"end": "2026-10-29T10:42:00.000Z",
+"start": "2026-10-29T06:04:00.000Z"
+},
+{
+"end": "2026-10-30T10:27:00.000Z",
+"start": "2026-10-30T05:49:00.000Z"
+},
+{
+"end": "2026-10-31T10:13:00.000Z",
+"start": "2026-10-31T05:35:00.000Z"
+},
+{
+"end": "2026-11-01T09:58:00.000Z",
+"start": "2026-11-01T05:20:00.000Z"
+},
+{
+"end": "2026-11-02T09:44:00.000Z",
+"start": "2026-11-02T05:06:00.000Z"
+},
+{
+"end": "2026-11-03T09:30:00.000Z",
+"start": "2026-11-03T04:52:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1355/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-18",
+"title": "Starlink Group 15-18"
+}
+],
+"markers": [],
+"name": "A1355/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1355%2F26",
+"raw": "A1355/26 NOTAMN\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2858S12112W113\r\nA) NTTT\r\nB) 2610280618 C) 2611030930\r\nD) 28 0618-1056\r\n29 0604-1042\r\n30 0549-1027\r\n31 0535-1013\r\n01 0520-0958\r\n02 0506-0944\r\n03 0452-0930\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX\r\n STARLINK 15-18 IN TAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING\r\n POINTS : \r\n3000S 12153W, 2759S 12244W, 2709S 12043W, 2843S 12000W, 3000S\r\n 12000W, 3000S 12153W \r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : SCIZ \r\n\r\nTHE FRENCH VERSION OF THIS NOTAM IS C2533/26\r\nF) SFC G) UNL",
+"reason": "SPACE DEBRIS RETURN OF SPACEX STARLINK 15-18",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82822807",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-21T15:24:28.547Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/notam-NZZC-B4420%2F26": {
 "gone": "2026-09-26",
 "lastmod": "2026-09-06T00:57:03.240Z",
@@ -251638,7 +251718,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SCIZ-W3590%2F26": {
-"lastmod": "2026-10-19T15:56:05.390Z",
+"lastmod": "2026-10-21T15:24:28.539Z",
 "notice": {
 "areas": [
 [
@@ -251717,9 +251797,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82819726",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-19T15:56:05.390Z"
+"updated": "2026-10-21T15:24:28.539Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SMPM-A0368%2F26": {
 "lastmod": "2026-09-27T19:52:14.739Z",
