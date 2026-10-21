@@ -1,5 +1,5 @@
 {
-"count": 2919,
+"count": 2922,
 "notices": [
 {
 "areas": [
@@ -281211,6 +281211,170 @@
 "name": "US National Geospatial-Intelligence Agency"
 },
 "updated": "2026-10-16T21:50:57.385Z"
+},
+{
+"areas": [
+[
+[
+-38.9833,
+178.2167
+],
+[
+-39.8,
+178.4
+],
+[
+-39.8,
+177.5
+],
+[
+-39.3,
+177.3
+],
+[
+-39.1,
+177.6
+],
+[
+-39.1,
+177.9
+],
+[
+-38.9833,
+178.2167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-23T08:50:00.000Z",
+"start": "2026-10-23T06:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZC-B5162/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-electron-were-not-hawking-around-3x-hawkeye-360",
+"title": "We're Not Hawking Around (3x HawkEye 360)"
+}
+],
+"markers": [],
+"name": "B5162/26",
+"page": "https://space-notices.com/notice/notam-NZZC-B5162%2F26",
+"raw": "B5162/26 NOTAMN\r\nQ) NZZC/QRDCA/IV/BO /W /000/999/3926S17756E032\r\nA) NZZC B) 2610230630 C) 2610230850\r\nE) TEMPO DANGER AREA NZD025 (MAHIA EAST CAPE) IS PRESCRIBED AS\r\nFLW: EXCLUDING THAT AREA CO-INCIDENT WITH NZR401,\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n38 59 00.20 S 178 13 59.90 E\r\n39 48 00.00 S 178 24 00.00 E\r\n39 48 00.00 S 177 30 00.00 E\r\n39 18 00.00 S 177 18 00.00 E\r\n39 06 00.00 S 177 36 32.80 E\r\n39 06 00.00 S 177 54 00.00 E\r\n38 59 00.20 S 178 13 59.90 E\r\nACTIVITY: ROCKET LAUNCH\r\nUSING AGENCY: ROCKET LAB LIMITED,\r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638 PRESCRIBED PURSUANT TO \r\nCIVIL AVIATION RULE PART 71 UNDER A DELEGATED AUTHORITY ISSUED BY \r\nTHE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET LAUNCH",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82814039",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-21T05:33:33.488Z"
+},
+{
+"areas": [
+[
+[
+-43.5,
+177.5
+],
+[
+-46.5,
+176.5
+],
+[
+-46.5,
+174.5
+],
+[
+-43.5,
+175.5
+],
+[
+-43.5,
+177.5
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-23T08:50:00.000Z",
+"start": "2026-10-23T06:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B5163/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-electron-were-not-hawking-around-3x-hawkeye-360",
+"title": "We're Not Hawking Around (3x HawkEye 360)"
+}
+],
+"markers": [],
+"name": "B5163/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B5163%2F26",
+"raw": "B5163/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/4501S17602E113\r\nA) NZZO B) 2610230630 C) 2610230850\r\nE) TEMPO DANGER AREA NZD026 (WEST CHATHAM ISLANDS) \r\nIS PRESCRIBED AS FLW:\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n43 30 00.00 S 177 30 00.00 E\r\n46 30 00.00 S 176 30 00.00 E\r\n46 30 00.00 S 174 30 00.00 E\r\n43 30 00.00 S 175 30 00.00 E\r\n43 30 00.00 S 177 30 00.00 E\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED, \r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED \r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82814043",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-21T05:35:32.578Z"
+},
+{
+"areas": [
+[
+[
+-53.5,
+173.5
+],
+[
+-56.5,
+172.5
+],
+[
+-56.5,
+171.0
+],
+[
+-53.5,
+172.0
+],
+[
+-53.5,
+173.5
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-23T08:50:00.000Z",
+"start": "2026-10-23T06:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B5164/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-electron-were-not-hawking-around-3x-hawkeye-360",
+"title": "We're Not Hawking Around (3x HawkEye 360)"
+}
+],
+"markers": [],
+"name": "B5164/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B5164%2F26",
+"raw": "B5164/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/5500S17218E102\r\nA) NZZO B) 2610230630 C) 2610230850\r\nE) TEMPO DANGER AREA NZD027 (SOUTHEAST CAMPBELL ISLAND) \r\nIS PRESCRIBED AS FLW:\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n53 30 00.00 S 173 30 00.00 E\r\n56 30 00.00 S 172 30 00.00 E\r\n56 30 00.00 S 171 00 00.00 E\r\n53 30 00.00 S 172 00 00.00 E\r\n53 30 00.00 S 173 30 00.00 E\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED, \r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638 \r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71\r\nUNDER A DELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82814048",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-21T05:35:41.839Z"
 },
 {
 "areas": [
