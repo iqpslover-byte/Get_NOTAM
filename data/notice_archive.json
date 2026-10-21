@@ -1,5 +1,5 @@
 {
-"count": 2922,
+"count": 2923,
 "notices": [
 {
 "areas": [
@@ -284017,6 +284017,86 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-16T14:31:28.806Z"
+},
+{
+"areas": [
+[
+[
+-30.0,
+-121.8833
+],
+[
+-30.0,
+-120.0
+],
+[
+-28.7167,
+-120.0
+],
+[
+-38.35,
+-115.0667
+],
+[
+-49.15,
+-107.3667
+],
+[
+-59.15,
+-95.5667
+],
+[
+-59.9667,
+-99.0833
+],
+[
+-44.5667,
+-114.2167
+],
+[
+-30.0,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-28T09:44:00.000Z",
+"start": "2026-10-28T06:18:00.000Z"
+},
+{
+"end": "2026-10-28T10:56:00.000Z",
+"start": "2026-10-28T06:18:00.000Z"
+},
+{
+"end": "2026-10-29T10:42:00.000Z",
+"start": "2026-10-29T06:04:00.000Z"
+},
+{
+"end": "2026-10-30T10:27:00.000Z",
+"start": "2026-10-30T05:49:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-SCIZ-W3590/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-18",
+"title": "Starlink Group 15-18"
+}
+],
+"markers": [],
+"name": "W3590/26",
+"page": "https://space-notices.com/notice/notam-SCIZ-W3590%2F26",
+"raw": "W3590/26 NOTAMN \r\nQ)SCIZ/QXXXX/IV/NBO/W/000/999/4448S11206W258\r\nA)SCIZ B)2610280618 C)2611030930\r\nD)28OCT 0618-1056 29OCT 0604-1042 30OCT 0549-1027 310CT 0535-1013\r\n01NOV 0520-0958 02NOV 0506-0944 03NOV 0452-0930\r\nE)ZONE...D... IN WATERS PACIFIC OCEAN DUE TO SPACE VEHICLE RE-ENTRY\r\nAND SPLASHDOWN ACTIVITY. THE AFECCTED AREA IS BOUNDED BY NXT GEO\r\nCOORD:\r\n300000S/1215300W\r\n300000S/1200000W\r\n284300S/1200000W\r\n382100S/1150400W\r\n490900S/1072200W\r\n590900S/0953400W\r\n595800S/0990500W\r\n443400S/1141300W\r\n300000S/1215300W\r\nINSTRUCTIONS: SANTIAGO OCEANIC CONTROL 10024KHZ FANS 1A EQUIPPED\r\nINFO PROVIDED BY SPACE X\r\nF)SFC G)UNL",
+"reason": "SPACE VEHICLE RE-ENTRY AND SPLASHDOWN ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82819726",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-19T15:56:05.390Z"
 },
 {
 "areas": [],
