@@ -1,5 +1,5 @@
 {
-"count": 2924,
+"count": 2928,
 "notices": [
 {
 "areas": [
@@ -281782,6 +281782,120 @@
 "updated": "2026-10-14T13:36:42.420Z"
 },
 {
+"areas": [
+[
+[
+28.613889,
+-80.598611
+],
+[
+28.6,
+-80.433333
+],
+[
+28.433333,
+-80.116667
+],
+[
+28.35,
+-80.133333
+],
+[
+28.48,
+-80.536944
+],
+[
+28.613889,
+-80.598611
+]
+],
+[
+[
+26.166667,
+-76.0
+],
+[
+25.6,
+-73.933333
+],
+[
+25.45,
+-73.733333
+],
+[
+25.066667,
+-73.766667
+],
+[
+24.9,
+-73.983333
+],
+[
+24.966667,
+-74.55
+],
+[
+26.066667,
+-76.0
+],
+[
+26.166667,
+-76.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-19T12:13:00.000Z",
+"start": "2026-10-19T10:30:00.000Z"
+},
+{
+"end": "2026-10-20T12:13:00.000Z",
+"start": "2026-10-20T10:30:00.000Z"
+},
+{
+"end": "2026-10-21T12:13:00.000Z",
+"start": "2026-10-21T10:30:00.000Z"
+},
+{
+"end": "2026-10-22T12:13:00.000Z",
+"start": "2026-10-22T10:30:00.000Z"
+},
+{
+"end": "2026-10-23T12:13:00.000Z",
+"start": "2026-10-23T10:30:00.000Z"
+},
+{
+"end": "2026-10-24T12:13:00.000Z",
+"start": "2026-10-24T10:30:00.000Z"
+},
+{
+"end": "2026-10-25T12:13:00.000Z",
+"start": "2026-10-25T10:30:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SE BNM 9080-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "launch-f9-bandwagon-5-dedicated-mid-inclina",
+"title": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)"
+}
+],
+"markers": [],
+"name": "CGD-SE BNM 9080-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SE%20BNM%209080-26",
+"raw": "Launch Hazard Area\nMission: BANDWAGON-5 \nMessage Id: CGD-SE BNM 9080-26\n\n19/1030 OCT 26 to 19/1213 OCT 26. \n20/1030 OCT 26 to 20/1213 OCT 26. \n21/1030 OCT 26 to 21/1213 OCT 26. \n22/1030 OCT 26 to 22/1213 OCT 26. \n23/1030 OCT 26 to 23/1213 OCT 26. \n24/1030 OCT 26 to 24/1213 OCT 26. \n25/1030 OCT 26 to 25/1213 OCT 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
+"reason": "Launch Hazard Area - BANDWAGON-5",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-10-20T15:24:25.925Z"
+},
+{
 "areas": [],
 "cancelled": false,
 "dates": [
@@ -283468,6 +283582,136 @@
 "updated": "2026-10-20T12:11:11.680Z"
 },
 {
+"areas": [
+[
+[
+29.8,
+-117.65
+],
+[
+29.866667,
+-117.9
+],
+[
+29.583333,
+-118.2
+],
+[
+29.4,
+-118.133333
+],
+[
+29.25,
+-118.033333
+],
+[
+29.033333,
+-117.983333
+],
+[
+28.2,
+-117.316667
+],
+[
+28.833333,
+-117.316667
+],
+[
+29.6,
+-117.266667
+],
+[
+29.8,
+-117.65
+]
+],
+[
+[
+29.8,
+-117.65
+],
+[
+34.466667,
+-120.3
+],
+[
+34.666667,
+-120.6
+],
+[
+34.65,
+-120.65
+],
+[
+34.5,
+-120.65
+],
+[
+29.583333,
+-118.2
+],
+[
+29.866667,
+-117.9
+],
+[
+29.8,
+-117.65
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-24T10:12:00.000Z",
+"start": "2026-10-24T05:29:00.000Z"
+},
+{
+"end": "2026-10-25T09:57:00.000Z",
+"start": "2026-10-25T05:14:00.000Z"
+},
+{
+"end": "2026-10-26T09:43:00.000Z",
+"start": "2026-10-26T05:00:00.000Z"
+},
+{
+"end": "2026-10-27T09:28:00.000Z",
+"start": "2026-10-27T04:45:00.000Z"
+},
+{
+"end": "2026-10-28T09:14:00.000Z",
+"start": "2026-10-28T04:31:00.000Z"
+},
+{
+"end": "2026-10-29T09:00:00.000Z",
+"start": "2026-10-29T04:17:00.000Z"
+},
+{
+"end": "2026-10-30T08:45:00.000Z",
+"start": "2026-10-30T04:00:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SW BNM 9132-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-16",
+"title": "Starlink Group 15-16"
+}
+],
+"markers": [],
+"name": "CGD-SW BNM 9132-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209132-26",
+"raw": "Launch Hazard Area\nMission: SpaceX Starlink g15-16\nMessage Id: CGD-SW BNM 9132-26\n\n\n24/0529 OCT 26 to 24/1012 OCT 26. \n25/0514 OCT 26 to 25/0957 OCT 26. \n26/0500 OCT 26 to 26/0943 OCT 26. \n27/0445 OCT 26 to 27/0928 OCT 26. \n28/0431 OCT 26 to 28/0914 OCT 26. \n29/0417 OCT 26 to 29/0900 OCT 26. \n30/0400 OCT 26 to 30/0845 OCT 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
+"reason": "Launch Hazard Area - SpaceX Starlink g15-16",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-10-19T03:48:28.924Z"
+},
+{
 "areas": [],
 "cancelled": false,
 "dates": [
@@ -283519,6 +283763,136 @@
 "name": "Cadena OIS"
 },
 "updated": "2026-10-15T11:04:05.569Z"
+},
+{
+"areas": [
+[
+[
+29.8,
+-117.65
+],
+[
+34.466667,
+-120.3
+],
+[
+34.666667,
+-120.6
+],
+[
+34.65,
+-120.65
+],
+[
+34.5,
+-120.65
+],
+[
+29.583333,
+-118.2
+],
+[
+29.866667,
+-117.9
+],
+[
+29.8,
+-117.65
+]
+],
+[
+[
+29.8,
+-117.65
+],
+[
+29.866667,
+-117.9
+],
+[
+29.583333,
+-118.2
+],
+[
+29.4,
+-118.133333
+],
+[
+29.25,
+-118.033333
+],
+[
+29.033333,
+-117.983333
+],
+[
+28.2,
+-117.316667
+],
+[
+28.833333,
+-117.316667
+],
+[
+29.6,
+-117.266667
+],
+[
+29.8,
+-117.65
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-24T10:12:00.000Z",
+"start": "2026-10-24T05:29:00.000Z"
+},
+{
+"end": "2026-10-25T09:57:00.000Z",
+"start": "2026-10-25T05:14:00.000Z"
+},
+{
+"end": "2026-10-26T09:43:00.000Z",
+"start": "2026-10-26T05:00:00.000Z"
+},
+{
+"end": "2026-10-27T09:28:00.000Z",
+"start": "2026-10-27T04:45:00.000Z"
+},
+{
+"end": "2026-10-28T09:14:00.000Z",
+"start": "2026-10-28T04:31:00.000Z"
+},
+{
+"end": "2026-10-29T09:00:00.000Z",
+"start": "2026-10-29T04:17:00.000Z"
+},
+{
+"end": "2026-10-30T08:45:00.000Z",
+"start": "2026-10-30T04:02:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-56736",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-16",
+"title": "Starlink Group 15-16"
+}
+],
+"markers": [],
+"name": "56736",
+"page": "https://space-notices.com/notice/lnm-56736",
+"raw": "Hazardous operations will be conducted for Space X, Starlink g15-16 Launch operations. Hazardous operation areas are bounded by the following coordinates and times:\nHazard Area A: \n29.8N                                       -117.65W \n34.46666667N                         -120.3W \n34.66666667N                         -120.6W \n34.65N                                     -120.65W \n34.5N                                       -120.65W \n29.58333333N                         -118.2W \n29.86666667N                         -117.9W \n(TO BEGINNING)\n\n240529Z OCT TO 240954Z OCT 2026---- (PRIMARY) \n250514Z OCT TO 250939Z OCT 2026---- (BACKUP DAY) \n260500Z OCT TO 260925Z OCT 2026---- (BACKUP DAY) \n270445Z OCT TO 270910Z OCT 2026---- (BACKUP DAY) \n280431Z OCT TO 280856Z OCT 2026---- (BACKUP DAY) \n290417Z OCT TO 290842Z OCT 2026---- (BACKUP DAY) \n300402Z OCT TO 300827Z OCT 2026---- (BACKUP DAY) \n\nHazard Area B:\n29.8N                                       -117.65W \n29.86666667N                         -117.9W \n29.58333333N                         -118.2W \n29.4N                                       -118.13333333W \n29.25N                                     -118.03333333W \n29.03333333N                         -117.98333333W \n28.2N                                       -117.31666667W \n28.83333333N                         -117.31666667W \n29.6N                                       -117.26666667W \n(TO BEGINNING)\n\n240529Z OCT TO 241012Z OCT 2026---- (PRIMARY) \n250514Z OCT TO 250957Z OCT 2026---- (BACKUP DAY) \n260500Z OCT TO 260943Z OCT 2026---- (BACKUP DAY) \n270445Z OCT TO 270928Z OCT 2026---- (BACKUP DAY) \n280431Z OCT TO 280914Z OCT 2026---- (BACKUP DAY) \n290417Z OCT TO 290900Z OCT 2026---- (BACKUP DAY) \n300402Z OCT TO 300845Z OCT 2026---- (BACKUP DAY) \n\nMariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16.",
+"reason": "Hazardous operations will be conducted for Space X Starlink g15-16 launch operations",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-10-19T03:48:28.924Z"
 },
 {
 "areas": [
@@ -284099,11 +284473,11 @@
 "cancelled": false,
 "dates": [
 {
-"end": "2026-10-26T19:00:00.000Z",
+"end": "2026-10-26T17:00:00.000Z",
 "start": "2026-10-26T13:00:00.000Z"
 },
 {
-"end": "2026-11-02T20:00:00.000Z",
+"end": "2026-11-02T18:00:00.000Z",
 "start": "2026-11-02T14:00:00.000Z"
 }
 ],
@@ -284119,13 +284493,13 @@
 "markers": [],
 "name": "FAA Operations Advisory",
 "page": "https://space-notices.com/notice/infopage-faa-operations-advisory-stratolaunch-erebus",
-"raw": "STRATOLAUNCH EREBUS, MOJAVE AIR AND SPACEPORT, CA\nPRIMARY:\t10/26/26\t1300Z-1900Z\nBACKUP:\t\t11/02/26\t1400Z-2000Z",
+"raw": "STRATOLAUNCH EREBUS, MOJAVE AIR AND SPACEPORT, CA\nPRIMARY:\t10/26/26\t1300Z-1700Z\nBACKUP:\t\t11/02/26\t1400Z-1800Z",
 "reason": "STRATOLAUNCH EREBUS, MOJAVE AIR AND SPACEPORT, CA",
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-20T13:40:43.808Z"
+"updated": "2026-10-21T19:32:43.367Z"
 },
 {
 "areas": [],
@@ -284496,7 +284870,103 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82822807",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-21T15:24:28.547Z"
+"updated": "2026-10-21T19:35:29.805Z"
+},
+{
+"areas": [
+[
+[
+36.116667,
+-123.766667
+],
+[
+36.25,
+-123.666667
+],
+[
+36.066667,
+-123.133333
+],
+[
+35.316667,
+-122.633333
+],
+[
+35.216667,
+-122.033333
+],
+[
+35.166667,
+-120.983333
+],
+[
+34.95,
+-120.65
+],
+[
+34.666667,
+-120.566667
+],
+[
+34.15,
+-120.916667
+],
+[
+34.166667,
+-121.416667
+],
+[
+33.466667,
+-121.283333
+],
+[
+33.416667,
+-121.65
+],
+[
+34.283333,
+-122.516667
+],
+[
+36.116667,
+-123.766667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-26T19:00:00.000Z",
+"start": "2026-10-26T13:00:00.000Z"
+},
+{
+"end": "2026-11-02T19:00:00.000Z",
+"start": "2026-11-02T13:00:00.000Z"
+},
+{
+"end": "2026-11-03T19:00:00.000Z",
+"start": "2026-11-03T13:00:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SW BNM 9131-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "other-stratolaunch-erebus",
+"title": "Erebus"
+}
+],
+"markers": [],
+"name": "CGD-SW BNM 9131-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209131-26",
+"raw": "Launch Hazard Area\nMission: Stratolaunch EREBUS Launch Operations \nMessage Id: CGD-SW BNM 9131-26\n\n26/1300 OCT 26 to 26/1900 OCT 26. \n02/1300 NOV 26 to 02/1900 NOV 26. \n03/1300 NOV 26 to 03/1900 NOV 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
+"reason": "Launch Hazard Area - Stratolaunch EREBUS Launch Operations",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-10-15T12:12:25.186Z"
 },
 {
 "areas": [
