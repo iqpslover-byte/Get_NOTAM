@@ -1,6 +1,6 @@
 {
-"count": 439,
-"generated_utc": "2026-10-21T00:10:10Z",
+"count": 433,
+"generated_utc": "2026-10-21T05:21:31Z",
 "notices": [
 {
 "areas": [
@@ -8595,110 +8595,6 @@
 "areas": [
 [
 [
-21.0,
-128.75
-],
-[
-21.0,
-129.9667
-],
-[
-18.45,
-129.9833
-],
-[
-18.35,
-129.1
-],
-[
-21.0,
-128.75
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-07T04:53:00.000Z",
-"start": "2026-10-07T03:23:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-RPHI-B5205/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-e0741415-6c63-4236-9736-24a6c04485bc",
-"title": "NeonSat-2 to 6"
-}
-],
-"markers": [],
-"name": "B5205/26",
-"page": "https://space-notices.com/notice/notam-RPHI-B5205%2F26",
-"raw": "B5205/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/1944N12923E086\r\nA) RPHI B) 2610070323 C) 2610070453\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY KOREA.\r\nEST FALL AREA OF UNBURNED DEBRIS WI:\r\n210000N 1284522E -\r\n210000N 1295838E -\r\n182733N 1295954E -\r\n182122N 1290634E -\r\n210000N 1284522E\r\n(380NM EAST OF BASCO PRINCIPAL AP (CLASS 2))\r\nF) SFC G) UNL",
-"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY KOREA.",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82590811",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-30T10:43:50.533Z"
-},
-{
-"areas": [
-[
-[
-12.75,
-129.4333
-],
-[
-12.8,
-130.0
-],
-[
-8.0667,
-130.0
-],
-[
-8.0667,
-129.9333
-],
-[
-12.75,
-129.4333
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-07T04:53:00.000Z",
-"start": "2026-10-07T03:23:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-RPHI-B5207/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-e0741415-6c63-4236-9736-24a6c04485bc",
-"title": "NeonSat-2 to 6"
-}
-],
-"markers": [],
-"name": "B5207/26",
-"page": "https://space-notices.com/notice/notam-RPHI-B5207%2F26",
-"raw": "B5207/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/1027N12958E145\r\nA) RPHI B) 2610070323 C) 2610070453\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY KOREA.\r\nEST FALL AREA OF UNBURNED DEBRIS WI:\r\n124502N 1292602E -\r\n124831N 1300000E -\r\n080452N 1300000E -\r\n080433N 1295646E -\r\n124502N 1292602E\r\n(220NM EAST OF BISLIG COMMUNITY AP).\r\nF) SFC G) UNL",
-"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY KOREA.",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82590868",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-30T10:44:06.911Z"
-},
-{
-"areas": [
-[
-[
 26.03884,
 -97.1558
 ],
@@ -16056,444 +15952,6 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-10T10:45:37.825Z"
-},
-{
-"areas": [
-[
-[
-12.75,
-129.4333
-],
-[
-12.9167,
-131.0667
-],
-[
-8.2333,
-131.5667
-],
-[
-8.0667,
-129.9333
-],
-[
-12.75,
-129.4333
-]
-],
-[
-[
-21.4833,
-128.6833
-],
-[
-21.6167,
-129.8833
-],
-[
-18.4833,
-130.2833
-],
-[
-18.35,
-129.1
-],
-[
-21.4833,
-128.6833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-07T04:53:00.000Z",
-"start": "2026-10-07T03:33:00.000Z"
-},
-{
-"end": "2026-10-08T04:43:00.000Z",
-"start": "2026-10-08T03:28:00.000Z"
-},
-{
-"end": "2026-10-14T04:43:00.000Z",
-"start": "2026-10-14T03:28:00.000Z"
-}
-],
-"height": null,
-"id": "nav-warning-HYDROPAC 2862/26",
-"kind": "NAVWARNING",
-"launches": [
-{
-"id": "launch-e0741415-6c63-4236-9736-24a6c04485bc",
-"title": "NeonSat-2 to 6"
-}
-],
-"markers": [],
-"name": "HYDROPAC 2862/26",
-"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202862%2F26",
-"raw": "021205Z OCT 26\nHYDROPAC 2862/26.\nNORTH PACIFIC.\nPHILIPPINE SEA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   070333Z TO 070453Z OCT, ALTERNATE\n   0328Z TO 0443Z DAILY 08 AND 14 OCT\n   IN AREAS BOUND BY:\n   A. 21-29.63N 128-41.38E, 21-37.99N 129-53.83E,\n      18-29.72N 130-17.60E, 18-21.37N 129-06.56E.\n   B. 12-45.04N 129-26.03E, 12-55.28N 131-04.99E,\n      08-14.81N 131-34.22E, 08-04.55N 129-56.77E.\n2. CANCEL THIS MSG 140543Z OCT 26.\n",
-"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
-"source": {
-"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2862&createdOn=26&category=14&output=html",
-"name": "US National Geospatial-Intelligence Agency"
-},
-"updated": "2026-10-02T12:15:16.958Z"
-},
-{
-"areas": [
-[
-[
-21.4833,
-128.6833
-],
-[
-21.6167,
-129.8833
-],
-[
-18.4833,
-130.2833
-],
-[
-21.4833,
-128.6833
-]
-],
-[
-[
-12.75,
-129.4333
-],
-[
-12.9167,
-131.0667
-],
-[
-8.2333,
-131.5667
-],
-[
-12.75,
-129.4333
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-07T04:53:00.000Z",
-"start": "2026-10-07T03:33:00.000Z"
-},
-{
-"end": "2026-10-08T04:53:00.000Z",
-"start": "2026-10-08T03:33:00.000Z"
-},
-{
-"end": "2026-10-09T04:53:00.000Z",
-"start": "2026-10-09T03:33:00.000Z"
-},
-{
-"end": "2026-10-10T04:53:00.000Z",
-"start": "2026-10-10T03:33:00.000Z"
-},
-{
-"end": "2026-10-11T04:53:00.000Z",
-"start": "2026-10-11T03:33:00.000Z"
-},
-{
-"end": "2026-10-12T04:53:00.000Z",
-"start": "2026-10-12T03:33:00.000Z"
-},
-{
-"end": "2026-10-13T04:53:00.000Z",
-"start": "2026-10-13T03:33:00.000Z"
-},
-{
-"end": "2026-10-14T04:53:00.000Z",
-"start": "2026-10-14T03:33:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-KZAK-A4799/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-e0741415-6c63-4236-9736-24a6c04485bc",
-"title": "NeonSat-2 to 6"
-}
-],
-"markers": [],
-"name": "A4799/26",
-"page": "https://space-notices.com/notice/notam-KZAK-A4799%2F26",
-"raw": "A4799/26 NOTAMN\nQ) KZAK/QRALW/IV/NBO/W/000/999/\nA) KZAK\nB) 2610070333\nC) 2610140453\nD) DLY 0333-0453\nE) THE KOREA AEROSPACE RESEARCH INSTITUTE HAS PLANNED A SPACE VEHICLE LAUNCH. DEBRIS FROM THIS LAUNCH WILL FALL WI TWO SEPARATE AREAS. THE FAIRING AREA IS DEFINED AS 212938N 1284123E 213759N 1295350E 182943N 1301736E 182122N 1290634E TO POINT OF ORIGIN. THE SECOND STAGE AREA IS DEFINED AS 124502N 1292602E 125517N 1310459E 081449N 1313413E 080433N 1295646E TO POINT OF ORIGIN. IN THE INTEREST OF SAFETY, ALL NON-PARTICIPATING AIR TRAFFIC ARE ADVISED TO AVOID THE NOTAMED AREA. IFR AIRCRAFT UNDER ATC JURISDICTION SHOULD ANTICIPATE CLEARANCE AROUND THE NOTAMED AREA.\nF) SFC\nG) UNL",
-"reason": "KOREA AEROSPACE RESEARCH INSTITUTE SPACE VEHICLE LAUNCH",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82613227",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-01T20:12:40.608Z"
-},
-{
-"areas": [
-[
-[
-31.6,
-128.4667
-],
-[
-31.5,
-127.4833
-],
-[
-30.15,
-127.6833
-],
-[
-30.2667,
-128.65
-],
-[
-31.6,
-128.4667
-]
-],
-[
-[
-21.6167,
-129.8833
-],
-[
-21.4833,
-128.6833
-],
-[
-21.0,
-128.75
-],
-[
-21.0,
-129.9667
-],
-[
-21.6167,
-129.8833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-07T04:53:00.000Z",
-"start": "2026-10-07T03:23:00.000Z"
-},
-{
-"end": "2026-10-08T04:53:00.000Z",
-"start": "2026-10-08T03:23:00.000Z"
-},
-{
-"end": "2026-10-09T04:53:00.000Z",
-"start": "2026-10-09T03:23:00.000Z"
-},
-{
-"end": "2026-10-10T04:53:00.000Z",
-"start": "2026-10-10T03:23:00.000Z"
-},
-{
-"end": "2026-10-11T04:53:00.000Z",
-"start": "2026-10-11T03:23:00.000Z"
-},
-{
-"end": "2026-10-12T04:53:00.000Z",
-"start": "2026-10-12T03:23:00.000Z"
-},
-{
-"end": "2026-10-13T04:53:00.000Z",
-"start": "2026-10-13T03:23:00.000Z"
-},
-{
-"end": "2026-10-14T04:53:00.000Z",
-"start": "2026-10-14T03:23:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-RJJJ-P4728/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-e0741415-6c63-4236-9736-24a6c04485bc",
-"title": "NeonSat-2 to 6"
-}
-],
-"markers": [],
-"name": "P4728/26",
-"page": "https://space-notices.com/notice/notam-RJJJ-P4728%2F26",
-"raw": "P4728/26 NOTAMN\r\nQ)RJJJ/QXXXX/IV/NBO/E/000/999/2613N12829E323\r\nA)RJJJ B)2610070323 C)2610140453\r\nD)0323/0453\r\nE)KSLV(KOREA SPACE LAUNCH VEHICLE) WILL BE LAUNCHED AS FLW\r\n- PLANNED LAUNCH DATE       : OCT 7 2026\r\n- PLANNED LAUNCH WINDOW TIME: 0323-0423 UTC\r\n- RESERVED LAUNCH DATE      : OCT 8 2026 - OCT 14 2026\r\n\r\nTHE FLIGHT SAFETY OF THE AIRCRAFT IN FOLLOWING AREAS MAY BE AFFECTED.\r\nAREA:\r\n 1ST STAGE      : 0328-0443 UTC\r\n                  313644N1282831E - 313031N1272933E -\r\n                  300957N1274127E - 301610N1283936E -\r\n                  313644N1282831E\r\n                 VERTICAL ALTITUDE: SFC-UNL.\r\n\r\n PAYLOAD FAIRING: 0333-0453 UTC\r\n                  213759N1295350E - 212938N1284123E -\r\n                  210000N1284519E - 210000N1295842E -\r\n                  213759N1295350E\r\n                 VERTICAL ALTITUDE: SFC-UNL.\r\n\r\nRMK: ATC WILL NOT CLEAR IFR FLT THRU THIS AREA FOR THE FLIGHT SAFETY\r\nF)SFC G)UNL",
-"reason": "KSLV(KOREA SPACE LAUNCH VEHICLE) WILL BE LAUNCHED AS FLW",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82529816",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-24T09:07:55.783Z"
-},
-{
-"areas": [
-[
-[
-21.0,
-128.75
-],
-[
-21.0,
-129.9667
-],
-[
-18.4833,
-130.2833
-],
-[
-18.35,
-129.1
-],
-[
-21.0,
-128.75
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-07T04:53:00.000Z",
-"start": "2026-10-07T03:23:00.000Z"
-},
-{
-"end": "2026-10-08T04:53:00.000Z",
-"start": "2026-10-08T03:23:00.000Z"
-},
-{
-"end": "2026-10-09T04:53:00.000Z",
-"start": "2026-10-09T03:23:00.000Z"
-},
-{
-"end": "2026-10-10T04:53:00.000Z",
-"start": "2026-10-10T03:23:00.000Z"
-},
-{
-"end": "2026-10-11T04:53:00.000Z",
-"start": "2026-10-11T03:23:00.000Z"
-},
-{
-"end": "2026-10-12T04:53:00.000Z",
-"start": "2026-10-12T03:23:00.000Z"
-},
-{
-"end": "2026-10-13T04:53:00.000Z",
-"start": "2026-10-13T03:23:00.000Z"
-},
-{
-"end": "2026-10-14T04:53:00.000Z",
-"start": "2026-10-14T03:23:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-RPHI-B4912/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-e0741415-6c63-4236-9736-24a6c04485bc",
-"title": "NeonSat-2 to 6"
-}
-],
-"markers": [],
-"name": "B4912/26",
-"page": "https://space-notices.com/notice/notam-RPHI-B4912%2F26",
-"raw": "B4912/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/1945N12932E089\r\nA) RPHI B) 2610070323 C) 2610140453\r\nD) 0323 - 0453\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY KOREA.\r\nEST FALL AREA OF UNBURNED DEBRIS WI:\r\n210000N 1284522E -\r\n210000N 1295838E -\r\n182943N 1301736E -\r\n182122N 1290634E -\r\n210000N 1284522E\r\n(380NM EAST OF BASCO PRINCIPAL AP (CLASS 2))\r\nF) SFC G) UNL",
-"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY KOREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82457748",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-17T13:20:30.517Z"
-},
-{
-"areas": [
-[
-[
-12.75,
-129.4333
-],
-[
-12.8,
-130.0
-],
-[
-8.0667,
-130.0
-],
-[
-8.0667,
-129.9333
-],
-[
-12.75,
-129.4333
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-07T04:53:00.000Z",
-"start": "2026-10-07T03:23:00.000Z"
-},
-{
-"end": "2026-10-08T04:53:00.000Z",
-"start": "2026-10-08T03:23:00.000Z"
-},
-{
-"end": "2026-10-09T04:53:00.000Z",
-"start": "2026-10-09T03:23:00.000Z"
-},
-{
-"end": "2026-10-10T04:53:00.000Z",
-"start": "2026-10-10T03:23:00.000Z"
-},
-{
-"end": "2026-10-11T04:53:00.000Z",
-"start": "2026-10-11T03:23:00.000Z"
-},
-{
-"end": "2026-10-12T04:53:00.000Z",
-"start": "2026-10-12T03:23:00.000Z"
-},
-{
-"end": "2026-10-13T04:53:00.000Z",
-"start": "2026-10-13T03:23:00.000Z"
-},
-{
-"end": "2026-10-14T04:53:00.000Z",
-"start": "2026-10-14T03:23:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-RPHI-B4913/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-e0741415-6c63-4236-9736-24a6c04485bc",
-"title": "NeonSat-2 to 6"
-}
-],
-"markers": [],
-"name": "B4913/26",
-"page": "https://space-notices.com/notice/notam-RPHI-B4913%2F26",
-"raw": "B4913/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/1027N12958E145\r\nA) RPHI B) 2610070323 C) 2610140453\r\nD) 0323 - 0453\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY KOREA.\r\nEST FALL AREA OF UNBURNED DEBRIS WI:\r\n124502N 1292602E -\r\n124831N 1300000E -\r\n080452N 1300000E -\r\n080433N 1295646E -\r\n124502N 1292602E\r\n(220NM EAST OF BISLIG COMMUNITY AP).\r\nF) SFC G) UNL",
-"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY KOREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82457874",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-17T13:38:30.442Z"
 },
 {
 "areas": [
@@ -26991,39 +26449,6 @@
 "updated": "2026-10-19T10:24:24.555Z"
 },
 {
-"areas": [],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-21T02:57:00.000Z",
-"start": "2026-10-20T22:14:00.000Z"
-},
-{
-"end": "2026-10-22T02:42:00.000Z",
-"start": "2026-10-21T21:59:00.000Z"
-}
-],
-"height": null,
-"id": "infopage-faa-operations-advisory-spacex-starlink-15-15",
-"kind": "INFOPAGE",
-"launches": [
-{
-"id": "launch-f9-starlink-15-15",
-"title": "Starlink Group 15-15"
-}
-],
-"markers": [],
-"name": "FAA Operations Advisory",
-"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-15",
-"raw": "SPACEX STARLINK 15-15, VANDENBERG SFB, CA\nPRIMARY:\t10/20/26\t2214Z-0257Z\nBACKUP:\t\t10/21/26\t2159Z-0242Z",
-"reason": "SPACEX STARLINK 15-15, VANDENBERG SFB, CA",
-"source": {
-"link": "https://www.fly.faa.gov/adv/adv_spt",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-13T15:52:44.479Z"
-},
-{
 "areas": [
 [
 [
@@ -28218,7 +27643,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82812079",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-20T12:02:28.824Z"
+"updated": "2026-10-21T00:06:32.549Z"
 },
 {
 "areas": [
@@ -28270,7 +27695,40 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82812087",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-20T12:02:28.824Z"
+"updated": "2026-10-21T00:06:24.531Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-22T02:42:00.000Z",
+"start": "2026-10-21T21:59:00.000Z"
+},
+{
+"end": "2026-10-23T02:28:00.000Z",
+"start": "2026-10-22T21:45:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-spacex-starlink-15-15",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-starlink-15-15",
+"title": "Starlink Group 15-15"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-15",
+"raw": "SPACEX STARLINK 15-15, VANDENBERG SFB, CA\nPRIMARY:\t10/21/26\t2159Z-0242Z\nBACKUP:\t\t10/22/26\t2145Z-0228Z",
+"reason": "SPACEX STARLINK 15-15, VANDENBERG SFB, CA",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-20T23:24:43.385Z"
 },
 {
 "areas": [
@@ -29836,7 +29294,7 @@
 ]
 ]
 ],
-"cancelled": false,
+"cancelled": true,
 "dates": [
 {
 "end": "2026-10-21T04:39:00.000Z",
@@ -29881,7 +29339,79 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82733828",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-14T00:29:30.907Z"
+"updated": "2026-10-21T00:32:45.437Z"
+},
+{
+"areas": [
+[
+[
+-30.0,
+-121.8833
+],
+[
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-28.7167,
+-120.0
+],
+[
+-30.0,
+-120.0
+],
+[
+-30.0,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-22T04:24:00.000Z",
+"start": "2026-10-21T23:46:00.000Z"
+},
+{
+"end": "2026-10-23T04:10:00.000Z",
+"start": "2026-10-22T23:32:00.000Z"
+},
+{
+"end": "2026-10-24T03:55:00.000Z",
+"start": "2026-10-23T23:17:00.000Z"
+},
+{
+"end": "2026-10-25T03:41:00.000Z",
+"start": "2026-10-24T23:03:00.000Z"
+},
+{
+"end": "2026-10-27T03:12:00.000Z",
+"start": "2026-10-26T22:34:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1354/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-15",
+"title": "Starlink Group 15-15"
+}
+],
+"markers": [],
+"name": "A1354/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1354%2F26",
+"raw": "A1354/26 NOTAMR A1326/26\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2858S12112W113\r\nA) NTTT\r\nB) 2610210029 C) 2610270312\r\nD) 21 2346-0424, 22 2332-0410, 23 2317-0355, 24 2303-0341, 25\r\n 2249-0327, 26 2234-0312\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX\r\n STARLINK 15-15 IN TAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING\r\n POINTS : \r\n3000S 12153W, 2759S 12244W, 2709S 12043W, 2843S 12000W, 3000S\r\n 12000W, 3000S 12153W \r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : SCIZ \r\n\r\nTHE FRENCH VERSION OF THIS NOTAM IS C02531/26\r\nF) SFC G) UNL",
+"reason": "TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX STARLINK 15-15",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82812240",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-21T00:32:29.565Z"
 },
 {
 "areas": [
@@ -35549,5 +35079,5 @@
 "pending": 12,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3191
+"total_known": 3192
 }

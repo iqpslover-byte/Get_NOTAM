@@ -12385,18 +12385,18 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-15": {
-"lastmod": "2026-10-13T15:52:44.479Z",
+"lastmod": "2026-10-20T23:24:43.385Z",
 "notice": {
 "areas": [],
 "cancelled": false,
 "dates": [
 {
-"end": "2026-10-21T02:57:00.000Z",
-"start": "2026-10-20T22:14:00.000Z"
-},
-{
 "end": "2026-10-22T02:42:00.000Z",
 "start": "2026-10-21T21:59:00.000Z"
+},
+{
+"end": "2026-10-23T02:28:00.000Z",
+"start": "2026-10-22T21:45:00.000Z"
 }
 ],
 "height": null,
@@ -12411,13 +12411,13 @@
 "markers": [],
 "name": "FAA Operations Advisory",
 "page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-15",
-"raw": "SPACEX STARLINK 15-15, VANDENBERG SFB, CA\nPRIMARY:\t10/20/26\t2214Z-0257Z\nBACKUP:\t\t10/21/26\t2159Z-0242Z",
+"raw": "SPACEX STARLINK 15-15, VANDENBERG SFB, CA\nPRIMARY:\t10/21/26\t2159Z-0242Z\nBACKUP:\t\t10/22/26\t2145Z-0228Z",
 "reason": "SPACEX STARLINK 15-15, VANDENBERG SFB, CA",
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-13T15:52:44.479Z"
+"updated": "2026-10-20T23:24:43.385Z"
 },
 "via": "sitemap"
 },
@@ -89026,6 +89026,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%202862%2F26": {
+"gone": "2026-10-21",
 "lastmod": "2026-10-02T12:15:16.958Z",
 "notice": {
 "areas": [
@@ -222095,6 +222096,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-KZAK-A4799%2F26": {
+"gone": "2026-10-21",
 "lastmod": "2026-10-01T20:12:40.608Z",
 "notice": {
 "areas": [
@@ -239715,7 +239717,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1326%2F26": {
-"lastmod": "2026-10-14T00:29:30.907Z",
+"lastmod": "2026-10-21T00:32:45.437Z",
 "notice": {
 "areas": [
 [
@@ -239745,7 +239747,7 @@
 ]
 ]
 ],
-"cancelled": false,
+"cancelled": true,
 "dates": [
 {
 "end": "2026-10-21T04:39:00.000Z",
@@ -239790,7 +239792,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82733828",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-14T00:29:30.907Z"
+"updated": "2026-10-21T00:32:45.437Z"
 },
 "via": "sitemap"
 },
@@ -239875,6 +239877,82 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-16T18:20:29.816Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-NTTT-A1354%2F26": {
+"lastmod": "2026-10-21T00:32:29.565Z",
+"notice": {
+"areas": [
+[
+[
+-30.0,
+-121.8833
+],
+[
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-28.7167,
+-120.0
+],
+[
+-30.0,
+-120.0
+],
+[
+-30.0,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-22T04:24:00.000Z",
+"start": "2026-10-21T23:46:00.000Z"
+},
+{
+"end": "2026-10-23T04:10:00.000Z",
+"start": "2026-10-22T23:32:00.000Z"
+},
+{
+"end": "2026-10-24T03:55:00.000Z",
+"start": "2026-10-23T23:17:00.000Z"
+},
+{
+"end": "2026-10-25T03:41:00.000Z",
+"start": "2026-10-24T23:03:00.000Z"
+},
+{
+"end": "2026-10-27T03:12:00.000Z",
+"start": "2026-10-26T22:34:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1354/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-15",
+"title": "Starlink Group 15-15"
+}
+],
+"markers": [],
+"name": "A1354/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1354%2F26",
+"raw": "A1354/26 NOTAMR A1326/26\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2858S12112W113\r\nA) NTTT\r\nB) 2610210029 C) 2610270312\r\nD) 21 2346-0424, 22 2332-0410, 23 2317-0355, 24 2303-0341, 25\r\n 2249-0327, 26 2234-0312\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX\r\n STARLINK 15-15 IN TAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING\r\n POINTS : \r\n3000S 12153W, 2759S 12244W, 2709S 12043W, 2843S 12000W, 3000S\r\n 12000W, 3000S 12153W \r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : SCIZ \r\n\r\nTHE FRENCH VERSION OF THIS NOTAM IS C02531/26\r\nF) SFC G) UNL",
+"reason": "TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX STARLINK 15-15",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82812240",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-21T00:32:29.565Z"
 },
 "via": "sitemap"
 },
@@ -243874,6 +243952,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RJJJ-P2537%2F26": {
+"gone": "2026-10-21",
 "lastmod": "2026-05-29T09:34:16.794Z",
 "notice": {
 "areas": [
@@ -244593,6 +244672,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RJJJ-P4728%2F26": {
+"gone": "2026-10-21",
 "lastmod": "2026-09-24T09:07:55.783Z",
 "notice": {
 "areas": [
@@ -245283,6 +245363,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RJJJ-Q1258%2F26": {
+"gone": "2026-10-21",
 "lastmod": "2026-05-29T09:34:05.697Z",
 "notice": {
 "areas": [
@@ -245345,6 +245426,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RJJJ-Q1472%2F26": {
+"gone": "2026-10-21",
 "lastmod": "2026-06-23T10:54:05.710Z",
 "notice": {
 "areas": [
@@ -248518,6 +248600,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RPHI-B4912%2F26": {
+"gone": "2026-10-21",
 "lastmod": "2026-09-17T13:20:30.517Z",
 "notice": {
 "areas": [
@@ -248602,6 +248685,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RPHI-B4913%2F26": {
+"gone": "2026-10-21",
 "lastmod": "2026-09-17T13:38:30.442Z",
 "notice": {
 "areas": [
@@ -248864,6 +248948,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RPHI-B5205%2F26": {
+"gone": "2026-10-21",
 "lastmod": "2026-09-30T10:43:50.533Z",
 "notice": {
 "areas": [
@@ -248920,6 +249005,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RPHI-B5207%2F26": {
+"gone": "2026-10-21",
 "lastmod": "2026-09-30T10:44:06.911Z",
 "notice": {
 "areas": [
@@ -284152,7 +284238,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F273-26": {
-"lastmod": "2026-10-20T12:02:28.824Z",
+"lastmod": "2026-10-21T00:06:32.549Z",
 "notice": {
 "areas": [
 [
@@ -284207,12 +284293,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82812079",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-20T12:02:28.824Z"
+"updated": "2026-10-21T00:06:32.549Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F274-26": {
-"lastmod": "2026-10-20T12:02:28.824Z",
+"lastmod": "2026-10-21T00:06:24.531Z",
 "notice": {
 "areas": [
 [
@@ -284263,9 +284349,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82812087",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-20T12:02:28.824Z"
+"updated": "2026-10-21T00:06:24.531Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLHW-A0063%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
