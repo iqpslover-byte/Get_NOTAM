@@ -1,5 +1,5 @@
 {
-"count": 2926,
+"count": 2928,
 "notices": [
 {
 "areas": [
@@ -281685,6 +281685,114 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-19T17:47:04.906Z"
+},
+{
+"areas": [
+[
+[
+34.5833,
+-120.6833
+],
+[
+34.7,
+-120.5667
+],
+[
+34.5667,
+-120.4
+],
+[
+32.8,
+-119.4
+],
+[
+32.65,
+-119.6333
+],
+[
+34.5833,
+-120.6833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-23T02:08:00.000Z",
+"start": "2026-10-22T21:45:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/273-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-15",
+"title": "Starlink Group 15-15"
+}
+],
+"markers": [],
+"name": "10/273",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F273-26",
+"raw": "!CARF 10/273 ZLA AIRSPACE DCC SX F9 STRLNK G15-15 26-68 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 343500N1204100W TO 344200N1203400W TO 343400N1202400W TO 324800N1192400W TO 323900N1193800W TO POINT OF ORIGIN SFC-UNL 2610222145-2610230208",
+"reason": "SX F9 STRLNK G15-15 26-68",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82812079",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-20T12:02:28.824Z"
+},
+{
+"areas": [
+[
+[
+31.5833,
+-119.15
+],
+[
+32.35,
+-119.4667
+],
+[
+32.5333,
+-119.2667
+],
+[
+31.7667,
+-118.7667
+],
+[
+31.5833,
+-119.15
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-23T02:10:00.000Z",
+"start": "2026-10-22T21:45:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/274-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-15",
+"title": "Starlink Group 15-15"
+}
+],
+"markers": [],
+"name": "10/274",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F274-26",
+"raw": "!CARF 10/274 ZLA AIRSPACE DCC SX F9 STRLNK G15-15 26-68 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 313500N1190900W TO 322100N1192800W TO 323200N1191600W TO 314600N1184600W TO POINT OF ORIGIN SFC-UNL 2610222145-2610230210",
+"reason": "SX F9 STRLNK G15-15 26-68",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82812087",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-20T12:02:28.824Z"
 },
 {
 "areas": [
