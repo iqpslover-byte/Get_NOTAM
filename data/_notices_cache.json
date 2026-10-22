@@ -6152,7 +6152,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SE%20BNM%209080-26": {
-"lastmod": "2026-10-20T15:24:25.925Z",
+"lastmod": "2026-10-21T22:46:40.175Z",
 "notice": {
 "areas": [
 [
@@ -6265,9 +6265,9 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-20T15:24:25.925Z"
+"updated": "2026-10-21T22:46:40.175Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SE%20BNM%209137-25": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -6770,7 +6770,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209000-26": {
-"lastmod": "2026-10-15T12:12:25.186Z",
+"lastmod": "2026-10-21T22:48:07.980Z",
 "notice": {
 "areas": [
 [
@@ -6865,9 +6865,9 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-15T12:12:25.186Z"
+"updated": "2026-10-21T22:48:07.980Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209038-26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -10536,7 +10536,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209131-26": {
-"lastmod": "2026-10-15T12:12:25.186Z",
+"lastmod": "2026-10-21T22:46:29.109Z",
 "notice": {
 "areas": [
 [
@@ -10631,12 +10631,12 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-15T12:12:25.186Z"
+"updated": "2026-10-21T22:46:29.109Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209132-26": {
-"lastmod": "2026-10-19T03:48:28.924Z",
+"lastmod": "2026-10-21T22:46:23.338Z",
 "notice": {
 "areas": [
 [
@@ -10765,12 +10765,12 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-19T03:48:28.924Z"
+"updated": "2026-10-21T22:46:23.338Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209133-26": {
-"lastmod": "2026-10-21T19:35:29.833Z",
+"lastmod": "2026-10-21T23:40:38.289Z",
 "notice": {
 "areas": [
 [
@@ -10899,9 +10899,9 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-21T19:35:29.833Z"
+"updated": "2026-10-21T23:40:38.289Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-blueorigin-ng-2": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -21159,7 +21159,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-56268": {
-"lastmod": "2026-10-14T22:44:34.391Z",
+"lastmod": "2026-10-21T22:45:46.924Z",
 "notice": {
 "areas": [
 [
@@ -21224,8 +21224,16 @@
 "cancelled": false,
 "dates": [
 {
-"end": "2026-10-15T17:00:00.000Z",
-"start": "2026-10-15T13:00:00.000Z"
+"end": "2026-10-26T19:00:00.000Z",
+"start": "2026-10-26T13:00:00.000Z"
+},
+{
+"end": "2026-11-02T19:00:00.000Z",
+"start": "2026-11-02T13:00:00.000Z"
+},
+{
+"end": "2026-11-03T19:00:00.000Z",
+"start": "2026-11-03T13:00:00.000Z"
 }
 ],
 "height": null,
@@ -21240,13 +21248,13 @@
 "markers": [],
 "name": "56268",
 "page": "https://space-notices.com/notice/lnm-56268",
-"raw": "Hazardous operations will be conducted for Launch Operation, EREBUS operation areas are bounded by the following coordinates and times:\n\nHazard Area A:\n36.1166666667N, -123.7666666667W\n36.2500000000N, -123.6666666667W\n36.0666666667N, -123.1333333333W\n35.3166666667N, -122.6333333333W\n35.2166666667N, -122.0333333333W\n35.1666666667N, -120.9833333333W\n34.9500000000N, -120.6500000000W\n34.6666666667N, -120.5666666667W\n34.1500000000N, -120.9166666667W\n34.1666666667N, -121.4166666667W\n33.4666666667N, -121.2833333333W\n33.4166666667N, -121.6500000000W\n34.2833333333N, -122.5166666667W\n\nHazard Period:\n151300Z OCT TO 151700Z OCT 2026           \n\nMariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Stratolaunch at RangeOps@stratolaunch.com, 661-584-2365, or on VHF-FM Chan. 06 or 16.",
-"reason": "Hazardous operations will be conducted for Launch Operation",
+"raw": "Hazardous operations will be conducted for Launch Operation, EREBUS operation areas are bounded by the following coordinates and times:\n\nHazard Area A:\n36.1166666667N, -123.7666666667W\n36.2500000000N, -123.6666666667W\n36.0666666667N, -123.1333333333W\n35.3166666667N, -122.6333333333W\n35.2166666667N, -122.0333333333W\n35.1666666667N, -120.9833333333W\n34.9500000000N, -120.6500000000W\n34.6666666667N, -120.5666666667W\n34.1500000000N, -120.9166666667W\n34.1666666667N, -121.4166666667W\n33.4666666667N, -121.2833333333W\n33.4166666667N, -121.6500000000W\n34.2833333333N, -122.5166666667W\n\nHazard Period:\n261300Z OCT TO 261900Z OCT 2026\n021300Z NOV TO 021900Z NOV 2026\n031300Z NOV TO 031900Z NOV 2026                   \n\nMariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Stratolaunch at RangeOps@stratolaunch.com, 661-584-2365, or on VHF-FM Chan. 06 or 16.",
+"reason": "Hazardous operations will be conducted for Launch Operation by Stratolaunch",
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-14T22:44:34.391Z"
+"updated": "2026-10-21T22:45:46.924Z"
 },
 "via": "sitemap"
 },
@@ -21385,7 +21393,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-56736": {
-"lastmod": "2026-10-19T03:48:28.924Z",
+"lastmod": "2026-10-21T22:45:57.090Z",
 "notice": {
 "areas": [
 [
@@ -21514,12 +21522,12 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-19T03:48:28.924Z"
+"updated": "2026-10-21T22:45:57.090Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-56848": {
-"lastmod": "2026-10-21T19:35:29.833Z",
+"lastmod": "2026-10-21T23:15:47.499Z",
 "notice": {
 "areas": [
 [
@@ -21648,9 +21656,9 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-21T19:35:29.833Z"
+"updated": "2026-10-21T23:15:47.499Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROARC%2010%2F24": {
 "lastmod": "",
@@ -240731,7 +240739,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1354%2F26": {
-"lastmod": "2026-10-21T00:32:29.565Z",
+"lastmod": "2026-10-22T00:36:44.626Z",
 "notice": {
 "areas": [
 [
@@ -240761,7 +240769,7 @@
 ]
 ]
 ],
-"cancelled": false,
+"cancelled": true,
 "dates": [
 {
 "end": "2026-10-22T04:24:00.000Z",
@@ -240802,7 +240810,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82812240",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-21T00:32:29.565Z"
+"updated": "2026-10-22T00:36:44.626Z"
 },
 "via": "sitemap"
 },
@@ -240891,7 +240899,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1356%2F26": {
-"lastmod": "2026-10-21T00:32:45.437Z",
+"lastmod": "2026-10-22T00:36:29.746Z",
 "notice": {
 "areas": [
 [
@@ -240958,9 +240966,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82825369",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-21T00:32:45.437Z"
+"updated": "2026-10-22T00:36:29.746Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NZZC-B4420%2F26": {
 "gone": "2026-09-26",
@@ -241772,6 +241780,70 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-21T05:33:33.488Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-NZZC-B5185%2F26": {
+"lastmod": "2026-10-22T02:46:31.985Z",
+"notice": {
+"areas": [
+[
+[
+-38.9833,
+178.2167
+],
+[
+-39.8,
+178.4
+],
+[
+-39.8,
+177.5
+],
+[
+-39.3,
+177.3
+],
+[
+-39.1,
+177.6
+],
+[
+-39.1,
+177.9
+],
+[
+-38.9833,
+178.2167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-24T08:50:00.000Z",
+"start": "2026-10-24T06:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZC-B5185/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-electron-were-not-hawking-around-3x-hawkeye-360",
+"title": "We're Not Hawking Around (3x HawkEye 360)"
+}
+],
+"markers": [],
+"name": "B5185/26",
+"page": "https://space-notices.com/notice/notam-NZZC-B5185%2F26",
+"raw": "B5185/26 NOTAMN\r\nQ) NZZC/QRDCA/IV/BO /W /000/999/3926S17756E032\r\nA) NZZC B) 2610240630 C) 2610240850\r\nE) TEMPO DANGER AREA NZD025 (MAHIA EAST CAPE) IS PRESCRIBED AS\r\nFLW: EXCLUDING THAT AREA CO-INCIDENT WITH NZR401,\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n38 59 00.20 S 178 13 59.90 E\r\n39 48 00.00 S 178 24 00.00 E\r\n39 48 00.00 S 177 30 00.00 E\r\n39 18 00.00 S 177 18 00.00 E\r\n39 06 00.00 S 177 36 32.80 E\r\n39 06 00.00 S 177 54 00.00 E\r\n38 59 00.20 S 178 13 59.90 E\r\nACTIVITY: ROCKET LAUNCH\r\nUSING AGENCY: ROCKET LAB LIMITED,\r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638 PRESCRIBED PURSUANT TO \r\nCIVIL AVIATION RULE PART 71 UNDER A DELEGATED AUTHORITY ISSUED BY \r\nTHE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET LAUNCH",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82826130",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-22T02:46:31.985Z"
 },
 "via": "sitemap"
 },
@@ -243893,6 +243965,118 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-21T05:35:41.839Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-NZZO-B5186%2F26": {
+"lastmod": "2026-10-22T02:48:32.619Z",
+"notice": {
+"areas": [
+[
+[
+-43.5,
+177.5
+],
+[
+-46.5,
+176.5
+],
+[
+-46.5,
+174.5
+],
+[
+-43.5,
+175.5
+],
+[
+-43.5,
+177.5
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-24T08:50:00.000Z",
+"start": "2026-10-24T06:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B5186/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-electron-were-not-hawking-around-3x-hawkeye-360",
+"title": "We're Not Hawking Around (3x HawkEye 360)"
+}
+],
+"markers": [],
+"name": "B5186/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B5186%2F26",
+"raw": "B5186/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/4501S17602E113\r\nA) NZZO B) 2610240630 C) 2610240850\r\nE) TEMPO DANGER AREA NZD026 (WEST CHATHAM ISLANDS) \r\nIS PRESCRIBED AS FLW:\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n43 30 00.00 S 177 30 00.00 E\r\n46 30 00.00 S 176 30 00.00 E\r\n46 30 00.00 S 174 30 00.00 E\r\n43 30 00.00 S 175 30 00.00 E\r\n43 30 00.00 S 177 30 00.00 E\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED, \r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED \r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82826135",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-22T02:48:32.619Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-NZZO-B5187%2F26": {
+"lastmod": "2026-10-22T02:48:39.707Z",
+"notice": {
+"areas": [
+[
+[
+-53.5,
+173.5
+],
+[
+-56.5,
+172.5
+],
+[
+-56.5,
+171.0
+],
+[
+-53.5,
+172.0
+],
+[
+-53.5,
+173.5
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-24T08:50:00.000Z",
+"start": "2026-10-24T06:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B5187/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-electron-were-not-hawking-around-3x-hawkeye-360",
+"title": "We're Not Hawking Around (3x HawkEye 360)"
+}
+],
+"markers": [],
+"name": "B5187/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B5187%2F26",
+"raw": "B5187/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/5500S17218E102\r\nA) NZZO B) 2610240630 C) 2610240850\r\nE) TEMPO DANGER AREA NZD027 (SOUTHEAST CAMPBELL ISLAND) \r\nIS PRESCRIBED AS FLW:\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n53 30 00.00 S 173 30 00.00 E\r\n56 30 00.00 S 172 30 00.00 E\r\n56 30 00.00 S 171 00 00.00 E\r\n53 30 00.00 S 172 00 00.00 E\r\n53 30 00.00 S 173 30 00.00 E\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED, \r\nRANGE CONTROL CENTRE, TEL +64 28 255 11638 \r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71\r\nUNDER A DELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82826137",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-22T02:48:39.707Z"
 },
 "via": "sitemap"
 },
