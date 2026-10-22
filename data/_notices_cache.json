@@ -8501,6 +8501,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209115-26": {
+"gone": "2026-10-22",
 "lastmod": "2026-09-30T21:15:35.570Z",
 "notice": {
 "areas": [
@@ -8705,6 +8706,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209116-26": {
+"gone": "2026-10-22",
 "lastmod": "2026-09-30T21:55:41.995Z",
 "notice": {
 "areas": [
@@ -8833,6 +8835,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209117-26": {
+"gone": "2026-10-22",
 "lastmod": "2026-09-30T22:41:38.721Z",
 "notice": {
 "areas": [
@@ -8972,6 +8975,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209118-26": {
+"gone": "2026-10-22",
 "lastmod": "2026-09-30T23:50:39.862Z",
 "notice": {
 "areas": [
@@ -9196,6 +9200,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209120-26": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-01T21:24:35.066Z",
 "notice": {
 "areas": [
@@ -9573,9 +9578,10 @@
 },
 "updated": "2026-10-01T22:19:34.870Z"
 },
-"via": "sitemap"
+"via": "entry"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209122-26": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-01T23:03:35.681Z",
 "notice": {
 "areas": [
@@ -9708,6 +9714,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209123-26": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-01T23:48:35.443Z",
 "notice": {
 "areas": [
@@ -12315,15 +12322,11 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-cadenaois-advisory-2829": {
-"lastmod": "2026-10-21T14:24:04.546Z",
+"lastmod": "2026-10-22T11:32:04.292Z",
 "notice": {
 "areas": [],
 "cancelled": false,
 "dates": [
-{
-"end": "2026-10-22T02:42:00.000Z",
-"start": "2026-10-21T21:59:00.000Z"
-},
 {
 "end": "2026-10-23T02:28:00.000Z",
 "start": "2026-10-22T21:45:00.000Z"
@@ -12357,30 +12360,22 @@
 "markers": [],
 "name": "Cadena OIS Advisory 2829",
 "page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2829",
-"raw": "Backup Launch Day\t21 OCT\t2159Z-0242Z\nBackup Launch Day\t22 OCT\t2145Z-0228Z\nBackup Launch Day\t23 OCT\t2130Z-0213Z\nBackup Launch Day\t24 OCT\t2116Z-0159Z\nBackup Launch Day\t25 OCT\t2102Z-0145Z\nBackup Launch Day\t26 OCT\t2047Z-0130Z\n",
+"raw": "Backup Launch Day\t22 OCT\t2145Z-0228Z\nBackup Launch Day\t23 OCT\t2130Z-0213Z\nBackup Launch Day\t24 OCT\t2116Z-0159Z\nBackup Launch Day\t25 OCT\t2102Z-0145Z\nBackup Launch Day\t26 OCT\t2047Z-0130Z\n",
 "reason": "SpaceX Starlink 15-15",
 "source": {
 "link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
 "name": "Cadena OIS"
 },
-"updated": "2026-10-21T14:24:04.546Z"
+"updated": "2026-10-22T11:32:04.292Z"
 },
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-cadenaois-advisory-2830": {
-"lastmod": "2026-10-15T11:04:05.569Z",
+"lastmod": "2026-10-22T11:36:06.665Z",
 "notice": {
 "areas": [],
 "cancelled": false,
 "dates": [
-{
-"end": "2026-10-24T10:12:00.000Z",
-"start": "2026-10-24T05:29:00.000Z"
-},
-{
-"end": "2026-10-25T09:57:00.000Z",
-"start": "2026-10-25T05:14:00.000Z"
-},
 {
 "end": "2026-10-26T09:43:00.000Z",
 "start": "2026-10-26T05:00:00.000Z"
@@ -12414,26 +12409,22 @@
 "markers": [],
 "name": "Cadena OIS Advisory 2830",
 "page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2830",
-"raw": "Primary Launch Day\t24 OCT\t0529Z-1012Z\nBackup Launch Day\t25 OCT\t0514Z-0957Z\nBackup Launch Day\t26 OCT\t0500Z-0943Z\nBackup Launch Day\t27 OCT\t0445Z-0928Z\nBackup Launch Day\t28 OCT\t0431Z-0914Z\nBackup Launch Day\t29 OCT\t0417Z-0900Z\nBackup Launch Day\t30 OCT\t0402Z-0845Z\n",
+"raw": "Backup Launch Day\t26 OCT\t0500Z-0943Z\nBackup Launch Day\t27 OCT\t0445Z-0928Z\nBackup Launch Day\t28 OCT\t0431Z-0914Z\nBackup Launch Day\t29 OCT\t0417Z-0900Z\nBackup Launch Day\t30 OCT\t0402Z-0845Z\n",
 "reason": "SpaceX Starlink 15-16",
 "source": {
 "link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
 "name": "Cadena OIS"
 },
-"updated": "2026-10-15T11:04:05.569Z"
+"updated": "2026-10-22T11:36:06.665Z"
 },
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-cadenaois-advisory-2833": {
-"lastmod": "2026-10-19T15:56:04.071Z",
+"lastmod": "2026-10-22T11:36:05.923Z",
 "notice": {
 "areas": [],
 "cancelled": false,
 "dates": [
-{
-"end": "2026-10-28T09:14:00.000Z",
-"start": "2026-10-28T04:31:00.000Z"
-},
 {
 "end": "2026-10-29T09:00:00.000Z",
 "start": "2026-10-29T04:17:00.000Z"
@@ -12471,13 +12462,13 @@
 "markers": [],
 "name": "Cadena OIS Advisory 2833",
 "page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2833",
-"raw": "Primary Launch Day\t28 OCT\t0431Z-0914Z\nBackup Launch Day\t29 OCT\t0417Z-0900Z\nBackup Launch Day\t30 OCT\t0402Z-0845Z\nBackup Launch Day\t31 OCT\t0348Z-0831Z\nBackup Launch Day\t01 NOV\t0333Z-0816Z\nBackup Launch Day\t02 NOV\t0319Z-0802Z\nBackup Launch Day\t03 NOV\t0305Z-0748Z\n",
+"raw": "Backup Launch Day\t29 OCT\t0417Z-0900Z\nBackup Launch Day\t30 OCT\t0402Z-0845Z\nBackup Launch Day\t31 OCT\t0348Z-0831Z\nBackup Launch Day\t01 NOV\t0333Z-0816Z\nBackup Launch Day\t02 NOV\t0319Z-0802Z\nBackup Launch Day\t03 NOV\t0305Z-0748Z\n",
 "reason": "SpaceX Starlink 15-18",
 "source": {
 "link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
 "name": "Cadena OIS"
 },
-"updated": "2026-10-19T15:56:04.071Z"
+"updated": "2026-10-22T11:36:05.923Z"
 },
 "via": "sitemap"
 },
@@ -12630,6 +12621,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-nasa-crew-12-reentry": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-08T13:32:43.748Z",
 "notice": {
 "areas": [],
@@ -13004,18 +12996,18 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-16": {
-"lastmod": "2026-10-14T13:36:42.420Z",
+"lastmod": "2026-10-22T11:36:43.676Z",
 "notice": {
 "areas": [],
 "cancelled": false,
 "dates": [
 {
-"end": "2026-10-24T10:12:00.000Z",
-"start": "2026-10-24T05:29:00.000Z"
+"end": "2026-10-26T09:43:00.000Z",
+"start": "2026-10-26T05:00:00.000Z"
 },
 {
-"end": "2026-10-25T09:57:00.000Z",
-"start": "2026-10-25T05:14:00.000Z"
+"end": "2026-10-27T09:28:00.000Z",
+"start": "2026-10-27T04:45:00.000Z"
 }
 ],
 "height": null,
@@ -13030,13 +13022,13 @@
 "markers": [],
 "name": "FAA Operations Advisory",
 "page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-16",
-"raw": "SPACEX STARLINK 15-16, VANDENBERG SFB, CA\nPRIMARY:\t10/24/26\t0529Z-1012Z\nBACKUP:\t\t10/25/26\t0514Z-0957Z",
+"raw": "SPACEX STARLINK 15-16, VANDENBERG SFB, CA\nPRIMARY:\t10/26/26\t0500Z-0943Z\nBACKUP:\t\t10/27/26\t0445Z-0928Z",
 "reason": "SPACEX STARLINK 15-16, VANDENBERG SFB, CA",
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-14T13:36:42.420Z"
+"updated": "2026-10-22T11:36:43.676Z"
 },
 "via": "sitemap"
 },
@@ -13430,6 +13422,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-spacex-crew12": {
+"gone": "2026-10-22",
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
 "areas": [],
@@ -19939,6 +19932,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-54929": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-02T01:30:27.980Z",
 "notice": {
 "areas": [
@@ -20011,6 +20005,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-54930": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-02T01:30:37.403Z",
 "notice": {
 "areas": [
@@ -20083,6 +20078,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-54966": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-02T16:45:25.638Z",
 "notice": {
 "areas": [
@@ -20155,6 +20151,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-54967": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-02T16:45:34.174Z",
 "notice": {
 "areas": [
@@ -20227,6 +20224,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-54972": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-02T17:01:29.167Z",
 "notice": {
 "areas": [
@@ -20299,6 +20297,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-54975": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-02T17:01:38.987Z",
 "notice": {
 "areas": [
@@ -20371,6 +20370,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-54977": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-02T17:15:26.721Z",
 "notice": {
 "areas": [
@@ -20443,6 +20443,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-54979": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-02T17:31:27.512Z",
 "notice": {
 "areas": [
@@ -20515,6 +20516,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-54980": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-02T17:31:34.873Z",
 "notice": {
 "areas": [
@@ -215483,6 +215485,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20705%2F26": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-07T14:00:38.266Z",
 "notice": {
 "areas": [
@@ -216139,6 +216142,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20709%2F26": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-07T14:00:27.173Z",
 "notice": {
 "areas": [
@@ -233945,6 +233949,114 @@
 "updated": "2026-10-16T20:05:28.589Z"
 },
 "via": "sitemap"
+},
+"https://space-notices.com/notice/notam-MMFR-B3313%2F26": {
+"lastmod": "2026-10-21T23:40:38.315Z",
+"notice": {
+"areas": [
+[
+[
+28.1833,
+-117.3333
+],
+[
+28.8333,
+-117.8167
+],
+[
+29.0333,
+-117.9833
+],
+[
+29.25,
+-118.0333
+],
+[
+29.4,
+-118.1333
+],
+[
+29.5833,
+-118.2
+],
+[
+31.5833,
+-119.15
+],
+[
+31.7667,
+-118.7667
+],
+[
+29.8,
+-117.65
+],
+[
+29.6,
+-117.2667
+],
+[
+28.8333,
+-117.3167
+],
+[
+28.2,
+-117.3167
+],
+[
+28.1833,
+-117.3333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-28T09:14:00.000Z",
+"start": "2026-10-28T04:31:00.000Z"
+},
+{
+"end": "2026-10-29T09:00:00.000Z",
+"start": "2026-10-29T04:17:00.000Z"
+},
+{
+"end": "2026-10-30T08:45:00.000Z",
+"start": "2026-10-30T04:02:00.000Z"
+},
+{
+"end": "2026-10-31T08:31:00.000Z",
+"start": "2026-10-31T03:48:00.000Z"
+},
+{
+"end": "2026-11-02T08:02:00.000Z",
+"start": "2026-11-02T03:19:00.000Z"
+},
+{
+"end": "2026-11-03T07:48:00.000Z",
+"start": "2026-11-03T03:05:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MMFR-B3313/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-18",
+"title": "Starlink Group 15-18"
+}
+],
+"markers": [],
+"name": "B3313/26",
+"page": "https://space-notices.com/notice/notam-MMFR-B3313%2F26",
+"raw": "B3313/26 NOTAMN\r\r\nQ) MMFR/QRDCA/IV/BO/W/000/999/\r\r\nA) MMFR\r\r\nB) 2610280431\r\r\nC) 2611030748\r\r\nD) OCT 28 0431-0914, 29 0417-0900, 30 0402-0845,31 0348-0831, NOV 01\r\r\n   0333-0816, 02 0319-0802, 03 0305-0748  \r\r\nE) DANGEROUS AREA FOR REENTRY OF ROCKET SPACEX STARLINK 15-18 STAGE 1 \r\r\n   LATERAL LIMIT AREA FORMED BY THE UNION OF THE FLW POINTS:\r\r\n   2811N 11720W\r\r\n   2850N 11749W\r\r\n   2902N 11759W\r\r\n   2915N 11802W\r\r\n   2924N 11808W\r\r\n   2935N 11812W\r\r\n   3135N 11909W\r\r\n   3146N 11846W\r\r\n   2948N 11739W\r\r\n   2936N 11716W\r\r\n   2850N 11719W\r\r\n   2812N 11719W\r\r\n   2811N 11720W\r\r\n   MMFR\r\r\nF) SFC\r\r\nG) UNL",
+"reason": "DANGEROUS AREA FOR REENTRY OF ROCKET SPACEX STARLINK 15-18 STAGE 1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82835325",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-21T23:40:38.315Z"
+},
+"via": "entry"
 },
 "https://space-notices.com/notice/notam-MTEG-A0046%2F26": {
 "lastmod": "2026-09-26T14:10:06.294Z",
@@ -267883,6 +267995,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-10%2F054-26": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-06T21:44:28.922Z",
 "notice": {
 "areas": [
@@ -267975,6 +268088,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-10%2F058-26": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-07T09:53:28.673Z",
 "notice": {
 "areas": [
@@ -268127,6 +268241,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-10%2F063-26": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-07T10:02:28.756Z",
 "notice": {
 "areas": [
@@ -268499,6 +268614,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-10%2F088-26": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-07T18:36:28.918Z",
 "notice": {
 "areas": [
@@ -301366,6 +301482,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZOA-10%2F064-26": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-07T10:02:35.552Z",
 "notice": {
 "areas": [
@@ -314867,6 +314984,342 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/tfr-ZHU-6%2F1666": {
+"lastmod": "2026-10-22T14:39:55.245Z",
+"notice": {
+"areas": [
+[
+[
+26.03884,
+-97.1558
+],
+[
+26.03804,
+-97.14676
+],
+[
+26.03567,
+-97.13807
+],
+[
+26.03182,
+-97.13006
+],
+[
+26.02664,
+-97.12303
+],
+[
+26.02033,
+-97.11727
+],
+[
+26.01313,
+-97.11299
+],
+[
+26.00532,
+-97.11036
+],
+[
+25.99719,
+-97.10947
+],
+[
+25.98907,
+-97.11037
+],
+[
+25.98126,
+-97.11301
+],
+[
+25.97406,
+-97.11729
+],
+[
+25.96775,
+-97.12305
+],
+[
+25.96258,
+-97.13007
+],
+[
+25.95873,
+-97.13808
+],
+[
+25.95636,
+-97.14677
+],
+[
+25.95556,
+-97.1558
+],
+[
+25.95636,
+-97.16483
+],
+[
+25.95873,
+-97.17352
+],
+[
+25.96258,
+-97.18153
+],
+[
+25.96775,
+-97.18855
+],
+[
+25.97406,
+-97.19431
+],
+[
+25.98126,
+-97.19859
+],
+[
+25.98907,
+-97.20123
+],
+[
+25.99719,
+-97.20213
+],
+[
+26.00532,
+-97.20124
+],
+[
+26.01313,
+-97.19861
+],
+[
+26.02033,
+-97.19433
+],
+[
+26.02664,
+-97.18857
+],
+[
+26.03182,
+-97.18154
+],
+[
+26.03567,
+-97.17353
+],
+[
+26.03804,
+-97.16484
+],
+[
+26.03884,
+-97.1558
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-06T05:00:00.000Z",
+"start": "2026-10-23T05:00:00.000Z"
+}
+],
+"height": "10000FT",
+"id": "tfr-ZHU-6/1666",
+"kind": "TFR",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [],
+"name": "FDC 6/1666",
+"page": "https://space-notices.com/notice/tfr-ZHU-6%2F1666",
+"raw": "!FDC 6/1666 ZHU TX..AIRSPACE BROWNSVILLE, TX..TEMPORARY FLIGHT RESTRICTIONS. PURSUANT TO 14 CFR SECTION 91.137(A)(1) HIGH ENERGY TESTING WI AN AREA DEFINED AS 2.5NM RADIUS OF 255950N0970921W (BRO061012.6) SFC-10000FT AGL ONLY RELIEF ACFT OPS UNDER DIRECTION OF SPACEX ARE AUTH IN THE AIRSPACE. SPACEX, KYLE HURN TEL 956-346-8311 IS IN CHARGE OF ON SCENE EMERG RESPONSE ACTIVITY. HOUSTON/ZHU/ARTCC TEL 281-230-5560 IS THE FAA CDN FAC. 2610230500-2611060500",
+"reason": "HIGH ENERGY TESTING",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82832574",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-22T14:39:55.245Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tfr-ZHU-6%2F1671": {
+"lastmod": "2026-10-22T14:54:40.108Z",
+"notice": {
+"areas": [
+[
+[
+25.97558,
+-97.2497
+],
+[
+25.9751,
+-97.24428
+],
+[
+25.97368,
+-97.23907
+],
+[
+25.97137,
+-97.23426
+],
+[
+25.96826,
+-97.23005
+],
+[
+25.96448,
+-97.2266
+],
+[
+25.96016,
+-97.22403
+],
+[
+25.95547,
+-97.22245
+],
+[
+25.9506,
+-97.22192
+],
+[
+25.94572,
+-97.22245
+],
+[
+25.94104,
+-97.22403
+],
+[
+25.93672,
+-97.2266
+],
+[
+25.93293,
+-97.23006
+],
+[
+25.92983,
+-97.23427
+],
+[
+25.92752,
+-97.23907
+],
+[
+25.9261,
+-97.24428
+],
+[
+25.92562,
+-97.2497
+],
+[
+25.9261,
+-97.25512
+],
+[
+25.92752,
+-97.26033
+],
+[
+25.92983,
+-97.26513
+],
+[
+25.93293,
+-97.26934
+],
+[
+25.93672,
+-97.2728
+],
+[
+25.94104,
+-97.27537
+],
+[
+25.94572,
+-97.27695
+],
+[
+25.9506,
+-97.27748
+],
+[
+25.95547,
+-97.27695
+],
+[
+25.96016,
+-97.27537
+],
+[
+25.96448,
+-97.2728
+],
+[
+25.96826,
+-97.26935
+],
+[
+25.97137,
+-97.26514
+],
+[
+25.97368,
+-97.26033
+],
+[
+25.9751,
+-97.25512
+],
+[
+25.97558,
+-97.2497
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-06T05:00:00.000Z",
+"start": "2026-10-23T05:00:00.000Z"
+}
+],
+"height": "5000FT",
+"id": "tfr-ZHU-6/1671",
+"kind": "TFR",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [],
+"name": "FDC 6/1671",
+"page": "https://space-notices.com/notice/tfr-ZHU-6%2F1671",
+"raw": "!FDC 6/1671 ZHU TX..AIRSPACE BROWNSVILLE, TX..TEMPORARY FLIGHT RESTRICTIONS. PURSUANT TO 14 CFR SECTION 91.137(A)(1) HIGH ENERGY TESTING WI AN AREA DEFINED AS 1.5NM RADIUS OF 255702N0971459W (BRO068007.0) SFC-5000FT AGL ONLY RELIEF ACFT OPS UNDER DIRECTION OF SPACEX ARE AUTH IN THE AIRSPACE. SPACEX, KYLE HURN TEL 956-346-8311 IS IN CHARGE OF ON SCENE EMERG RESPONSE ACTIVITY. HOUSTON/ZHU/ARTCC TEL 281-230-5560 IS THE FAA CDN FAC. 2610230500-2611060500",
+"reason": "HIGH ENERGY TESTING",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82832761",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-22T14:54:40.108Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/tfr-ZHU-6%2F2364": {
 "lastmod": "2026-05-22T00:58:01.226Z",
 "notice": {
@@ -321288,6 +321741,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZLA-6%2F7181": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-08T14:51:19.675Z",
 "notice": {
 "areas": [
@@ -321360,6 +321814,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZLA-6%2F7193": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-08T14:49:41.255Z",
 "notice": {
 "areas": [
@@ -321432,6 +321887,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZLA-6%2F7195": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-08T14:49:27.595Z",
 "notice": {
 "areas": [
@@ -321504,6 +321960,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZLA-6%2F7203": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-08T14:49:34.288Z",
 "notice": {
 "areas": [
@@ -321576,6 +322033,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZLA-6%2F7204": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-08T14:49:14.177Z",
 "notice": {
 "areas": [
@@ -321648,6 +322106,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZLA-6%2F7206": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-08T14:49:48.081Z",
 "notice": {
 "areas": [
@@ -321720,6 +322179,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZLA-6%2F7209": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-08T14:49:06.963Z",
 "notice": {
 "areas": [
@@ -321792,6 +322252,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZLA-6%2F7210": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-08T14:49:00.240Z",
 "notice": {
 "areas": [
@@ -321864,6 +322325,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZLA-6%2F7212": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-08T14:51:26.635Z",
 "notice": {
 "areas": [
@@ -321936,6 +322398,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZLA-6%2F7226": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-08T14:49:21.127Z",
 "notice": {
 "areas": [
@@ -322008,6 +322471,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZLA-6%2F7458": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-08T14:50:26.713Z",
 "notice": {
 "areas": [
@@ -322080,6 +322544,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZLA-6%2F7551": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-08T14:51:11.981Z",
 "notice": {
 "areas": [
@@ -322152,6 +322617,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZLA-6%2F7555": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-08T14:51:04.397Z",
 "notice": {
 "areas": [
@@ -322224,6 +322690,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZLA-6%2F7557": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-08T14:50:58.036Z",
 "notice": {
 "areas": [
@@ -322296,6 +322763,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZLA-6%2F7559": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-08T14:50:49.814Z",
 "notice": {
 "areas": [
@@ -322368,6 +322836,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZLA-6%2F7560": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-08T14:50:20.135Z",
 "notice": {
 "areas": [
@@ -322440,6 +322909,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZLA-6%2F7561": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-08T14:50:01.964Z",
 "notice": {
 "areas": [
@@ -322512,6 +322982,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZLA-6%2F7568": {
+"gone": "2026-10-22",
 "lastmod": "2026-10-08T14:50:12.157Z",
 "notice": {
 "areas": [
