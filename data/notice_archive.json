@@ -276557,7 +276557,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82840471",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-23T10:24:43.023Z"
+"updated": "2026-10-23T11:52:57.769Z"
 },
 {
 "areas": [
@@ -277122,7 +277122,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3086&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-10-23T10:24:43.023Z"
+"updated": "2026-10-23T12:37:09.837Z"
 },
 {
 "areas": [
@@ -278913,10 +278913,6 @@
 "cancelled": false,
 "dates": [
 {
-"end": "2026-10-26T09:43:00.000Z",
-"start": "2026-10-26T05:00:00.000Z"
-},
-{
 "end": "2026-10-27T09:28:00.000Z",
 "start": "2026-10-27T04:45:00.000Z"
 }
@@ -278933,13 +278929,13 @@
 "markers": [],
 "name": "FAA Operations Advisory",
 "page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-16",
-"raw": "SPACEX STARLINK 15-16, VANDENBERG SFB, CA\nPRIMARY:\t10/26/26\t0500Z-0943Z\nBACKUP:\t\t10/27/26\t0445Z-0928Z",
+"raw": "SPACEX STARLINK 15-16, VANDENBERG SFB, CA\nPRIMARY:\t10/27/26\t0445Z-0928Z",
 "reason": "SPACEX STARLINK 15-16, VANDENBERG SFB, CA",
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-22T11:36:43.676Z"
+"updated": "2026-10-23T15:56:43.491Z"
 },
 {
 "areas": [

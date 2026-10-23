@@ -1,103 +1,7 @@
 {
-"count": 404,
-"generated_utc": "2026-10-23T13:50:59Z",
+"count": 403,
+"generated_utc": "2026-10-23T18:45:21Z",
 "notices": [
-{
-"areas": [
-[
-[
-12.4,
-116.0667
-],
-[
-13.2833,
-115.4
-],
-[
-13.6167,
-115.8667
-],
-[
-12.7167,
-116.5167
-],
-[
-12.4,
-116.0667
-]
-],
-[
-[
-7.7833,
-119.35
-],
-[
-8.6667,
-118.7167
-],
-[
-9.0,
-119.1667
-],
-[
-8.1,
-119.8
-],
-[
-7.7833,
-119.35
-]
-],
-[
-[
-7.5833,
-119.3833
-],
-[
-8.4667,
-118.75
-],
-[
-8.9,
-119.35
-],
-[
-8.0,
-119.9833
-],
-[
-7.5833,
-119.3833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-23T17:00:00.000Z",
-"start": "2026-09-23T11:00:00.000Z"
-}
-],
-"height": null,
-"id": "nav-warning-HYDROPAC 2726/26",
-"kind": "NAVWARNING",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "HYDROPAC 2726/26",
-"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202726%2F26",
-"raw": "201153Z SEP 26\nHYDROPAC 2726/26\nSOUTH CHINA SEA.\nSULU SEA.\nPHILIPPINES.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   231100Z TO 231700Z SEP\n   IN AREAS BOUND BY:\n   A. 12-24.60N 116-04.20E, 13-17.40N 115-24.60E,\n      13-37.20N 115-52.20E, 12-43.80N 116-31.20E.\n   B. 07-47.00N 119-21.60E, 08-40.80N 118-43.20E,\n      09-00.00N 119-10.80E, 08-06.60N 119-48.60E.\n   C. 07-35.40N 119-23.40E, 08-28.80N 118-45.00E,\n      08-54.00N 119-21.60E, 08-00.60N 119-59.40E.\n2. CANCEL THIS MSG 231800Z SEP 26.//\n",
-"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
-"source": {
-"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2726&createdOn=26&category=14&output=html",
-"name": "US National Geospatial-Intelligence Agency"
-},
-"updated": "2026-09-20T11:55:52.593Z"
-},
 {
 "areas": [
 [
@@ -23045,7 +22949,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82840471",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-23T10:24:43.023Z"
+"updated": "2026-10-23T11:52:57.769Z"
 },
 {
 "areas": [
@@ -23610,7 +23514,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3086&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-10-23T10:24:43.023Z"
+"updated": "2026-10-23T12:37:09.837Z"
 },
 {
 "areas": [
@@ -25401,10 +25305,6 @@
 "cancelled": false,
 "dates": [
 {
-"end": "2026-10-26T09:43:00.000Z",
-"start": "2026-10-26T05:00:00.000Z"
-},
-{
 "end": "2026-10-27T09:28:00.000Z",
 "start": "2026-10-27T04:45:00.000Z"
 }
@@ -25421,13 +25321,13 @@
 "markers": [],
 "name": "FAA Operations Advisory",
 "page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-16",
-"raw": "SPACEX STARLINK 15-16, VANDENBERG SFB, CA\nPRIMARY:\t10/26/26\t0500Z-0943Z\nBACKUP:\t\t10/27/26\t0445Z-0928Z",
+"raw": "SPACEX STARLINK 15-16, VANDENBERG SFB, CA\nPRIMARY:\t10/27/26\t0445Z-0928Z",
 "reason": "SPACEX STARLINK 15-16, VANDENBERG SFB, CA",
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-22T11:36:43.676Z"
+"updated": "2026-10-23T15:56:43.491Z"
 },
 {
 "areas": [
