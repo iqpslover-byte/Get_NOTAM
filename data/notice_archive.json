@@ -1,5 +1,5 @@
 {
-"count": 2903,
+"count": 2892,
 "notices": [
 {
 "areas": [
@@ -263005,330 +263005,6 @@
 "areas": [
 [
 [
-34.9833,
--124.3
-],
-[
-35.0333,
--122.3333
-],
-[
-34.2667,
--122.25
-],
-[
-33.9,
--124.2167
-],
-[
-34.9833,
--124.3
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-09T12:23:00.000Z",
-"start": "2026-10-09T06:01:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZAK-10/071-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "other-vsfb-operation-W7600",
-"title": "VSFB Operation W7600"
-}
-],
-"markers": [],
-"name": "10/071",
-"page": "https://space-notices.com/notice/notam-ZAK-10%2F071-26",
-"raw": "!CARF 10/071 ZAK AIRSPACE DCC ASTERION 26-1 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 345900N1241800W TO 350200N1222000W TO 341600N1221500W TO 335400N1241300W TO POINT OF ORIGIN SFC-UNL 2610090601-2610091223",
-"reason": "ASTERION 26-1",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82671173",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-09T11:29:02.491Z"
-},
-{
-"areas": [
-[
-[
-34.9833,
--124.3
-],
-[
-35.0333,
--122.3333
-],
-[
-34.2667,
--122.25
-],
-[
-33.9,
--124.2167
-],
-[
-34.9833,
--124.3
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-09T12:23:00.000Z",
-"start": "2026-10-09T06:01:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLA-10/077-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "other-vsfb-operation-W7600",
-"title": "VSFB Operation W7600"
-}
-],
-"markers": [],
-"name": "10/077",
-"page": "https://space-notices.com/notice/notam-ZLA-10%2F077-26",
-"raw": "!CARF 10/077 ZLA AIRSPACE DCC ASTERION 26-1 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 345900N1241800W TO 350200N1222000W TO 341600N1221500W TO 335400N1241300W TO POINT OF ORIGIN SFC-UNL 2610090601-2610091223",
-"reason": "ASTERION 26-1",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82671220",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-09T11:26:52.781Z"
-},
-{
-"areas": [
-[
-[
-34.5333,
--132.45
-],
-[
-34.75,
--130.6833
-],
-[
-32.4,
--130.3667
-],
-[
-32.2167,
--132.1
-],
-[
-34.5333,
--132.45
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-09T12:28:00.000Z",
-"start": "2026-10-09T06:01:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZAK-10/074-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "other-vsfb-operation-W7600",
-"title": "VSFB Operation W7600"
-}
-],
-"markers": [],
-"name": "10/074",
-"page": "https://space-notices.com/notice/notam-ZAK-10%2F074-26",
-"raw": "!CARF 10/074 ZAK AIRSPACE DCC ASTERION 26-1 STNR ALT RESERVATION AREA C WI AN AREA DEFINED AS 343200N1322700W TO 344500N1304100W TO 322400N1302200W TO 321300N1320600W TO POINT OF ORIGIN SFC-UNL 2610090601-2610091228",
-"reason": "ASTERION 26-1",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82671177",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-09T11:28:38.771Z"
-},
-{
-"areas": [
-[
-[
-34.7167,
--120.5667
-],
-[
-34.6667,
--120.9667
-],
-[
-34.6667,
--121.1333
-],
-[
-34.8333,
--121.1333
-],
-[
-34.8333,
--120.5667
-],
-[
-34.7167,
--120.5667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-09T12:32:00.000Z",
-"start": "2026-10-09T06:01:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLA-10/076-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "other-vsfb-operation-W7600",
-"title": "VSFB Operation W7600"
-}
-],
-"markers": [],
-"name": "10/076",
-"page": "https://space-notices.com/notice/notam-ZLA-10%2F076-26",
-"raw": "!CARF 10/076 ZLA AIRSPACE DCC ASTERION 26-1 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 344300N1203400W TO 344000N1205800W TO 344000N1210800W TO 345000N1210800W TO 345000N1203400W TO POINT OF ORIGIN SFC-UNL 2610090601-2610091232",
-"reason": "ASTERION 26-1",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82671196",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-09T11:26:59.311Z"
-},
-{
-"areas": [
-[
-[
-24.5333,
--164.1833
-],
-[
-25.4167,
--161.9
-],
-[
-24.5833,
--161.5667
-],
-[
-23.7,
--163.8667
-],
-[
-24.5333,
--164.1833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-09T12:34:00.000Z",
-"start": "2026-10-09T06:01:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZAK-10/072-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "other-vsfb-operation-W7600",
-"title": "VSFB Operation W7600"
-}
-],
-"markers": [],
-"name": "10/072",
-"page": "https://space-notices.com/notice/notam-ZAK-10%2F072-26",
-"raw": "!CARF 10/072 ZAK AIRSPACE DCC ASTERION 26-1 STNR ALT RESERVATION AREA D WI AN AREA DEFINED AS 243200N1641100W TO 252500N1615400W TO 243500N1613400W TO 234200N1635200W TO POINT OF ORIGIN SFC-UNL 2610090601-2610091234",
-"reason": "ASTERION 26-1",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82671178",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-09T11:28:48.257Z"
-},
-{
-"areas": [
-[
-[
-9.2667,
-167.35
-],
-[
-9.3833,
-167.55
-],
-[
-9.5,
-167.4833
-],
-[
-9.7667,
-167.9167
-],
-[
-9.3333,
-168.2
-],
-[
-8.9167,
-167.55
-],
-[
-9.2667,
-167.35
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-09T12:42:00.000Z",
-"start": "2026-10-09T06:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZAK-10/047-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "other-vsfb-operation-W7600",
-"title": "VSFB Operation W7600"
-}
-],
-"markers": [],
-"name": "10/047",
-"page": "https://space-notices.com/notice/notam-ZAK-10%2F047-26",
-"raw": "!CARF 10/047 ZAK AIRSPACE DCC RTR AIROPS 448 STNR ALT RESERVATION WI AN AREA DEFINED AS 091600N1672100E TO 092300N1673300E TO 093000N1672900E TO 094600N1675500E TO 092000N1681200E TO 085500N1673300E TO POINT OF ORIGIN SFC-UNL 2610090600-2610091242",
-"reason": "RTR AIROPS 448",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82655570",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-09T11:28:10.695Z"
-},
-{
-"areas": [
-[
-[
 9.2667,
 118.95
 ],
@@ -263604,552 +263280,6 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-09T11:19:42.696Z"
-},
-{
-"areas": [
-[
-[
-34.9833,
--124.3
-],
-[
-35.0333,
--122.3333
-],
-[
-34.2667,
--122.25
-],
-[
-33.9,
--124.2167
-],
-[
-34.9833,
--124.3
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-10T12:23:00.000Z",
-"start": "2026-10-10T06:01:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZAK-10/085-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "other-vsfb-operation-W7600",
-"title": "VSFB Operation W7600"
-}
-],
-"markers": [],
-"name": "10/085",
-"page": "https://space-notices.com/notice/notam-ZAK-10%2F085-26",
-"raw": "!CARF 10/085 ZAK AIRSPACE DCC ASTERION 26-1 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 345900N1241800W TO 350200N1222000W TO 341600N1221500W TO 335400N1241300W TO POINT OF ORIGIN SFC-UNL 2610100601-2610101223",
-"reason": "ASTERION 26-1",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82671998",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-09T11:29:26.215Z"
-},
-{
-"areas": [
-[
-[
-34.9833,
--124.3
-],
-[
-35.0333,
--122.3333
-],
-[
-34.2667,
--122.25
-],
-[
-33.9,
--124.2167
-],
-[
-34.9833,
--124.3
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-10T12:23:00.000Z",
-"start": "2026-10-10T06:01:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLA-10/086-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "other-vsfb-operation-W7600",
-"title": "VSFB Operation W7600"
-}
-],
-"markers": [],
-"name": "10/086",
-"page": "https://space-notices.com/notice/notam-ZLA-10%2F086-26",
-"raw": "!CARF 10/086 ZLA AIRSPACE DCC ASTERION 26-1 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 345900N1241800W TO 350200N1222000W TO 341600N1221500W TO 335400N1241300W TO POINT OF ORIGIN SFC-UNL 2610100601-2610101223",
-"reason": "ASTERION 26-1",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82672012",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-09T11:27:06.056Z"
-},
-{
-"areas": [
-[
-[
-34.5333,
--132.45
-],
-[
-34.75,
--130.6833
-],
-[
-32.4,
--130.3667
-],
-[
-32.2167,
--132.1
-],
-[
-34.5333,
--132.45
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-10T12:28:00.000Z",
-"start": "2026-10-10T06:01:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZAK-10/091-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "other-vsfb-operation-W7600",
-"title": "VSFB Operation W7600"
-}
-],
-"markers": [],
-"name": "10/091",
-"page": "https://space-notices.com/notice/notam-ZAK-10%2F091-26",
-"raw": "!CARF 10/091 ZAK AIRSPACE DCC ASTERION 26-1 STNR ALT RESERVATION AREA C WI AN AREA DEFINED AS 343200N1322700W TO 344500N1304100W TO 322400N1302200W TO 321300N1320600W TO POINT OF ORIGIN SFC-UNL 2610100601-2610101228",
-"reason": "ASTERION 26-1",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82672157",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-09T11:29:08.471Z"
-},
-{
-"areas": [
-[
-[
-34.633333,
--120.6
-],
-[
-34.916667,
--120.6
-],
-[
-34.916667,
--121.3
-],
-[
-34.633333,
--121.3
-],
-[
-34.633333,
--120.6
-]
-],
-[
-[
-34.983333,
--124.3
-],
-[
-35.033333,
--122.333333
-],
-[
-34.266667,
--122.25
-],
-[
-33.9,
--124.216667
-],
-[
-34.983333,
--124.3
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-09T12:32:00.000Z",
-"start": "2026-10-09T05:31:00.000Z"
-},
-{
-"end": "2026-10-10T12:32:00.000Z",
-"start": "2026-10-10T05:31:00.000Z"
-}
-],
-"height": null,
-"id": "bnm-CGD-SW BNM 9124-26",
-"kind": "BNM",
-"launches": [
-{
-"id": "other-vsfb-operation-W7600",
-"title": "VSFB Operation W7600"
-}
-],
-"markers": [],
-"name": "CGD-SW BNM 9124-26",
-"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209124-26",
-"raw": "Launch Hazard Area\nMission: Western Range operation W7600 \nMessage Id: CGD-SW BNM 9124-26\n\n\n09/0531 OCT 26 to 09/1232 OCT 26. \n10/0531 OCT 26 to 10/1232 OCT 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
-"reason": "Launch Hazard Area - Western Range operation W7600",
-"source": {
-"link": "https://www.navcen.uscg.gov/chart",
-"name": "US Coast Guard"
-},
-"updated": "2026-10-02T22:18:36.288Z"
-},
-{
-"areas": [
-[
-[
-34.633,
--120.6
-],
-[
-34.917,
--120.6
-],
-[
-34.917,
--121.3
-],
-[
-34.633,
--121.3
-],
-[
-34.633,
--120.6
-]
-],
-[
-[
-34.983,
--124.3
-],
-[
-35.033,
--122.333
-],
-[
-34.267,
--122.25
-],
-[
-33.9,
--124.217
-],
-[
-34.983,
--124.3
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-09T12:32:00.000Z",
-"start": "2026-10-09T05:31:00.000Z"
-},
-{
-"end": "2026-10-10T12:32:00.000Z",
-"start": "2026-10-10T05:31:00.000Z"
-}
-],
-"height": null,
-"id": "lnm-54985",
-"kind": "LNM",
-"launches": [
-{
-"id": "other-vsfb-operation-W7600",
-"title": "VSFB Operation W7600"
-}
-],
-"markers": [],
-"name": "54985",
-"page": "https://space-notices.com/notice/lnm-54985",
-"raw": "Hazardous operations will be conducted for Vandenberg Space Force Base, Western Range Operation W7600. Hazardous operation areas are bounded by the following coordinates and times:\n\nHazard Area A: \n34.633N, -120.600W\n34.917N, -120.600W\n34.917N, -121.300W\n34.633N, -121.300W\n(TO BEGINNING)\n\n 090531Z OCT TO 091232Z OCT 2026---- DO 2604 (PRIMARY)\n100531Z OCT TO 101232Z OCT 2026---- DO 2604 (BACKUP DAY)\n\nHazard Area B:\n34.983N, -124.300W\n35.033N, -122.333W\n34.267N, -122.250W\n33.900N, -124.217W\n\nSurface vessels are strongly advised to avoid this area defined during specified dates / times. During operations, frontier control will be managing hazardous area surface traffic on VHF CH 16 and CH 6. For more details or comments contact 2 ROPS/DOS via telephone at commercial 805-606-8825 OR DSN 276-8825, or email: 2ROPS.DOS@US.AF.MIL.",
-"reason": "Hazardous operations will be conducted for Vandenberg Space Force Base, Western Range Operation W7600",
-"source": {
-"link": "https://www.navcen.uscg.gov/msi",
-"name": "US Coast Guard"
-},
-"updated": "2026-10-02T22:00:26.853Z"
-},
-{
-"areas": [
-[
-[
-34.7167,
--120.5667
-],
-[
-34.6667,
--120.9667
-],
-[
-34.6667,
--121.1333
-],
-[
-34.8333,
--121.1333
-],
-[
-34.8333,
--120.5667
-],
-[
-34.7167,
--120.5667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-10T12:32:00.000Z",
-"start": "2026-10-10T06:01:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLA-10/087-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "other-vsfb-operation-W7600",
-"title": "VSFB Operation W7600"
-}
-],
-"markers": [],
-"name": "10/087",
-"page": "https://space-notices.com/notice/notam-ZLA-10%2F087-26",
-"raw": "!CARF 10/087 ZLA AIRSPACE DCC ASTERION 26-1 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 344300N1203400W TO 344000N1205800W TO 344000N1210800W TO 345000N1210800W TO 345000N1203400W TO POINT OF ORIGIN SFC-UNL 2610100601-2610101232",
-"reason": "ASTERION 26-1",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82672038",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-09T11:27:13.628Z"
-},
-{
-"areas": [],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-09T12:34:00.000Z",
-"start": "2026-10-09T06:01:00.000Z"
-},
-{
-"end": "2026-10-10T12:34:00.000Z",
-"start": "2026-10-10T06:01:00.000Z"
-}
-],
-"height": null,
-"id": "infopage-cadenaois-advisory-2774",
-"kind": "INFOPAGE",
-"launches": [
-{
-"id": "other-vsfb-operation-W7600",
-"title": "VSFB Operation W7600"
-}
-],
-"markers": [],
-"name": "Cadena OIS Advisory 2774",
-"page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2774",
-"raw": "Primary Launch Day\t09 OCT\t0601Z-1234Z\nBackup Launch Day\t10 OCT\t0601Z-1234Z\n",
-"reason": "Northrop Grumman MK21-2b",
-"source": {
-"link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
-"name": "Cadena OIS"
-},
-"updated": "2026-10-05T17:12:06.500Z"
-},
-{
-"areas": [],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-09T12:34:00.000Z",
-"start": "2026-10-09T06:01:00.000Z"
-},
-{
-"end": "2026-10-10T12:34:00.000Z",
-"start": "2026-10-10T06:01:00.000Z"
-}
-],
-"height": null,
-"id": "infopage-faa-operations-advisory-northrop-grumman-mk21-2b",
-"kind": "INFOPAGE",
-"launches": [
-{
-"id": "other-vsfb-operation-W7600",
-"title": "VSFB Operation W7600"
-}
-],
-"markers": [],
-"name": "FAA Operations Advisory",
-"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-northrop-grumman-mk21-2b",
-"raw": "NORTHROP GRUMMAN MK21-2B, VANDENBERG SFB, CA\nPRIMARY:\t10/09/26\t0601Z-1234Z\nBACKUP:\t\t10/10/26\t0601Z-1234Z",
-"reason": "NORTHROP GRUMMAN MK21-2B, VANDENBERG SFB, CA",
-"source": {
-"link": "https://www.fly.faa.gov/adv/adv_spt",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-03T19:34:43.565Z"
-},
-{
-"areas": [
-[
-[
-24.5333,
--164.1833
-],
-[
-25.4167,
--161.9
-],
-[
-24.5833,
--161.5667
-],
-[
-23.7,
--163.8667
-],
-[
-24.5333,
--164.1833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-10T12:34:00.000Z",
-"start": "2026-10-10T06:01:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZAK-10/090-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "other-vsfb-operation-W7600",
-"title": "VSFB Operation W7600"
-}
-],
-"markers": [],
-"name": "10/090",
-"page": "https://space-notices.com/notice/notam-ZAK-10%2F090-26",
-"raw": "!CARF 10/090 ZAK AIRSPACE DCC ASTERION 26-1 STNR ALT RESERVATION AREA D WI AN AREA DEFINED AS 243200N1641100W TO 252500N1615400W TO 243500N1613400W TO 234200N1635200W TO POINT OF ORIGIN SFC-UNL 2610100601-2610101234",
-"reason": "ASTERION 26-1",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82672164",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-09T11:29:17.454Z"
-},
-{
-"areas": [
-[
-[
-9.2667,
-167.35
-],
-[
-9.3833,
-167.55
-],
-[
-9.5,
-167.4833
-],
-[
-9.7667,
-167.9167
-],
-[
-9.3333,
-168.2
-],
-[
-8.9167,
-167.55
-],
-[
-9.2667,
-167.35
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-10T12:42:00.000Z",
-"start": "2026-10-10T06:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZAK-10/081-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "other-vsfb-operation-W7600",
-"title": "VSFB Operation W7600"
-}
-],
-"markers": [],
-"name": "10/081",
-"page": "https://space-notices.com/notice/notam-ZAK-10%2F081-26",
-"raw": "!CARF 10/081 ZAK AIRSPACE DCC RTR AIROPS 448 STNR ALT RESERVATION WI AN AREA DEFINED AS 091600N1672100E TO 092300N1673300E TO 093000N1672900E TO 094600N1675500E TO 092000N1681200E TO 085500N1673300E TO POINT OF ORIGIN SFC-UNL 2610100600-2610101242",
-"reason": "RTR AIROPS 448",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82671401",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-09T11:28:24.657Z"
 },
 {
 "areas": [
@@ -277381,6 +276511,58 @@
 "areas": [
 [
 [
+39.7333,
+107.5
+],
+[
+39.6333,
+108.1833
+],
+[
+39.35,
+108.1167
+],
+[
+39.45,
+107.4167
+],
+[
+39.7333,
+107.5
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-24T02:34:00.000Z",
+"start": "2026-10-24T02:09:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLHW-A5495/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5495/26",
+"page": "https://space-notices.com/notice/notam-ZLHW-A5495%2F26",
+"raw": "A5495/26 NOTAMN\r\nQ)ZLHW/QRDCA/IV/BO/W/000/999/3932N10748E019\r\nA)ZLHW B)2610240209 C)2610240234 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN394400E1073000-N393800E1081100-N392100E1080700-N392700E1072500, \r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82840471",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-23T10:24:43.023Z"
+},
+{
+"areas": [
+[
+[
 -38.9833,
 178.2167
 ],
@@ -277650,6 +276832,58 @@
 "updated": "2026-10-22T10:19:28.241Z"
 },
 {
+"areas": [
+[
+[
+39.7333,
+107.5
+],
+[
+39.6333,
+108.1833
+],
+[
+39.35,
+108.1167
+],
+[
+39.45,
+107.4167
+],
+[
+39.7333,
+107.5
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-24T14:49:00.000Z",
+"start": "2026-10-24T14:06:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLHW-A5496/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5496/26",
+"page": "https://space-notices.com/notice/notam-ZLHW-A5496%2F26",
+"raw": "A5496/26 NOTAMN\r\nQ)ZLHW/QRDCA/IV/BO/W/000/999/3932N10748E019\r\nA)ZLHW B)2610241406 C)2610241449 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN394400E1073000-N393800E1081100-N392100E1080700-N392700E1072500, \r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA. \r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82840480",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-23T10:24:36.650Z"
+},
+{
 "areas": [],
 "cancelled": false,
 "dates": [
@@ -277793,6 +277027,102 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-20T12:31:17.842Z"
+},
+{
+"areas": [
+[
+[
+13.2667,
+115.9
+],
+[
+13.6167,
+116.35
+],
+[
+12.7667,
+117.05
+],
+[
+12.4167,
+116.6
+],
+[
+13.2667,
+115.9
+]
+],
+[
+[
+8.0,
+120.05
+],
+[
+8.3333,
+120.5
+],
+[
+7.4667,
+121.1667
+],
+[
+7.1333,
+120.7167
+],
+[
+8.0,
+120.05
+]
+],
+[
+[
+8.0,
+119.95
+],
+[
+8.4333,
+120.5333
+],
+[
+7.5667,
+121.2
+],
+[
+7.1333,
+120.6167
+],
+[
+8.0,
+119.95
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-25T06:00:00.000Z",
+"start": "2026-10-25T00:01:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3086/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-long-march-8a-unknown-payload-6b95bcc8",
+"title": "Unknown Payload"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3086/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203086%2F26",
+"raw": "231207Z OCT 26\nHYDROPAC 3086/26.\nSOUTH CHINA SEA.\nSULU SEA.\nPHILIPPINES.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   250001Z TO 250600Z OCT IN AREAS BOUND BY:\n   A. 13-16.80N 115-54.60E, 13-37.80N 116-21.60E,\n       12-46.20N 117-03.00E, 12-25.80N 116-36.60E.\n   B. 08-00.00N 120-03.60E, 08-20.40N 120-30.00E,\n       07-28.20N 121-10.20E, 07-08.40N 120-43.80E.\n   C. 08-00.00N 119-57.00E, 08-26.40N 120-32.40E,\n       07-34.80N 121-12.60E, 07-08.40N 120-37.20E.\n2. CANCEL THIS MSG 250700Z OCT 26.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3086&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-10-23T10:24:43.023Z"
 },
 {
 "areas": [
@@ -278442,10 +277772,6 @@
 "cancelled": false,
 "dates": [
 {
-"end": "2026-10-23T02:28:00.000Z",
-"start": "2026-10-22T21:45:00.000Z"
-},
-{
 "end": "2026-10-24T02:13:00.000Z",
 "start": "2026-10-23T21:30:00.000Z"
 },
@@ -278474,13 +277800,13 @@
 "markers": [],
 "name": "Cadena OIS Advisory 2829",
 "page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2829",
-"raw": "Backup Launch Day\t22 OCT\t2145Z-0228Z\nBackup Launch Day\t23 OCT\t2130Z-0213Z\nBackup Launch Day\t24 OCT\t2116Z-0159Z\nBackup Launch Day\t25 OCT\t2102Z-0145Z\nBackup Launch Day\t26 OCT\t2047Z-0130Z\n",
+"raw": "Backup Launch Day\t23 OCT\t2130Z-0213Z\nBackup Launch Day\t24 OCT\t2116Z-0159Z\nBackup Launch Day\t25 OCT\t2102Z-0145Z\nBackup Launch Day\t26 OCT\t2047Z-0130Z\n",
 "reason": "SpaceX Starlink 15-15",
 "source": {
 "link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
 "name": "Cadena OIS"
 },
-"updated": "2026-10-22T11:32:04.292Z"
+"updated": "2026-10-23T10:32:04.330Z"
 },
 {
 "areas": [
@@ -281620,6 +280946,94 @@
 "areas": [
 [
 [
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-38.35,
+-115.0667
+],
+[
+-49.15,
+-107.3667
+],
+[
+-59.15,
+-95.5667
+],
+[
+-59.9667,
+-99.0833
+],
+[
+-44.5667,
+-114.2167
+],
+[
+-27.9833,
+-122.7333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-28T10:56:00.000Z",
+"start": "2026-10-28T06:18:00.000Z"
+},
+{
+"end": "2026-10-29T10:42:00.000Z",
+"start": "2026-10-29T06:04:00.000Z"
+},
+{
+"end": "2026-10-30T10:27:00.000Z",
+"start": "2026-10-30T05:49:00.000Z"
+},
+{
+"end": "2026-10-31T10:13:00.000Z",
+"start": "2026-10-31T05:35:00.000Z"
+},
+{
+"end": "2026-11-01T09:58:00.000Z",
+"start": "2026-11-01T05:20:00.000Z"
+},
+{
+"end": "2026-11-02T09:44:00.000Z",
+"start": "2026-11-02T05:06:00.000Z"
+},
+{
+"end": "2026-11-03T09:30:00.000Z",
+"start": "2026-11-03T04:52:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3072/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-f9-starlink-15-18",
+"title": "Starlink Group 15-18"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3072/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203072%2F26",
+"raw": "230405Z OCT 26\nHYDROPAC 3072/26.\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   280618Z TO 281056Z, 290604Z TO 291042Z,\n   300549Z TO 301027Z, 310535Z TO 311013Z OCT\n   010520Z TO 010958Z, 020506Z TO 020944Z\n   AND 030452Z TO 030930Z NOV\n   IN AREA BOUND BY\n   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,\n   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,\n   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,\n   44-34.00S 114-13.00W.\n2. CANCEL THIS MSG 031030Z NOV 26.//\n\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3072&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-10-23T10:24:12.645Z"
+},
+{
+"areas": [
+[
+[
 -30.0,
 -121.8833
 ],
@@ -282542,6 +281956,74 @@
 "areas": [
 [
 [
+9.2667,
+118.95
+],
+[
+9.4667,
+119.2167
+],
+[
+8.95,
+119.6
+],
+[
+8.75,
+119.3333
+],
+[
+9.2667,
+118.95
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-05T23:00:00.000Z",
+"start": "2026-11-05T20:00:00.000Z"
+},
+{
+"end": "2026-11-06T23:00:00.000Z",
+"start": "2026-11-06T20:00:00.000Z"
+},
+{
+"end": "2026-11-07T23:00:00.000Z",
+"start": "2026-11-07T20:00:00.000Z"
+},
+{
+"end": "2026-11-08T23:00:00.000Z",
+"start": "2026-11-08T20:00:00.000Z"
+},
+{
+"end": "2026-11-09T23:00:00.000Z",
+"start": "2026-11-09T20:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RPHI-B5731/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "B5731/26",
+"page": "https://space-notices.com/notice/notam-RPHI-B5731%2F26",
+"raw": "B5731/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/0907N11917E023\r\nA) RPHI B) 2611052000 C) 2611092300\r\nD) 2000-2300\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.\r\nEST FALL AREA OF UNBURNED DEBRIS WI:\r\n091600N 1185700E -\r\n092800N 1191300E -\r\n085700N 1193600E -\r\n084500N 1192000E -\r\n091600N 1185700E\r\n(27NM SOUTHEAST OF PUERTO PRINCESA INTL AP).\r\nF) SFC G) UNL",
+"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82842293",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-23T11:10:28.742Z"
+},
+{
+"areas": [
+[
+[
 12.0,
 84.75
 ],
@@ -282848,7 +282330,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82840312",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-09-30T09:05:35.384Z"
+"updated": "2026-10-23T10:24:26.777Z"
 },
 {
 "areas": [
