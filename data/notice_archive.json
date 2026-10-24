@@ -1,5 +1,5 @@
 {
-"count": 2892,
+"count": 2891,
 "notices": [
 {
 "areas": [
@@ -263005,58 +263005,6 @@
 "areas": [
 [
 [
-9.2667,
-118.95
-],
-[
-9.4667,
-119.2167
-],
-[
-8.95,
-119.6
-],
-[
-8.75,
-119.3333
-],
-[
-9.2667,
-118.95
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-09T19:49:00.000Z",
-"start": "2026-10-09T19:20:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-RPHI-B5162/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "B5162/26",
-"page": "https://space-notices.com/notice/notam-RPHI-B5162%2F26",
-"raw": "B5162/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/0907N11917E023\r\nA) RPHI B) 2610091920 C) 2610091949\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA. \r\nEST FALL AREA OF UNBURNED DEBRIS WI:\r\n091600N 1185700E - \r\n092800N 1191300E - \r\n085700N 1193600E - \r\n084500N 1192000E - \r\n091600N 1185700E\r\n(28NM SOUTHEAST OF PUERTO PRINCESA AP).\r\nF) SFC G) UNL",
-"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82575912",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-29T07:43:50.453Z"
-},
-{
-"areas": [
-[
-[
 8.95,
 119.6
 ],
@@ -278915,6 +278863,10 @@
 {
 "end": "2026-10-27T09:28:00.000Z",
 "start": "2026-10-27T04:45:00.000Z"
+},
+{
+"end": "2026-10-28T09:28:00.000Z",
+"start": "2026-10-28T04:31:00.000Z"
 }
 ],
 "height": null,
@@ -278929,13 +278881,13 @@
 "markers": [],
 "name": "FAA Operations Advisory",
 "page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-16",
-"raw": "SPACEX STARLINK 15-16, VANDENBERG SFB, CA\nPRIMARY:\t10/27/26\t0445Z-0928Z",
+"raw": "SPACEX STARLINK 15-16, VANDENBERG SFB, CA\nPRIMARY:\t10/27/26\t0445Z-0928Z\nBACKUP:\t\t10/28/26\t0431Z-0928Z",
 "reason": "SPACEX STARLINK 15-16, VANDENBERG SFB, CA",
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-23T15:56:43.491Z"
+"updated": "2026-10-23T19:52:43.083Z"
 },
 {
 "areas": [

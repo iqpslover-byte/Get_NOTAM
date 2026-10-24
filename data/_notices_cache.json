@@ -12995,7 +12995,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-16": {
-"lastmod": "2026-10-23T15:56:43.491Z",
+"lastmod": "2026-10-23T19:52:43.083Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -13003,6 +13003,10 @@
 {
 "end": "2026-10-27T09:28:00.000Z",
 "start": "2026-10-27T04:45:00.000Z"
+},
+{
+"end": "2026-10-28T09:28:00.000Z",
+"start": "2026-10-28T04:31:00.000Z"
 }
 ],
 "height": null,
@@ -13017,13 +13021,13 @@
 "markers": [],
 "name": "FAA Operations Advisory",
 "page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-16",
-"raw": "SPACEX STARLINK 15-16, VANDENBERG SFB, CA\nPRIMARY:\t10/27/26\t0445Z-0928Z",
+"raw": "SPACEX STARLINK 15-16, VANDENBERG SFB, CA\nPRIMARY:\t10/27/26\t0445Z-0928Z\nBACKUP:\t\t10/28/26\t0431Z-0928Z",
 "reason": "SPACEX STARLINK 15-16, VANDENBERG SFB, CA",
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-23T15:56:43.491Z"
+"updated": "2026-10-23T19:52:43.083Z"
 },
 "via": "sitemap"
 },
@@ -250836,6 +250840,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RPHI-B5162%2F26": {
+"gone": "2026-10-24",
 "lastmod": "2026-09-29T07:43:50.453Z",
 "notice": {
 "areas": [
