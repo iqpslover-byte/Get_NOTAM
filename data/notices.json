@@ -1,6 +1,6 @@
 {
-"count": 402,
-"generated_utc": "2026-10-24T01:13:46Z",
+"count": 404,
+"generated_utc": "2026-10-24T11:40:26Z",
 "notices": [
 {
 "areas": [
@@ -23981,6 +23981,114 @@
 "areas": [
 [
 [
+32.65,
+-119.6333
+],
+[
+32.8,
+-119.4
+],
+[
+34.5667,
+-120.4
+],
+[
+34.7,
+-120.5667
+],
+[
+34.5833,
+-120.6833
+],
+[
+32.65,
+-119.6333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-26T09:23:00.000Z",
+"start": "2026-10-26T05:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/293-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-16",
+"title": "Starlink Group 15-16"
+}
+],
+"markers": [],
+"name": "10/293",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F293-26",
+"raw": "!CARF 10/293 ZLA AIRSPACE DCC SX F9 STARLINK 15-16 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 323900N1193800W TO 324800N1192400W TO 343400N1202400W TO 344200N1203400W TO 343500N1204100W TO POINT OF ORIGIN SFC-UNL 2610260500-2610260923",
+"reason": "SX F9 STARLINK 15-16",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82852796",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-22T23:41:28.481Z"
+},
+{
+"areas": [
+[
+[
+31.5833,
+-119.15
+],
+[
+32.35,
+-119.4667
+],
+[
+32.5333,
+-119.2667
+],
+[
+31.7667,
+-118.7667
+],
+[
+31.5833,
+-119.15
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-26T09:25:00.000Z",
+"start": "2026-10-26T05:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/292-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-16",
+"title": "Starlink Group 15-16"
+}
+],
+"markers": [],
+"name": "10/292",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F292-26",
+"raw": "!CARF 10/292 ZLA AIRSPACE DCC SX F9 STARLINK 15-16 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 313500N1190900W TO 322100N1192800W TO 323200N1191600W TO 314600N1184600W TO POINT OF ORIGIN SFC-UNL 2610260500-2610260925",
+"reason": "SX F9 STARLINK 15-16",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82852799",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-22T23:41:28.481Z"
+},
+{
+"areas": [
+[
+[
 29.8,
 -117.65
 ],
@@ -32427,5 +32535,5 @@
 "pending": 12,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3224
+"total_known": 3226
 }
