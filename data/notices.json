@@ -1,6 +1,6 @@
 {
-"count": 361,
-"generated_utc": "2026-10-24T23:45:46Z",
+"count": 362,
+"generated_utc": "2026-10-25T10:10:41Z",
 "notices": [
 {
 "areas": [
@@ -22353,6 +22353,58 @@
 "updated": "2026-10-20T12:06:39.120Z"
 },
 {
+"areas": [
+[
+[
+31.5833,
+-119.15
+],
+[
+32.35,
+-119.4667
+],
+[
+32.5333,
+-119.2667
+],
+[
+31.7667,
+-118.7667
+],
+[
+31.5833,
+-119.15
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-27T09:10:00.000Z",
+"start": "2026-10-27T04:45:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/300-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-16",
+"title": "Starlink Group 15-16"
+}
+],
+"markers": [],
+"name": "10/300",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F300-26",
+"raw": "!CARF 10/300 ZLA AIRSPACE DCC SX F9 STARLINK 15-16 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 313500N1190900W TO 322100N1192800W TO 323200N1191600W TO 314600N1184600W TO POINT OF ORIGIN SFC-UNL 2610270445-2610270910",
+"reason": "SX F9 STARLINK 15-16",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82858564",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-24T18:28:45.884Z"
+},
+{
 "areas": [],
 "cancelled": false,
 "dates": [
@@ -29401,5 +29453,5 @@
 "pending": 11,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3227
+"total_known": 3228
 }
