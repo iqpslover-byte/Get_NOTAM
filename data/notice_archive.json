@@ -1,5 +1,5 @@
 {
-"count": 2856,
+"count": 2857,
 "notices": [
 {
 "areas": [
@@ -279792,6 +279792,106 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-23T10:24:26.777Z"
+},
+{
+"areas": [
+[
+[
+7.8333,
+95.1667
+],
+[
+9.5833,
+95.1667
+],
+[
+9.5833,
+96.0833
+],
+[
+7.8333,
+96.0833
+],
+[
+7.8333,
+95.1667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-30T21:00:00.000Z",
+"start": "2026-10-30T17:00:00.000Z"
+},
+{
+"end": "2026-10-31T21:00:00.000Z",
+"start": "2026-10-31T17:00:00.000Z"
+},
+{
+"end": "2026-11-01T21:00:00.000Z",
+"start": "2026-11-01T17:00:00.000Z"
+},
+{
+"end": "2026-11-02T21:00:00.000Z",
+"start": "2026-11-02T17:00:00.000Z"
+},
+{
+"end": "2026-11-03T21:00:00.000Z",
+"start": "2026-11-03T17:00:00.000Z"
+},
+{
+"end": "2026-11-04T21:00:00.000Z",
+"start": "2026-11-04T17:00:00.000Z"
+},
+{
+"end": "2026-11-05T21:00:00.000Z",
+"start": "2026-11-05T17:00:00.000Z"
+},
+{
+"end": "2026-11-06T21:00:00.000Z",
+"start": "2026-11-06T17:00:00.000Z"
+},
+{
+"end": "2026-11-07T21:00:00.000Z",
+"start": "2026-11-07T17:00:00.000Z"
+},
+{
+"end": "2026-11-08T21:00:00.000Z",
+"start": "2026-11-08T17:00:00.000Z"
+},
+{
+"end": "2026-11-09T21:00:00.000Z",
+"start": "2026-11-09T17:00:00.000Z"
+},
+{
+"end": "2026-11-10T21:00:00.000Z",
+"start": "2026-11-10T17:00:00.000Z"
+},
+{
+"end": "2026-11-11T21:00:00.000Z",
+"start": "2026-11-11T17:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-WMFC-A4225/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-gslv-mk-ii-irnss-1l-nvs-03",
+"title": "IRNSS-1L (NVS-03)"
+}
+],
+"markers": [],
+"name": "A4225/26",
+"page": "https://space-notices.com/notice/notam-WMFC-A4225%2F26",
+"raw": "A4225/26 NOTAMN\r\nQ) WMFC/QWMLW/IV/BO /W /000/999/\r\nA) WMFC B) 2610301700 C) 2611112100 \r\nD)1700-2100\r\nE)TEMPO DNG ZONE 4 ESTABLISHED WI THE FLW COORD DUE TO THE LAUNCHING\r\n   OF GSLV-18 ROCKET FM INDIA:\r\n\r\n   075000N0951000E - 093500N0951000E - 093500N0960500E -\r\n   075000N0960500E - 075000N0951000E\r\n\r\n   NO FLT PERMITTED OVER AND NEAR THE DNG ZONE.\r\n\r\n   ATS ROUTE AFFECTED IN KUALA LUMPUR FIR AS FLW:\r\n   1. P628 BTN IGREX AND MAPSO\r\n   2. L510 BTN EMRAN AND LEKIR\r\n   3. L645 BTN SAMAK AND SAPAM\r\n\r\n   RMK: THE LAUNCH WILL BE ON ANY ONE OF THE DAY DRG THIS PERIOD.\r\n   ACTUAL DATE OF LAUNCH WILL BE INTIMATED 24 HRS IN ADVANCE\r\n   THROUGH A SEPARATE NOTAM PUBLICATION BY VOMF\r\nF) SFC                             G) UNL",
+"reason": "LAUNCH OF GSLV-18 ROCKET",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82864247",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-26T07:23:32.116Z"
 },
 {
 "areas": [],

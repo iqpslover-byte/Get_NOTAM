@@ -1,115 +1,7 @@
 {
 "count": 366,
-"generated_utc": "2026-10-25T23:35:14Z",
+"generated_utc": "2026-10-26T08:09:05Z",
 "notices": [
-{
-"areas": [
-[
-[
-28.1833,
--117.3333
-],
-[
-28.8333,
--117.8167
-],
-[
-29.0333,
--117.9833
-],
-[
-29.25,
--118.0333
-],
-[
-29.4,
--118.1333
-],
-[
-29.5833,
--118.2
-],
-[
-31.5833,
--119.15
-],
-[
-31.7667,
--118.7667
-],
-[
-29.8,
--117.65
-],
-[
-29.6,
--117.2667
-],
-[
-28.8333,
--117.3167
-],
-[
-28.2,
--117.3167
-],
-[
-28.1833,
--117.3333
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-20T06:30:00.000Z",
-"start": "2026-09-20T01:47:00.000Z"
-},
-{
-"end": "2026-09-21T06:16:00.000Z",
-"start": "2026-09-21T01:33:00.000Z"
-},
-{
-"end": "2026-09-22T06:01:00.000Z",
-"start": "2026-09-22T01:18:00.000Z"
-},
-{
-"end": "2026-09-23T05:47:00.000Z",
-"start": "2026-09-23T01:04:00.000Z"
-},
-{
-"end": "2026-09-24T05:33:00.000Z",
-"start": "2026-09-24T00:50:00.000Z"
-},
-{
-"end": "2026-09-25T05:18:00.000Z",
-"start": "2026-09-25T00:35:00.000Z"
-},
-{
-"end": "2026-09-26T05:04:00.000Z",
-"start": "2026-09-26T00:21:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-MMFR-B1862/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-9536659f-bacc-4396-8bd4-04f8050cc92d",
-"title": "Demo Flight"
-}
-],
-"markers": [],
-"name": "B1862/26",
-"page": "https://space-notices.com/notice/notam-MMFR-B1862%2F26",
-"raw": "B1862/26 NOTAMN\r\r\nQ) MMFR/QRDCA/IV/BO/W/000/999/\r\r\nA) MMFR\r\r\nB) 2609200147\r\r\nC) 2609260504\r\r\nD) 20 0147-0630, 21 0133-0616, 22 0118-0601, 23 0104-0547, 24 0050-0533,\r\r\n   25 0035-0518, 26 0021-0504\r\r\nE) DANGEROUS AREA FOR REENTRY OF ROCKET SPACEX SL 15-27 STAGE 1 \r\r\n   LATERAL LIMIT AREA FORMED BY THE UNION OF THE FLW POINTS:\r\r\n   2811N 11720W - 2850N 11749W - 2902N 11759W - 2915N 11802W - 2924N\r\r\n   11808W - 2935N 11812W - 3135N 11909W - 3146N 11846W - 2948N 11739W -\r\r\n   2936N 11716W - 2850N 11719W - 2812N 11719W - 2811N 11720W\r\r\n   MMFR\r\r\nF) SFC\r\r\nG) UNL",
-"reason": "DANGEROUS AREA FOR REENTRY OF ROCKET SPACEX SL 15-27 STAGE 1",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82462226",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-17T19:21:34.494Z"
-},
 {
 "areas": [
 [
@@ -26115,6 +26007,106 @@
 "updated": "2026-10-23T10:24:26.777Z"
 },
 {
+"areas": [
+[
+[
+7.8333,
+95.1667
+],
+[
+9.5833,
+95.1667
+],
+[
+9.5833,
+96.0833
+],
+[
+7.8333,
+96.0833
+],
+[
+7.8333,
+95.1667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-30T21:00:00.000Z",
+"start": "2026-10-30T17:00:00.000Z"
+},
+{
+"end": "2026-10-31T21:00:00.000Z",
+"start": "2026-10-31T17:00:00.000Z"
+},
+{
+"end": "2026-11-01T21:00:00.000Z",
+"start": "2026-11-01T17:00:00.000Z"
+},
+{
+"end": "2026-11-02T21:00:00.000Z",
+"start": "2026-11-02T17:00:00.000Z"
+},
+{
+"end": "2026-11-03T21:00:00.000Z",
+"start": "2026-11-03T17:00:00.000Z"
+},
+{
+"end": "2026-11-04T21:00:00.000Z",
+"start": "2026-11-04T17:00:00.000Z"
+},
+{
+"end": "2026-11-05T21:00:00.000Z",
+"start": "2026-11-05T17:00:00.000Z"
+},
+{
+"end": "2026-11-06T21:00:00.000Z",
+"start": "2026-11-06T17:00:00.000Z"
+},
+{
+"end": "2026-11-07T21:00:00.000Z",
+"start": "2026-11-07T17:00:00.000Z"
+},
+{
+"end": "2026-11-08T21:00:00.000Z",
+"start": "2026-11-08T17:00:00.000Z"
+},
+{
+"end": "2026-11-09T21:00:00.000Z",
+"start": "2026-11-09T17:00:00.000Z"
+},
+{
+"end": "2026-11-10T21:00:00.000Z",
+"start": "2026-11-10T17:00:00.000Z"
+},
+{
+"end": "2026-11-11T21:00:00.000Z",
+"start": "2026-11-11T17:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-WMFC-A4225/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-gslv-mk-ii-irnss-1l-nvs-03",
+"title": "IRNSS-1L (NVS-03)"
+}
+],
+"markers": [],
+"name": "A4225/26",
+"page": "https://space-notices.com/notice/notam-WMFC-A4225%2F26",
+"raw": "A4225/26 NOTAMN\r\nQ) WMFC/QWMLW/IV/BO /W /000/999/\r\nA) WMFC B) 2610301700 C) 2611112100 \r\nD)1700-2100\r\nE)TEMPO DNG ZONE 4 ESTABLISHED WI THE FLW COORD DUE TO THE LAUNCHING\r\n   OF GSLV-18 ROCKET FM INDIA:\r\n\r\n   075000N0951000E - 093500N0951000E - 093500N0960500E -\r\n   075000N0960500E - 075000N0951000E\r\n\r\n   NO FLT PERMITTED OVER AND NEAR THE DNG ZONE.\r\n\r\n   ATS ROUTE AFFECTED IN KUALA LUMPUR FIR AS FLW:\r\n   1. P628 BTN IGREX AND MAPSO\r\n   2. L510 BTN EMRAN AND LEKIR\r\n   3. L645 BTN SAMAK AND SAPAM\r\n\r\n   RMK: THE LAUNCH WILL BE ON ANY ONE OF THE DAY DRG THIS PERIOD.\r\n   ACTUAL DATE OF LAUNCH WILL BE INTIMATED 24 HRS IN ADVANCE\r\n   THROUGH A SEPARATE NOTAM PUBLICATION BY VOMF\r\nF) SFC                             G) UNL",
+"reason": "LAUNCH OF GSLV-18 ROCKET",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82864247",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-26T07:23:32.116Z"
+},
+{
 "areas": [],
 "cancelled": false,
 "dates": [
@@ -29671,5 +29663,5 @@
 "pending": 11,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3233
+"total_known": 3234
 }
