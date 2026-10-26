@@ -13077,18 +13077,18 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-18": {
-"lastmod": "2026-10-25T21:28:42.603Z",
+"lastmod": "2026-10-26T11:48:43.223Z",
 "notice": {
 "areas": [],
 "cancelled": false,
 "dates": [
 {
-"end": "2026-10-28T09:14:00.000Z",
-"start": "2026-10-28T04:31:00.000Z"
+"end": "2026-10-30T08:45:00.000Z",
+"start": "2026-10-30T04:02:00.000Z"
 },
 {
-"end": "2026-10-29T09:00:00.000Z",
-"start": "2026-10-29T04:17:00.000Z"
+"end": "2026-10-31T08:31:00.000Z",
+"start": "2026-10-31T03:48:00.000Z"
 }
 ],
 "height": null,
@@ -13103,13 +13103,13 @@
 "markers": [],
 "name": "FAA Operations Advisory",
 "page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-18",
-"raw": "SPACEX STARLINK 15-18, VANDENBERG SFB, CA\nPRIMARY:\t10/28/26\t0431Z-0914Z\nBACKUP:\t\t10/29/26\t0417Z-0900Z",
+"raw": "SPACEX STARLINK 15-18, VANDENBERG SFB, CA\nPRIMARY:\t10/30/26\t0402Z-0845Z\nBACKUP:\t\t10/31/26\t0348Z-0831Z",
 "reason": "SPACEX STARLINK 15-18, VANDENBERG SFB, CA",
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-25T21:28:42.603Z"
+"updated": "2026-10-26T11:48:43.223Z"
 },
 "via": "sitemap"
 },
@@ -253739,6 +253739,102 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-SCIZ-W3662%2F26": {
+"lastmod": "2026-10-26T13:42:29.315Z",
+"notice": {
+"areas": [
+[
+[
+-30.0,
+-121.8833
+],
+[
+-30.0,
+-120.0
+],
+[
+-28.7167,
+-120.0
+],
+[
+-38.35,
+-115.0667
+],
+[
+-49.15,
+-107.3667
+],
+[
+-59.15,
+-95.5667
+],
+[
+-59.9667,
+-99.0833
+],
+[
+-44.5667,
+-114.2167
+],
+[
+-30.0,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-02T08:21:00.000Z",
+"start": "2026-11-02T03:43:00.000Z"
+},
+{
+"end": "2026-11-03T08:07:00.000Z",
+"start": "2026-11-03T03:29:00.000Z"
+},
+{
+"end": "2026-11-04T07:53:00.000Z",
+"start": "2026-11-04T03:15:00.000Z"
+},
+{
+"end": "2026-11-05T07:39:00.000Z",
+"start": "2026-11-05T03:01:00.000Z"
+},
+{
+"end": "2026-11-06T07:25:00.000Z",
+"start": "2026-11-06T02:47:00.000Z"
+},
+{
+"end": "2026-11-07T07:11:00.000Z",
+"start": "2026-11-07T02:33:00.000Z"
+},
+{
+"end": "2026-11-08T06:57:00.000Z",
+"start": "2026-11-08T02:19:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-SCIZ-W3662/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-18",
+"title": "Starlink Group 15-18"
+}
+],
+"markers": [],
+"name": "W3662/26",
+"page": "https://space-notices.com/notice/notam-SCIZ-W3662%2F26",
+"raw": "W3662/26 NOTAMN \r\nQ)SCIZ/QXXXX/IV/NBO/W/000/999/4508S11211W258\r\nA)SCIZ B)2611020343 C)2611080657\r\nD)02 0343-0821, 03 0329-0807, 04 0315-0753, 05 0301-0739,\r\n06 0247-0725, 07 0233-0711, 08 0219-0657\r\nE)ZONE...D... IN WATERS PACIFIC OCEAN DUE TO SPACE VEHICLE RE-ENTRY\r\nAND SPLASHDOWN ACTIVITY. THE AFFECTED AREA IS BOUNDED BY NXT GEO\r\nCOORD: \r\n300000S/1215300W\r\n300000S/1200000W\r\n284300S/1200000W\r\n382100S/1150400W\r\n490900S/1072200W\r\n590900S/0953400W\r\n595800S/0990500W\r\n443400S/1141300W\r\n300000S/1215300W\r\nINSTRUCTIONS: SANTIAGO OCEANIC CONTROL 10024KHZ FANS 1A EQUIPPED\r\nINFO PROVIDED BY SPACE X\r\nF)SFC G)UNL",
+"reason": "SPACE VEHICLE RE-ENTRY AND SPLASHDOWN ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82867742",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-26T13:42:29.315Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-SMPM-A0368%2F26": {
 "lastmod": "2026-09-27T19:52:14.739Z",
 "notice": {
@@ -287447,6 +287543,122 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-25T10:16:37.276Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZLA-10%2F312-26": {
+"lastmod": "2026-10-26T10:11:44.016Z",
+"notice": {
+"areas": [
+[
+[
+32.65,
+-119.6333
+],
+[
+32.8,
+-119.4
+],
+[
+34.5667,
+-120.4
+],
+[
+34.7,
+-120.5667
+],
+[
+34.5833,
+-120.6833
+],
+[
+32.65,
+-119.6333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-28T08:54:00.000Z",
+"start": "2026-10-28T04:31:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/312-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-16",
+"title": "Starlink Group 15-16"
+}
+],
+"markers": [],
+"name": "10/312",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F312-26",
+"raw": "!CARF 10/312 ZLA AIRSPACE DCC SX F9 STARLINK 15-16 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 323900N1193800W TO 324800N1192400W TO 343400N1202400W TO 344200N1203400W TO 343500N1204100W TO POINT OF ORIGIN SFC-UNL 2610280431-2610280854",
+"reason": "SX F9 STARLINK 15-16",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82865332",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-26T10:11:44.016Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZLA-10%2F313-26": {
+"lastmod": "2026-10-26T10:11:35.969Z",
+"notice": {
+"areas": [
+[
+[
+31.5833,
+-119.15
+],
+[
+32.35,
+-119.4667
+],
+[
+32.5333,
+-119.2667
+],
+[
+31.7667,
+-118.7667
+],
+[
+31.5833,
+-119.15
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-28T08:56:00.000Z",
+"start": "2026-10-28T04:31:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/313-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-16",
+"title": "Starlink Group 15-16"
+}
+],
+"markers": [],
+"name": "10/313",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F313-26",
+"raw": "!CARF 10/313 ZLA AIRSPACE DCC SX F9 STARLINK 15-16 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 313500N1190900W TO 322100N1192800W TO 323200N1191600W TO 314600N1184600W TO POINT OF ORIGIN SFC-UNL 2610280431-2610280856",
+"reason": "SX F9 STARLINK 15-16",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82865329",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-26T10:11:35.969Z"
 },
 "via": "sitemap"
 },
