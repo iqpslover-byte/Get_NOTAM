@@ -242204,7 +242204,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1374%2F26": {
-"lastmod": "2026-10-26T18:36:07.108Z",
+"lastmod": "2026-10-26T19:28:29.467Z",
 "notice": {
 "areas": [
 [
@@ -242271,12 +242271,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82872123",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-26T18:36:07.108Z"
+"updated": "2026-10-26T19:28:29.467Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1375%2F26": {
-"lastmod": "2026-10-26T18:45:40.353Z",
+"lastmod": "2026-10-26T19:46:29.823Z",
 "notice": {
 "areas": [
 [
@@ -242351,9 +242351,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82872243",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-26T18:45:40.353Z"
+"updated": "2026-10-26T19:46:29.823Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NZZC-B4420%2F26": {
 "gone": "2026-09-26",
