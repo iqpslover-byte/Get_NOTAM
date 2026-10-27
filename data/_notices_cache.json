@@ -8275,6 +8275,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209113-26": {
+"gone": "2026-10-27",
 "lastmod": "2026-09-28T21:33:34.811Z",
 "notice": {
 "areas": [
@@ -12000,6 +12001,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-cadenaois-advisory-2750": {
+"gone": "2026-10-27",
 "lastmod": "2026-10-09T10:52:04.313Z",
 "notice": {
 "areas": [],
@@ -13408,6 +13410,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-25": {
+"gone": "2026-10-27",
 "lastmod": "2026-10-09T13:48:43.089Z",
 "notice": {
 "areas": [],
@@ -13999,6 +14002,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-spacex-sl-15-25": {
+"gone": "2026-10-27",
 "lastmod": "2026-09-22T14:42:21.462Z",
 "notice": {
 "areas": [],
@@ -19085,6 +19089,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-54068": {
+"gone": "2026-10-27",
 "lastmod": "2026-09-28T21:30:29.414Z",
 "notice": {
 "areas": [
@@ -90684,6 +90689,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%202882%2F26": {
+"gone": "2026-10-27",
 "lastmod": "2026-10-13T16:17:22.718Z",
 "notice": {
 "areas": [
@@ -234262,6 +234268,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-MMFR-B2350%2F26": {
+"gone": "2026-10-27",
 "lastmod": "2026-10-02T18:31:50.482Z",
 "notice": {
 "areas": [
@@ -241192,6 +241199,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1296%2F26": {
+"gone": "2026-10-27",
 "lastmod": "2026-10-04T21:02:29.963Z",
 "notice": {
 "areas": [
@@ -241356,6 +241364,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1306%2F26": {
+"gone": "2026-10-27",
 "lastmod": "2026-10-08T14:28:32.365Z",
 "notice": {
 "areas": [
@@ -241516,6 +241525,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1313%2F26": {
+"gone": "2026-10-27",
 "lastmod": "2026-10-09T18:42:29.429Z",
 "notice": {
 "areas": [
@@ -253618,6 +253628,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SCIZ-W3342%2F26": {
+"gone": "2026-10-27",
 "lastmod": "2026-10-02T16:49:35.747Z",
 "notice": {
 "areas": [
@@ -253714,6 +253725,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SCIZ-W3432%2F26": {
+"gone": "2026-10-27",
 "lastmod": "2026-10-08T13:59:32.015Z",
 "notice": {
 "areas": [
@@ -253890,6 +253902,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SCIZ-W3459%2F26": {
+"gone": "2026-10-27",
 "lastmod": "2026-10-09T16:16:36.689Z",
 "notice": {
 "areas": [
@@ -285263,6 +285276,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F080-26": {
+"gone": "2026-10-27",
 "lastmod": "2026-10-07T17:44:24.681Z",
 "notice": {
 "areas": [
@@ -285319,6 +285333,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F082-26": {
+"gone": "2026-10-27",
 "lastmod": "2026-10-07T17:44:32.934Z",
 "notice": {
 "areas": [
@@ -285497,6 +285512,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F119-26": {
+"gone": "2026-10-27",
 "lastmod": "2026-10-09T11:19:24.544Z",
 "notice": {
 "areas": [
@@ -285553,6 +285569,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F120-26": {
+"gone": "2026-10-27",
 "lastmod": "2026-10-09T11:19:32.156Z",
 "notice": {
 "areas": [
@@ -285873,6 +285890,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F139-26": {
+"gone": "2026-10-27",
 "lastmod": "2026-10-10T09:54:24.688Z",
 "notice": {
 "areas": [
@@ -285929,6 +285947,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F140-26": {
+"gone": "2026-10-27",
 "lastmod": "2026-10-10T09:54:33.492Z",
 "notice": {
 "areas": [
@@ -286197,6 +286216,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F149-26": {
+"gone": "2026-10-27",
 "lastmod": "2026-10-11T10:03:24.479Z",
 "notice": {
 "areas": [
@@ -286257,6 +286277,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F150-26": {
+"gone": "2026-10-27",
 "lastmod": "2026-10-11T10:12:24.503Z",
 "notice": {
 "areas": [
