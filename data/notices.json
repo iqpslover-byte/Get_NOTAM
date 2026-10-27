@@ -1,6 +1,6 @@
 {
-"count": 331,
-"generated_utc": "2026-10-27T13:37:35Z",
+"count": 332,
+"generated_utc": "2026-10-27T19:00:22Z",
 "notices": [
 {
 "areas": [
@@ -21586,6 +21586,39 @@
 "updated": "2026-10-22T14:54:40.108Z"
 },
 {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-05T09:57:00.000Z",
+"start": "2026-11-05T05:14:00.000Z"
+},
+{
+"end": "2026-11-06T09:42:00.000Z",
+"start": "2026-11-06T04:59:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-spacex-starlink-15-21",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-starlink-15-21",
+"title": "Starlink Group 15-21"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-21",
+"raw": "SPACEX STARLINK 15-21, VANDENBERG SFB, CA\nPRIMARY:\t11/05/26\t0514Z-0957Z\nBACKUP:\t\t11/06/26\t0459Z-0942Z",
+"reason": "SPACEX STARLINK 15-21, VANDENBERG SFB, CA",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-27T15:28:42.725Z"
+},
+{
 "areas": [
 [
 [
@@ -26477,5 +26510,5 @@
 "pending": 10,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3246
+"total_known": 3247
 }
