@@ -95101,6 +95101,92 @@
 },
 "via": "backfill"
 },
+"https://space-notices.com/notice/nav-warning-HYDROPAC%203133%2F26": {
+"lastmod": "2026-10-28T19:33:20.776Z",
+"notice": {
+"areas": [
+[
+[
+24.4667,
+132.7667
+],
+[
+25.0333,
+133.7667
+],
+[
+22.1833,
+135.65
+],
+[
+21.6167,
+134.6667
+],
+[
+24.4667,
+132.7667
+]
+],
+[
+[
+15.7,
+138.9167
+],
+[
+16.1333,
+139.7333
+],
+[
+13.9167,
+140.9833
+],
+[
+13.4833,
+140.1833
+],
+[
+15.7,
+138.9167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-02T09:00:00.000Z",
+"start": "2026-11-02T05:00:00.000Z"
+},
+{
+"end": "2026-11-04T09:00:00.000Z",
+"start": "2026-11-04T05:00:00.000Z"
+},
+{
+"end": "2026-11-30T23:59:00.000Z",
+"start": "2026-11-05T00:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3133/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-mir-demo-flight",
+"title": "Demo Flight"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3133/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203133%2F26",
+"raw": "281154Z OCT 26\nHYDROPAC 3133/26\nNORTH PACIFIC.\nPHILIPPINE SEA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   040500Z TO 040900Z NOV, ALTERNATE\n   0500Z TO 0900Z DAILY 02 TO 03 AND\n   05 THRU 30 NOV. IN AREAS BOUND BY:\n   A. 24-28.29N 132-46.04E, 25-02.30N 133-46.43E,\n      22-11.33N 135-39.51E, 21-37.52N 134-40.15E.\n   B. 15-42.03N 138-55.05E, 16-08.26N 139-44.02E,\n      13-55.46N 140-59.49E, 13-29.29N 140-11.17E.\n2. CANCEL THIS MSG 301000Z OCT 26.//\n",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3133&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-10-28T19:33:20.776Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/nav-warning-HYDROPAC%20314%2F21": {
 "lastmod": "",
 "notice": {
@@ -245946,6 +246032,62 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-22T02:48:39.707Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-NZZO-B5219%2F26": {
+"lastmod": "2026-10-28T19:33:44.950Z",
+"notice": {
+"areas": [
+[
+[
+-33.5667,
+-162.15
+],
+[
+-41.6167,
+-141.7333
+],
+[
+-42.6333,
+-142.2167
+],
+[
+-34.5333,
+-162.7333
+],
+[
+-33.5667,
+-162.15
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-03T09:50:00.000Z",
+"start": "2026-11-03T06:50:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B5219/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-mir-demo-flight",
+"title": "Demo Flight"
+}
+],
+"markers": [],
+"name": "B5219/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B5219%2F26",
+"raw": "B5219/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3832S15249W550\r\nA) NZZO B) 2611030650 C) 2611030950\r\nE) TEMPO DANGER AREA NZD093 (AUCKLAND OCEANIC FIR) IS PRESCRIBED AS\r\nFLW:\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n333418S 1620930W\r\n413739S 1414414W\r\n423836S 1421353W\r\n343211S 1624448W\r\n333418S 1620930W\r\nACTIVITY: SPACE DEBRIS RETURN\r\nUSING AGENCY: FOREIGN SPACE AGENCY\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED\r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "SPACE DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82839502",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-28T19:33:44.950Z"
 },
 "via": "sitemap"
 },
