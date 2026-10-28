@@ -1,1181 +1,7 @@
 {
-"count": 336,
-"generated_utc": "2026-10-28T09:05:59Z",
+"count": 331,
+"generated_utc": "2026-10-28T16:18:16Z",
 "notices": [
-{
-"areas": [
-[
-[
-16.4333,
--71.6667
-],
-[
-16.0,
--70.5
-],
-[
-16.0,
--68.1833
-],
-[
-16.4,
--69.1667
-],
-[
-17.35,
--71.7
-],
-[
-16.4333,
--71.6667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-28T14:08:00.000Z",
-"start": "2026-09-28T12:15:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-MDCS-A0575/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-"title": "Starlink Group 31-1 (Starship Flight 14)"
-}
-],
-"markers": [],
-"name": "A0575/26",
-"page": "https://space-notices.com/notice/notam-MDCS-A0575%2F26",
-"raw": "A0575/26 NOTAMN\r\nQ) MDCS/QRDCA/IV/BO/W/000/999/1822N06957W999\r\nA) MDCS B) 2609281215 C) 2609281408\r\nE) DUE TO SPACEX STARSHIP FLIGHT-14 SPACE OPERATIONS, \r\nA DEBRIS RESPONSE AREA (DRA) IS ESTABLISHED. \r\nALL FLIGHT OPERATIONS ARE PROHIBITED WITHIN THE AREA \r\nDESCRIBED BELOW DURING THE PERIOD OF THIS NOTAM. \r\nTHE DRA IS BOUNDED BY: \r\n1626N07140W \r\n1600N07030W \r\n1600N06811W \r\n1624N06910W \r\n1721N07142W\r\n1626N07140W \r\nAIRCRAFT SHALL AVOID THE AREA AND COMPLY WITH ATC \r\nINSTRUCTIONS. ATFM MEASURES, INCLUDING GROUND \r\nDELAYS, \r\nROUTE DEVIATIONS AND AIRBORNE HOLDING, MAY BE \r\nAPPLIED\r\nF) SFC G) UNL",
-"reason": "SPACEX STARSHIP FLIGHT-14 SPACE OPERATIONS",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82548508",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-25T19:25:07.336Z"
-},
-{
-"areas": [
-[
-[
-25.9667,
--97.1833
-],
-[
-26.0,
--97.0
-],
-[
-26.0,
--95.9167
-],
-[
-24.5,
--93.0
-],
-[
-24.5,
--91.05
-],
-[
-23.55,
--91.45
-],
-[
-23.7333,
--93.1167
-],
-[
-24.1333,
--94.0667
-],
-[
-25.0167,
--95.8333
-],
-[
-25.35,
--96.3167
-],
-[
-25.8333,
--97.1167
-],
-[
-25.9667,
--97.1833
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-22T14:08:00.000Z",
-"start": "2026-09-22T12:15:00.000Z"
-},
-{
-"end": "2026-09-23T14:08:00.000Z",
-"start": "2026-09-23T12:15:00.000Z"
-},
-{
-"end": "2026-09-24T14:08:00.000Z",
-"start": "2026-09-24T12:15:00.000Z"
-},
-{
-"end": "2026-09-25T14:08:00.000Z",
-"start": "2026-09-25T12:15:00.000Z"
-},
-{
-"end": "2026-09-26T14:08:00.000Z",
-"start": "2026-09-26T12:15:00.000Z"
-},
-{
-"end": "2026-09-27T14:08:00.000Z",
-"start": "2026-09-27T12:15:00.000Z"
-},
-{
-"end": "2026-09-28T14:08:00.000Z",
-"start": "2026-09-28T12:15:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-MMFR-B1847/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-"title": "Starlink Group 31-1 (Starship Flight 14)"
-}
-],
-"markers": [],
-"name": "B1847/26",
-"page": "https://space-notices.com/notice/notam-MMFR-B1847%2F26",
-"raw": "B1847/26 NOTAMN\r\r\nQ) MMFR/QRDCA/IV/BO/W/000/999/\r\r\nA) MMFR\r\r\nB) 2609221215\r\r\nC) 2609281408\r\r\nD) DLY 1215-1408\r\r\nE) DANGEROUS AREA FOR LAUNCH OF ROCKET SPACEX STARSHIP FLT-14,\r\r\n   LATERAL LIMIT AREA FORMED BY THE UNION OF THE FLW POINTS:\r\r\n   AREA A3: \r\r\n   2558N   09711W \r\r\n   2600N   09700W\r\r\n   2600N   09555W\r\r\n   2430N   09300W\r\r\n   2430N   09103W\r\r\n   2333N   09127W\r\r\n   2344N   09307W\r\r\n   2408N   09404W\r\r\n   2501N   09550W\r\r\n   2521N   09619W\r\r\n   2550N   09707W\r\r\n   2558N   09711W\r\r\n   FIR MEXICO (MMFR)\r\r\nF) SFC\r\r\nG) UNL",
-"reason": "LAUNCH OF ROCKET SPACEX STARSHIP FLT-14",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82435041",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-21T13:46:05.764Z"
-},
-{
-"areas": [
-[
-[
-26.0,
--95.9167
-],
-[
-25.95,
--95.1
-],
-[
-25.6333,
--94.2
-],
-[
-25.4667,
--92.9167
-],
-[
-24.5,
--91.05
-],
-[
-24.5,
--93.0
-],
-[
-26.0,
--95.9167
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-28T14:08:00.000Z",
-"start": "2026-09-28T12:15:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZHU-09/336-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-"title": "Starlink Group 31-1 (Starship Flight 14)"
-}
-],
-"markers": [],
-"name": "09/336",
-"page": "https://space-notices.com/notice/notam-ZHU-09%2F336-26",
-"raw": "!CARF 09/336 ZHU AIRSPACE DCC STARSHIP FLT 14 ASCENT STNR ALT RESERVATION ASCENT AHA A2 WI AN AREA DEFINED AS 260000N0955500W TO 255700N0950600W TO 253800N0941200W TO 252800N0925500W TO 243000N0910300W TO 243000N0930000W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL 2609281215-2609281408",
-"reason": "STARSHIP FLT 14 ASCENT",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82560773",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-27T22:11:10.646Z"
-},
-{
-"areas": [
-[
-[
-25.9667,
--97.1833
-],
-[
-26.0167,
--97.2
-],
-[
-26.0667,
--97.1167
-],
-[
-26.0333,
--96.5333
-],
-[
-26.0,
--95.9167
-],
-[
-26.0,
--97.0
-],
-[
-25.9667,
--97.1833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-28T14:08:00.000Z",
-"start": "2026-09-28T12:15:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZHU-09/337-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-"title": "Starlink Group 31-1 (Starship Flight 14)"
-}
-],
-"markers": [],
-"name": "09/337",
-"page": "https://space-notices.com/notice/notam-ZHU-09%2F337-26",
-"raw": "!CARF 09/337 ZHU AIRSPACE DCC STARSHIP FLT 14 ASCENT STNR ALT RESERVATION ASCENT AHA A1 WI AN AREA DEFINED AS 255800N0971100W TO 260100N0971200W TO 260400N0970700W TO 260200N0963200W TO 260000N0955500W TO 260000N0970000W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL 2609281215-2609281408",
-"reason": "STARSHIP FLT 14 ASCENT",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82560778",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-27T22:11:16.784Z"
-},
-{
-"areas": [
-[
-[
-25.9333,
--97.1667
-],
-[
-26.0167,
--97.2
-],
-[
-26.0667,
--97.1167
-],
-[
-26.0667,
--96.9167
-],
-[
-26.0,
--96.9167
-],
-[
-26.0,
--97.0
-],
-[
-25.9333,
--97.1667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-28T14:08:00.000Z",
-"start": "2026-09-28T12:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "tfr-ZHU-6/5573",
-"kind": "TFR",
-"launches": [
-{
-"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-"title": "Starlink Group 31-1 (Starship Flight 14)"
-}
-],
-"markers": [],
-"name": "FDC 6/5573",
-"page": "https://space-notices.com/notice/tfr-ZHU-6%2F5573",
-"raw": "FDC 6/5573 ZHU TX..AIRSPACE STARBASE, TX..TEMPORARY FLIGHT RESTRICTIONS. PURSUANT TO 14 CFR SECTION 91.143, SPACE OPS AREA, ACFT OPS ARE PROHIBITED WI AN AREA DEFINED AS 255600N0971000W (BRO078011.3) TO 260100N0971200W (BRO051011) TO 260400N0970700W (BRO050016.4) TO 260400N0965500W (BRO062026.2) TO 260000N0965500W (BRO071025.2) TO 260000N0970000W (BRO068020.8) TO THE POINT OF ORIGIN SFC-UNL EFFECTIVE 2609281200 UTC (0700 LOCAL 09/28/26) UNTIL 2609281408 UTC (0908 LOCAL 09/28/26). SPACE OPS AREA: ACFT OPS ARE PROHIBITIED. EXCLUDING AIRSPACE OVER INTERNATIONAL WATERS. UAS OPR WHO DO NOT COMPLY WITH APPLICABLE AIRSPACE RESTRICTIONS ARE WARNED THAT PURSUANT TO 10 U.S.C.SECTION 130I AND 6 U.S.C.SECTION 124N, THE DEPARTMENT OF DEFENSE (DOD), THE DEPARTMENT OF HOMELAND SECURITY (DHS) OR THE DEPARTMENT OF JUSTICE (DOJ) MAY TAKE SECURITY ACTION THAT RESULTS IN THE INTERFERENCE, DISRUPTION, SEIZURE, DAMAGING, OR DESTRUCTION OF UNMANNED ACFT DEEMED TO POSE A CREDIBLE SAFETY OR SECURITY THREAT TO PROTECTED PERSONNEL, FAC, OR ASSETS. THE HOUSTON /ZHU/ ARTCC, TEL 281-230-5560, IS THE CDN FAC. 2609281200-2609281408",
-"reason": "SPACE OPS AREA",
-"source": {
-"link": "https://tfr.faa.gov/tfr3/?page=detail_6_5573",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-26T02:02:50.171Z"
-},
-{
-"areas": [
-[
-[
-25.9667,
--97.2167
-],
-[
-26.0333,
--97.2167
-],
-[
-26.0667,
--97.1667
-],
-[
-26.0667,
--97.0667
-],
-[
-26.0667,
--96.8167
-],
-[
-26.0167,
--96.2833
-],
-[
-26.0167,
--95.2
-],
-[
-25.9833,
--94.6
-],
-[
-25.9833,
--94.0833
-],
-[
-25.4167,
--93.1
-],
-[
-25.5167,
--91.7667
-],
-[
-23.5333,
--88.8667
-],
-[
-23.0667,
--88.55
-],
-[
-22.05,
--86.4
-],
-[
-21.6333,
--84.9833
-],
-[
-20.9833,
--82.6333
-],
-[
-20.7167,
--81.7
-],
-[
-20.1167,
--79.7333
-],
-[
-19.7667,
--78.7833
-],
-[
-19.3833,
--78.0667
-],
-[
-19.3167,
--78.3
-],
-[
-19.5667,
--79.3167
-],
-[
-19.7333,
--79.7333
-],
-[
-20.2,
--81.2167
-],
-[
-20.7167,
--83.2167
-],
-[
-21.1,
--84.9
-],
-[
-21.7167,
--86.7
-],
-[
-21.9833,
--87.4333
-],
-[
-22.65,
--89.1667
-],
-[
-22.75,
--89.6833
-],
-[
-22.9667,
--92.6
-],
-[
-24.3,
--95.0333
-],
-[
-25.6333,
--96.8167
-],
-[
-25.8,
--97.0833
-],
-[
-25.9667,
--97.2167
-]
-],
-[
-[
-25.2,
--92.9667
-],
-[
-25.5167,
--93.8667
-],
-[
-25.7,
--95.4
-],
-[
-26.0333,
--96.5333
-],
-[
-26.0667,
--96.8167
-],
-[
-26.0667,
--97.0667
-],
-[
-26.0667,
--97.1667
-],
-[
-26.0333,
--97.2167
-],
-[
-25.9667,
--97.2167
-],
-[
-25.8,
--97.0833
-],
-[
-25.6833,
--96.7833
-],
-[
-25.0333,
--95.0833
-],
-[
-24.4833,
--94.1333
-],
-[
-24.3333,
--93.5333
-],
-[
-24.4167,
--92.8667
-],
-[
-24.75,
--92.7167
-],
-[
-25.2,
--92.9667
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-22T14:14:00.000Z",
-"start": "2026-09-22T12:15:00.000Z"
-},
-{
-"end": "2026-09-23T14:14:00.000Z",
-"start": "2026-09-23T12:15:00.000Z"
-},
-{
-"end": "2026-09-24T14:14:00.000Z",
-"start": "2026-09-24T12:15:00.000Z"
-},
-{
-"end": "2026-09-25T14:14:00.000Z",
-"start": "2026-09-25T12:15:00.000Z"
-},
-{
-"end": "2026-09-26T14:14:00.000Z",
-"start": "2026-09-26T12:15:00.000Z"
-},
-{
-"end": "2026-09-27T14:14:00.000Z",
-"start": "2026-09-27T12:15:00.000Z"
-},
-{
-"end": "2026-09-28T14:14:00.000Z",
-"start": "2026-09-28T12:15:00.000Z"
-}
-],
-"height": null,
-"id": "nav-warning-NAVAREA IV 897/26",
-"kind": "NAVWARNING",
-"launches": [
-{
-"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-"title": "Starlink Group 31-1 (Starship Flight 14)"
-}
-],
-"markers": [],
-"name": "NAVAREA IV 897/26",
-"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20IV%20897%2F26",
-"raw": "170526Z SEP 26\nNAVAREA IV 897/26.\nGULF OF AMERICA.\nYUCATAN CHANNEL.\nTEXAS.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   221215Z TO 221414Z SEP, ALTERNATE \n   1215Z TO 1414Z DAILY 23 THRU 28 SEP\n   IN AREAS BOUND BY:\n   A. 25-58.00N 097-13.00W, 26-02.00N 097-13.00W,\n      26-04.00N 097-10.00W, 26-04.00N 097-04.00W,\n      26-04.00N 096-49.00W, 26-01.00N 096-17.00W,\n      26-01.00N 095-12.00W, 25-59.00N 094-36.00W,\n      25-59.00N 094-05.00W, 25-25.00N 093-06.00W,\n      25-31.00N 091-46.00W, 23-32.00N 088-52.00W,\n      23-04.00N 088-33.00W, 22-03.00N 086-24.00W,\n      21-38.00N 084-59.00W, 20-59.00N 082-38.00W,\n      20-43.00N 081-42.00W, 20-07.00N 079-44.00W,\n      19-46.00N 078-47.00W, 19-23.00N 078-04.00W,\n      19-19.00N 078-18.00W, 19-34.00N 079-19.00W,\n      19-44.00N 079-44.00W, 20-12.00N 081-13.00W,\n      20-43.00N 083-13.00W, 21-06.00N 084-54.00W,\n      21-43.00N 086-42.00W, 21-59.00N 087-26.00W,\n      22-39.00N 089-10.00W, 22-45.00N 089-41.00W,\n      22-58.00N 092-36.00W, 24-18.00N 095-02.00W,\n      25-38.00N 096-49.00W, 25-48.00N 097-05.00W.\n   B. 25-12.00N 092-58.00W, 25-31.00N 093-52.00W,\n      25-42.00N 095-24.00W, 26-02.00N 096-32.00W,\n      26-04.00N 096-49.00W, 26-04.00N 097-04.00W,\n      26-04.00N 097-10.00W, 26-02.00N 097-13.00W,\n      25-58.00N 097-13.00W, 25-48.00N 097-05.00W,\n      25-41.00N 096-47.00W, 25-02.00N 095-05.00W,\n      24-29.00N 094-08.00W, 24-20.00N 093-32.00W,\n      24-25.00N 092-52.00W, 24-45.00N 092-43.00W.\n2. CANCEL THIS MSG 281514Z SEP 26.//\n\n\n",
-"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
-"source": {
-"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=897&createdOn=26&category=14&output=html",
-"name": "US National Geospatial-Intelligence Agency"
-},
-"updated": "2026-09-17T21:47:32.490Z"
-},
-{
-"areas": [
-[
-[
-23.55,
--91.45
-],
-[
-24.5,
--91.05
-],
-[
-24.0,
--90.7
-],
-[
-22.3667,
--87.1167
-],
-[
-22.1167,
--86.3667
-],
-[
-22.0167,
--86.0
-],
-[
-22.0,
--86.0
-],
-[
-21.3,
--85.6333
-],
-[
-21.7333,
--86.75
-],
-[
-22.1333,
--87.9667
-],
-[
-22.8167,
--89.4667
-],
-[
-23.4167,
--91.0333
-],
-[
-23.55,
--91.45
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-22T14:14:00.000Z",
-"start": "2026-09-22T12:15:00.000Z"
-},
-{
-"end": "2026-09-23T14:14:00.000Z",
-"start": "2026-09-23T12:15:00.000Z"
-},
-{
-"end": "2026-09-24T14:14:00.000Z",
-"start": "2026-09-24T12:15:00.000Z"
-},
-{
-"end": "2026-09-25T14:14:00.000Z",
-"start": "2026-09-25T12:15:00.000Z"
-},
-{
-"end": "2026-09-26T14:14:00.000Z",
-"start": "2026-09-26T12:15:00.000Z"
-},
-{
-"end": "2026-09-27T14:14:00.000Z",
-"start": "2026-09-27T12:15:00.000Z"
-},
-{
-"end": "2026-09-28T14:14:00.000Z",
-"start": "2026-09-28T12:15:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-MMFR-B1848/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-"title": "Starlink Group 31-1 (Starship Flight 14)"
-}
-],
-"markers": [],
-"name": "B1848/26",
-"page": "https://space-notices.com/notice/notam-MMFR-B1848%2F26",
-"raw": "B1848/26 NOTAMN\r\r\nQ) MMFR/QRDCA/IV/BO/W/000/999/\r\r\nA) MMFR\r\r\nB) 2609221215\r\r\nC) 2609281414\r\r\nD) DLY 1215-1414\r\r\nE) DANGEROUS AREA FOR LAUNCH OF ROCKET SPACEX STARSHIP FLT-14,\r\r\n   LATERAL LIMIT AREA FORMED BY THE UNION OF THE FLW POINTS:\r\r\n   AREA B1: \r\r\n   2333N  09127W\r\r\n   2430N  09103W\r\r\n   2400N  09042W\r\r\n   2222N  08707W\r\r\n   2207N  08622W\r\r\n   2201N  08600W\r\r\n   2200N  08600W\r\r\n   2118N  08538W\r\r\n   2144N  08645W\r\r\n   2208N  08758W\r\r\n   2249N  08928W\r\r\n   2325N  09102W\r\r\n   2333N  09127W\r\r\n   FIR MEXICO (MMFR\r\r\nF) SFC\r\r\nG) UNL",
-"reason": "LAUNCH OF ROCKET SPACEX STARSHIP FLT-14",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82435214",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-21T13:49:03.869Z"
-},
-{
-"areas": [
-[
-[
--24.6,
-72.1
-],
-[
--23.05,
-76.9833
-],
-[
--21.75,
-80.95
-],
-[
--18.9333,
-87.7
-],
-[
--16.2333,
-93.6167
-],
-[
--15.2667,
-95.4333
-],
-[
--15.3,
-95.5167
-],
-[
--15.4167,
-95.8333
-],
-[
--15.5,
-96.2
-],
-[
--15.5667,
-96.5667
-],
-[
--15.5667,
-97.0333
-],
-[
--15.55,
-97.2333
-],
-[
--15.5,
-97.55
-],
-[
--15.4667,
-97.7
-],
-[
--15.4333,
-97.8333
-],
-[
--15.4,
-97.9667
-],
-[
--15.3667,
-98.05
-],
-[
--15.3167,
-98.1833
-],
-[
--15.3,
-98.2333
-],
-[
--15.9333,
-98.5167
-],
-[
--17.0667,
-96.6333
-],
-[
--19.9333,
-91.0333
-],
-[
--23.0333,
-84.1
-],
-[
--24.9833,
-79.1
-],
-[
--27.0667,
-73.3
-],
-[
--24.6,
-72.1
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-22T14:47:00.000Z",
-"start": "2026-09-22T12:23:00.000Z"
-},
-{
-"end": "2026-09-23T14:47:00.000Z",
-"start": "2026-09-23T12:23:00.000Z"
-},
-{
-"end": "2026-09-24T14:47:00.000Z",
-"start": "2026-09-24T12:23:00.000Z"
-},
-{
-"end": "2026-09-25T14:47:00.000Z",
-"start": "2026-09-25T12:23:00.000Z"
-},
-{
-"end": "2026-09-26T14:47:00.000Z",
-"start": "2026-09-26T12:23:00.000Z"
-},
-{
-"end": "2026-09-27T14:47:00.000Z",
-"start": "2026-09-27T12:23:00.000Z"
-},
-{
-"end": "2026-09-28T14:47:00.000Z",
-"start": "2026-09-28T12:23:00.000Z"
-}
-],
-"height": null,
-"id": "nav-warning-HYDROPAC 2687/26",
-"kind": "NAVWARNING",
-"launches": [
-{
-"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-"title": "Starlink Group 31-1 (Starship Flight 14)"
-}
-],
-"markers": [],
-"name": "HYDROPAC 2687/26",
-"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202687%2F26",
-"raw": "170506Z SEP 26\nHYDROPAC 2687/26.\nINDIAN OCEAN.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   1223Z TO 1447Z DAILY 22 THRU 28 SEP\n   IN AREA BOUND BY\n   24-36.00S 072-06.00E, 23-03.00S 076-59.00E,\n   21-45.00S 080-57.00E, 18-56.00S 087-42.00E,\n   16-14.00S 093-37.00E, 15-16.00S 095-26.00E,\n   15-18.00S 095-31.00E, 15-25.00S 095-50.00E,\n   15-30.00S 096-12.00E, 15-34.00S 096-34.00E,\n   15-34.00S 097-02.00E, 15-33.00S 097-14.00E,\n   15-30.00S 097-33.00E, 15-28.00S 097-42.00E,\n   15-26.00S 097-50.00E, 15-24.00S 097-58.00E,\n   15-22.00S 098-03.00E, 15-19.00S 098-11.00E,\n   15-18.00S 098-14.00E, 15-56.00S 098-31.00E,\n   17-04.00S 096-38.00E, 19-56.00S 091-02.00E,\n   23-02.00S 084-06.00E, 24-59.00S 079-06.00E,\n   27-04.00S 073-18.00E.\n2. CANCEL THIS MSG 281547Z SEP 26.//\n\n",
-"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
-"source": {
-"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2687&createdOn=26&category=14&output=html",
-"name": "US National Geospatial-Intelligence Agency"
-},
-"updated": "2026-09-17T20:30:32.516Z"
-},
-{
-"areas": [
-[
-[
--26.5,
-75.0
-],
-[
--27.0667,
-73.3
-],
-[
--24.6,
-72.1
-],
-[
--23.7,
-75.0
-],
-[
--26.5,
-75.0
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-09-22T14:47:00.000Z",
-"start": "2026-09-22T12:23:00.000Z"
-},
-{
-"end": "2026-09-23T14:47:00.000Z",
-"start": "2026-09-23T12:23:00.000Z"
-},
-{
-"end": "2026-09-24T14:47:00.000Z",
-"start": "2026-09-24T12:23:00.000Z"
-},
-{
-"end": "2026-09-25T14:47:00.000Z",
-"start": "2026-09-25T12:23:00.000Z"
-},
-{
-"end": "2026-09-26T14:47:00.000Z",
-"start": "2026-09-26T12:23:00.000Z"
-},
-{
-"end": "2026-09-27T14:47:00.000Z",
-"start": "2026-09-27T12:23:00.000Z"
-},
-{
-"end": "2026-09-28T14:47:00.000Z",
-"start": "2026-09-28T12:23:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-FIMM-A0095/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-"title": "Starlink Group 31-1 (Starship Flight 14)"
-}
-],
-"markers": [],
-"name": "A0095/26",
-"page": "https://space-notices.com/notice/notam-FIMM-A0095%2F26",
-"raw": "A0095/26 NOTAMN\r\nQ) FIMM/QRALW/IV/NBO/AE/000/999/2025S07540E005\r\n A) FIMM B) 2609221223 C) 2609281447 EST\r\n D) 22 1223-1447\r\n23 1223-1447\r\n24 1223-1447\r\n25 1223-1447\r\n26 1223-1447\r\n27 1223-1447\r\n28 1223-1447\r\n E) STATIONARY ALTITUDE RESERVATION FOR HAZARDOUS OPERATIONS FM SFC\r\nTO UNL FOR ATMOSPHERIC RE-ENTRY AND SPLASHDOWN OF SPACE X STARSHIP\r\nFTL-14 ROCKET WI AN AREA BOUNDED BY FLW COORD:\r\n2630S 07500E\r\n2704S 07318E\r\n2436S 07206E\r\n2342S 07500E TO BEGINNING\r\nPRIMARY RE-ENTRY BTN 1223 TO 1447 ON 22 SEP 2026 BACK UP RE-ENTRY BTN\r\n1223 TO 1447 FM 23 SEP 2026 TO 28 SEP 2026.\r\n F) SFC G) UNL",
-"reason": "ATMOSPHERIC RE-ENTRY AND SPLASHDOWN OF SPACE X STARSHIP FTL-14 ROCKET",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82441472",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-17T16:44:10.571Z"
-},
-{
-"areas": [
-[
-[
-12.4833,
--60.4833
-],
-[
-12.35,
--60.3667
-],
-[
-11.6667,
--61.3833
-],
-[
-12.1333,
--62.3
-],
-[
-13.1167,
--61.8
-],
-[
-12.4833,
--60.4833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-28T15:50:00.000Z",
-"start": "2026-09-28T12:15:00.000Z"
-}
-],
-"height": "24500ft",
-"id": "notam-TBPB-A1498/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-"title": "Starlink Group 31-1 (Starship Flight 14)"
-}
-],
-"markers": [],
-"name": "A1498/26",
-"page": "https://space-notices.com/notice/notam-TBPB-A1498%2F26",
-"raw": "A1498/26 NOTAMN Q) TTZP/QXXXX/IV/NBO/AW/000/245/1304N05930W005 A) TBPB  PART 1 OF 2  B) 2609281215  C) 2609281550  E) A DEBRIS RESPONSE AREA HAS BEEN DEFINED ADJACENT TO THE ADAMS TMA\r\nDUE TO THE LAUNCH OF THE &apos;SPACE X STARSHIP FLIGHT 14&apos; ROCKET. THE\r\nAREA IS BOUNDED BY THE FOLLOWING COORDINATES:\r\n1229N06029W - 1221N06022W - 1140N06123W - 1208N06218W - 1307N06148W\r\n- 1229N06029W\r\nALL NORTHBOUND TRAFFIC ENTERING ADAMS TMA FROM WITHIN THE\r\nCONTINENTAL AIRSPACE ARE ADVISED TO ROUTE VIA DALGA DCT BGI FPL TO\r\nTRAVERSE THE AFFECTED AREA. ALL SOUTHBOUND TRAFFIC ARE TO UTILIZE\r\nTHE RECIPROCAL ROUTES.\r\nIN THE EVENT OF A MALFUNCTION OF THE VEHICLE, THE DEFINED AREA MAY\r\nBECOME AFFECTED BY FALLING DEBRIS.\r\nIF ATC IS INFORMED OF A MALFUNCTION, ACTION WILL BE TAKEN TO ADVISE\r\nFLIGHT CREW OF ACFT OPERATING WITHIN THE DEFINED AREA OR ENROUTE TO\r\nTHE AREA OF POSSIBLE DEBRIS.\r\nFLIGHT CREWS CAN THEN EXPECT HOLDING OR REROUTINGS TO AVOID THE\r\nAFFECTED AREA UNTIL IT IS CONFIRMED THAT THE AREA IS CLEAR OF ALL\r\nFALLING DEBRIS.\r\nACFT ON THE GROUND AT AIRPORTS WITHIN THE ADAMS TMA WISHING TO\r\nDEPART AND HAVE FILED TO OPERATE THROUGH THE DEFINED AREA CAN EITHER\r\nHOLD ON THE GROUND OR EXPECT\r\nREROUTINGS TO AVOID THE AREA.\r\nALL OPERATORS ARE ADVISED TO CONSIDER THE ABOVE IN THEIR FLIGHT\r\nPLANNING.\r\nPRIMARY LAUNCH DATE: END PART 1 OF 2\r\nA1498/26 NOTAMN Q) TTZP/QXXXX/IV/NBO/AW/000/245/1304N05930W005 A) TBPB  PART 2 OF 2  B) 2609281215  C) 2609281550  E) 260928\r\nBACK-UP DATES: 260929 260930 261001 261002 261003 261004 END PART 2 OF 2 F) SFC  G) FL245",
-"reason": "DEBRIS RESPONSE AREA DUE TO THE LAUNCH OF SPACE X STARSHIP FLIGHT 14",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82539199",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-25T00:26:01.388Z"
-},
-{
-"areas": [
-[
-[
-11.25,
--56.3
-],
-[
-9.4333,
--53.1667
-],
-[
-8.9167,
--57.0
-],
-[
-8.9167,
--57.55
-],
-[
-9.5167,
--58.7833
-],
-[
-11.25,
--56.3
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-28T15:50:00.000Z",
-"start": "2026-09-28T12:15:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-TTZP-A1483/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-"title": "Starlink Group 31-1 (Starship Flight 14)"
-}
-],
-"markers": [],
-"name": "A1483/26",
-"page": "https://space-notices.com/notice/notam-TTZP-A1483%2F26",
-"raw": "A1483/26 NOTAMN\r\nQ) TTZP/QRDCA/IV/BO/W/000/999/1450N05112W999\r\nA) TTZP\r\nB) 2609281215 C) 2609281550\r\nE) DANGER AREA ACTIVATED WITHIN THE PIARCO FIR DUE TO THE LAUNCH OF\r\nTHE &apos;SPACE X STARSHIP FLIGHT 14&apos; ROCKET. THE PIARCO ACC STRONGLY\r\nCAUTIONS AIRCRAFT NOT TO OPERATE WITHIN THE DANGER AREA BOUNDED BY\r\nCOORDINATES: 1115N05618W - 0926N05310W - 0855N05700W - 0855N05733W -\r\n0931N05847W - 1115N05618W\r\nPRIMARY LAUNCH DATE: 260928\r\nBACK-UP DATES: 260929 260930 261001 261002 261003 261004\r\nF) SFC G) UNL",
-"reason": "SPACE X STARSHIP FLIGHT 14",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82521408",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-23T14:09:31.354Z"
-},
-{
-"areas": [
-[
-[
-12.4833,
--60.4833
-],
-[
-12.35,
--60.3667
-],
-[
-11.6667,
--61.3833
-],
-[
-12.1333,
--62.3
-],
-[
-13.1167,
--61.8
-],
-[
-12.4833,
--60.4833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-28T15:50:00.000Z",
-"start": "2026-09-28T12:15:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-TTZP-A1489/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-"title": "Starlink Group 31-1 (Starship Flight 14)"
-}
-],
-"markers": [],
-"name": "A1489/26",
-"page": "https://space-notices.com/notice/notam-TTZP-A1489%2F26",
-"raw": "A1489/26 NOTAMN\r\nQ) TTZP/QXXXX/IV/NBO/W/135/999/1450N05112W999\r\nA) TTZP\r\nB) 2609281215 C) 2609281550\r\nE) DEBRIS RESPONSE AREAS, HAVE BEEN DEFINED WITHIN THE PIARCO FIR\r\nDUE TO THE LAUNCH OF THE &apos;SPACE X STARSHIP FLIGHT 14&apos; ROCKET. THE\r\nAREA IS BOUNDED BY THE FOLLOWING COORDINATES:\r\n1229N06029W - 1221N06022W - 1140N06123W - 1208N06218W - 1307N06148W\r\n- 1229N06029W\r\nPRIMARY LAUNCH DATE: 260928\r\nBACK-UP DATES: 260929 260930 261001 261002 261003 261004\r\nF) FL135 G) UNL",
-"reason": "SPACE X STARSHIP FLIGHT 14",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82523495",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-23T17:14:02.161Z"
-},
-{
-"areas": [
-[
-[
-12.4833,
--60.4833
-],
-[
-12.35,
--60.3667
-],
-[
-11.6667,
--61.3833
-],
-[
-12.1333,
--62.3
-],
-[
-13.1167,
--61.8
-],
-[
-12.4833,
--60.4833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-28T15:50:00.000Z",
-"start": "2026-09-28T12:15:00.000Z"
-}
-],
-"height": "13500ft",
-"id": "notam-TVSA-A1497/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-"title": "Starlink Group 31-1 (Starship Flight 14)"
-}
-],
-"markers": [],
-"name": "A1497/26",
-"page": "https://space-notices.com/notice/notam-TVSA-A1497%2F26",
-"raw": "A1497/26 NOTAMN\r\nQ) TTZP/QXXXX/IV/NBO/AW/000/135/1310N06109W005\r\nA) TVSA\r\nB) 2609281215 C) 2609281550\r\nE) A DEBRIS RESPONSE AREA HAS BEEN DEFINED WITHIN THE ARGYLE TMA DUE\r\nTO THE LAUNCH OF THE &apos;SPACE X STARSHIP FLIGHT 14&apos; ROCKET. THE AREA\r\nIS BOUNDED BY THE FOLLOWING COORDINATES:\r\n1229N06029W - 1221N06022W - 1140N06123W - 1208N06218W - 1307N06148W\r\n- 1229N06029W\r\nIN THE EVENT OF A MALFUNCTION OF THE VEHICLE, THE DEFINED AREA MAY\r\nBECOME AFFECTED BY FALLING DEBRIS.\r\nIF ATC IS INFORMED OF A MALFUNCTION, ACTION WILL BE TAKEN TO ADVISE\r\nFLIGHT CREW OF ACFT OPERATING WITHIN THE DEFINED AREA OR ENROUTE TO\r\nTHE AREA OF POSSIBLE DEBRIS. FLIGHT CREWS CAN THEN EXPECT HOLDING OR\r\nREROUTINGS TO AVOID THE AFFECTED AREA UNTIL IT IS CONFIRMED THAT THE\r\nAREA IS CLEAR OF ALL\r\nFALLING DEBRIS.\r\nACFT ON THE GROUND AT AIRPORTS WITHIN THE ARGYLE TMA WISHING TO\r\nDEPART AND HAVE FILED TO OPERATE THROUGH THE DEFINED AREA CAN EITHER\r\nHOLD ON THE GROUND OR EXPECT REROUTINGS TO AVOID THE AREA.\r\nALL OPERATORS ARE ADVISED TO CONSIDER THE ABOVE IN THEIR FLIGHT\r\nPLANNING.\r\nPRIMARY LAUNCH DATE: 260928\r\nBACK-UP DATES: 260929 260930 261001 261002 261003 261004\r\nF) SFC G) FL135",
-"reason": "DEBRIS RESPONSE DUE TO SPACE X STARSHIP FLIGHT 14",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82534002",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-24T14:59:01.401Z"
-},
 {
 "areas": [
 [
@@ -9367,110 +8193,6 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-12T10:32:09.990Z"
-},
-{
-"areas": [
-[
-[
-35.6833,
-98.2
-],
-[
-35.6333,
-98.4333
-],
-[
-35.2667,
-98.3167
-],
-[
-35.3167,
-98.0833
-],
-[
-35.6833,
-98.2
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-14T12:19:00.000Z",
-"start": "2026-10-14T11:33:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLHW-A5085/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-zhuque-2e-block-2-10-satellites",
-"title": "10 satellites"
-}
-],
-"markers": [],
-"name": "A5085/26",
-"page": "https://space-notices.com/notice/notam-ZLHW-A5085%2F26",
-"raw": "A5085/26 NOTAMN\r\nQ)ZLHW/QRDCA/IV/BO/W/000/999/3528N09815E013\r\nA)ZLHW B)2610141133 C)2610141219 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN354100E0981200-N353800E0982600-N351600E0981900-N351900E0980500,\r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82699155",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-20T12:07:01.307Z"
-},
-{
-"areas": [
-[
-[
-33.0333,
-97.5833
-],
-[
-32.8667,
-98.4833
-],
-[
-32.15,
-98.3
-],
-[
-32.3167,
-97.4
-],
-[
-33.0333,
-97.5833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-14T12:26:00.000Z",
-"start": "2026-10-14T11:34:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLHW-A5086/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-zhuque-2e-block-2-10-satellites",
-"title": "10 satellites"
-}
-],
-"markers": [],
-"name": "A5086/26",
-"page": "https://space-notices.com/notice/notam-ZLHW-A5086%2F26",
-"raw": "A5086/26 NOTAMN\r\nQ)ZLHW/QRDCA/IV/BO/W/000/999/3235N09756E032\r\nA)ZLHW B)2610141134 C)2610141226 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN330200E0973500-N325200E0982900-N320900E0981800-N321900E0972400,\r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82699159",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-20T12:07:06.155Z"
 },
 {
 "areas": [
@@ -18761,6 +17483,114 @@
 "areas": [
 [
 [
+32.65,
+-119.6333
+],
+[
+32.8,
+-119.4
+],
+[
+34.5667,
+-120.4
+],
+[
+34.7,
+-120.5667
+],
+[
+34.5833,
+-120.6833
+],
+[
+32.65,
+-119.6333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-30T08:25:00.000Z",
+"start": "2026-10-30T04:02:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/336-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-18",
+"title": "Starlink Group 15-18"
+}
+],
+"markers": [],
+"name": "10/336",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F336-26",
+"raw": "!CARF 10/336 ZLA AIRSPACE DCC SX F9 STRLNK G15-18 26-70 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 323900N1193800W TO 324800N1192400W TO 343400N1202400W TO 344200N1203400W TO 343500N1204100W TO POINT OF ORIGIN SFC-UNL 2610300402-2610300825",
+"reason": "SX F9 STRLNK G15-18 26-70",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82893649",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-28T11:25:35.941Z"
+},
+{
+"areas": [
+[
+[
+31.5833,
+-119.15
+],
+[
+32.35,
+-119.4667
+],
+[
+32.5333,
+-119.2667
+],
+[
+31.7667,
+-118.7667
+],
+[
+31.5833,
+-119.15
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-30T08:27:00.000Z",
+"start": "2026-10-30T04:02:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/341-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-18",
+"title": "Starlink Group 15-18"
+}
+],
+"markers": [],
+"name": "10/341",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F341-26",
+"raw": "!CARF 10/341 ZLA AIRSPACE DCC SX F9 STRLNK G15-18 26-70 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 313500N1190900W TO 322100N1192800W TO 323200N1191600W TO 314600N1184600W TO POINT OF ORIGIN SFC-UNL 2610300402-2610300827",
+"reason": "SX F9 STRLNK G15-18 26-70",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82894013",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-28T12:01:38.921Z"
+},
+{
+"areas": [
+[
+[
 29.8,
 -117.65
 ],
@@ -19797,6 +18627,270 @@
 "updated": "2026-10-27T10:39:53.189Z"
 },
 {
+"areas": [
+[
+[
+39.4667,
+109.0833
+],
+[
+39.3333,
+109.7667
+],
+[
+39.0833,
+109.6833
+],
+[
+39.2167,
+109.0
+],
+[
+39.4667,
+109.0833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-31T05:15:00.000Z",
+"start": "2026-10-31T04:51:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZBPE-A5564/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5564/26",
+"page": "https://space-notices.com/notice/notam-ZBPE-A5564%2F26",
+"raw": "A5564/26 NOTAMN\r\nQ)ZBPE/QRDCA/IV/BO/W/000/999/3916N10923E018\r\nA)ZBPE B)2610310451 C)2610310515 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED \r\nBY:N392800E1090500-N392000E1094600-N390500E1094100-N391300E1090000,\r\n BACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA ESTABLISHED",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82890908",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-28T11:49:51.749Z"
+},
+{
+"areas": [
+[
+[
+39.2333,
+80.3667
+],
+[
+39.25,
+84.7167
+],
+[
+36.9667,
+84.6667
+],
+[
+36.95,
+80.4333
+],
+[
+39.2333,
+80.3667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-31T05:23:00.000Z",
+"start": "2026-10-31T04:20:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZWUQ-A5565/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5565/26",
+"page": "https://space-notices.com/notice/notam-ZWUQ-A5565%2F26",
+"raw": "A5565/26 NOTAMN\r\nQ)ZWUQ/QRDCA/IV/BO/W/000/999/3806N08234E124\r\nA)ZWUQ B)2610310420 C)2610310523 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED \r\nBY:N391400E0802200-N391500E0844300-N365800E0844000-N365700E0802600,\r\n BACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82890915",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-28T11:50:17.275Z"
+},
+{
+"areas": [
+[
+[
+43.0667,
+92.75
+],
+[
+43.05,
+94.0833
+],
+[
+42.0833,
+94.0333
+],
+[
+42.1333,
+92.7167
+],
+[
+43.0667,
+92.75
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-31T05:23:00.000Z",
+"start": "2026-10-31T04:20:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZWUQ-A5566/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5566/26",
+"page": "https://space-notices.com/notice/notam-ZWUQ-A5566%2F26",
+"raw": "A5566/26 NOTAMN\r\nQ)ZWUQ/QRDCA/IV/BO/W/000/999/4234N09323E042\r\nA)ZWUQ B)2610310420 C)2610310523 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED \r\nBY:N430400E0924500-N430300E0940500-N420500E0940200-N420800E0924300,\r\n BACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA ESTABLISHED",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82890918",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-28T11:50:33.453Z"
+},
+{
+"areas": [
+[
+[
+32.65,
+-119.6333
+],
+[
+32.8,
+-119.4
+],
+[
+34.5667,
+-120.4
+],
+[
+34.7,
+-120.5667
+],
+[
+34.5833,
+-120.6833
+],
+[
+32.65,
+-119.6333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-31T08:11:00.000Z",
+"start": "2026-10-31T03:48:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/343-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-18",
+"title": "Starlink Group 15-18"
+}
+],
+"markers": [],
+"name": "10/343",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F343-26",
+"raw": "!CARF 10/343 ZLA AIRSPACE DCC SX F9 STRLNK G15-18 26-70 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 323900N1193800W TO 324800N1192400W TO 343400N1202400W TO 344200N1203400W TO 343500N1204100W TO POINT OF ORIGIN SFC-UNL 2610310348-2610310811",
+"reason": "SX F9 STRLNK G15-18 26-70",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82894074",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-28T12:01:33.257Z"
+},
+{
+"areas": [
+[
+[
+31.5833,
+-119.15
+],
+[
+32.35,
+-119.4667
+],
+[
+32.5333,
+-119.2667
+],
+[
+31.7667,
+-118.7667
+],
+[
+31.5833,
+-119.15
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-31T08:13:00.000Z",
+"start": "2026-10-31T03:48:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/344-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-18",
+"title": "Starlink Group 15-18"
+}
+],
+"markers": [],
+"name": "10/344",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F344-26",
+"raw": "!CARF 10/344 ZLA AIRSPACE DCC SX F9 STRLNK G15-18 26-70 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 313500N1190900W TO 322100N1192800W TO 323200N1191600W TO 314600N1184600W TO POINT OF ORIGIN SFC-UNL 2610310348-2610310813",
+"reason": "SX F9 STRLNK G15-18 26-70",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82894107",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-28T12:01:24.770Z"
+},
+{
 "areas": [],
 "cancelled": false,
 "dates": [
@@ -20025,6 +19119,110 @@
 "name": "US Coast Guard"
 },
 "updated": "2026-10-21T22:48:07.980Z"
+},
+{
+"areas": [
+[
+[
+33.0667,
+98.8167
+],
+[
+33.0167,
+99.3667
+],
+[
+32.1833,
+99.2667
+],
+[
+32.2333,
+98.7167
+],
+[
+33.0667,
+98.8167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-03T00:33:00.000Z",
+"start": "2026-11-03T00:05:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLHW-A5561/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5561/26",
+"page": "https://space-notices.com/notice/notam-ZLHW-A5561%2F26",
+"raw": "A5561/26 NOTAMN\r\nQ)ZLHW/QRDCA/IV/BO/W/000/999/3237N09902E029\r\nA)ZLHW B)2611030005 C)2611030033 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN330400E0984900-N330100E0992200-N321100E0991600-N321400E0984300\r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA ESTABLISHED",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82890230",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-28T12:02:26.705Z"
+},
+{
+"areas": [
+[
+[
+30.65,
+98.6333
+],
+[
+30.6,
+99.2833
+],
+[
+30.0833,
+99.1167
+],
+[
+30.1333,
+98.5833
+],
+[
+30.65,
+98.6333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-03T00:46:00.000Z",
+"start": "2026-11-03T00:06:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZPKM-A5562/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5562/26",
+"page": "https://space-notices.com/notice/notam-ZPKM-A5562%2F26",
+"raw": "A5562/26 NOTAMN\r\nQ)ZPKM/QRDCA/IV/BO/W/000/999/3022N09856E023\r\nA)ZPKM B)2611030006 C)2611030046 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN303900E0983800-N303600E0991700-N300500E0990700-N300800E0983500, \r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82890229",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-28T12:02:30.328Z"
 },
 {
 "areas": [
@@ -22781,6 +21979,74 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-26T13:42:29.315Z"
+},
+{
+"areas": [
+[
+[
+0.9,
+90.05
+],
+[
+0.6,
+91.5833
+],
+[
+-2.0,
+91.0667
+],
+[
+-2.0,
+89.4667
+],
+[
+0.9,
+90.05
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-05T02:00:00.000Z",
+"start": "2026-11-04T21:00:00.000Z"
+},
+{
+"end": "2026-11-06T02:00:00.000Z",
+"start": "2026-11-05T21:00:00.000Z"
+},
+{
+"end": "2026-11-07T02:00:00.000Z",
+"start": "2026-11-06T21:00:00.000Z"
+},
+{
+"end": "2026-11-08T02:00:00.000Z",
+"start": "2026-11-07T21:00:00.000Z"
+},
+{
+"end": "2026-11-09T02:00:00.000Z",
+"start": "2026-11-08T21:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-VCCF-A0569/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A0569/26",
+"page": "https://space-notices.com/notice/notam-VCCF-A0569%2F26",
+"raw": "A0569/26 NOTAMN \r\nQ)VCCF/QRDCA/IV/BO/W/000/999/0042S09033E101\r\nA)VCCF B)2611042100 C)2611090200\r\nD)2100-0200\r\nE)IN VIEW OF DNG ZONE DECLARED BY CAA CHINA DUE TO AEROSPACE FLT\r\nACTIVITY, FLW AREA WI COLOMBO FIR BOUNDED BY GIVEN COORD DECLARED AS\r\nA TEMPO DNG AREA.\r\n005419N 0900316E-003654N 0913533E-020000S 0910420E-020000S 0892832E-\r\n005419N 0900316E\r\nDRG THIS PERIOD FLW ATS RTE SEGMENTS ARE NOT AVBL IN COLOMBO FIR.\r\n01. L897 NOT AVBL BTN &apos;MATLU&apos; AND &apos;KETIV&apos;\r\n02. N628 NOT AVBL BTN &apos;BASEV&apos; AND &apos;KETIV&apos;\r\n03. L774 NOT AVBL BTN &apos;ELATI&apos; AND &apos;KETIV&apos;\r\n04. N640 NOT AVBL BTN &apos;BASEV&apos; AND &apos;ELATI&apos;\r\nF)SFC G)UNL",
+"reason": "IN VIEW OF DNG ZONE DECLARED BY CAA CHINA DUE TO AEROSPACE FLT ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82893046",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-28T10:59:28.923Z"
 },
 {
 "areas": [
@@ -26900,5 +26166,5 @@
 "pending": 10,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3251
+"total_known": 3261
 }

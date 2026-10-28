@@ -1,5 +1,5 @@
 {
-"count": 2827,
+"count": 2835,
 "notices": [
 {
 "areas": [
@@ -263159,110 +263159,6 @@
 "areas": [
 [
 [
-35.6833,
-98.2
-],
-[
-35.6333,
-98.4333
-],
-[
-35.2667,
-98.3167
-],
-[
-35.3167,
-98.0833
-],
-[
-35.6833,
-98.2
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-14T12:19:00.000Z",
-"start": "2026-10-14T11:33:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLHW-A5085/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-zhuque-2e-block-2-10-satellites",
-"title": "10 satellites"
-}
-],
-"markers": [],
-"name": "A5085/26",
-"page": "https://space-notices.com/notice/notam-ZLHW-A5085%2F26",
-"raw": "A5085/26 NOTAMN\r\nQ)ZLHW/QRDCA/IV/BO/W/000/999/3528N09815E013\r\nA)ZLHW B)2610141133 C)2610141219 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN354100E0981200-N353800E0982600-N351600E0981900-N351900E0980500,\r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82699155",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-20T12:07:01.307Z"
-},
-{
-"areas": [
-[
-[
-33.0333,
-97.5833
-],
-[
-32.8667,
-98.4833
-],
-[
-32.15,
-98.3
-],
-[
-32.3167,
-97.4
-],
-[
-33.0333,
-97.5833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-14T12:26:00.000Z",
-"start": "2026-10-14T11:34:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLHW-A5086/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-zhuque-2e-block-2-10-satellites",
-"title": "10 satellites"
-}
-],
-"markers": [],
-"name": "A5086/26",
-"page": "https://space-notices.com/notice/notam-ZLHW-A5086%2F26",
-"raw": "A5086/26 NOTAMN\r\nQ)ZLHW/QRDCA/IV/BO/W/000/999/3235N09756E032\r\nA)ZLHW B)2610141134 C)2610141226 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN330200E0973500-N325200E0982900-N320900E0981800-N321900E0972400,\r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82699159",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-20T12:07:06.155Z"
-},
-{
-"areas": [
-[
-[
 36.116667,
 -123.766667
 ],
@@ -272548,6 +272444,114 @@
 "areas": [
 [
 [
+32.65,
+-119.6333
+],
+[
+32.8,
+-119.4
+],
+[
+34.5667,
+-120.4
+],
+[
+34.7,
+-120.5667
+],
+[
+34.5833,
+-120.6833
+],
+[
+32.65,
+-119.6333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-30T08:25:00.000Z",
+"start": "2026-10-30T04:02:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/336-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-18",
+"title": "Starlink Group 15-18"
+}
+],
+"markers": [],
+"name": "10/336",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F336-26",
+"raw": "!CARF 10/336 ZLA AIRSPACE DCC SX F9 STRLNK G15-18 26-70 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 323900N1193800W TO 324800N1192400W TO 343400N1202400W TO 344200N1203400W TO 343500N1204100W TO POINT OF ORIGIN SFC-UNL 2610300402-2610300825",
+"reason": "SX F9 STRLNK G15-18 26-70",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82893649",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-28T11:25:35.941Z"
+},
+{
+"areas": [
+[
+[
+31.5833,
+-119.15
+],
+[
+32.35,
+-119.4667
+],
+[
+32.5333,
+-119.2667
+],
+[
+31.7667,
+-118.7667
+],
+[
+31.5833,
+-119.15
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-30T08:27:00.000Z",
+"start": "2026-10-30T04:02:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/341-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-18",
+"title": "Starlink Group 15-18"
+}
+],
+"markers": [],
+"name": "10/341",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F341-26",
+"raw": "!CARF 10/341 ZLA AIRSPACE DCC SX F9 STRLNK G15-18 26-70 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 313500N1190900W TO 322100N1192800W TO 323200N1191600W TO 314600N1184600W TO POINT OF ORIGIN SFC-UNL 2610300402-2610300827",
+"reason": "SX F9 STRLNK G15-18 26-70",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82894013",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-28T12:01:38.921Z"
+},
+{
+"areas": [
+[
+[
 29.8,
 -117.65
 ],
@@ -273584,6 +273588,270 @@
 "updated": "2026-10-27T10:39:53.189Z"
 },
 {
+"areas": [
+[
+[
+39.4667,
+109.0833
+],
+[
+39.3333,
+109.7667
+],
+[
+39.0833,
+109.6833
+],
+[
+39.2167,
+109.0
+],
+[
+39.4667,
+109.0833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-31T05:15:00.000Z",
+"start": "2026-10-31T04:51:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZBPE-A5564/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5564/26",
+"page": "https://space-notices.com/notice/notam-ZBPE-A5564%2F26",
+"raw": "A5564/26 NOTAMN\r\nQ)ZBPE/QRDCA/IV/BO/W/000/999/3916N10923E018\r\nA)ZBPE B)2610310451 C)2610310515 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED \r\nBY:N392800E1090500-N392000E1094600-N390500E1094100-N391300E1090000,\r\n BACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA ESTABLISHED",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82890908",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-28T11:49:51.749Z"
+},
+{
+"areas": [
+[
+[
+39.2333,
+80.3667
+],
+[
+39.25,
+84.7167
+],
+[
+36.9667,
+84.6667
+],
+[
+36.95,
+80.4333
+],
+[
+39.2333,
+80.3667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-31T05:23:00.000Z",
+"start": "2026-10-31T04:20:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZWUQ-A5565/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5565/26",
+"page": "https://space-notices.com/notice/notam-ZWUQ-A5565%2F26",
+"raw": "A5565/26 NOTAMN\r\nQ)ZWUQ/QRDCA/IV/BO/W/000/999/3806N08234E124\r\nA)ZWUQ B)2610310420 C)2610310523 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED \r\nBY:N391400E0802200-N391500E0844300-N365800E0844000-N365700E0802600,\r\n BACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82890915",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-28T11:50:17.275Z"
+},
+{
+"areas": [
+[
+[
+43.0667,
+92.75
+],
+[
+43.05,
+94.0833
+],
+[
+42.0833,
+94.0333
+],
+[
+42.1333,
+92.7167
+],
+[
+43.0667,
+92.75
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-31T05:23:00.000Z",
+"start": "2026-10-31T04:20:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZWUQ-A5566/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5566/26",
+"page": "https://space-notices.com/notice/notam-ZWUQ-A5566%2F26",
+"raw": "A5566/26 NOTAMN\r\nQ)ZWUQ/QRDCA/IV/BO/W/000/999/4234N09323E042\r\nA)ZWUQ B)2610310420 C)2610310523 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED \r\nBY:N430400E0924500-N430300E0940500-N420500E0940200-N420800E0924300,\r\n BACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA ESTABLISHED",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82890918",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-28T11:50:33.453Z"
+},
+{
+"areas": [
+[
+[
+32.65,
+-119.6333
+],
+[
+32.8,
+-119.4
+],
+[
+34.5667,
+-120.4
+],
+[
+34.7,
+-120.5667
+],
+[
+34.5833,
+-120.6833
+],
+[
+32.65,
+-119.6333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-31T08:11:00.000Z",
+"start": "2026-10-31T03:48:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/343-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-18",
+"title": "Starlink Group 15-18"
+}
+],
+"markers": [],
+"name": "10/343",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F343-26",
+"raw": "!CARF 10/343 ZLA AIRSPACE DCC SX F9 STRLNK G15-18 26-70 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 323900N1193800W TO 324800N1192400W TO 343400N1202400W TO 344200N1203400W TO 343500N1204100W TO POINT OF ORIGIN SFC-UNL 2610310348-2610310811",
+"reason": "SX F9 STRLNK G15-18 26-70",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82894074",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-28T12:01:33.257Z"
+},
+{
+"areas": [
+[
+[
+31.5833,
+-119.15
+],
+[
+32.35,
+-119.4667
+],
+[
+32.5333,
+-119.2667
+],
+[
+31.7667,
+-118.7667
+],
+[
+31.5833,
+-119.15
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-31T08:13:00.000Z",
+"start": "2026-10-31T03:48:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/344-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-18",
+"title": "Starlink Group 15-18"
+}
+],
+"markers": [],
+"name": "10/344",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F344-26",
+"raw": "!CARF 10/344 ZLA AIRSPACE DCC SX F9 STRLNK G15-18 26-70 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 313500N1190900W TO 322100N1192800W TO 323200N1191600W TO 314600N1184600W TO POINT OF ORIGIN SFC-UNL 2610310348-2610310813",
+"reason": "SX F9 STRLNK G15-18 26-70",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82894107",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-28T12:01:24.770Z"
+},
+{
 "areas": [],
 "cancelled": false,
 "dates": [
@@ -273812,6 +274080,110 @@
 "name": "US Coast Guard"
 },
 "updated": "2026-10-21T22:48:07.980Z"
+},
+{
+"areas": [
+[
+[
+33.0667,
+98.8167
+],
+[
+33.0167,
+99.3667
+],
+[
+32.1833,
+99.2667
+],
+[
+32.2333,
+98.7167
+],
+[
+33.0667,
+98.8167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-03T00:33:00.000Z",
+"start": "2026-11-03T00:05:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLHW-A5561/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5561/26",
+"page": "https://space-notices.com/notice/notam-ZLHW-A5561%2F26",
+"raw": "A5561/26 NOTAMN\r\nQ)ZLHW/QRDCA/IV/BO/W/000/999/3237N09902E029\r\nA)ZLHW B)2611030005 C)2611030033 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN330400E0984900-N330100E0992200-N321100E0991600-N321400E0984300\r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA ESTABLISHED",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82890230",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-28T12:02:26.705Z"
+},
+{
+"areas": [
+[
+[
+30.65,
+98.6333
+],
+[
+30.6,
+99.2833
+],
+[
+30.0833,
+99.1167
+],
+[
+30.1333,
+98.5833
+],
+[
+30.65,
+98.6333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-03T00:46:00.000Z",
+"start": "2026-11-03T00:06:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZPKM-A5562/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5562/26",
+"page": "https://space-notices.com/notice/notam-ZPKM-A5562%2F26",
+"raw": "A5562/26 NOTAMN\r\nQ)ZPKM/QRDCA/IV/BO/W/000/999/3022N09856E023\r\nA)ZPKM B)2611030006 C)2611030046 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN303900E0983800-N303600E0991700-N300500E0990700-N300800E0983500, \r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82890229",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-28T12:02:30.328Z"
 },
 {
 "areas": [
@@ -276568,6 +276940,74 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-26T13:42:29.315Z"
+},
+{
+"areas": [
+[
+[
+0.9,
+90.05
+],
+[
+0.6,
+91.5833
+],
+[
+-2.0,
+91.0667
+],
+[
+-2.0,
+89.4667
+],
+[
+0.9,
+90.05
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-05T02:00:00.000Z",
+"start": "2026-11-04T21:00:00.000Z"
+},
+{
+"end": "2026-11-06T02:00:00.000Z",
+"start": "2026-11-05T21:00:00.000Z"
+},
+{
+"end": "2026-11-07T02:00:00.000Z",
+"start": "2026-11-06T21:00:00.000Z"
+},
+{
+"end": "2026-11-08T02:00:00.000Z",
+"start": "2026-11-07T21:00:00.000Z"
+},
+{
+"end": "2026-11-09T02:00:00.000Z",
+"start": "2026-11-08T21:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-VCCF-A0569/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A0569/26",
+"page": "https://space-notices.com/notice/notam-VCCF-A0569%2F26",
+"raw": "A0569/26 NOTAMN \r\nQ)VCCF/QRDCA/IV/BO/W/000/999/0042S09033E101\r\nA)VCCF B)2611042100 C)2611090200\r\nD)2100-0200\r\nE)IN VIEW OF DNG ZONE DECLARED BY CAA CHINA DUE TO AEROSPACE FLT\r\nACTIVITY, FLW AREA WI COLOMBO FIR BOUNDED BY GIVEN COORD DECLARED AS\r\nA TEMPO DNG AREA.\r\n005419N 0900316E-003654N 0913533E-020000S 0910420E-020000S 0892832E-\r\n005419N 0900316E\r\nDRG THIS PERIOD FLW ATS RTE SEGMENTS ARE NOT AVBL IN COLOMBO FIR.\r\n01. L897 NOT AVBL BTN &apos;MATLU&apos; AND &apos;KETIV&apos;\r\n02. N628 NOT AVBL BTN &apos;BASEV&apos; AND &apos;KETIV&apos;\r\n03. L774 NOT AVBL BTN &apos;ELATI&apos; AND &apos;KETIV&apos;\r\n04. N640 NOT AVBL BTN &apos;BASEV&apos; AND &apos;ELATI&apos;\r\nF)SFC G)UNL",
+"reason": "IN VIEW OF DNG ZONE DECLARED BY CAA CHINA DUE TO AEROSPACE FLT ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82893046",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-28T10:59:28.923Z"
 },
 {
 "areas": [
