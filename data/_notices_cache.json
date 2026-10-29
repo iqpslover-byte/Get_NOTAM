@@ -9573,7 +9573,7 @@
 "markers": [],
 "name": "CGD-SW BNM 9121-26",
 "page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209121-26",
-"raw": "$3d",
+"raw": "$3c",
 "reason": "Re-Entry - NASA Crew-12 Reentry",
 "source": {
 "link": "https://www.navcen.uscg.gov/chart",
@@ -12812,6 +12812,59 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/infopage-cadenaois-advisory-2848": {
+"lastmod": "2026-10-29T12:08:05.237Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-31T08:31:00.000Z",
+"start": "2026-10-31T03:48:00.000Z"
+},
+{
+"end": "2026-11-01T08:16:00.000Z",
+"start": "2026-11-01T03:33:00.000Z"
+},
+{
+"end": "2026-11-02T08:02:00.000Z",
+"start": "2026-11-02T03:19:00.000Z"
+},
+{
+"end": "2026-11-03T07:48:00.000Z",
+"start": "2026-11-03T03:05:00.000Z"
+},
+{
+"end": "2026-11-04T07:33:00.000Z",
+"start": "2026-11-04T02:50:00.000Z"
+},
+{
+"end": "2026-11-05T07:19:00.000Z",
+"start": "2026-11-05T02:36:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-cadenaois-advisory-2848",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-starlink-15-18",
+"title": "Starlink Group 15-18"
+}
+],
+"markers": [],
+"name": "Cadena OIS Advisory 2848",
+"page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2848",
+"raw": "Primary Launch Day\t31 OCT\t0348Z-0831Z\nBackup Launch Day\t01 NOV\t0333Z-0816Z\nBackup Launch Day\t02 NOV\t0319Z-0802Z\nBackup Launch Day\t03 NOV\t0305Z-0748Z\nBackup Launch Day\t04 NOV\t0250Z-0733Z\nBackup Launch Day\t05 NOV\t0236Z-0719Z\n",
+"reason": "SpaceX Starlink 15-18",
+"source": {
+"link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
+"name": "Cadena OIS"
+},
+"updated": "2026-10-29T12:08:05.237Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/infopage-faa-operations-advisory-blue-orgin-ng-3-bluebird-7": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -13376,18 +13429,18 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-18": {
-"lastmod": "2026-10-26T11:48:43.223Z",
+"lastmod": "2026-10-29T11:36:43.894Z",
 "notice": {
 "areas": [],
 "cancelled": false,
 "dates": [
 {
-"end": "2026-10-30T08:45:00.000Z",
-"start": "2026-10-30T04:02:00.000Z"
-},
-{
 "end": "2026-10-31T08:31:00.000Z",
 "start": "2026-10-31T03:48:00.000Z"
+},
+{
+"end": "2026-11-01T08:16:00.000Z",
+"start": "2026-11-01T03:33:00.000Z"
 }
 ],
 "height": null,
@@ -13402,29 +13455,29 @@
 "markers": [],
 "name": "FAA Operations Advisory",
 "page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-18",
-"raw": "SPACEX STARLINK 15-18, VANDENBERG SFB, CA\nPRIMARY:\t10/30/26\t0402Z-0845Z\nBACKUP:\t\t10/31/26\t0348Z-0831Z",
+"raw": "SPACEX STARLINK 15-18, VANDENBERG SFB, CA\nPRIMARY:\t10/31/26\t0348Z-0831Z\nBACKUP:\t\t11/01/26\t0333Z-0816Z",
 "reason": "SPACEX STARLINK 15-18, VANDENBERG SFB, CA",
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-26T11:48:43.223Z"
+"updated": "2026-10-29T11:36:43.894Z"
 },
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-21": {
-"lastmod": "2026-10-27T15:28:42.725Z",
+"lastmod": "2026-10-29T11:36:45.348Z",
 "notice": {
 "areas": [],
 "cancelled": false,
 "dates": [
 {
-"end": "2026-11-05T09:57:00.000Z",
-"start": "2026-11-05T05:14:00.000Z"
-},
-{
 "end": "2026-11-06T09:42:00.000Z",
 "start": "2026-11-06T04:59:00.000Z"
+},
+{
+"end": "2026-11-07T06:49:00.000Z",
+"start": "2026-11-07T02:06:00.000Z"
 }
 ],
 "height": null,
@@ -13439,13 +13492,13 @@
 "markers": [],
 "name": "FAA Operations Advisory",
 "page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-21",
-"raw": "SPACEX STARLINK 15-21, VANDENBERG SFB, CA\nPRIMARY:\t11/05/26\t0514Z-0957Z\nBACKUP:\t\t11/06/26\t0459Z-0942Z",
+"raw": "SPACEX STARLINK 15-21, VANDENBERG SFB, CA\nPRIMARY:\t11/06/26\t0459Z-0942Z\nBACKUP:\t\t11/07/26\t0206Z-0649Z",
 "reason": "SPACEX STARLINK 15-21, VANDENBERG SFB, CA",
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-27T15:28:42.725Z"
+"updated": "2026-10-29T11:36:45.348Z"
 },
 "via": "sitemap"
 },
@@ -289485,6 +289538,122 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-28T12:01:24.770Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZLA-10%2F347-26": {
+"lastmod": "2026-10-29T10:25:24.656Z",
+"notice": {
+"areas": [
+[
+[
+31.5833,
+-119.15
+],
+[
+32.35,
+-119.4667
+],
+[
+32.5333,
+-119.2667
+],
+[
+31.7667,
+-118.7667
+],
+[
+31.5833,
+-119.15
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-01T07:58:00.000Z",
+"start": "2026-11-01T03:33:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/347-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-18",
+"title": "Starlink Group 15-18"
+}
+],
+"markers": [],
+"name": "10/347",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F347-26",
+"raw": "!CARF 10/347 ZLA AIRSPACE DCC SX F9 STRLNK G15-18 26-70 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 313500N1190900W TO 322100N1192800W TO 323200N1191600W TO 314600N1184600W TO POINT OF ORIGIN SFC-UNL 2611010333-2611010758",
+"reason": "SX F9 STRLNK G15-18 26-70",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82906913",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-29T10:25:24.656Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZLA-10%2F348-26": {
+"lastmod": "2026-10-29T10:25:32.866Z",
+"notice": {
+"areas": [
+[
+[
+32.65,
+-119.6333
+],
+[
+32.8,
+-119.4
+],
+[
+34.5667,
+-120.4
+],
+[
+34.7,
+-120.5667
+],
+[
+34.5833,
+-120.6833
+],
+[
+32.65,
+-119.6333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-01T07:56:00.000Z",
+"start": "2026-11-01T03:33:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/348-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-18",
+"title": "Starlink Group 15-18"
+}
+],
+"markers": [],
+"name": "10/348",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F348-26",
+"raw": "!CARF 10/348 ZLA AIRSPACE DCC SX F9 STRLNK G15-18 26-70 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 323900N1193800W TO 324800N1192400W TO 343400N1202400W TO 344200N1203400W TO 343500N1204100W TO POINT OF ORIGIN SFC-UNL 2611010333-2611010756",
+"reason": "SX F9 STRLNK G15-18 26-70",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82906909",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-29T10:25:32.866Z"
 },
 "via": "sitemap"
 },

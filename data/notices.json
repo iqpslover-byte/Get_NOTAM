@@ -1,220 +1,7 @@
 {
-"count": 321,
-"generated_utc": "2026-10-29T07:41:25Z",
+"count": 320,
+"generated_utc": "2026-10-29T14:41:19Z",
 "notices": [
-{
-"areas": [
-[
-[
-25.9667,
--97.1833
-],
-[
-26.0167,
--97.2
-],
-[
-26.0667,
--97.1167
-],
-[
-26.0333,
--96.5333
-],
-[
-26.0,
--95.9167
-],
-[
-26.0,
--97.0
-],
-[
-25.9667,
--97.1833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-29T14:08:00.000Z",
-"start": "2026-09-29T12:15:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZHU-09/340-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-"title": "Starlink Group 31-1 (Starship Flight 14)"
-}
-],
-"markers": [],
-"name": "09/340",
-"page": "https://space-notices.com/notice/notam-ZHU-09%2F340-26",
-"raw": "!CARF 09/340 ZHU AIRSPACE DCC STARSHIP FLT 14 ASCENT STNR ALT RESERVATION ASCENT AHA A1 WI AN AREA DEFINED AS 255800N0971100W TO 260100N0971200W TO 260400N0970700W TO 260200N0963200W TO 260000N0955500W TO 260000N0970000W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL 2609291215-2609291408",
-"reason": "STARSHIP FLT 14 ASCENT",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82560795",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-27T22:15:37.028Z"
-},
-{
-"areas": [
-[
-[
-26.0,
--95.9167
-],
-[
-25.95,
--95.1
-],
-[
-25.6333,
--94.2
-],
-[
-25.4667,
--92.9167
-],
-[
-24.5,
--91.05
-],
-[
-24.5,
--93.0
-],
-[
-26.0,
--95.9167
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-29T14:08:00.000Z",
-"start": "2026-09-29T12:15:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZHU-09/341-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-"title": "Starlink Group 31-1 (Starship Flight 14)"
-}
-],
-"markers": [],
-"name": "09/341",
-"page": "https://space-notices.com/notice/notam-ZHU-09%2F341-26",
-"raw": "!CARF 09/341 ZHU AIRSPACE DCC STARSHIP FLT 14 ASCENT STNR ALT RESERVATION ASCENT AHA A2 WI AN AREA DEFINED AS 260000N0955500W TO 255700N0950600W TO 253800N0941200W TO 252800N0925500W TO 243000N0910300W TO 243000N0930000W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL 2609291215-2609291408",
-"reason": "STARSHIP FLT 14 ASCENT",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82560792",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-27T22:15:30.580Z"
-},
-{
-"areas": [
-[
-[
-25.9333,
--97.1667
-],
-[
-26.0167,
--97.2
-],
-[
-26.0667,
--97.1167
-],
-[
-26.0667,
--96.9167
-],
-[
-26.0,
--96.9167
-],
-[
-26.0,
--97.0
-],
-[
-25.9333,
--97.1667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-29T14:08:00.000Z",
-"start": "2026-09-29T12:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "tfr-ZHU-6/5574",
-"kind": "TFR",
-"launches": [
-{
-"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-"title": "Starlink Group 31-1 (Starship Flight 14)"
-}
-],
-"markers": [],
-"name": "FDC 6/5574",
-"page": "https://space-notices.com/notice/tfr-ZHU-6%2F5574",
-"raw": "FDC 6/5574 ZHU TX..AIRSPACE STARBASE, TX..TEMPORARY FLIGHT RESTRICTIONS. PURSUANT TO 14 CFR SECTION 91.143, SPACE OPS AREA, ACFT OPS ARE PROHIBITED WI AN AREA DEFINED AS 255600N0971000W (BRO078011.3) TO 260100N0971200W (BRO051011) TO 260400N0970700W (BRO050016.4) TO 260400N0965500W (BRO062026.2) TO 260000N0965500W (BRO071025.2) TO 260000N0970000W (BRO068020.8) TO THE POINT OF ORIGIN SFC-UNL EFFECTIVE 2609291200 UTC (0700 LOCAL 09/29/26) UNTIL 2609291408 UTC (0908 LOCAL 09/29/26). SPACE OPS AREA: ACFT OPS ARE PROHIBITIED. EXCLUDING AIRSPACE OVER INTERNATIONAL WATERS. UAS OPR WHO DO NOT COMPLY WITH APPLICABLE AIRSPACE RESTRICTIONS ARE WARNED THAT PURSUANT TO 10 U.S.C.SECTION 130I AND 6 U.S.C.SECTION 124N, THE DEPARTMENT OF DEFENSE (DOD), THE DEPARTMENT OF HOMELAND SECURITY (DHS) OR THE DEPARTMENT OF JUSTICE (DOJ) MAY TAKE SECURITY ACTION THAT RESULTS IN THE INTERFERENCE, DISRUPTION, SEIZURE, DAMAGING, OR DESTRUCTION OF UNMANNED ACFT DEEMED TO POSE A CREDIBLE SAFETY OR SECURITY THREAT TO PROTECTED PERSONNEL, FAC, OR ASSETS. THE HOUSTON /ZHU/ ARTCC, TEL 281-230-5560, IS THE CDN FAC. 2609291200-2609291408",
-"reason": "SPACE OPS AREA",
-"source": {
-"link": "https://tfr.faa.gov/tfr3/?page=detail_6_5574",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-26T02:02:58.398Z"
-},
-{
-"areas": [],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-28T14:14:00.000Z",
-"start": "2026-09-28T12:15:00.000Z"
-},
-{
-"end": "2026-09-29T14:14:00.000Z",
-"start": "2026-09-29T12:15:00.000Z"
-}
-],
-"height": null,
-"id": "infopage-faa-operations-advisory-spacex-starship-flight-14",
-"kind": "INFOPAGE",
-"launches": [
-{
-"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-"title": "Starlink Group 31-1 (Starship Flight 14)"
-}
-],
-"markers": [],
-"name": "FAA Operations Advisory",
-"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starship-flight-14",
-"raw": "SPACEX STARSHIP FLT-14, STARBASE, TX\nPRIMARY:\t09/28/26\t1215Z-1414Z\nBACKUP:\t\t09/29/26\t1215Z-1414Z",
-"reason": "SPACEX STARSHIP FLT-14, STARBASE, TX",
-"source": {
-"link": "https://www.fly.faa.gov/adv/adv_spt",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-19T19:38:43.369Z"
-},
 {
 "areas": [
 [
@@ -8605,7 +8392,7 @@
 "markers": [],
 "name": "CGD-SW BNM 9121-26",
 "page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209121-26",
-"raw": "$3d",
+"raw": "$3c",
 "reason": "Re-Entry - NASA Crew-12 Reentry",
 "source": {
 "link": "https://www.navcen.uscg.gov/chart",
@@ -17582,16 +17369,124 @@
 "updated": "2026-10-28T12:01:24.770Z"
 },
 {
+"areas": [
+[
+[
+32.65,
+-119.6333
+],
+[
+32.8,
+-119.4
+],
+[
+34.5667,
+-120.4
+],
+[
+34.7,
+-120.5667
+],
+[
+34.5833,
+-120.6833
+],
+[
+32.65,
+-119.6333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-01T07:56:00.000Z",
+"start": "2026-11-01T03:33:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/348-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-18",
+"title": "Starlink Group 15-18"
+}
+],
+"markers": [],
+"name": "10/348",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F348-26",
+"raw": "!CARF 10/348 ZLA AIRSPACE DCC SX F9 STRLNK G15-18 26-70 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 323900N1193800W TO 324800N1192400W TO 343400N1202400W TO 344200N1203400W TO 343500N1204100W TO POINT OF ORIGIN SFC-UNL 2611010333-2611010756",
+"reason": "SX F9 STRLNK G15-18 26-70",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82906909",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-29T10:25:32.866Z"
+},
+{
+"areas": [
+[
+[
+31.5833,
+-119.15
+],
+[
+32.35,
+-119.4667
+],
+[
+32.5333,
+-119.2667
+],
+[
+31.7667,
+-118.7667
+],
+[
+31.5833,
+-119.15
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-01T07:58:00.000Z",
+"start": "2026-11-01T03:33:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/347-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-18",
+"title": "Starlink Group 15-18"
+}
+],
+"markers": [],
+"name": "10/347",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F347-26",
+"raw": "!CARF 10/347 ZLA AIRSPACE DCC SX F9 STRLNK G15-18 26-70 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 313500N1190900W TO 322100N1192800W TO 323200N1191600W TO 314600N1184600W TO POINT OF ORIGIN SFC-UNL 2611010333-2611010758",
+"reason": "SX F9 STRLNK G15-18 26-70",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82906913",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-29T10:25:24.656Z"
+},
+{
 "areas": [],
 "cancelled": false,
 "dates": [
 {
-"end": "2026-10-30T08:45:00.000Z",
-"start": "2026-10-30T04:02:00.000Z"
-},
-{
 "end": "2026-10-31T08:31:00.000Z",
 "start": "2026-10-31T03:48:00.000Z"
+},
+{
+"end": "2026-11-01T08:16:00.000Z",
+"start": "2026-11-01T03:33:00.000Z"
 }
 ],
 "height": null,
@@ -17606,13 +17501,13 @@
 "markers": [],
 "name": "FAA Operations Advisory",
 "page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-18",
-"raw": "SPACEX STARLINK 15-18, VANDENBERG SFB, CA\nPRIMARY:\t10/30/26\t0402Z-0845Z\nBACKUP:\t\t10/31/26\t0348Z-0831Z",
+"raw": "SPACEX STARLINK 15-18, VANDENBERG SFB, CA\nPRIMARY:\t10/31/26\t0348Z-0831Z\nBACKUP:\t\t11/01/26\t0333Z-0816Z",
 "reason": "SPACEX STARLINK 15-18, VANDENBERG SFB, CA",
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-26T11:48:43.223Z"
+"updated": "2026-10-29T11:36:43.894Z"
 },
 {
 "areas": [
@@ -19199,6 +19094,55 @@
 "updated": "2026-10-26T18:36:06.511Z"
 },
 {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-31T08:31:00.000Z",
+"start": "2026-10-31T03:48:00.000Z"
+},
+{
+"end": "2026-11-01T08:16:00.000Z",
+"start": "2026-11-01T03:33:00.000Z"
+},
+{
+"end": "2026-11-02T08:02:00.000Z",
+"start": "2026-11-02T03:19:00.000Z"
+},
+{
+"end": "2026-11-03T07:48:00.000Z",
+"start": "2026-11-03T03:05:00.000Z"
+},
+{
+"end": "2026-11-04T07:33:00.000Z",
+"start": "2026-11-04T02:50:00.000Z"
+},
+{
+"end": "2026-11-05T07:19:00.000Z",
+"start": "2026-11-05T02:36:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-cadenaois-advisory-2848",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-starlink-15-18",
+"title": "Starlink Group 15-18"
+}
+],
+"markers": [],
+"name": "Cadena OIS Advisory 2848",
+"page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2848",
+"raw": "Primary Launch Day\t31 OCT\t0348Z-0831Z\nBackup Launch Day\t01 NOV\t0333Z-0816Z\nBackup Launch Day\t02 NOV\t0319Z-0802Z\nBackup Launch Day\t03 NOV\t0305Z-0748Z\nBackup Launch Day\t04 NOV\t0250Z-0733Z\nBackup Launch Day\t05 NOV\t0236Z-0719Z\n",
+"reason": "SpaceX Starlink 15-18",
+"source": {
+"link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
+"name": "Cadena OIS"
+},
+"updated": "2026-10-29T12:08:05.237Z"
+},
+{
 "areas": [
 [
 [
@@ -19527,39 +19471,6 @@
 "updated": "2026-10-22T14:54:40.108Z"
 },
 {
-"areas": [],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-11-05T09:57:00.000Z",
-"start": "2026-11-05T05:14:00.000Z"
-},
-{
-"end": "2026-11-06T09:42:00.000Z",
-"start": "2026-11-06T04:59:00.000Z"
-}
-],
-"height": null,
-"id": "infopage-faa-operations-advisory-spacex-starlink-15-21",
-"kind": "INFOPAGE",
-"launches": [
-{
-"id": "launch-f9-starlink-15-21",
-"title": "Starlink Group 15-21"
-}
-],
-"markers": [],
-"name": "FAA Operations Advisory",
-"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-21",
-"raw": "SPACEX STARLINK 15-21, VANDENBERG SFB, CA\nPRIMARY:\t11/05/26\t0514Z-0957Z\nBACKUP:\t\t11/06/26\t0459Z-0942Z",
-"reason": "SPACEX STARLINK 15-21, VANDENBERG SFB, CA",
-"source": {
-"link": "https://www.fly.faa.gov/adv/adv_spt",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-27T15:28:42.725Z"
-},
-{
 "areas": [
 [
 [
@@ -19736,6 +19647,39 @@
 "name": "US National Geospatial-Intelligence Agency"
 },
 "updated": "2026-10-20T00:08:10.739Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-06T09:42:00.000Z",
+"start": "2026-11-06T04:59:00.000Z"
+},
+{
+"end": "2026-11-07T06:49:00.000Z",
+"start": "2026-11-07T02:06:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-spacex-starlink-15-21",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-starlink-15-21",
+"title": "Starlink Group 15-21"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-21",
+"raw": "SPACEX STARLINK 15-21, VANDENBERG SFB, CA\nPRIMARY:\t11/06/26\t0459Z-0942Z\nBACKUP:\t\t11/07/26\t0206Z-0649Z",
+"reason": "SPACEX STARLINK 15-21, VANDENBERG SFB, CA",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-29T11:36:45.348Z"
 },
 {
 "areas": [
@@ -24991,5 +24935,5 @@
 "pending": 10,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3263
+"total_known": 3266
 }
