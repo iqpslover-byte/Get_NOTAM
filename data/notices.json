@@ -1,59 +1,7 @@
 {
-"count": 322,
-"generated_utc": "2026-10-29T01:15:58Z",
+"count": 321,
+"generated_utc": "2026-10-29T07:41:25Z",
 "notices": [
-{
-"areas": [
-[
-[
-39.25,
-89.0
-],
-[
-39.3333,
-88.45
-],
-[
-39.0833,
-88.35
-],
-[
-38.9667,
-88.9
-],
-[
-39.25,
-89.0
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-29T03:27:00.000Z",
-"start": "2026-09-29T02:17:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZWUQ-A4974/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "A4974/26",
-"page": "https://space-notices.com/notice/notam-ZWUQ-A4974%2F26",
-"raw": "A4974/26 NOTAMN\r\nQ)ZWUQ/QRDCA/IV/BO/W/000/999/3910N08841E016\r\nA)ZWUQ B)2609290844 C)2609300327 \r\nD)0844-0954 ON 29,0217-0327 ON 30\r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY: \r\nN391500E0890000-N392041E0882739-N390505E0882158-N385847E0885428, \r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA ESTABLISHED",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82562725",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-28T05:59:08.203Z"
-},
 {
 "areas": [
 [
