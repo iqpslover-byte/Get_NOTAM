@@ -1,67 +1,7 @@
 {
-"count": 319,
-"generated_utc": "2026-10-30T13:37:56Z",
+"count": 321,
+"generated_utc": "2026-10-30T18:54:07Z",
 "notices": [
-{
-"areas": [
-[
-[
-25.9333,
--97.1667
-],
-[
-26.0167,
--97.2
-],
-[
-26.0667,
--97.1167
-],
-[
-26.0667,
--96.9167
-],
-[
-26.0,
--96.9167
-],
-[
-26.0,
--97.0
-],
-[
-25.9333,
--97.1667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-09-30T14:08:00.000Z",
-"start": "2026-09-30T12:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "tfr-ZHU-6/5575",
-"kind": "TFR",
-"launches": [
-{
-"id": "launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-"title": "Starlink Group 31-1 (Starship Flight 14)"
-}
-],
-"markers": [],
-"name": "FDC 6/5575",
-"page": "https://space-notices.com/notice/tfr-ZHU-6%2F5575",
-"raw": "FDC 6/5575 ZHU TX..AIRSPACE STARBASE, TX..TEMPORARY FLIGHT RESTRICTIONS. PURSUANT TO 14 CFR SECTION 91.143, SPACE OPS AREA, ACFT OPS ARE PROHIBITED WI AN AREA DEFINED AS 255600N0971000W (BRO078011.3) TO 260100N0971200W (BRO051011) TO 260400N0970700W (BRO050016.4) TO 260400N0965500W (BRO062026.2) TO 260000N0965500W (BRO071025.2) TO 260000N0970000W (BRO068020.8) TO THE POINT OF ORIGIN SFC-UNL EFFECTIVE 2609301200 UTC (0700 LOCAL 09/30/26) UNTIL 2609301408 UTC (0908 LOCAL 09/30/26). SPACE OPS AREA: ACFT OPS ARE PROHIBITIED. EXCLUDING AIRSPACE OVER INTERNATIONAL WATERS. UAS OPR WHO DO NOT COMPLY WITH APPLICABLE AIRSPACE RESTRICTIONS ARE WARNED THAT PURSUANT TO 10 U.S.C.SECTION 130I AND 6 U.S.C.SECTION 124N, THE DEPARTMENT OF DEFENSE (DOD), THE DEPARTMENT OF HOMELAND SECURITY (DHS) OR THE DEPARTMENT OF JUSTICE (DOJ) MAY TAKE SECURITY ACTION THAT RESULTS IN THE INTERFERENCE, DISRUPTION, SEIZURE, DAMAGING, OR DESTRUCTION OF UNMANNED ACFT DEEMED TO POSE A CREDIBLE SAFETY OR SECURITY THREAT TO PROTECTED PERSONNEL, FAC, OR ASSETS. THE HOUSTON /ZHU/ ARTCC, TEL 281-230-5560, IS THE CDN FAC. 2609301200-2609301408",
-"reason": "SPACE OPS AREA",
-"source": {
-"link": "https://tfr.faa.gov/tfr3/?page=detail_6_5575",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-09-26T02:08:50.471Z"
-},
 {
 "areas": [
 [
@@ -7783,7 +7723,7 @@
 "markers": [],
 "name": "CGD-SW BNM 9121-26",
 "page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209121-26",
-"raw": "$3c",
+"raw": "$3d",
 "reason": "Re-Entry - NASA Crew-12 Reentry",
 "source": {
 "link": "https://www.navcen.uscg.gov/chart",
@@ -20634,6 +20574,442 @@
 "areas": [
 [
 [
+32.083333,
+-119.133333
+],
+[
+32.5,
+-119.3
+],
+[
+33.25,
+-119.633333
+],
+[
+34.2,
+-120.1
+],
+[
+34.516667,
+-120.3
+],
+[
+34.666667,
+-120.633333
+],
+[
+34.6,
+-120.65
+],
+[
+34.45,
+-120.616667
+],
+[
+34.316667,
+-120.566667
+],
+[
+32.083333,
+-119.15
+],
+[
+32.083333,
+-119.133333
+]
+],
+[
+[
+30.766667,
+-118.25
+],
+[
+31.383333,
+-118.783333
+],
+[
+30.433333,
+-118.516667
+],
+[
+29.583333,
+-118.2
+],
+[
+29.866667,
+-117.9
+],
+[
+29.8,
+-117.65
+],
+[
+30.766667,
+-118.25
+]
+],
+[
+[
+29.033333,
+-117.983333
+],
+[
+29.25,
+-118.033333
+],
+[
+29.4,
+-118.133333
+],
+[
+29.583333,
+-118.2
+],
+[
+29.866667,
+-117.9
+],
+[
+29.8,
+-117.65
+],
+[
+29.6,
+-117.266667
+],
+[
+28.833333,
+-117.316667
+],
+[
+28.25,
+-117.316667
+],
+[
+28.266667,
+-117.35
+],
+[
+28.833333,
+-117.816667
+],
+[
+29.033333,
+-117.983333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-06T06:45:00.000Z",
+"start": "2026-11-06T02:21:00.000Z"
+},
+{
+"end": "2026-11-07T06:30:00.000Z",
+"start": "2026-11-07T02:06:00.000Z"
+},
+{
+"end": "2026-11-08T06:16:00.000Z",
+"start": "2026-11-08T01:52:00.000Z"
+},
+{
+"end": "2026-11-09T06:02:00.000Z",
+"start": "2026-11-09T01:38:00.000Z"
+},
+{
+"end": "2026-11-10T05:47:00.000Z",
+"start": "2026-11-10T01:23:00.000Z"
+},
+{
+"end": "2026-11-11T05:33:00.000Z",
+"start": "2026-11-11T01:09:00.000Z"
+},
+{
+"end": "2026-11-12T05:18:00.000Z",
+"start": "2026-11-12T00:54:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-57527",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-21",
+"title": "Starlink Group 15-21"
+}
+],
+"markers": [],
+"name": "57527",
+"page": "https://space-notices.com/notice/lnm-57527",
+"raw": "Hazardous operations will be conducted for Space X, g15-21 Launch Operations. Hazardous operation areas are bounded by the following coordinates and times:\n\nHazard Area A: \n32.08333333N, -119.13333333W\n32.5N, -119.3W\n33.25N, -119.63333333W\n34.2N, -120.1W\n34.51666667N, -120.3W\n34.66666667N, -120.63333333W\n34.6N, -120.65W\n34.45N, -120.61666667W\n34.31666667N, -120.56666667W\n32.08333333N, -119.15W\n(TO BEGINNING)\n             \n060221Z NOV TO 060644Z NOV 2026---- (PRIMARY) \n070206Z NOV TO 070629Z NOV 2026---- (BACKUP DAY) \n080152Z NOV TO 080615Z NOV 2026---- (BACKUP DAY) \n090138Z NOV TO 090601Z NOV 2026---- (BACKUP DAY) \n100123Z NOV TO 100546Z NOV 2026---- (BACKUP DAY) \n110109Z NOV TO 110532Z NOV 2026---- (BACKUP DAY) \n120054Z NOV TO 120517Z NOV 2026---- (BACKUP DAY) \n\nHazard Area B:\n30.76666667N, -118.25W\n31.38333333N, -118.78333333W\n30.43333333N, -118.51666667W\n29.58333333N, -118.2W\n29.86666667N, -117.9W\n29.8N, -117.65W\n(TO BEGINNING)\n            \n060221Z NOV TO 060645Z NOV 2026---- (PRIMARY) \n070206Z NOV TO 070630Z NOV 2026---- (BACKUP DAY) \n080152Z NOV TO 080616Z NOV 2026---- (BACKUP DAY) \n090138Z NOV TO 090602Z NOV 2026---- (BACKUP DAY) \n100123Z NOV TO 100547Z NOV 2026---- (BACKUP DAY) \n110109Z NOV TO 110533Z NOV 2026---- (BACKUP DAY) \n120054Z NOV TO 120518Z NOV 2026---- (BACKUP DAY) \n\nHazard Area C:\n29.03333333N, -117.98333333W\n29.25N, -118.03333333W\n29.4N, -118.13333333W\n29.58333333N, -118.2W\n29.86666667N, -117.9W\n29.8N, -117.65W\n29.6N, -117.26666667W\n28.83333333N, -117.31666667W\n28.25N, -117.31666667W\n28.26666667N, -117.35W\n28.83333333N, -117.81666667W\n(TO BEGINNING)\n\n060221Z NOV TO 060704Z NOV 2026---- (PRIMARY) \n070206Z NOV TO 070649Z NOV 2026---- (BACKUP DAY) \n080152Z NOV TO 080635Z NOV 2026---- (BACKUP DAY) \n090138Z NOV TO 090621Z NOV 2026---- (BACKUP DAY) \n100123Z NOV TO 100606Z NOV 2026---- (BACKUP DAY) \n110109Z NOV TO 110552Z NOV 2026---- (BACKUP DAY) \n120054Z NOV TO 120537Z NOV 2026---- (BACKUP DAY) \n\nMariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16.\n",
+"reason": "Hazardous operations will be conducted for Space X g15-21 Launch Operations",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-10-30T17:30:54.367Z"
+},
+{
+"areas": [
+[
+[
+29.033333,
+-117.983333
+],
+[
+29.25,
+-118.033333
+],
+[
+29.4,
+-118.133333
+],
+[
+29.583333,
+-118.2
+],
+[
+29.866667,
+-117.9
+],
+[
+29.8,
+-117.65
+],
+[
+29.6,
+-117.266667
+],
+[
+28.833333,
+-117.316667
+],
+[
+28.25,
+-117.316667
+],
+[
+28.266667,
+-117.35
+],
+[
+28.833333,
+-117.816667
+],
+[
+29.033333,
+-117.983333
+]
+],
+[
+[
+30.766667,
+-118.25
+],
+[
+31.383333,
+-118.783333
+],
+[
+30.433333,
+-118.516667
+],
+[
+29.583333,
+-118.2
+],
+[
+29.866667,
+-117.9
+],
+[
+29.8,
+-117.65
+],
+[
+30.766667,
+-118.25
+]
+],
+[
+[
+32.083333,
+-119.133333
+],
+[
+32.5,
+-119.3
+],
+[
+33.25,
+-119.633333
+],
+[
+34.2,
+-120.1
+],
+[
+34.516667,
+-120.3
+],
+[
+34.666667,
+-120.633333
+],
+[
+34.6,
+-120.65
+],
+[
+34.45,
+-120.616667
+],
+[
+34.316667,
+-120.566667
+],
+[
+32.083333,
+-119.15
+],
+[
+32.083333,
+-119.133333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-06T07:04:00.000Z",
+"start": "2026-11-06T02:21:00.000Z"
+},
+{
+"end": "2026-11-07T06:49:00.000Z",
+"start": "2026-11-07T02:06:00.000Z"
+},
+{
+"end": "2026-11-08T06:35:00.000Z",
+"start": "2026-11-08T01:52:00.000Z"
+},
+{
+"end": "2026-11-09T06:21:00.000Z",
+"start": "2026-11-09T01:38:00.000Z"
+},
+{
+"end": "2026-11-10T06:06:00.000Z",
+"start": "2026-11-10T01:23:00.000Z"
+},
+{
+"end": "2026-11-11T05:52:00.000Z",
+"start": "2026-11-11T01:09:00.000Z"
+},
+{
+"end": "2026-11-12T05:37:00.000Z",
+"start": "2026-11-12T00:54:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SW BNM 9135-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-21",
+"title": "Starlink Group 15-21"
+}
+],
+"markers": [],
+"name": "CGD-SW BNM 9135-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209135-26",
+"raw": "Launch Hazard Area\nMission: SpaceX Starlink g15-21\nMessage Id: CGD-SW BNM 9135-26\n\n\n06/0221 NOV 26 to 06/0704 NOV 26. \n07/0206 NOV 26 to 07/0649 NOV 26. \n08/0152 NOV 26 to 08/0635 NOV 26. \n09/0138 NOV 26 to 09/0621 NOV 26. \n10/0123 NOV 26 to 10/0606 NOV 26. \n11/0109 NOV 26 to 11/0552 NOV 26. \n12/0054 NOV 26 to 12/0537 NOV 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
+"reason": "Launch Hazard Area - SpaceX Starlink g15-21",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-10-30T17:55:40.285Z"
+},
+{
+"areas": [
+[
+[
+-30.0,
+-121.8833
+],
+[
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-28.7167,
+-120.0
+],
+[
+-30.0,
+-120.0
+],
+[
+-30.0,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-06T08:46:00.000Z",
+"start": "2026-11-06T04:08:00.000Z"
+},
+{
+"end": "2026-11-07T08:31:00.000Z",
+"start": "2026-11-07T03:53:00.000Z"
+},
+{
+"end": "2026-11-08T08:17:00.000Z",
+"start": "2026-11-08T03:39:00.000Z"
+},
+{
+"end": "2026-11-09T08:03:00.000Z",
+"start": "2026-11-09T03:25:00.000Z"
+},
+{
+"end": "2026-11-11T07:34:00.000Z",
+"start": "2026-11-11T02:56:00.000Z"
+},
+{
+"end": "2026-11-12T07:19:00.000Z",
+"start": "2026-11-12T02:41:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1392/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-21",
+"title": "Starlink Group 15-21"
+}
+],
+"markers": [],
+"name": "A1392/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1392%2F26",
+"raw": "A1392/26 NOTAMN\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2843S12107W099\r\nA) NTTT\r\nB) 2611060408 C) 2611120719\r\nD) 06 0408-0846, 07 0353-0831, 08 0339-0817, 09 0325-0803, 10\r\n 0310-0748, 11 0256-0734, 12 0241-0719\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX\r\n STARLINK 15-21 IN TAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING\r\n POINTS: \r\n3000S 12153W, 2759S 12244W, 2709S 12043W, 2843S 12000W, 3000S\r\n 12000W, 3000S 12153W \r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : SCIZ \r\n\r\nTHE FRENCH VERSION OF THIS NOTAM IS C2622/26\r\nF) SFC G) UNL",
+"reason": "SPACE DEBRIS RETURN OF SPACEX STARLINK 15-21",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82927405",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-30T18:37:31.990Z"
+},
+{
+"areas": [
+[
+[
 -39.2,
 177.75
 ],
@@ -20956,7 +21332,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82921530",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-30T07:38:39.394Z"
+"updated": "2026-10-30T11:32:38.188Z"
 },
 {
 "areas": [
@@ -21028,7 +21404,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82921614",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-30T07:38:39.394Z"
+"updated": "2026-10-30T11:32:47.768Z"
 },
 {
 "areas": [
@@ -21092,7 +21468,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82921684",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-30T07:38:39.394Z"
+"updated": "2026-10-30T11:32:28.721Z"
 },
 {
 "areas": [],
@@ -24685,5 +25061,5 @@
 "pending": 9,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3283
+"total_known": 3286
 }
