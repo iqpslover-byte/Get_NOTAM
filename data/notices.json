@@ -1,6 +1,6 @@
 {
 "count": 323,
-"generated_utc": "2026-10-29T19:54:58Z",
+"generated_utc": "2026-10-30T00:26:30Z",
 "notices": [
 {
 "areas": [
@@ -18585,7 +18585,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82913655",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-29T12:08:06.306Z"
+"updated": "2026-10-29T18:13:29.988Z"
 },
 {
 "areas": [
@@ -19481,8 +19481,8 @@
 "cancelled": false,
 "dates": [
 {
-"end": "2026-11-06T09:42:00.000Z",
-"start": "2026-11-06T04:59:00.000Z"
+"end": "2026-11-06T07:04:00.000Z",
+"start": "2026-11-06T02:21:00.000Z"
 },
 {
 "end": "2026-11-07T06:49:00.000Z",
@@ -19501,13 +19501,13 @@
 "markers": [],
 "name": "FAA Operations Advisory",
 "page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-21",
-"raw": "SPACEX STARLINK 15-21, VANDENBERG SFB, CA\nPRIMARY:\t11/06/26\t0459Z-0942Z\nBACKUP:\t\t11/07/26\t0206Z-0649Z",
+"raw": "SPACEX STARLINK 15-21, VANDENBERG SFB, CA\nPRIMARY:\t11/06/26\t0221Z-0704Z\nBACKUP:\t\t11/07/26\t0206Z-0649Z",
 "reason": "SPACEX STARLINK 15-21, VANDENBERG SFB, CA",
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-29T11:36:45.348Z"
+"updated": "2026-10-29T19:28:43.141Z"
 },
 {
 "areas": [
@@ -20309,7 +20309,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82913849",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-28T12:01:58.772Z"
+"updated": "2026-10-29T18:31:29.638Z"
 },
 {
 "areas": [
@@ -20709,7 +20709,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82914497",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-28T12:01:58.772Z"
+"updated": "2026-10-29T19:07:30.165Z"
 },
 {
 "areas": [
@@ -21452,7 +21452,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3128&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-10-12T23:40:31.423Z"
+"updated": "2026-10-29T19:13:02.158Z"
 },
 {
 "areas": [
@@ -21582,7 +21582,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3129&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-10-12T23:40:31.423Z"
+"updated": "2026-10-29T19:12:56.609Z"
 },
 {
 "areas": [],
