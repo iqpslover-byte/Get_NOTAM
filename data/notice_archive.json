@@ -1,5 +1,5 @@
 {
-"count": 2844,
+"count": 2847,
 "notices": [
 {
 "areas": [
@@ -277717,6 +277717,114 @@
 "areas": [
 [
 [
+31.6333,
+-119.05
+],
+[
+31.7333,
+-118.8333
+],
+[
+29.8,
+-117.65
+],
+[
+29.6,
+-117.2667
+],
+[
+28.8333,
+-117.3167
+],
+[
+28.25,
+-117.3167
+],
+[
+28.2333,
+-117.3333
+],
+[
+28.8333,
+-117.8167
+],
+[
+29.0333,
+-117.9833
+],
+[
+29.25,
+-118.0333
+],
+[
+29.4,
+-118.1333
+],
+[
+29.5833,
+-118.2
+],
+[
+31.6333,
+-119.05
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-06T07:04:00.000Z",
+"start": "2026-11-06T02:21:00.000Z"
+},
+{
+"end": "2026-11-07T06:49:00.000Z",
+"start": "2026-11-07T02:06:00.000Z"
+},
+{
+"end": "2026-11-08T06:35:00.000Z",
+"start": "2026-11-08T01:52:00.000Z"
+},
+{
+"end": "2026-11-09T06:21:00.000Z",
+"start": "2026-11-09T01:38:00.000Z"
+},
+{
+"end": "2026-11-10T06:06:00.000Z",
+"start": "2026-11-10T01:23:00.000Z"
+},
+{
+"end": "2026-11-11T05:52:00.000Z",
+"start": "2026-11-11T01:09:00.000Z"
+},
+{
+"end": "2026-11-12T05:37:00.000Z",
+"start": "2026-11-12T00:54:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MMFR-B3729/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-21",
+"title": "Starlink Group 15-21"
+}
+],
+"markers": [],
+"name": "B3729/26",
+"page": "https://space-notices.com/notice/notam-MMFR-B3729%2F26",
+"raw": "B3729/26 NOTAMN\r\r\nQ) MMFR/QRDCA/IV/BO/W/000/999/\r\r\nA) MMFR\r\r\nB) 2611060221\r\r\nC) 2611120537\r\r\nD) 06 0221-0704, 07 0206-0649, 08 0152-0635, 09 0138- 0621,\r\r\n   10 0123-0606, 11 0109-0552, 12 0054-0537\r\r\nE) DANGEROUS AREA FOR REENTRY OF ROCKET SPACEX 15-21 STAGE 1 \r\r\n   LATERAL LIMIT AREA FORMED BY THE UNION OF THE FLW POINTS:\r\r\n   3138N 11903W\r\r\n   3144N 11850W\r\r\n   2948N 11739W\r\r\n   2936N 11716W\r\r\n   2850N 11719W\r\r\n   2815N 11719W\r\r\n   2814N 11720W\r\r\n   2850N 11749W\r\r\n   2902N 11759W\r\r\n   2915N 11802W\r\r\n   2924N 11808W\r\r\n   2935N 11812W\r\r\n   3138N 11903W\r\r\n   (MMFR)\r\r\nF) SFC\r\r\nG) UNL",
+"reason": "DANGEROUS AREA FOR REENTRY OF ROCKET SPACEX 15-21 STAGE 1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82927910",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-30T19:30:28.922Z"
+},
+{
+"areas": [
+[
+[
 -30.0,
 -121.8833
 ],
@@ -277788,6 +277896,142 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-30T18:37:31.990Z"
+},
+{
+"areas": [
+[
+[
+-30.0,
+-121.8833
+],
+[
+-30.0,
+-120.0
+],
+[
+-28.7167,
+-120.0
+],
+[
+-38.35,
+-115.0667
+],
+[
+-49.15,
+-107.3667
+],
+[
+-59.15,
+-95.5667
+],
+[
+-59.9667,
+-99.0833
+],
+[
+-44.5667,
+-114.2167
+],
+[
+-30.0,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-12T07:19:00.000Z",
+"start": "2026-11-06T04:08:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-SCIZ-W3748/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-starlink-15-21",
+"title": "Starlink Group 15-21"
+}
+],
+"markers": [],
+"name": "W3748/26",
+"page": "https://space-notices.com/notice/notam-SCIZ-W3748%2F26",
+"raw": "W3748/26 NOTAMN \r\nQ)SCIZ/QXXXX/IV/NBO/W/000/999/4448S11206W300\r\nA)SCIZ B)2611060408 C)2611120719\r\nE)SPACEX SL 15-21 STAGE 2 WILL BE CONDUCTING HAZARDOUS OPERATIONS\r\nSURFACE TO UNLIMITED FOR ATMOSPHERIC RE-ENTRY AND SPLASHDOWN OF\r\nLAUNCH VEHICLE UPPER STAGE WI THE FOLLOWING AREA:\r\n3000S/12153W\r\n3000S/12000W\r\n2843S/12000W\r\n3821S/11504W\r\n4909S/10722W\r\n5909S/09534W\r\n5958S/09905W\r\n4434S/11413W TO BEGINNING.\r\nHAZARD PERIODS FOR SPACEX STARLINK 15-21 SECOND STAGE REENTRY:\r\nPRIMARY REENTRY DAY: 06 NOV 26 / 0408Z THRU 06 NOV 26 / 0831Z\r\nBACKUP REENTRY DAY : 07 NOV 26 / 0353Z THRU 07 NOV 26 / 0831Z\r\nBACKUP REENTRY DAY : 08 NOV 26 / 0339Z THRU 08 NOV 26 / 0817Z\r\nBACKUP REENTRY DAY : 09 NOV 26 / 0325Z THRU 09 NOV 26 / 0803Z\r\nBACKUP REENTRY DAY : 10 NOV 10 / 0310Z THRU 10 NOV 26 / 0748Z\r\nBACKUP REENTRY DAY : 11 NOV 26 / 0256Z THRU 11 NOV 26 / 0734Z\r\nBACKUP REENTRY DAY : 12 NOV 26 / 0241Z THRU 12 NOV 26 / 0719Z\r\nF)SFC G)UNL",
+"reason": "ATMOSPHERIC RE-ENTRY OF SPACEX STARLINK 15-21 SECOND STAGE",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82927768",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-30T19:17:34.310Z"
+},
+{
+"areas": [
+[
+[
+-24.6333,
+-157.0
+],
+[
+-28.9,
+-151.05
+],
+[
+-29.6167,
+-151.6833
+],
+[
+-25.7833,
+-157.0
+],
+[
+-24.6333,
+-157.0
+],
+[
+-24.6333,
+-157.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-12T22:00:00.000Z",
+"start": "2026-11-12T19:00:00.000Z"
+},
+{
+"end": "2026-11-13T22:00:00.000Z",
+"start": "2026-11-13T19:00:00.000Z"
+},
+{
+"end": "2026-11-14T22:00:00.000Z",
+"start": "2026-11-14T19:00:00.000Z"
+},
+{
+"end": "2026-11-15T22:00:00.000Z",
+"start": "2026-11-15T19:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1393/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A1393/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1393%2F26",
+"raw": "A1393/26 NOTAMN\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2714S15410W230\r\nA) NTTT\r\nB) 2611121900 C) 2611152200\r\nD) 12-15 1900-2200\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF CAAC\r\n SPACECRAFT IN TAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING\r\n POINTS: \r\n2438S 15700W, 2854S 15103W, 2937S 15141W, 2547S 15700W, 2438S\r\n 15700W \r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : NZZO\r\n\r\nTHE FRENCH VERSION OF THIS NOTAM IS C2623/26\r\nF) SFC G) UNL",
+"reason": "SPACE DEBRIS RETURN OF CAAC SPACECRAFT",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82927726",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-30T19:25:35.529Z"
 },
 {
 "areas": [
