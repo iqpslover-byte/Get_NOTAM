@@ -246901,6 +246901,62 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-NZZO-B5099%2F26": {
+"lastmod": "2026-10-31T14:25:26.402Z",
+"notice": {
+"areas": [
+[
+[
+-33.5667,
+-162.15
+],
+[
+-41.6167,
+-141.7333
+],
+[
+-42.6333,
+-142.2167
+],
+[
+-34.5333,
+-162.7333
+],
+[
+-33.5667,
+-162.15
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-11-04T09:50:00.000Z",
+"start": "2026-11-04T05:50:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B5099/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-mir-demo-flight",
+"title": "Demo Flight"
+}
+],
+"markers": [],
+"name": "B5099/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B5099%2F26",
+"raw": "B5099/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3832S15249W550\r\nA) NZZO B) 2611040550 C) 2611040950\r\nE) TEMPO DANGER AREA NZD093 (AUCKLAND OCEANIC FIR) IS PRESCRIBED AS\r\nFLW:\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n333418S 1620930W\r\n413739S 1414414W\r\n423836S 1421353W\r\n343211S 1624448W\r\n333418S 1620930W\r\nACTIVITY: SPACE DEBRIS RETURN\r\nUSING AGENCY: FOREIGN SPACE AGENCY\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED\r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "SPACE DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82785561",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-31T14:25:26.402Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-NZZO-B5114%2F26": {
 "lastmod": "2026-10-19T19:47:41.164Z",
 "notice": {
@@ -254435,7 +254491,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RPHI-B5731%2F26": {
-"lastmod": "2026-10-23T11:10:28.742Z",
+"lastmod": "2026-10-31T14:29:27.091Z",
 "notice": {
 "areas": [
 [
@@ -254461,7 +254517,7 @@
 ]
 ]
 ],
-"cancelled": false,
+"cancelled": true,
 "dates": [
 {
 "end": "2026-11-05T23:00:00.000Z",
@@ -254489,8 +254545,8 @@
 "kind": "NOTAM",
 "launches": [
 {
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
+"id": "launch-long-march-12-satnet-leo-group-tbd",
+"title": "SatNet LEO Group TBD?"
 }
 ],
 "markers": [],
@@ -254502,12 +254558,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82842293",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-23T11:10:28.742Z"
+"updated": "2026-10-31T14:29:27.091Z"
 },
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RPHI-B5826%2F26": {
-"lastmod": "2026-10-30T07:38:28.477Z",
+"lastmod": "2026-10-31T14:29:06.736Z",
 "notice": {
 "areas": [
 [
@@ -254545,8 +254601,8 @@
 "kind": "NOTAM",
 "launches": [
 {
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
+"id": "launch-long-march-12-satnet-leo-group-tbd",
+"title": "SatNet LEO Group TBD?"
 }
 ],
 "markers": [],
@@ -254558,12 +254614,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82919890",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-30T07:38:28.477Z"
+"updated": "2026-10-31T14:29:06.736Z"
 },
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RPHI-B5829%2F26": {
-"lastmod": "2026-10-30T11:32:38.188Z",
+"lastmod": "2026-10-31T14:27:10.110Z",
 "notice": {
 "areas": [
 [
@@ -254613,8 +254669,8 @@
 "kind": "NOTAM",
 "launches": [
 {
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
+"id": "launch-long-march-8a-satnet-leo-group-tbd",
+"title": "SatNet LEO Group TBD?"
 }
 ],
 "markers": [],
@@ -254626,12 +254682,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82921530",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-30T11:32:38.188Z"
+"updated": "2026-10-31T14:27:10.110Z"
 },
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RPHI-B5830%2F26": {
-"lastmod": "2026-10-30T11:32:47.768Z",
+"lastmod": "2026-10-31T14:27:13.871Z",
 "notice": {
 "areas": [
 [
@@ -254689,8 +254745,8 @@
 "kind": "NOTAM",
 "launches": [
 {
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
+"id": "launch-long-march-8a-satnet-leo-group-tbd",
+"title": "SatNet LEO Group TBD?"
 }
 ],
 "markers": [],
@@ -254702,12 +254758,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82921614",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-30T11:32:47.768Z"
+"updated": "2026-10-31T14:27:13.871Z"
 },
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RPHI-B5831%2F26": {
-"lastmod": "2026-10-30T11:32:28.721Z",
+"lastmod": "2026-10-31T14:27:05.273Z",
 "notice": {
 "areas": [
 [
@@ -254757,8 +254813,8 @@
 "kind": "NOTAM",
 "launches": [
 {
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
+"id": "launch-long-march-12-satnet-leo-group-tbd-2",
+"title": "SatNet LEO Group TBD?"
 }
 ],
 "markers": [],
@@ -254770,7 +254826,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82921684",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-30T11:32:28.721Z"
+"updated": "2026-10-31T14:27:05.273Z"
 },
 "via": "sitemap"
 },
@@ -264881,7 +264937,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-VCCF-A0569%2F26": {
-"lastmod": "2026-10-28T10:59:28.923Z",
+"lastmod": "2026-10-31T14:26:50.246Z",
 "notice": {
 "areas": [
 [
@@ -264935,8 +264991,8 @@
 "kind": "NOTAM",
 "launches": [
 {
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
+"id": "launch-ceres-2-unknown-payload-e91d1da2",
+"title": "Unknown Payload"
 }
 ],
 "markers": [],
@@ -264948,7 +265004,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82893046",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-28T10:59:28.923Z"
+"updated": "2026-10-31T14:26:50.246Z"
 },
 "via": "sitemap"
 },
@@ -267969,7 +268025,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-YMMM-E3971%2F26": {
-"lastmod": "2026-10-28T07:05:28.995Z",
+"lastmod": "2026-10-31T14:26:12.951Z",
 "notice": {
 "areas": [
 [
@@ -268031,8 +268087,8 @@
 "kind": "NOTAM",
 "launches": [
 {
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
+"id": "launch-ceres-2-unknown-payload-e91d1da2",
+"title": "Unknown Payload"
 }
 ],
 "markers": [],
@@ -268044,7 +268100,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82891400",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-28T07:05:28.995Z"
+"updated": "2026-10-31T14:26:12.951Z"
 },
 "via": "sitemap"
 },
@@ -284038,6 +284094,62 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZJSA-A5624%2F26": {
+"lastmod": "2026-10-31T14:27:28.178Z",
+"notice": {
+"areas": [
+[
+[
+18.45,
+111.0333
+],
+[
+18.8833,
+111.65
+],
+[
+18.3167,
+112.1333
+],
+[
+17.8667,
+111.4833
+],
+[
+18.45,
+111.0333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-05T16:16:00.000Z",
+"start": "2026-11-05T15:52:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZJSA-A5624/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-long-march-2c-unknown-payload-711de6bc",
+"title": "Unknown Payload"
+}
+],
+"markers": [],
+"name": "A5624/26",
+"page": "https://space-notices.com/notice/notam-ZJSA-A5624%2F26",
+"raw": "A5624/26 NOTAMN\r\nQ)ZJSA/QRDCA/IV/BO/W/000/999/1822N11134E032\r\nA)ZJSA B)2611051552 C)2611051616 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED \r\nBY:N182700E1110200-N185300E1113900-N181900E1120800-N175200E1112900,\r\n \r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA ESTABLISHED",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82920827",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-31T14:27:28.178Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-ZJX-09%2F363-26": {
 "gone": "2026-10-16",
 "lastmod": "2026-09-30T12:09:10.291Z",
@@ -291605,6 +291717,142 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZLA-10%2F377-26": {
+"lastmod": "2026-10-31T10:47:32.511Z",
+"notice": {
+"areas": [
+[
+[
+32.7167,
+-119.5167
+],
+[
+32.75,
+-119.4667
+],
+[
+33.2167,
+-119.65
+],
+[
+34.1167,
+-120.1167
+],
+[
+34.5667,
+-120.3833
+],
+[
+34.6667,
+-120.5
+],
+[
+34.65,
+-120.6333
+],
+[
+34.5333,
+-120.6333
+],
+[
+34.3333,
+-120.5333
+],
+[
+32.9,
+-119.7
+],
+[
+32.7167,
+-119.5167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-03T06:04:00.000Z",
+"start": "2026-11-03T01:42:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/377-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-432",
+"title": "USSF-432"
+}
+],
+"markers": [],
+"name": "10/377",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F377-26",
+"raw": "!CARF 10/377 ZLA AIRSPACE DCC SX R-4 26-71 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 324300N1193100W TO 324500N1192800W TO 331300N1193900W TO 340700N1200700W TO 343400N1202300W TO 344000N1203000W TO 343900N1203800W TO 343200N1203800W TO 342000N1203200W TO 325400N1194200W TO POINT OF ORIGIN SFC-UNL 2611030142-2611030604",
+"reason": "SX R-4 26-71",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82932786",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-31T10:47:32.511Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZLA-10%2F378-26": {
+"lastmod": "2026-10-31T10:47:24.662Z",
+"notice": {
+"areas": [
+[
+[
+32.45,
+-119.3833
+],
+[
+32.5,
+-119.3167
+],
+[
+31.7333,
+-118.8333
+],
+[
+31.6333,
+-119.05
+],
+[
+32.45,
+-119.3833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-03T06:06:00.000Z",
+"start": "2026-11-03T01:42:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-10/378-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-432",
+"title": "USSF-432"
+}
+],
+"markers": [],
+"name": "10/378",
+"page": "https://space-notices.com/notice/notam-ZLA-10%2F378-26",
+"raw": "!CARF 10/378 ZLA AIRSPACE DCC SX R-4 26-71 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 322700N1192300W TO 323000N1191900W TO 314400N1185000W TO 313800N1190300W TO POINT OF ORIGIN SFC-UNL 2611030142-2611030606",
+"reason": "SX R-4 26-71",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82932803",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-31T10:47:24.662Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-ZLHW-A0063%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -296370,7 +296618,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLHW-A5561%2F26": {
-"lastmod": "2026-10-28T12:02:26.705Z",
+"lastmod": "2026-10-31T14:25:45.479Z",
 "notice": {
 "areas": [
 [
@@ -296408,8 +296656,8 @@
 "kind": "NOTAM",
 "launches": [
 {
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
+"id": "launch-kinetica-2-spacesail-polar-group-tbd",
+"title": "SpaceSail Polar Group TBD?"
 }
 ],
 "markers": [],
@@ -296421,7 +296669,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82890230",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-28T12:02:26.705Z"
+"updated": "2026-10-31T14:25:45.479Z"
 },
 "via": "sitemap"
 },
@@ -308255,7 +308503,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZPKM-A5562%2F26": {
-"lastmod": "2026-10-28T12:02:30.328Z",
+"lastmod": "2026-10-31T14:25:40.648Z",
 "notice": {
 "areas": [
 [
@@ -308293,8 +308541,8 @@
 "kind": "NOTAM",
 "launches": [
 {
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
+"id": "launch-kinetica-2-spacesail-polar-group-tbd",
+"title": "SpaceSail Polar Group TBD?"
 }
 ],
 "markers": [],
@@ -308306,7 +308554,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82890229",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-28T12:02:30.328Z"
+"updated": "2026-10-31T14:25:40.648Z"
 },
 "via": "sitemap"
 },
