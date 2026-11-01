@@ -291853,6 +291853,142 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZLA-11%2F007-26": {
+"lastmod": "2026-11-01T12:20:36.821Z",
+"notice": {
+"areas": [
+[
+[
+32.45,
+-119.3833
+],
+[
+32.5,
+-119.3167
+],
+[
+31.7333,
+-118.8333
+],
+[
+31.6333,
+-119.05
+],
+[
+32.45,
+-119.3833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-04T05:52:00.000Z",
+"start": "2026-11-04T01:28:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-11/007-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-432",
+"title": "USSF-432"
+}
+],
+"markers": [],
+"name": "11/007",
+"page": "https://space-notices.com/notice/notam-ZLA-11%2F007-26",
+"raw": "!CARF 11/007 ZLA AIRSPACE DCC SX R-4 26-71 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 322700N1192300W TO 323000N1191900W TO 314400N1185000W TO 313800N1190300W TO POINT OF ORIGIN SFC-UNL 2611040128-2611040552",
+"reason": "SX R-4 26-71",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82940679",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-01T12:20:36.821Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZLA-11%2F008-26": {
+"lastmod": "2026-11-01T12:20:39.480Z",
+"notice": {
+"areas": [
+[
+[
+32.7167,
+-119.5167
+],
+[
+32.75,
+-119.4667
+],
+[
+33.2167,
+-119.65
+],
+[
+34.1167,
+-120.1167
+],
+[
+34.5667,
+-120.3833
+],
+[
+34.6667,
+-120.5
+],
+[
+34.65,
+-120.6333
+],
+[
+34.5333,
+-120.6333
+],
+[
+34.3333,
+-120.5333
+],
+[
+32.9,
+-119.7
+],
+[
+32.7167,
+-119.5167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-04T05:50:00.000Z",
+"start": "2026-11-04T01:28:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-11/008-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-432",
+"title": "USSF-432"
+}
+],
+"markers": [],
+"name": "11/008",
+"page": "https://space-notices.com/notice/notam-ZLA-11%2F008-26",
+"raw": "!CARF 11/008 ZLA AIRSPACE DCC SX R-4 26-71 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 324300N1193100W TO 324500N1192800W TO 331300N1193900W TO 340700N1200700W TO 343400N1202300W TO 344000N1203000W TO 343900N1203800W TO 343200N1203800W TO 342000N1203200W TO 325400N1194200W TO POINT OF ORIGIN SFC-UNL 2611040128-2611040550",
+"reason": "SX R-4 26-71",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82940676",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-01T12:20:39.480Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-ZLHW-A0063%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
