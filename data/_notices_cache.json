@@ -19844,7 +19844,7 @@
 "markers": [],
 "name": "54442",
 "page": "https://space-notices.com/notice/lnm-54442",
-"raw": "$3d",
+"raw": "$3c",
 "reason": "Hazardous operations will be conducted for Space X SDA-T1A Launch Operations",
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
@@ -218878,6 +218878,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20727%2F26": {
+"gone": "2026-11-02",
 "lastmod": "2026-10-17T22:38:15.281Z",
 "notice": {
 "areas": [
@@ -265045,6 +265046,66 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-VCCF-A0580%2F26": {
+"lastmod": "2026-11-02T06:24:53.233Z",
+"notice": {
+"areas": [
+[
+[
+5.9167,
+90.05
+],
+[
+0.6,
+91.6
+],
+[
+-2.0,
+91.0833
+],
+[
+-2.0,
+89.4667
+],
+[
+0.9167,
+90.05
+],
+[
+5.9167,
+90.05
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-07T01:00:00.000Z",
+"start": "2026-11-06T23:31:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-VCCF-A0580/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-ceres-2-unknown-payload-e91d1da2",
+"title": "Unknown Payload"
+}
+],
+"markers": [],
+"name": "A0580/26",
+"page": "https://space-notices.com/notice/notam-VCCF-A0580%2F26",
+"raw": "A0580/26 NOTAMN \r\nQ)VCCF/QRDCA/IV/BO/W/000/999/0041S09032E101\r\nA)VCCF B)2611062331 C)2611070100\r\nE)IN VIEW OF DNG ZONE DECLARED BY CAA CHINA DUE TO AEROSPACE FLT\r\nACTIVITY, FLW AREA WI COLOMBO FIR BOUNDED BY GIVEN COORD DECLARED AS\r\nA TEMPO DNG AREA.\r\n0055535N 0900321E-003637N 0913629E-020000S 0910520E-020000S 0892810E-\r\n005535N 0900321E\r\nDRG THIS PERIOD FLW ATS RTE SEGMENTS ARE NOT AVBL IN COLOMBO FIR.\r\n01. L897 NOT AVBL BTN &apos;MATLU&apos; AND &apos;KETIV&apos;\r\n02. N628 NOT AVBL BTN &apos;BASEV&apos; AND &apos;KETIV&apos;\r\n03. L774 NOT AVBL BTN &apos;ELATI&apos; AND &apos;KETIV&apos;\r\n04. N640 NOT AVBL BTN &apos;BASEV&apos; AND &apos;ELATI&apos;\r\nF)SFC G)UNL",
+"reason": "IN VIEW OF DNG ZONE DECLARED BY CAA CHINA DUE TO AEROSPACE FLT ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82948992",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-02T06:24:53.233Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/notam-VCCF-A0894%2F25": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -268138,6 +268199,66 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-31T14:26:12.951Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-YMMM-E4059%2F26": {
+"lastmod": "2026-11-02T06:24:34.749Z",
+"notice": {
+"areas": [
+[
+[
+-8.4833,
+89.5
+],
+[
+-8.2667,
+88.6167
+],
+[
+-2.0,
+89.8333
+],
+[
+-2.0,
+90.6
+],
+[
+-2.0,
+90.75
+],
+[
+-8.4833,
+89.5
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-07T00:10:00.000Z",
+"start": "2026-11-06T23:31:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-YMMM-E4059/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-ceres-2-unknown-payload-e91d1da2",
+"title": "Unknown Payload"
+}
+],
+"markers": [],
+"name": "E4059/26",
+"page": "https://space-notices.com/notice/notam-YMMM-E4059%2F26",
+"raw": "E4059/26 NOTAMN\r\nQ) YMMM/QRDCA/IV/BO/W/000/999/0512S08951E200\r\nA) YMMM\r\nB) 2611062331 C) 2611070010\r\nD) DAILY 2331-0010\r\nE) TEMPO DANGER AREA ACT\r\nDUE CHINESE AEROSPACE FLIGHT ACTIVITIES WILL TAKE PLACE\r\nFLW RECEIVED FM CIVIL AVIATION ADMINISTRATION OF CHINA:\r\nTHE FLIGHT SAFETY OF ACFT MAY BE AFFECTED IN THE FOLLOWING &apos;AREA PH&apos;\r\nBOUNDED BY 082930S 0893021E - 081617S 0883700E - 020000S 0895007E -\r\n020000S 0903600E - 020000S 0904500E - 082930S 0893021E TO BEGINNING.\r\nF) SFC G) UNL",
+"reason": "CHINESE AEROSPACE FLIGHT ACTIVITIES",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82947127",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-02T06:24:34.749Z"
 },
 "via": "sitemap"
 },
@@ -273443,6 +273564,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-10%2F210-26": {
+"gone": "2026-11-02",
 "lastmod": "2026-10-17T22:37:48.183Z",
 "notice": {
 "areas": [
@@ -273619,6 +273741,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-10%2F227-26": {
+"gone": "2026-11-02",
 "lastmod": "2026-10-18T10:04:30.721Z",
 "notice": {
 "areas": [
@@ -273795,6 +273918,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-10%2F242-26": {
+"gone": "2026-11-02",
 "lastmod": "2026-10-19T10:24:43.638Z",
 "notice": {
 "areas": [
@@ -289763,6 +289887,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F208-26": {
+"gone": "2026-11-02",
 "lastmod": "2026-10-17T10:51:35.914Z",
 "notice": {
 "areas": [
@@ -289875,6 +290000,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F229-26": {
+"gone": "2026-11-02",
 "lastmod": "2026-10-18T10:04:35.561Z",
 "notice": {
 "areas": [
@@ -290103,6 +290229,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F243-26": {
+"gone": "2026-11-02",
 "lastmod": "2026-10-19T10:24:38.455Z",
 "notice": {
 "areas": [
@@ -296847,7 +296974,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLHW-A5672%2F26": {
-"lastmod": "2026-10-31T14:29:27.091Z",
+"lastmod": "2026-11-02T02:13:15.108Z",
 "notice": {
 "areas": [
 [
@@ -296898,12 +297025,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82945881",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-31T14:29:27.091Z"
+"updated": "2026-11-02T02:13:15.108Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLHW-A5673%2F26": {
-"lastmod": "2026-10-31T14:29:27.091Z",
+"lastmod": "2026-11-02T02:13:11.679Z",
 "notice": {
 "areas": [
 [
@@ -296954,9 +297081,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82945879",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-10-31T14:29:27.091Z"
+"updated": "2026-11-02T02:13:11.679Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZMA-01%2F047": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -308143,6 +308270,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZOA-10%2F209-26": {
+"gone": "2026-11-02",
 "lastmod": "2026-10-17T10:51:30.588Z",
 "notice": {
 "areas": [
@@ -308255,6 +308383,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZOA-10%2F228-26": {
+"gone": "2026-11-02",
 "lastmod": "2026-10-18T10:04:24.834Z",
 "notice": {
 "areas": [
@@ -308367,6 +308496,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZOA-10%2F245-26": {
+"gone": "2026-11-02",
 "lastmod": "2026-10-19T10:24:31.986Z",
 "notice": {
 "areas": [
