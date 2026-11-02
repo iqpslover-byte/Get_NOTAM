@@ -13464,6 +13464,43 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-r-5": {
+"lastmod": "2026-11-01T22:32:56.508Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-10T07:46:00.000Z",
+"start": "2026-11-10T03:03:00.000Z"
+},
+{
+"end": "2026-11-11T07:32:00.000Z",
+"start": "2026-11-11T02:49:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-spacex-r-5",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-ussf-xxx-r-5",
+"title": "USSF-xxx (\"R-5\")"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-r-5",
+"raw": "SPACEX R-5, VANDENBERG SFB, CA\nPRIMARY:\t11/10/26\t0303Z-0746Z\nBACKUP:\t\t11/11/26\t0249Z-0732Z",
+"reason": "SPACEX R-5, VANDENBERG SFB, CA",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-01T22:32:56.508Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-r2": {
 "gone": "2026-09-25",
 "lastmod": "2026-09-01T13:54:00.593Z",
@@ -296808,6 +296845,118 @@
 "updated": "2026-10-31T14:25:45.479Z"
 },
 "via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZLHW-A5672%2F26": {
+"lastmod": "2026-10-31T14:29:27.091Z",
+"notice": {
+"areas": [
+[
+[
+40.25,
+100.0
+],
+[
+40.2167,
+100.3667
+],
+[
+39.6167,
+100.2333
+],
+[
+39.6667,
+99.8833
+],
+[
+40.25,
+100.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-06T23:50:00.000Z",
+"start": "2026-11-06T23:28:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLHW-A5672/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5672/26",
+"page": "https://space-notices.com/notice/notam-ZLHW-A5672%2F26",
+"raw": "A5672/26 NOTAMN\r\nQ)ZLHW/QRDCA/IV/BO/W/000/999/3956N10007E020\r\nA)ZLHW B)2611062328 C)2611062350 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED \r\nBY:N401500E1000000-N401300E1002200-N393700E1001400-N394000E0995300,\r\nVERTICAL LIMITS:SFC-UNL.CIVIL ACFT ARE FORBIDDEN TO FLY INTO THE \r\nAREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82945881",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-31T14:29:27.091Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/notam-ZLHW-A5673%2F26": {
+"lastmod": "2026-10-31T14:29:27.091Z",
+"notice": {
+"areas": [
+[
+[
+30.7667,
+97.65
+],
+[
+30.8333,
+97.3
+],
+[
+32.05,
+97.6
+],
+[
+31.9833,
+97.95
+],
+[
+30.7667,
+97.65
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-06T23:57:00.000Z",
+"start": "2026-11-06T23:29:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLHW-A5673/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5673/26",
+"page": "https://space-notices.com/notice/notam-ZLHW-A5673%2F26",
+"raw": "A5673/26 NOTAMN\r\nQ)ZXXX/QRDCA/IV/BO/W/000/999/3124N09737E039\r\nA)ZLHW ZPKM B)2611062329 C)2611062357 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED \r\nBY:N304600E0973900-N305000E0971800-N320300E0973600-N315900E0975700,\r\nVERTICAL LIMITS:SFC-UNL.CIVIL ACFT ARE FORBIDDEN TO FLY INTO THE \r\nAREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA ESTABLISHED",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82945879",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-10-31T14:29:27.091Z"
+},
+"via": "entry"
 },
 "https://space-notices.com/notice/notam-ZMA-01%2F047": {
 "lastmod": "2026-04-23T14:04:24.726Z",
