@@ -1,5 +1,5 @@
 {
-"count": 2853,
+"count": 2852,
 "notices": [
 {
 "areas": [
@@ -274739,184 +274739,6 @@
 "areas": [
 [
 [
-29.8,
-140.5167
-],
-[
-29.85,
-140.8667
-],
-[
-29.4167,
-143.6167
-],
-[
-29.2833,
-143.85
-],
-[
-28.55,
-143.7333
-],
-[
-28.4833,
-143.4167
-],
-[
-28.9167,
-140.6667
-],
-[
-29.05,
-140.4
-],
-[
-29.8,
-140.5167
-]
-],
-[
-[
-22.8833,
-166.6
-],
-[
-23.3,
-165.9667
-],
-[
-24.8833,
-166.6167
-],
-[
-24.5333,
-168.0
-],
-[
-21.3167,
-175.7333
-],
-[
-20.9167,
-176.3833
-],
-[
-19.3333,
-175.7167
-],
-[
-19.6333,
-174.45
-],
-[
-22.8833,
-166.6
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-19T20:13:00.000Z",
-"start": "2026-10-19T19:51:00.000Z"
-},
-{
-"end": "2026-10-20T20:13:00.000Z",
-"start": "2026-10-20T19:51:00.000Z"
-},
-{
-"end": "2026-10-21T20:13:00.000Z",
-"start": "2026-10-21T19:51:00.000Z"
-},
-{
-"end": "2026-10-22T20:13:00.000Z",
-"start": "2026-10-22T19:51:00.000Z"
-},
-{
-"end": "2026-10-23T20:13:00.000Z",
-"start": "2026-10-23T19:51:00.000Z"
-},
-{
-"end": "2026-10-24T20:13:00.000Z",
-"start": "2026-10-24T19:51:00.000Z"
-},
-{
-"end": "2026-10-25T20:13:00.000Z",
-"start": "2026-10-25T19:51:00.000Z"
-},
-{
-"end": "2026-10-26T20:13:00.000Z",
-"start": "2026-10-26T19:51:00.000Z"
-},
-{
-"end": "2026-10-27T20:13:00.000Z",
-"start": "2026-10-27T19:51:00.000Z"
-},
-{
-"end": "2026-10-28T20:13:00.000Z",
-"start": "2026-10-28T19:51:00.000Z"
-},
-{
-"end": "2026-10-29T20:13:00.000Z",
-"start": "2026-10-29T19:51:00.000Z"
-},
-{
-"end": "2026-10-30T20:13:00.000Z",
-"start": "2026-10-30T19:51:00.000Z"
-},
-{
-"end": "2026-10-31T20:13:00.000Z",
-"start": "2026-10-31T19:51:00.000Z"
-},
-{
-"end": "2026-11-01T20:13:00.000Z",
-"start": "2026-11-01T19:51:00.000Z"
-},
-{
-"end": "2026-11-02T20:13:00.000Z",
-"start": "2026-11-02T19:51:00.000Z"
-},
-{
-"end": "2026-11-03T20:13:00.000Z",
-"start": "2026-11-03T19:51:00.000Z"
-},
-{
-"end": "2026-11-04T20:13:00.000Z",
-"start": "2026-11-04T19:51:00.000Z"
-},
-{
-"end": "2026-11-05T20:13:00.000Z",
-"start": "2026-11-05T19:51:00.000Z"
-},
-{
-"end": "2026-11-06T20:13:00.000Z",
-"start": "2026-11-06T19:51:00.000Z"
-}
-],
-"height": null,
-"id": "nav-warning-HYDROPAC 2998/26",
-"kind": "NAVWARNING",
-"launches": [
-{
-"id": "launch-h3-24-martian-moons-exploration-mmx",
-"title": "Martian Moons eXploration (MMX)"
-}
-],
-"markers": [],
-"name": "HYDROPAC 2998/26",
-"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%202998%2F26",
-"raw": "151218Z OCT 26\nHYDROPAC 2998/26.\nNORTH PACIFIC.\nPHILIPPINE SEA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING\n   191951Z TO 192013Z OCT, ALTERNATE \n   1951Z TO 2013Z DAILY 20 OCT THRU 06 NOV\n   IN AREAS BOUND BY:\n   A. 29-48.53N 140-31.97E, 29-51.90N 140-52.20E,\n      29-25.30N 143-37.58E, 29-17.77N 143-51.15E,\n      28-33.71N 143-44.06E, 28-29.75N 143-25.60E,\n      28-55.40N 140-40.80E, 29-03.68N 140-24.88E.\n   B. 22-53.59N 166-36.98E, 23-18.26N 165-58.00E,\n      24-53.35N 166-37.18E, 24-32.53N 168-00.00E,\n      21-19.46N 175-44.00E, 20-55.50N 176-23.30E,\n      19-20.53N 175-43.80E, 19-38.83N 174-27.00E.\n2. CANCEL THIS MSG 062113Z NOV 26.\n\n",
-"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
-"source": {
-"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=2998&createdOn=26&category=14&output=html",
-"name": "US National Geospatial-Intelligence Agency"
-},
-"updated": "2026-10-20T00:08:10.739Z"
-},
-{
-"areas": [
-[
-[
 40.25,
 100.0
 ],
@@ -275213,150 +275035,6 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-29T19:28:43.141Z"
-},
-{
-"areas": [
-[
-[
-22.8833,
-166.6
-],
-[
-23.3,
-165.9667
-],
-[
-24.8833,
-166.6167
-],
-[
-24.5333,
-168.0
-],
-[
-21.3167,
-175.7333
-],
-[
-20.9167,
-176.3833
-],
-[
-19.3333,
-175.7167
-],
-[
-19.6333,
-174.45
-],
-[
-22.8833,
-166.6
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-19T20:13:00.000Z",
-"start": "2026-10-19T19:57:00.000Z"
-},
-{
-"end": "2026-10-20T20:13:00.000Z",
-"start": "2026-10-20T19:57:00.000Z"
-},
-{
-"end": "2026-10-21T20:13:00.000Z",
-"start": "2026-10-21T19:57:00.000Z"
-},
-{
-"end": "2026-10-22T20:13:00.000Z",
-"start": "2026-10-22T19:57:00.000Z"
-},
-{
-"end": "2026-10-23T20:13:00.000Z",
-"start": "2026-10-23T19:57:00.000Z"
-},
-{
-"end": "2026-10-24T20:13:00.000Z",
-"start": "2026-10-24T19:57:00.000Z"
-},
-{
-"end": "2026-10-25T20:13:00.000Z",
-"start": "2026-10-25T19:57:00.000Z"
-},
-{
-"end": "2026-10-26T20:13:00.000Z",
-"start": "2026-10-26T19:57:00.000Z"
-},
-{
-"end": "2026-10-27T20:13:00.000Z",
-"start": "2026-10-27T19:57:00.000Z"
-},
-{
-"end": "2026-10-28T20:13:00.000Z",
-"start": "2026-10-28T19:57:00.000Z"
-},
-{
-"end": "2026-10-29T20:13:00.000Z",
-"start": "2026-10-29T19:57:00.000Z"
-},
-{
-"end": "2026-10-30T20:13:00.000Z",
-"start": "2026-10-30T19:57:00.000Z"
-},
-{
-"end": "2026-10-31T20:13:00.000Z",
-"start": "2026-10-31T19:57:00.000Z"
-},
-{
-"end": "2026-11-01T20:13:00.000Z",
-"start": "2026-11-01T19:57:00.000Z"
-},
-{
-"end": "2026-11-02T20:13:00.000Z",
-"start": "2026-11-02T19:57:00.000Z"
-},
-{
-"end": "2026-11-03T20:13:00.000Z",
-"start": "2026-11-03T19:57:00.000Z"
-},
-{
-"end": "2026-11-04T20:13:00.000Z",
-"start": "2026-11-04T19:57:00.000Z"
-},
-{
-"end": "2026-11-05T20:13:00.000Z",
-"start": "2026-11-05T19:57:00.000Z"
-},
-{
-"end": "2026-11-06T20:13:00.000Z",
-"start": "2026-11-06T19:57:00.000Z"
-},
-{
-"end": "2026-11-07T20:13:00.000Z",
-"start": "2026-11-07T19:57:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-KZAK-A5039/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-h3-24-martian-moons-exploration-mmx",
-"title": "Martian Moons eXploration (MMX)"
-}
-],
-"markers": [],
-"name": "A5039/26",
-"page": "https://space-notices.com/notice/notam-KZAK-A5039%2F26",
-"raw": "A5039/26 NOTAMN\nQ) KZAK/QWMLW/IV/BO/W/000/999/\nA) KZAK\nB) 2610191957\nC) 2611072013\nD) DLY 1957-2013\nE) THE JAPAN AEROSPACE EXPLORATION AGENCY (JAXA) HAS PLANNED A\nROCKET LAUNCH. DEBRIS FROM THIS LAUNCH WILL FALL WI AN AREA DEFINED\nAS 225335N 1663659E TO 231816N 1655800E TO 245321N 1663711E TO 243232N 1680000E TO  211928N 1754400E TO 205530N 1762318E TO 192032N 1754348E TO 193850N 1742700E TO POINT OF ORIGIN. IN THE INTEREST OF SAFETY ALL NON-PARTICIPATING AIR TFC ARE ADZ TO AVOID THE NOTAMED AREA. IFR ACFT UNDER ATC JURISDICTION SHOULD ANTICIPATE CLR AROUND THE NOTAMED AREA.\nF) SFC\nG) UNL",
-"reason": "THE JAPAN AEROSPACE EXPLORATION AGENCY (JAXA) HAS PLANNED A ROCKET LAUNCH",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82771983",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-16T19:46:37.127Z"
 },
 {
 "areas": [
@@ -276188,6 +275866,74 @@
 -121.8833
 ],
 [
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-28.7167,
+-120.0
+],
+[
+-30.0,
+-120.0
+],
+[
+-30.0,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-05T07:39:00.000Z",
+"start": "2026-11-05T03:01:00.000Z"
+},
+{
+"end": "2026-11-06T07:25:00.000Z",
+"start": "2026-11-06T02:47:00.000Z"
+},
+{
+"end": "2026-11-07T07:11:00.000Z",
+"start": "2026-11-07T02:33:00.000Z"
+},
+{
+"end": "2026-11-08T06:57:00.000Z",
+"start": "2026-11-08T02:19:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1407/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-432",
+"title": "USSF-432"
+}
+],
+"markers": [],
+"name": "A1407/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1407%2F26",
+"raw": "A1407/26 NOTAMN\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2858S12112W113\r\nA) NTTT\r\nB) 2611050301 C) 2611090644\r\nD) 05 0301-0739, 06 0247-0725, 07 0233-0711, 08 0219-0657, 09\r\n 0206-0644\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX R-4 IN\r\n TAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING POINTS:\r\n3000S 12153W, 2759S 12244W, 2709S 12043W, 2843S 12000W, 3000S\r\n 12000W, 3000S 12153W \r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : SCIZ\r\n\r\nTHE FRENCH VERSION OF THIS NOTAM IS C2654/26\r\nF) SFC G) UNL",
+"reason": "TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX R-4",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82958404",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-02T22:46:21.900Z"
+},
+{
+"areas": [
+[
+[
+-30.0,
+-121.8833
+],
+[
 -30.0,
 -120.0
 ],
@@ -276486,7 +276232,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82956388",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-02T11:02:57.477Z"
+"updated": "2026-11-02T19:42:29.718Z"
 },
 {
 "areas": [
@@ -277832,7 +277578,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82954984",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-01T22:32:56.508Z"
+"updated": "2026-11-02T17:50:41.971Z"
 },
 {
 "areas": [
