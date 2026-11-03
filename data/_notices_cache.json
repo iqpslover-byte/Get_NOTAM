@@ -6153,6 +6153,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SE%20BNM%209080-26": {
+"gone": "2026-11-03",
 "lastmod": "2026-10-21T22:46:40.175Z",
 "notice": {
 "areas": [
@@ -12648,6 +12649,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-cadenaois-advisory-2828": {
+"gone": "2026-11-03",
 "lastmod": "2026-10-19T15:52:04.386Z",
 "notice": {
 "areas": [],
@@ -13276,6 +13278,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-bandwagon-5": {
+"gone": "2026-11-03",
 "lastmod": "2026-10-19T08:48:43.442Z",
 "notice": {
 "areas": [],
@@ -13465,15 +13468,11 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-r-5": {
-"lastmod": "2026-11-02T14:40:44.290Z",
+"lastmod": "2026-11-03T13:01:13.342Z",
 "notice": {
 "areas": [],
 "cancelled": false,
 "dates": [
-{
-"end": "2026-11-09T08:00:00.000Z",
-"start": "2026-11-09T03:17:00.000Z"
-},
 {
 "end": "2026-11-10T07:46:00.000Z",
 "start": "2026-11-10T03:03:00.000Z"
@@ -13491,13 +13490,13 @@
 "markers": [],
 "name": "FAA Operations Advisory",
 "page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-r-5",
-"raw": "SPACEX R-5, VANDENBERG SFB, CA\nPRIMARY:\t11/09/26\t0317Z-0800Z\nBACKUP:\t\t11/10/26\t0303Z-0746Z",
+"raw": "SPACEX R-5, VANDENBERG SFB, CA\nPRIMARY:\t11/10/26\t0303Z-0746Z",
 "reason": "SPACEX R-5, VANDENBERG SFB, CA",
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-02T14:40:44.290Z"
+"updated": "2026-11-03T13:01:13.342Z"
 },
 "via": "sitemap"
 },
@@ -96914,6 +96913,84 @@
 "updated": ""
 },
 "via": "backfill"
+},
+"https://space-notices.com/notice/nav-warning-HYDROPAC%203199%2F26": {
+"lastmod": "2026-11-03T12:27:42.237Z",
+"notice": {
+"areas": [
+[
+[
+9.2667,
+118.9833
+],
+[
+9.4,
+119.15
+],
+[
+9.1,
+119.3667
+],
+[
+8.9833,
+119.2
+],
+[
+9.2667,
+118.9833
+]
+],
+[
+[
+9.2667,
+118.95
+],
+[
+9.4667,
+119.2
+],
+[
+8.95,
+119.6
+],
+[
+8.75,
+119.3167
+],
+[
+9.2667,
+118.95
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-08T00:00:00.000Z",
+"start": "2026-11-08T18:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3199/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-long-march-12-satnet-leo-group-tbd",
+"title": "SatNet LEO Group TBD?"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3199/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203199%2F26",
+"raw": "031453Z NOV 26\nHYDROPAC 3199/26\nSULU SEA.\nPHILIPPINES.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   081800Z TO 080000Z NOV IN AREAS BOUND BY:\n   A. 09-16.80N 118-59.40E, 09-24.00N 119-09.00E,\n      09-06.00N 119-22.20E, 08-59.40N 119-12.60E.\n   B. 09-16.20N 118-57.00E, 09-28.20N 119-12.60E,\n      08-57.00N 119-36.00E, 08-45.00N 119-19.80E.\n2. CANCEL HYDROPAC 3189/26.\n3. CANCEL THIS MSG 090100Z NOV 26.\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3199&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-11-03T12:27:42.237Z"
+},
+"via": "entry"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%203202%2F22": {
 "lastmod": "",
@@ -202092,6 +202169,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20IV%20992%2F26": {
+"gone": "2026-11-03",
 "lastmod": "2026-10-14T08:39:22.720Z",
 "notice": {
 "areas": [
@@ -218577,6 +218655,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20724%2F26": {
+"gone": "2026-11-03",
 "lastmod": "2026-10-14T09:48:14.238Z",
 "notice": {
 "areas": [
@@ -228600,6 +228679,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-MMFO-B2846%2F26": {
+"gone": "2026-11-03",
 "lastmod": "2026-10-12T23:56:29.796Z",
 "notice": {
 "areas": [
@@ -241610,6 +241690,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-MYNA-A0556%2F26": {
+"gone": "2026-11-03",
 "lastmod": "2026-10-14T14:39:31.826Z",
 "notice": {
 "areas": [
@@ -255015,6 +255096,62 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-31T14:27:05.273Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-RPHI-B5920%2F26": {
+"lastmod": "2026-11-03T12:27:42.237Z",
+"notice": {
+"areas": [
+[
+[
+9.2667,
+118.95
+],
+[
+9.4667,
+119.2167
+],
+[
+8.95,
+119.6
+],
+[
+8.75,
+119.3333
+],
+[
+9.2667,
+118.95
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-08T20:47:00.000Z",
+"start": "2026-11-08T20:17:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RPHI-B5920/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-long-march-12-satnet-leo-group-tbd",
+"title": "SatNet LEO Group TBD?"
+}
+],
+"markers": [],
+"name": "B5920/26",
+"page": "https://space-notices.com/notice/notam-RPHI-B5920%2F26",
+"raw": "B5920/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/0907N11917E023\r\nA) RPHI B) 2611082017 C) 2611082047\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.\r\nEST FALL AREA OF UNBURNED DEBRIS WI:\r\n091600N 1185700E -\r\n092800N 1191300E -\r\n085700N 1193600E -\r\n084500N 1192000E -\r\n091600N 1185700E\r\n(29NM SOUTHEAST OF PUERTO PRINCESA INTL AP).\r\nF) SFC G) UNL",
+"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82963710",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-03T12:27:42.237Z"
 },
 "via": "sitemap"
 },
@@ -273802,6 +273939,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-10%2F207-26": {
+"gone": "2026-11-03",
 "lastmod": "2026-10-17T11:06:05.857Z",
 "notice": {
 "areas": [
@@ -273979,6 +274117,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-10%2F221-26": {
+"gone": "2026-11-03",
 "lastmod": "2026-10-18T09:46:41.107Z",
 "notice": {
 "areas": [
@@ -274156,6 +274295,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-10%2F241-26": {
+"gone": "2026-11-03",
 "lastmod": "2026-10-19T10:25:54.376Z",
 "notice": {
 "areas": [
@@ -274333,6 +274473,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZAK-10%2F262-26": {
+"gone": "2026-11-03",
 "lastmod": "2026-10-19T17:47:04.906Z",
 "notice": {
 "areas": [
@@ -292591,6 +292732,142 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZLA-11%2F032-26": {
+"lastmod": "2026-11-03T14:07:37.873Z",
+"notice": {
+"areas": [
+[
+[
+32.7167,
+-119.5167
+],
+[
+32.75,
+-119.4667
+],
+[
+33.2167,
+-119.65
+],
+[
+34.1167,
+-120.1167
+],
+[
+34.5667,
+-120.3833
+],
+[
+34.6667,
+-120.5
+],
+[
+34.65,
+-120.6333
+],
+[
+34.5333,
+-120.6333
+],
+[
+34.3333,
+-120.5333
+],
+[
+32.9,
+-119.7
+],
+[
+32.7167,
+-119.5167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-07T05:08:00.000Z",
+"start": "2026-11-07T00:46:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-11/032-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-432",
+"title": "USSF-432"
+}
+],
+"markers": [],
+"name": "11/032",
+"page": "https://space-notices.com/notice/notam-ZLA-11%2F032-26",
+"raw": "!CARF 11/032 ZLA AIRSPACE DCC SX R-4 26-71 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 324300N1193100W TO 324500N1192800W TO 331300N1193900W TO 340700N1200700W TO 343400N1202300W TO 344000N1203000W TO 343900N1203800W TO 343200N1203800W TO 342000N1203200W TO 325400N1194200W TO POINT OF ORIGIN SFC-UNL 2611070046-2611070508",
+"reason": "SX R-4 26-71",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82965548",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-03T14:07:37.873Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZLA-11%2F033-26": {
+"lastmod": "2026-11-03T14:07:24.143Z",
+"notice": {
+"areas": [
+[
+[
+32.45,
+-119.3833
+],
+[
+32.5,
+-119.3167
+],
+[
+31.7333,
+-118.8333
+],
+[
+31.6333,
+-119.05
+],
+[
+32.45,
+-119.3833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-07T05:10:00.000Z",
+"start": "2026-11-07T00:46:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-11/033-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-432",
+"title": "USSF-432"
+}
+],
+"markers": [],
+"name": "11/033",
+"page": "https://space-notices.com/notice/notam-ZLA-11%2F033-26",
+"raw": "!CARF 11/033 ZLA AIRSPACE DCC SX R-4 26-71 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 322700N1192300W TO 323000N1191900W TO 314400N1185000W TO 313800N1190300W TO POINT OF ORIGIN SFC-UNL 2611070046-2611070510",
+"reason": "SX R-4 26-71",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82965544",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-03T14:07:24.143Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-ZLHW-A0063%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -306059,6 +306336,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZMA-10%2F214-26": {
+"gone": "2026-11-03",
 "lastmod": "2026-10-17T14:45:25.449Z",
 "notice": {
 "areas": [
@@ -306127,6 +306405,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZMA-10%2F215-26": {
+"gone": "2026-11-03",
 "lastmod": "2026-10-17T14:45:35.986Z",
 "notice": {
 "areas": [
@@ -306191,6 +306470,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZMA-10%2F230-26": {
+"gone": "2026-11-03",
 "lastmod": "2026-10-18T10:13:46.046Z",
 "notice": {
 "areas": [
@@ -306255,6 +306535,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZMA-10%2F231-26": {
+"gone": "2026-11-03",
 "lastmod": "2026-10-18T10:13:37.686Z",
 "notice": {
 "areas": [
@@ -306323,6 +306604,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZMA-10%2F236-26": {
+"gone": "2026-11-03",
 "lastmod": "2026-10-19T10:15:33.359Z",
 "notice": {
 "areas": [
@@ -306387,6 +306669,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZMA-10%2F237-26": {
+"gone": "2026-11-03",
 "lastmod": "2026-10-19T10:15:24.542Z",
 "notice": {
 "areas": [
@@ -330908,6 +331191,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-6%2F0105": {
+"gone": "2026-11-03",
 "lastmod": "2026-10-18T18:06:12.440Z",
 "notice": {
 "areas": [
@@ -331032,6 +331316,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-6%2F0110": {
+"gone": "2026-11-03",
 "lastmod": "2026-10-18T18:06:32.925Z",
 "notice": {
 "areas": [
@@ -331156,6 +331441,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-6%2F0113": {
+"gone": "2026-11-03",
 "lastmod": "2026-10-18T18:06:05.855Z",
 "notice": {
 "areas": [
