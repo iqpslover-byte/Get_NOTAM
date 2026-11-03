@@ -11285,6 +11285,210 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/bnm-CGD-SW%20BNM%209137-26": {
+"lastmod": "2026-11-03T21:01:42.046Z",
+"notice": {
+"areas": [
+[
+[
+29.033333,
+-117.983333
+],
+[
+29.25,
+-118.033333
+],
+[
+29.4,
+-118.133333
+],
+[
+29.583333,
+-118.2
+],
+[
+29.866667,
+-117.9
+],
+[
+29.8,
+-117.65
+],
+[
+29.6,
+-117.266667
+],
+[
+28.833333,
+-117.316667
+],
+[
+28.25,
+-117.316667
+],
+[
+28.266667,
+-117.35
+],
+[
+28.833333,
+-117.816667
+],
+[
+29.033333,
+-117.983333
+]
+],
+[
+[
+30.766667,
+-118.25
+],
+[
+31.383333,
+-118.783333
+],
+[
+30.433333,
+-118.516667
+],
+[
+29.583333,
+-118.2
+],
+[
+29.866667,
+-117.9
+],
+[
+29.8,
+-117.65
+],
+[
+30.766667,
+-118.25
+]
+],
+[
+[
+32.083333,
+-119.133333
+],
+[
+32.5,
+-119.3
+],
+[
+33.25,
+-119.633333
+],
+[
+34.2,
+-120.1
+],
+[
+34.516667,
+-120.3
+],
+[
+34.666667,
+-120.633333
+],
+[
+34.6,
+-120.65
+],
+[
+34.45,
+-120.616667
+],
+[
+34.316667,
+-120.566667
+],
+[
+32.083333,
+-119.15
+],
+[
+32.083333,
+-119.133333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-02T06:39:00.000Z",
+"start": "2026-11-02T01:56:00.000Z"
+},
+{
+"end": "2026-11-03T06:25:00.000Z",
+"start": "2026-11-03T01:42:00.000Z"
+},
+{
+"end": "2026-11-04T06:11:00.000Z",
+"start": "2026-11-04T01:28:00.000Z"
+},
+{
+"end": "2026-11-05T05:57:00.000Z",
+"start": "2026-11-05T01:14:00.000Z"
+},
+{
+"end": "2026-11-06T05:43:00.000Z",
+"start": "2026-11-06T01:00:00.000Z"
+},
+{
+"end": "2026-11-07T05:29:00.000Z",
+"start": "2026-11-07T00:46:00.000Z"
+},
+{
+"end": "2026-11-08T05:15:00.000Z",
+"start": "2026-11-08T00:32:00.000Z"
+},
+{
+"end": "2026-11-09T05:02:00.000Z",
+"start": "2026-11-09T00:19:00.000Z"
+},
+{
+"end": "2026-11-10T04:48:00.000Z",
+"start": "2026-11-10T00:05:00.000Z"
+},
+{
+"end": "2026-11-11T04:34:00.000Z",
+"start": "2026-11-10T23:51:00.000Z"
+},
+{
+"end": "2026-11-12T04:20:00.000Z",
+"start": "2026-11-11T23:37:00.000Z"
+},
+{
+"end": "2026-11-13T04:06:00.000Z",
+"start": "2026-11-12T23:23:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SW BNM 9137-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "launch-f9-ussf-432",
+"title": "USSF-432"
+}
+],
+"markers": [],
+"name": "CGD-SW BNM 9137-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209137-26",
+"raw": "Launch Hazard Area\nMission: SpaceX R-4 Launch Operations\nMessage Id: CGD-SW BNM 9137-26\n\n\n02/0156 NOV 26 to 02/0639 NOV 26. \n03/0142 NOV 26 to 03/0625 NOV 26. \n04/0128 NOV 26 to 04/0611 NOV 26. \n05/0114 NOV 26 to 05/0557 NOV 26. \n06/0100 NOV 26 to 06/0543 NOV 26. \n07/0046 NOV 26 to 07/0529 NOV 26. \n08/0032 NOV 26 to 08/0515 NOV 26. \n09/0019 NOV 26 to 09/0502 NOV 26. \n10/0005 NOV 26 to 10/0448 NOV 26. \n10/2351 NOV 26 to 11/0434 NOV 26. \n11/2337 NOV 26 to 12/0420 NOV 26. \n12/2323 NOV 26 to 13/0406 NOV 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
+"reason": "Launch Hazard Area - SpaceX R-4 Launch Operations",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-03T21:01:42.046Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/infopage-blueorigin-ng-2": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -22366,7 +22570,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-57067": {
-"lastmod": "2026-10-26T17:45:53.959Z",
+"lastmod": "2026-11-03T18:31:38.352Z",
 "notice": {
 "areas": [
 [
@@ -22525,6 +22729,26 @@
 {
 "end": "2026-11-08T04:56:00.000Z",
 "start": "2026-11-08T00:32:00.000Z"
+},
+{
+"end": "2026-11-09T04:43:00.000Z",
+"start": "2026-11-09T00:19:00.000Z"
+},
+{
+"end": "2026-11-10T04:29:00.000Z",
+"start": "2026-11-10T00:05:00.000Z"
+},
+{
+"end": "2026-11-11T04:15:00.000Z",
+"start": "2026-11-10T23:51:00.000Z"
+},
+{
+"end": "2026-11-12T04:01:00.000Z",
+"start": "2026-11-11T23:37:00.000Z"
+},
+{
+"end": "2026-11-13T04:47:00.000Z",
+"start": "2026-11-12T23:23:00.000Z"
 }
 ],
 "height": null,
@@ -22539,13 +22763,13 @@
 "markers": [],
 "name": "57067",
 "page": "https://space-notices.com/notice/lnm-57067",
-"raw": "Hazardous operations will be conducted for Space X, R-4 Launch Operations. Hazardous operation areas are bounded by the following coordinates and times:\nHazard Area A: \n32.08333333N, -119.13333333W\n32.5N, -119.3W\n33.25N, -119.63333333W\n34.2N, -120.1W\n34.51666667N, -120.3W\n34.66666667N, -120.63333333W\n34.6N, -120.65W\n34.45N, -120.61666667W\n34.31666667N, -120.56666667W\n32.08333333N, -119.15W\n(TO BEGINNING)\n             \n020156Z NOV TO 020619Z NOV 2026---- (PRIMARY) \n030142Z NOV TO 030605Z NOV 2026---- (BACKUP DAY) \n040128Z NOV TO 040551Z NOV 2026---- (BACKUP DAY) \n050114Z NOV TO 050537Z NOV 2026---- (BACKUP DAY) \n060100Z NOV TO 060523Z NOV 2026---- (BACKUP DAY) \n070046Z NOV TO 070509Z NOV 2026---- (BACKUP DAY) \n080032Z NOV TO 080455Z NOV 2026---- (BACKUP DAY) \n\nHazard Area B:\n30.76666667N, -118.25W\n31.38333333N, -118.78333333W\n30.43333333N, -118.51666667W\n29.58333333N, -118.2W\n29.86666667N, -117.9W\n29.8N, -117.65W\n(TO BEGINNING)\n            \n020156Z NOV TO 020620Z NOV 2026---- (PRIMARY) \n030142Z NOV TO 030606Z NOV 2026---- (BACKUP DAY) \n040128Z NOV TO 040552Z NOV 2026---- (BACKUP DAY) \n050114Z NOV TO 050538Z NOV 2026---- (BACKUP DAY) \n060100Z NOV TO 060524Z NOV 2026---- (BACKUP DAY) \n070046Z NOV TO 070510Z NOV 2026---- (BACKUP DAY) \n080032Z NOV TO 080456Z NOV 2026---- (BACKUP DAY) \n\nHazard Area C:\n29.03333333N, -117.98333333W\n29.25N, -118.03333333W\n29.4N, -118.13333333W\n29.58333333N, -118.2W\n29.86666667N, -117.9W\n29.8N, -117.65W\n29.6N, -117.26666667W\n28.83333333N, -117.31666667W\n28.25N, -117.31666667W\n28.26666667N, -117.35W\n28.83333333N, -117.81666667W\n(TO BEGINNING)\n\n020156Z NOV TO 020639Z NOV 2026---- (PRIMARY) \n030142Z NOV TO 030625Z NOV 2026---- (BACKUP DAY) \n040128Z NOV TO 040611Z NOV 2026---- (BACKUP DAY) \n050114Z NOV TO 050557Z NOV 2026---- (BACKUP DAY) \n060100Z NOV TO 060543Z NOV 2026---- (BACKUP DAY) \n070046Z NOV TO 070529Z NOV 2026---- (BACKUP DAY) \n080032Z NOV TO 080515Z NOV 2026---- (BACKUP DAY) \n\nMariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16.",
-"reason": "Hazardous operations will be conducted for Space X, R-4 Launch Operations.",
+"raw": "$3c",
+"reason": "Hazardous operations will be conducted for Space X R-4 Launch Operations",
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-10-26T17:45:53.959Z"
+"updated": "2026-11-03T18:31:38.352Z"
 },
 "via": "sitemap"
 },
@@ -96915,7 +97139,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%203199%2F26": {
-"lastmod": "2026-11-03T12:27:42.237Z",
+"lastmod": "2026-11-03T19:54:32.263Z",
 "notice": {
 "areas": [
 [
@@ -96988,9 +97212,87 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3199&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-11-03T12:27:42.237Z"
+"updated": "2026-11-03T19:54:32.263Z"
 },
-"via": "entry"
+"via": "sitemap"
+},
+"https://space-notices.com/notice/nav-warning-HYDROPAC%203200%2F26": {
+"lastmod": "2026-11-03T19:54:20.089Z",
+"notice": {
+"areas": [
+[
+[
+9.2667,
+118.9833
+],
+[
+9.4,
+119.15
+],
+[
+9.1,
+119.3667
+],
+[
+8.9833,
+119.2
+],
+[
+9.2667,
+118.9833
+]
+],
+[
+[
+9.2667,
+118.95
+],
+[
+9.4667,
+119.2
+],
+[
+8.95,
+119.6
+],
+[
+8.75,
+119.3167
+],
+[
+9.2667,
+118.95
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-09T00:00:00.000Z",
+"start": "2026-11-08T18:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3200/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-long-march-12-satnet-leo-group-tbd",
+"title": "SatNet LEO Group TBD?"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3200/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203200%2F26",
+"raw": "031706Z NOV 26\nHYDROPAC 3200/26\nSULU SEA.\nPHILIPPINES.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   081800Z TO 090000Z NOV IN AREAS BOUND BY:\n   A. 09-16.80N 118-59.40E, 09-24.00N 119-09.00E,\n      09-06.00N 119-22.20E, 08-59.40N 119-12.60E.\n   B. 09-16.20N 118-57.00E, 09-28.20N 119-12.60E,\n      08-57.00N 119-36.00E, 08-45.00N 119-19.80E.\n2. CANCEL HYDROPAC 3199/26.\n3. CANCEL THIS MSG 090100Z NOV 26.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3200&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-11-03T19:54:20.089Z"
+},
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%203202%2F22": {
 "lastmod": "",
