@@ -244689,6 +244689,90 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-NTTT-A1422%2F26": {
+"lastmod": "2026-11-03T21:01:42.098Z",
+"notice": {
+"areas": [
+[
+[
+-30.0,
+-121.8833
+],
+[
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-28.7167,
+-120.0
+],
+[
+-30.0,
+-120.0
+],
+[
+-30.0,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-07T07:11:00.000Z",
+"start": "2026-11-07T02:33:00.000Z"
+},
+{
+"end": "2026-11-08T06:57:00.000Z",
+"start": "2026-11-08T02:19:00.000Z"
+},
+{
+"end": "2026-11-09T06:44:00.000Z",
+"start": "2026-11-09T02:06:00.000Z"
+},
+{
+"end": "2026-11-10T06:30:00.000Z",
+"start": "2026-11-10T01:52:00.000Z"
+},
+{
+"end": "2026-11-11T06:16:00.000Z",
+"start": "2026-11-11T01:38:00.000Z"
+},
+{
+"end": "2026-11-12T06:02:00.000Z",
+"start": "2026-11-12T01:24:00.000Z"
+},
+{
+"end": "2026-11-13T05:48:00.000Z",
+"start": "2026-11-13T01:10:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1422/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-432",
+"title": "USSF-432"
+}
+],
+"markers": [],
+"name": "A1422/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1422%2F26",
+"raw": "A1422/26 NOTAMN\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2858S12112W113\r\nA) NTTT\r\nB) 2611070233 C) 2611130548\r\nD) 07 0233-0711,\r\n08 0219-0657,\r\n09 0206-0644,\r\n10 0152-0630,\r\n11 0138-0616,\r\n12 0124-0602,\r\n13 0110-0548\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX R-4 IN\r\nTAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING POINTS :\r\n3000S 12153W, 2759S 12244W, 2709S 12043W, 2843S 12000W, \r\n3000S 12000W, 3000S 12153W \r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : SCIZ \r\n\r\nTHE FRENCH VERSION OF THIS NOTAM IS C2671/26.\r\nF) SFC G) UNL",
+"reason": "SPACE DEBRIS RETURN OF SPACEX R-4",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82973341",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-03T21:01:42.098Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/notam-NZZC-B4420%2F26": {
 "gone": "2026-09-26",
 "lastmod": "2026-09-06T00:57:03.240Z",
