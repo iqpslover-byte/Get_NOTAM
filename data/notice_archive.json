@@ -1,5 +1,5 @@
 {
-"count": 2854,
+"count": 2856,
 "notices": [
 {
 "areas": [
@@ -274848,6 +274848,82 @@
 "areas": [
 [
 [
+-32.0667,
+132.9833
+],
+[
+-32.85,
+133.2
+],
+[
+-32.8167,
+133.4333
+],
+[
+-32.1833,
+133.35
+],
+[
+-32.0667,
+132.9833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-02T14:00:00.000Z",
+"start": "2026-11-02T11:00:00.000Z"
+},
+{
+"end": "2026-11-03T14:00:00.000Z",
+"start": "2026-11-03T11:00:00.000Z"
+},
+{
+"end": "2026-11-04T14:00:00.000Z",
+"start": "2026-11-04T11:00:00.000Z"
+},
+{
+"end": "2026-11-05T14:00:00.000Z",
+"start": "2026-11-05T11:00:00.000Z"
+},
+{
+"end": "2026-11-06T14:00:00.000Z",
+"start": "2026-11-06T11:00:00.000Z"
+},
+{
+"end": "2026-11-07T14:00:00.000Z",
+"start": "2026-11-07T11:00:00.000Z"
+},
+{
+"end": "2026-11-08T14:00:00.000Z",
+"start": "2026-11-08T11:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3127/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "other-varda-w-8",
+"title": "W-9 Return"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3127/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203127%2F26",
+"raw": "280326Z OCT 26\nHYDROPAC 3127/26.\nGREAT AUSTRALIAN BIGHT.\nAUSTRALIA.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   1100Z TO 1400Z DAILY 02 THRU 08 NOV\n   IN AREA BOUND BY\n   32-04.37S 132-59.19E, 32-51.45S 133-12.91E,\n   32-49.58S 133-26.00E, 32-11.54S 133-21.80E.\n2. CANCEL THIS MSG 081500Z NOV 26.//\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3127&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-11-05T13:57:17.067Z"
+},
+{
+"areas": [
+[
+[
 9.2667,
 118.95
 ],
@@ -277595,6 +277671,86 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-30T19:25:35.529Z"
+},
+{
+"areas": [
+[
+[
+-30.0,
+-121.8833
+],
+[
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-28.7167,
+-120.0
+],
+[
+-30.0,
+-120.0
+],
+[
+-30.0,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-10T09:28:00.000Z",
+"start": "2026-11-10T04:50:00.000Z"
+},
+{
+"end": "2026-11-11T09:14:00.000Z",
+"start": "2026-11-11T04:36:00.000Z"
+},
+{
+"end": "2026-11-12T09:00:00.000Z",
+"start": "2026-11-12T04:22:00.000Z"
+},
+{
+"end": "2026-11-13T08:46:00.000Z",
+"start": "2026-11-13T04:08:00.000Z"
+},
+{
+"end": "2026-11-14T08:32:00.000Z",
+"start": "2026-11-14T03:54:00.000Z"
+},
+{
+"end": "2026-11-15T08:19:00.000Z",
+"start": "2026-11-15T03:41:00.000Z"
+},
+{
+"end": "2026-11-16T08:05:00.000Z",
+"start": "2026-11-16T03:27:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1430/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-627",
+"title": "USSF-627"
+}
+],
+"markers": [],
+"name": "A1430/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1430%2F26",
+"raw": "A1430/26 NOTAMN\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2858S12112W113\r\nA) NTTT\r\nB) 2611100450 C) 2611160805\r\nD) 10 0450-0928, 11 0436-0914, 12 0422-0900\r\n13 0408-0846, 14 0354-0832, 15 0341-0819, 16 0327-0805\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX R-5 IN\r\n TAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING POINTS : \r\n3000S 12153W, 2759S 12244W, 2709S 12043W, 2843S 12000W, 3000S\r\n 12000W, 3000S 12153W \r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : SCIZ \r\n\r\nTHE FRENCH VERSION OF THIS NOTAM IS C2686/26\r\nF) SFC G) UNL",
+"reason": "SPACE DEBRIS RETURN OF SPACEX R-5",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82996671",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-05T17:58:23.146Z"
 },
 {
 "areas": [
