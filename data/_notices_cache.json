@@ -251277,7 +251277,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RJJJ-P5538%2F26": {
-"lastmod": "2026-11-05T04:11:27.366Z",
+"lastmod": "2026-11-05T10:01:05.241Z",
 "notice": {
 "areas": [
 [
@@ -251417,8 +251417,8 @@
 "kind": "NOTAM",
 "launches": [
 {
-"id": "launch-nuri-neonsat-7-to-11",
-"title": "NeonSat-7 to 11"
+"id": "launch-mir-demo-flight",
+"title": "Demo Flight"
 }
 ],
 "markers": [],
@@ -251430,7 +251430,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82988108",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-05T04:11:27.366Z"
+"updated": "2026-11-05T10:01:05.241Z"
 },
 "via": "sitemap"
 },
@@ -252438,6 +252438,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RJJJ-Q2648%2F26": {
+"gone": "2026-11-05",
 "lastmod": "2026-11-05T04:23:22.105Z",
 "notice": {
 "areas": [],
@@ -252579,6 +252580,66 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-20T12:03:33.638Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-RKRR-D3467%2F26": {
+"lastmod": "2026-11-05T10:01:45.762Z",
+"notice": {
+"areas": [
+[
+[
+33.0833,
+126.3
+],
+[
+33.2333,
+126.3667
+],
+[
+33.2333,
+126.7833
+],
+[
+32.8833,
+127.1167
+],
+[
+32.5833,
+126.5833
+],
+[
+33.0833,
+126.3
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-10T09:10:00.000Z",
+"start": "2026-11-10T05:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RKRR-D3467/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-mir-demo-flight",
+"title": "Demo Flight"
+}
+],
+"markers": [],
+"name": "D3467/26",
+"page": "https://space-notices.com/notice/notam-RKRR-D3467%2F26",
+"raw": "D3467/26 NOTAMN  \r\nQ)RKRR/QRPCA/IV/NBO/W/000/999/3259N12643E033\r\nA)RKRR B)2611100530 C)2611100910\r\nE)TEMPO PROHIBITED AREA ACT AS FLW(REF TO Z0834/26)\r\nAREA BOUNDED BY THE FOLLOWING \r\n330506N1261832E-331410N1262259E-331410N1264731E-325334N1270712E-\r\n323539N1263510E-330506N1261832E\r\n\r\nRMK : \r\n1. ALTN RTE FOR AIRLINES ESTABLISHED BY FURTHER NOTAM\r\n2. TEMPO PROHIBITED AIRSPACE AND REROUTE NOTAM WILL BE CNL \r\n   WITHIN 10MIN AFTER LAUNCH. \r\n3. EXC EMERG ACFT, SAR ACFT, AND PRE-COORDINATED ACFT WITH ATMO\r\n   (+82 53-668-0496, JAEHYUN8912(A)KOREA.KR)\r\nF)SFC G)UNL",
+"reason": "TEMPO PROHIBITED AREA ACT AS FLW",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82988502",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-05T10:01:45.762Z"
 },
 "via": "sitemap"
 },
@@ -299448,7 +299509,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLHW-A5726%2F26": {
-"lastmod": "2026-11-04T04:47:35.580Z",
+"lastmod": "2026-11-05T13:27:06.232Z",
 "notice": {
 "areas": [
 [
@@ -299499,7 +299560,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82974239",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-04T04:47:35.580Z"
+"updated": "2026-11-05T13:27:06.232Z"
 },
 "via": "sitemap"
 },

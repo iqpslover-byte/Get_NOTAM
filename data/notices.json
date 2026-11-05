@@ -1,6 +1,6 @@
 {
 "count": 294,
-"generated_utc": "2026-11-05T07:27:11Z",
+"generated_utc": "2026-11-05T15:50:00Z",
 "notices": [
 {
 "areas": [
@@ -10908,7 +10908,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82974239",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-04T04:47:35.580Z"
+"updated": "2026-11-05T13:27:06.232Z"
 },
 {
 "areas": [
@@ -13789,33 +13789,60 @@
 "updated": "2026-11-05T02:49:23.555Z"
 },
 {
-"areas": [],
+"areas": [
+[
+[
+33.0833,
+126.3
+],
+[
+33.2333,
+126.3667
+],
+[
+33.2333,
+126.7833
+],
+[
+32.8833,
+127.1167
+],
+[
+32.5833,
+126.5833
+],
+[
+33.0833,
+126.3
+]
+]
+],
 "cancelled": false,
 "dates": [
 {
-"end": "2026-11-10T09:34:00.000Z",
-"start": "2026-11-10T05:51:00.000Z"
+"end": "2026-11-10T09:10:00.000Z",
+"start": "2026-11-10T05:30:00.000Z"
 }
 ],
 "height": "Unlimited",
-"id": "notam-RJJJ-Q2648/26",
+"id": "notam-RKRR-D3467/26",
 "kind": "NOTAM",
 "launches": [
 {
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
+"id": "launch-mir-demo-flight",
+"title": "Demo Flight"
 }
 ],
 "markers": [],
-"name": "Q2648/26",
-"page": "https://space-notices.com/notice/notam-RJJJ-Q2648%2F26",
-"raw": "Q2648/26 NOTAMN\r\nQ)RJJJ/QARCH/IV/BO/E/000/999/3310N14118E999\r\nA)RJJJ B)2611100551 C)2611100934\r\nE)ALTN RTE ARE ESTABLISHED DUE TO AN AEROSPACE FLIGHT ACTIVITY.\r\nFLT PLANNED RTE IS REQ TO BE FILED AS FLW\r\n\r\n (1)A1(BTN JEDAI AND RUSAR) 0551-0922 UTC\r\n    ALTN RTE: KOSHI - 3005N12901E - SAPET\r\n (2)A339(BTN SABGU AND KEITH) 0633-0934 UTC\r\n    ALTN RTE: (FOR RNP10 AIRCRAFT)\r\n                TAXON - 2320N13620E - 2100N13600E OR\r\n                SABGU - 2320N13620E - 2100N13600E OR\r\n                SABGU - G339 - PAKDO\r\n              (FOR NON RNP10 AIRCRAFT)\r\n                TAXON - 2245N13640E - 2100N13630E OR\r\n                SABGU - 2245N13640E - 2100N13630E OR\r\n                SABGU - G339 - PAKDO\r\n (3)R595/R584(BTN SALVA AND KEITH) 0633-0934 UTC\r\n    ALTN RTE: (FOR NON RNP10 AIRCRAFT)\r\n                SALVA - 2100N13330E\r\n (4)Y50(BTN JEDAI AND RUSAR) 0551-0922 UTC\r\n    ALTN RTE: KOSHI - 3005N12901E - SAPET\r\n (5)M750(BTN MELEN AND INVAM) 0551-0922 UTC\r\n    ALTN RTE: MUMBA - 3000N12906E - MOMPA\r\n\r\n2.SEE NOTAM RJAAYNYX P5538/26\r\nF)SFC G)UNL",
-"reason": "AN AEROSPACE FLIGHT ACTIVITY",
+"name": "D3467/26",
+"page": "https://space-notices.com/notice/notam-RKRR-D3467%2F26",
+"raw": "D3467/26 NOTAMN  \r\nQ)RKRR/QRPCA/IV/NBO/W/000/999/3259N12643E033\r\nA)RKRR B)2611100530 C)2611100910\r\nE)TEMPO PROHIBITED AREA ACT AS FLW(REF TO Z0834/26)\r\nAREA BOUNDED BY THE FOLLOWING \r\n330506N1261832E-331410N1262259E-331410N1264731E-325334N1270712E-\r\n323539N1263510E-330506N1261832E\r\n\r\nRMK : \r\n1. ALTN RTE FOR AIRLINES ESTABLISHED BY FURTHER NOTAM\r\n2. TEMPO PROHIBITED AIRSPACE AND REROUTE NOTAM WILL BE CNL \r\n   WITHIN 10MIN AFTER LAUNCH. \r\n3. EXC EMERG ACFT, SAR ACFT, AND PRE-COORDINATED ACFT WITH ATMO\r\n   (+82 53-668-0496, JAEHYUN8912(A)KOREA.KR)\r\nF)SFC G)UNL",
+"reason": "TEMPO PROHIBITED AREA ACT AS FLW",
 "source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82988173",
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82988502",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-05T04:23:22.105Z"
+"updated": "2026-11-05T10:01:45.762Z"
 },
 {
 "areas": [
@@ -16730,8 +16757,8 @@
 "kind": "NOTAM",
 "launches": [
 {
-"id": "launch-nuri-neonsat-7-to-11",
-"title": "NeonSat-7 to 11"
+"id": "launch-mir-demo-flight",
+"title": "Demo Flight"
 }
 ],
 "markers": [],
@@ -16743,7 +16770,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82988108",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-05T04:11:27.366Z"
+"updated": "2026-11-05T10:01:05.241Z"
 },
 {
 "areas": [],
@@ -20302,5 +20329,5 @@
 "pending": 13,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3332
+"total_known": 3333
 }
