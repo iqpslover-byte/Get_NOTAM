@@ -1,5 +1,5 @@
 {
-"count": 2848,
+"count": 2854,
 "notices": [
 {
 "areas": [
@@ -275360,6 +275360,143 @@
 "updated": "2026-11-03T13:01:13.342Z"
 },
 {
+"areas": [
+[
+[
+33.0833,
+126.3
+],
+[
+33.2333,
+126.3667
+],
+[
+33.2333,
+126.7833
+],
+[
+32.8833,
+127.1167
+],
+[
+32.5833,
+126.5833
+],
+[
+33.0833,
+126.3
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-10T09:00:00.000Z",
+"start": "2026-11-10T06:00:00.000Z"
+}
+],
+"height": "Unknown",
+"id": "notam-RKRR-Z0834/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-mir-demo-flight",
+"title": "Demo Flight"
+}
+],
+"markers": [],
+"name": "Z0834/26",
+"page": "https://space-notices.com/notice/notam-RKRR-Z0834%2F26",
+"raw": "Z0834/26 NOTAMN  \r\nQ)RKRR/QWMLW/IV/BO/W/000/999/3535N12700E999\r\nA)RKRR B)2611100600 C)2611100900\r\nE)SPACE LAUNCH VEHICLE WILL BE LAUNCHED AS FLW\r\n- PLANNED LAUNCH DATE : 10 NOV 2026\r\n- PLANNED LAUNCH WINDOW TIME : 0600-0900 UTC\r\n- LAUNCH SITE : 330842N1262718E\r\n\r\nINITIAL LAUNCH STAGE AREA : \r\n1. AREA : \r\n330506N1261832E-331410N1262259E-331410N1264731E-325334N1270712E-\r\n323539N1263510E-330506N1261832E\r\n2. VERTICAL ALTITUDE : SFC-UNL\r\n\r\n1ST STAGE FALLING INFO \r\n1. FALLING TIME : 0621-0922 UTC\r\n2. FALLING AREA : FOR DETAILS IN FUKUOKA FIR(RJJJ), REF TO RJJJ NOTAM\r\n\r\nFAIRING STAGE FALLING INFO \r\n1. FALLING TIME : 0633-0934 UTC\r\n2. FALLING AREA : FOR DETAILS IN FUKUOKA FIR(RJJJ), REF TO RJJJ NOTAM\r\n\r\n2ND STAGE FALLING INFO \r\n1. FALLING TIME : 0630-0930 UTC\r\n2. FALLING AREA : FOR DETAILS IN OAKLAND OCEANIC FIR(KZAK), \r\n   REF TO KZAK NOTAM\r\n\r\n3RD STAGE FALLING INFO \r\n1. FALLING TIME : 0650-0950 UTC\r\n2. FALLING AREA : FOR DETAILS IN AUCKLAND OCEANIC FIR(NZZO), \r\n   REF TO NZZO NOTAM",
+"reason": "SPACE LAUNCH VEHICLE WILL BE LAUNCHED",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82987496",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-05T02:49:23.555Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-10T09:34:00.000Z",
+"start": "2026-11-10T05:51:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RJJJ-Q2648/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "Q2648/26",
+"page": "https://space-notices.com/notice/notam-RJJJ-Q2648%2F26",
+"raw": "Q2648/26 NOTAMN\r\nQ)RJJJ/QARCH/IV/BO/E/000/999/3310N14118E999\r\nA)RJJJ B)2611100551 C)2611100934\r\nE)ALTN RTE ARE ESTABLISHED DUE TO AN AEROSPACE FLIGHT ACTIVITY.\r\nFLT PLANNED RTE IS REQ TO BE FILED AS FLW\r\n\r\n (1)A1(BTN JEDAI AND RUSAR) 0551-0922 UTC\r\n    ALTN RTE: KOSHI - 3005N12901E - SAPET\r\n (2)A339(BTN SABGU AND KEITH) 0633-0934 UTC\r\n    ALTN RTE: (FOR RNP10 AIRCRAFT)\r\n                TAXON - 2320N13620E - 2100N13600E OR\r\n                SABGU - 2320N13620E - 2100N13600E OR\r\n                SABGU - G339 - PAKDO\r\n              (FOR NON RNP10 AIRCRAFT)\r\n                TAXON - 2245N13640E - 2100N13630E OR\r\n                SABGU - 2245N13640E - 2100N13630E OR\r\n                SABGU - G339 - PAKDO\r\n (3)R595/R584(BTN SALVA AND KEITH) 0633-0934 UTC\r\n    ALTN RTE: (FOR NON RNP10 AIRCRAFT)\r\n                SALVA - 2100N13330E\r\n (4)Y50(BTN JEDAI AND RUSAR) 0551-0922 UTC\r\n    ALTN RTE: KOSHI - 3005N12901E - SAPET\r\n (5)M750(BTN MELEN AND INVAM) 0551-0922 UTC\r\n    ALTN RTE: MUMBA - 3000N12906E - MOMPA\r\n\r\n2.SEE NOTAM RJAAYNYX P5538/26\r\nF)SFC G)UNL",
+"reason": "AN AEROSPACE FLIGHT ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82988173",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-05T04:23:22.105Z"
+},
+{
+"areas": [
+[
+[
+-33.5667,
+-162.15
+],
+[
+-41.6167,
+-141.7333
+],
+[
+-42.6333,
+-142.2167
+],
+[
+-34.5333,
+-162.7333
+],
+[
+-33.5667,
+-162.15
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-10T09:50:00.000Z",
+"start": "2026-11-10T06:50:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B5428/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-mir-demo-flight",
+"title": "Demo Flight"
+}
+],
+"markers": [],
+"name": "B5428/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B5428%2F26",
+"raw": "B5428/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3832S15249W550\r\nA) NZZO B) 2611100650 C) 2611100950\r\nE) TEMPO DANGER AREA NZD093 (AUCKLAND OCEANIC FIR) IS PRESCRIBED AS \r\nFLW:\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n33 34 18 S 162 09 30 W\r\n41 37 39 S 141 44 14 W\r\n42 38 36 S 142 13 53 W\r\n34 32 11 S 162 44 48 W\r\n33 34 18 S 162 09 30 W\r\nACTIVITY: SPACE DEBRIS RETURN\r\nUSING AGENCY: FOREIGN SPACE AGENCY\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED \r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "SPACE DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82983782",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-05T02:49:32.967Z"
+},
+{
 "areas": [],
 "cancelled": false,
 "dates": [
@@ -277080,6 +277217,114 @@
 "areas": [
 [
 [
+31.6333,
+-119.05
+],
+[
+31.7333,
+-118.8333
+],
+[
+29.8,
+-117.65
+],
+[
+29.6,
+-117.2667
+],
+[
+28.8333,
+-117.3167
+],
+[
+28.25,
+-117.3167
+],
+[
+28.2333,
+-117.3333
+],
+[
+28.8333,
+-117.8167
+],
+[
+29.0333,
+-117.9833
+],
+[
+29.25,
+-118.0333
+],
+[
+29.4,
+-118.1333
+],
+[
+29.5833,
+-118.2
+],
+[
+31.6333,
+-119.05
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-09T08:00:00.000Z",
+"start": "2026-11-09T03:17:00.000Z"
+},
+{
+"end": "2026-11-10T07:46:00.000Z",
+"start": "2026-11-10T03:03:00.000Z"
+},
+{
+"end": "2026-11-11T07:32:00.000Z",
+"start": "2026-11-11T02:49:00.000Z"
+},
+{
+"end": "2026-11-12T07:18:00.000Z",
+"start": "2026-11-12T02:35:00.000Z"
+},
+{
+"end": "2026-11-13T07:04:00.000Z",
+"start": "2026-11-13T02:21:00.000Z"
+},
+{
+"end": "2026-11-14T06:50:00.000Z",
+"start": "2026-11-14T02:07:00.000Z"
+},
+{
+"end": "2026-11-15T06:37:00.000Z",
+"start": "2026-11-15T01:54:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MMFR-B3981/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-627",
+"title": "USSF-627"
+}
+],
+"markers": [],
+"name": "B3981/26",
+"page": "https://space-notices.com/notice/notam-MMFR-B3981%2F26",
+"raw": "B3981/26 NOTAMN\r\r\nQ) MMFR/QRDCA/IV/BO/W/000/999/\r\r\nA) MMFR\r\r\nB) 2611090317\r\r\nC) 2611150637\r\r\nD) 09 0317-0800, 10 0303-0746, 11 0249-0732, 12 0235-0718, 13 0221-0704,\r\r\n   14 0207-0650, 15 0154-0637 \r\r\nE) DANGEROUS AREA FOR REENTRY OF ROCKET SPACEX R-5 STAGE 1 \r\r\n   LATERAL LIMIT AREA FORMED BY THE UNION OF THE FLW POINTS:\r\r\n   3138N 11903W\r\r\n   3144N 11850W\r\r\n   2948N 11739W\r\r\n   2936N 11716W\r\r\n   2850N 11719W\r\r\n   2815N 11719W\r\r\n   2814N 11720W\r\r\n   2850N 11749W\r\r\n   2902N 11759W\r\r\n   2915N 11802W\r\r\n   2924N 11808W\r\r\n   2935N 11812W\r\r\n   3138N 11903W\r\r\n   FIR MEXICO (MMFR)\r\r\nF) SFC\r\r\nG) UNL",
+"reason": "DANGEROUS AREA FOR REENTRY OF ROCKET SPACEX R-5 STAGE 1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82987156",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-05T01:11:22.467Z"
+},
+{
+"areas": [
+[
+[
 -27.9833,
 -122.7333
 ],
@@ -277821,6 +278066,311 @@
 "name": "Texas Commission on Environmental Quality"
 },
 "updated": "2026-10-12T14:09:18.512Z"
+},
+{
+"areas": [
+[
+[
+-33.5667,
+-162.15
+],
+[
+-41.6167,
+-141.7333
+],
+[
+-42.6333,
+-142.2167
+],
+[
+-34.5333,
+-162.7333
+],
+[
+-33.5667,
+-162.15
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-04T09:00:00.000Z",
+"start": "2026-11-04T05:00:00.000Z"
+},
+{
+"end": "2026-11-05T09:00:00.000Z",
+"start": "2026-11-05T05:00:00.000Z"
+},
+{
+"end": "2026-11-06T09:00:00.000Z",
+"start": "2026-11-06T05:00:00.000Z"
+},
+{
+"end": "2026-11-07T09:00:00.000Z",
+"start": "2026-11-07T05:00:00.000Z"
+},
+{
+"end": "2026-11-08T09:00:00.000Z",
+"start": "2026-11-08T05:00:00.000Z"
+},
+{
+"end": "2026-11-09T09:00:00.000Z",
+"start": "2026-11-09T05:00:00.000Z"
+},
+{
+"end": "2026-11-10T09:00:00.000Z",
+"start": "2026-11-10T05:00:00.000Z"
+},
+{
+"end": "2026-11-11T09:00:00.000Z",
+"start": "2026-11-11T05:00:00.000Z"
+},
+{
+"end": "2026-11-12T09:00:00.000Z",
+"start": "2026-11-12T05:00:00.000Z"
+},
+{
+"end": "2026-11-13T09:00:00.000Z",
+"start": "2026-11-13T05:00:00.000Z"
+},
+{
+"end": "2026-11-14T09:00:00.000Z",
+"start": "2026-11-14T05:00:00.000Z"
+},
+{
+"end": "2026-11-15T09:00:00.000Z",
+"start": "2026-11-15T05:00:00.000Z"
+},
+{
+"end": "2026-11-16T09:00:00.000Z",
+"start": "2026-11-16T05:00:00.000Z"
+},
+{
+"end": "2026-11-17T09:00:00.000Z",
+"start": "2026-11-17T05:00:00.000Z"
+},
+{
+"end": "2026-11-18T09:00:00.000Z",
+"start": "2026-11-18T05:00:00.000Z"
+},
+{
+"end": "2026-11-19T09:00:00.000Z",
+"start": "2026-11-19T05:00:00.000Z"
+},
+{
+"end": "2026-11-20T09:00:00.000Z",
+"start": "2026-11-20T05:00:00.000Z"
+},
+{
+"end": "2026-11-21T09:00:00.000Z",
+"start": "2026-11-21T05:00:00.000Z"
+},
+{
+"end": "2026-11-22T09:00:00.000Z",
+"start": "2026-11-22T05:00:00.000Z"
+},
+{
+"end": "2026-11-23T09:00:00.000Z",
+"start": "2026-11-23T05:00:00.000Z"
+},
+{
+"end": "2026-11-24T09:00:00.000Z",
+"start": "2026-11-24T05:00:00.000Z"
+},
+{
+"end": "2026-11-25T09:00:00.000Z",
+"start": "2026-11-25T05:00:00.000Z"
+},
+{
+"end": "2026-11-26T09:00:00.000Z",
+"start": "2026-11-26T05:00:00.000Z"
+},
+{
+"end": "2026-11-27T09:00:00.000Z",
+"start": "2026-11-27T05:00:00.000Z"
+},
+{
+"end": "2026-11-28T09:00:00.000Z",
+"start": "2026-11-28T05:00:00.000Z"
+},
+{
+"end": "2026-11-29T09:00:00.000Z",
+"start": "2026-11-29T05:00:00.000Z"
+},
+{
+"end": "2026-11-30T09:00:00.000Z",
+"start": "2026-11-30T05:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3202/26",
+"kind": "NAVWARNING",
+"launches": [],
+"markers": [],
+"name": "HYDROPAC 3202/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203202%2F26",
+"raw": "040442Z NOV 26\nHYDROPAC 3202/26\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   0500Z TO 0900Z DAILY 04 THRU 30 NOV\n   IN AREA BOUND BY\n   33-34.30S 162-09.50W, 41-37.65S 141-44.23W,\n   42-38.60S 142-13.88W, 34-32.18S 162-44.80W.\n2. CANCEL THIS MSG 301000Z NOV 26.//\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3202&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-11-04T04:45:39.252Z"
+},
+{
+"areas": [
+[
+[
+30.6167,
+128.1333
+],
+[
+30.7833,
+128.5
+],
+[
+30.15,
+128.9
+],
+[
+29.9833,
+128.55
+],
+[
+30.6167,
+128.1333
+]
+],
+[
+[
+24.4667,
+132.7667
+],
+[
+25.0333,
+133.7667
+],
+[
+22.1833,
+135.65
+],
+[
+21.6167,
+134.6667
+],
+[
+24.4667,
+132.7667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-10T09:34:00.000Z",
+"start": "2026-11-10T06:21:00.000Z"
+},
+{
+"end": "2026-11-11T09:34:00.000Z",
+"start": "2026-11-11T06:21:00.000Z"
+},
+{
+"end": "2026-11-12T09:34:00.000Z",
+"start": "2026-11-11T20:26:00.000Z"
+},
+{
+"end": "2026-11-13T09:34:00.000Z",
+"start": "2026-11-13T06:21:00.000Z"
+},
+{
+"end": "2026-11-14T09:34:00.000Z",
+"start": "2026-11-14T06:21:00.000Z"
+},
+{
+"end": "2026-11-15T09:34:00.000Z",
+"start": "2026-11-15T06:21:00.000Z"
+},
+{
+"end": "2026-11-16T09:34:00.000Z",
+"start": "2026-11-16T06:21:00.000Z"
+},
+{
+"end": "2026-11-17T09:34:00.000Z",
+"start": "2026-11-17T06:21:00.000Z"
+},
+{
+"end": "2026-11-18T09:34:00.000Z",
+"start": "2026-11-18T06:21:00.000Z"
+},
+{
+"end": "2026-11-19T09:34:00.000Z",
+"start": "2026-11-19T06:21:00.000Z"
+},
+{
+"end": "2026-11-20T09:34:00.000Z",
+"start": "2026-11-20T06:21:00.000Z"
+},
+{
+"end": "2026-11-21T09:34:00.000Z",
+"start": "2026-11-21T06:21:00.000Z"
+},
+{
+"end": "2026-11-22T09:34:00.000Z",
+"start": "2026-11-22T06:21:00.000Z"
+},
+{
+"end": "2026-11-23T09:34:00.000Z",
+"start": "2026-11-23T06:21:00.000Z"
+},
+{
+"end": "2026-11-24T09:34:00.000Z",
+"start": "2026-11-24T06:21:00.000Z"
+},
+{
+"end": "2026-11-25T09:34:00.000Z",
+"start": "2026-11-25T06:21:00.000Z"
+},
+{
+"end": "2026-11-26T09:34:00.000Z",
+"start": "2026-11-26T06:21:00.000Z"
+},
+{
+"end": "2026-11-27T09:34:00.000Z",
+"start": "2026-11-27T06:21:00.000Z"
+},
+{
+"end": "2026-11-28T09:34:00.000Z",
+"start": "2026-11-28T06:21:00.000Z"
+},
+{
+"end": "2026-11-29T09:34:00.000Z",
+"start": "2026-11-29T06:21:00.000Z"
+},
+{
+"end": "2026-11-30T09:34:00.000Z",
+"start": "2026-11-30T06:21:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RJJJ-P5538/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-nuri-neonsat-7-to-11",
+"title": "NeonSat-7 to 11"
+}
+],
+"markers": [],
+"name": "P5538/26",
+"page": "https://space-notices.com/notice/notam-RJJJ-P5538%2F26",
+"raw": "P5538/26 NOTAMN\r\nQ)RJJJ/QXXXX/IV/NBO/E/000/999/2627N13202E324\r\nA)RJJJ B)2611100621 C)2611300934\r\nD)0621/0934\r\nE)KSLV(KOREA SPACE LAUNCH VEHICLE) WILL BE LAUNCHED AS FLW\r\n- PLANNED LAUNCH DATE       : NOV 10 2026\r\n- PLANNED LAUNCH WINDOW TIME: 0600-0900 UTC\r\n- RESERVED LAUNCH DATE      : NOV 11 2026 - NOV 30 2026\r\n\r\nTHE FLIGHT SAFETY OF THE AIRCRAFT IN FOLLOWING AREAS MAY BE AFFECTED.\r\nAREA:\r\n 1ST STAGE      : 0621-0922 UTC\r\n                  303721N1280853E - 304747N1283051E -\r\n                  300949N1285451E - 295926N1283301E -\r\n                  303721N1280853E\r\n                  VERTICAL ALTITUDE: SFC-UNL.\r\n\r\n PAYLOAD FAIRING: 0633-0934 UTC\r\n                  242829N1324604E - 250230N1334643E -\r\n                  221133N1353951E - 213752N1344015E -\r\n                  242829N1324604E\r\n                  VERTICAL ALTITUDE: SFC-UNL.\r\n\r\nRMK: ATC WILL NOT CLEAR IFR FLT THRU THIS AREA FOR THE FLIGHT SAFETY\r\nF)SFC G)UNL",
+"reason": "KSLV(KOREA SPACE LAUNCH VEHICLE) WILL BE LAUNCHED",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82988108",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-05T04:11:27.366Z"
 },
 {
 "areas": [],
