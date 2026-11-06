@@ -11285,6 +11285,190 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/bnm-CGD-SW%20BNM%209136-26": {
+"lastmod": "2026-11-02T19:20:44.211Z",
+"notice": {
+"areas": [
+[
+[
+29.033333,
+-117.983333
+],
+[
+29.25,
+-118.033333
+],
+[
+29.4,
+-118.133333
+],
+[
+29.583333,
+-118.2
+],
+[
+29.866667,
+-117.9
+],
+[
+29.8,
+-117.65
+],
+[
+29.6,
+-117.266667
+],
+[
+28.833333,
+-117.316667
+],
+[
+28.25,
+-117.316667
+],
+[
+28.266667,
+-117.35
+],
+[
+28.833333,
+-117.816667
+],
+[
+29.033333,
+-117.983333
+]
+],
+[
+[
+30.766667,
+-118.25
+],
+[
+31.383333,
+-118.783333
+],
+[
+30.433333,
+-118.516667
+],
+[
+29.583333,
+-118.2
+],
+[
+29.866667,
+-117.9
+],
+[
+29.8,
+-117.65
+],
+[
+30.766667,
+-118.25
+]
+],
+[
+[
+32.083333,
+-119.133333
+],
+[
+32.5,
+-119.3
+],
+[
+33.25,
+-119.633333
+],
+[
+34.2,
+-120.1
+],
+[
+34.516667,
+-120.3
+],
+[
+34.666667,
+-120.633333
+],
+[
+34.6,
+-120.65
+],
+[
+34.45,
+-120.616667
+],
+[
+34.316667,
+-120.566667
+],
+[
+32.083333,
+-119.15
+],
+[
+32.083333,
+-119.133333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-09T08:00:00.000Z",
+"start": "2026-11-09T03:17:00.000Z"
+},
+{
+"end": "2026-11-10T07:46:00.000Z",
+"start": "2026-11-10T03:03:00.000Z"
+},
+{
+"end": "2026-11-11T07:32:00.000Z",
+"start": "2026-11-11T02:49:00.000Z"
+},
+{
+"end": "2026-11-12T07:18:00.000Z",
+"start": "2026-11-12T02:35:00.000Z"
+},
+{
+"end": "2026-11-13T07:04:00.000Z",
+"start": "2026-11-13T02:21:00.000Z"
+},
+{
+"end": "2026-11-14T06:50:00.000Z",
+"start": "2026-11-14T02:07:00.000Z"
+},
+{
+"end": "2026-11-15T06:37:00.000Z",
+"start": "2026-11-15T01:54:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SW BNM 9136-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "launch-f9-ussf-627",
+"title": "USSF-627"
+}
+],
+"markers": [],
+"name": "CGD-SW BNM 9136-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209136-26",
+"raw": "Launch Hazard Area\nMission: SpaceX R-5 Launch Operations\nMessage Id: CGD-SW BNM 9136-26\n\n\n09/0317 NOV 26 to 09/0800 NOV 26. \n10/0303 NOV 26 to 10/0746 NOV 26. \n11/0249 NOV 26 to 11/0732 NOV 26. \n12/0235 NOV 26 to 12/0718 NOV 26. \n13/0221 NOV 26 to 13/0704 NOV 26. \n14/0207 NOV 26 to 14/0650 NOV 26. \n15/0154 NOV 26 to 15/0637 NOV 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
+"reason": "Launch Hazard Area - SpaceX R-5 Launch Operations",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-02T19:20:44.211Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209137-26": {
 "lastmod": "2026-11-03T21:01:42.046Z",
 "notice": {
@@ -20047,7 +20231,7 @@
 "markers": [],
 "name": "54442",
 "page": "https://space-notices.com/notice/lnm-54442",
-"raw": "$3c",
+"raw": "$3d",
 "reason": "Hazardous operations will be conducted for Space X SDA-T1A Launch Operations",
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
@@ -22954,6 +23138,190 @@
 "name": "US Coast Guard"
 },
 "updated": "2026-10-30T17:30:54.367Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/lnm-57659": {
+"lastmod": "2026-11-02T18:46:22.434Z",
+"notice": {
+"areas": [
+[
+[
+32.083333,
+-119.133333
+],
+[
+32.5,
+-119.3
+],
+[
+33.25,
+-119.633333
+],
+[
+34.2,
+-120.1
+],
+[
+34.516667,
+-120.3
+],
+[
+34.666667,
+-120.633333
+],
+[
+34.6,
+-120.65
+],
+[
+34.45,
+-120.616667
+],
+[
+34.316667,
+-120.566667
+],
+[
+32.083333,
+-119.15
+],
+[
+32.083333,
+-119.133333
+]
+],
+[
+[
+30.766667,
+-118.25
+],
+[
+31.383333,
+-118.783333
+],
+[
+30.433333,
+-118.516667
+],
+[
+29.583333,
+-118.2
+],
+[
+29.866667,
+-117.9
+],
+[
+29.8,
+-117.65
+],
+[
+30.766667,
+-118.25
+]
+],
+[
+[
+29.033333,
+-117.983333
+],
+[
+29.25,
+-118.033333
+],
+[
+29.4,
+-118.133333
+],
+[
+29.583333,
+-118.2
+],
+[
+29.866667,
+-117.9
+],
+[
+29.8,
+-117.65
+],
+[
+29.6,
+-117.266667
+],
+[
+28.833333,
+-117.316667
+],
+[
+28.25,
+-117.316667
+],
+[
+28.266667,
+-117.35
+],
+[
+28.833333,
+-117.816667
+],
+[
+29.033333,
+-117.983333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-09T07:41:00.000Z",
+"start": "2026-11-09T03:17:00.000Z"
+},
+{
+"end": "2026-11-10T07:27:00.000Z",
+"start": "2026-11-10T03:03:00.000Z"
+},
+{
+"end": "2026-11-11T07:13:00.000Z",
+"start": "2026-11-11T02:49:00.000Z"
+},
+{
+"end": "2026-11-12T06:59:00.000Z",
+"start": "2026-11-12T02:35:00.000Z"
+},
+{
+"end": "2026-11-13T06:45:00.000Z",
+"start": "2026-11-13T02:21:00.000Z"
+},
+{
+"end": "2026-11-14T06:31:00.000Z",
+"start": "2026-11-14T02:07:00.000Z"
+},
+{
+"end": "2026-11-15T06:18:00.000Z",
+"start": "2026-11-15T01:54:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-57659",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-f9-ussf-627",
+"title": "USSF-627"
+}
+],
+"markers": [],
+"name": "57659",
+"page": "https://space-notices.com/notice/lnm-57659",
+"raw": "Hazardous operations will be conducted for Space X, R-5 Launch Operations. Hazardous operation areas are bounded by the following coordinates and times:\nHazard Area A: \n32.08333333N, -119.13333333W\n32.5N, -119.3W\n33.25N, -119.63333333W\n34.2N, -120.1W\n34.51666667N, -120.3W\n34.66666667N, -120.63333333W\n34.6N, -120.65W\n34.45N, -120.61666667W\n34.31666667N, -120.56666667W\n32.08333333N, -119.15W\n(TO BEGINNING)\n             \n090317Z NOV TO 090740Z NOV 2026---- (PRIMARY) \n100303Z NOV TO 100726Z NOV 2026---- (BACKUP DAY) \n110249Z NOV TO 110712Z NOV 2026---- (BACKUP DAY) \n120235Z NOV TO 120658Z NOV 2026---- (BACKUP DAY) \n130221Z NOV TO 130644Z NOV 2026---- (BACKUP DAY) \n140207Z NOV TO 140630Z NOV 2026---- (BACKUP DAY) \n150154Z NOV TO 150617Z NOV 2026---- (BACKUP DAY) \n\nHazard Area B:\n30.76666667N, -118.25W\n31.38333333N, -118.78333333W\n30.43333333N, -118.51666667W\n29.58333333N, -118.2W\n29.86666667N, -117.9W\n29.8N, -117.65W\n(TO BEGINNING)\n            \n090317Z NOV TO 090741Z NOV 2026---- (PRIMARY) \n100303Z NOV TO 100727Z NOV 2026---- (BACKUP DAY) \n110249Z NOV TO 110713Z NOV 2026---- (BACKUP DAY) \n120235Z NOV TO 120659Z NOV 2026---- (BACKUP DAY) \n130221Z NOV TO 130645Z NOV 2026---- (BACKUP DAY) \n140207Z NOV TO 140631Z NOV 2026---- (BACKUP DAY) \n150154Z NOV TO 150618Z NOV 2026---- (BACKUP DAY) \n\nHazard Area C:\n29.03333333N, -117.98333333W\n29.25N, -118.03333333W\n29.4N, -118.13333333W\n29.58333333N, -118.2W\n29.86666667N, -117.9W\n29.8N, -117.65W\n29.6N, -117.26666667W\n28.83333333N, -117.31666667W\n28.25N, -117.31666667W\n28.26666667N, -117.35W\n28.83333333N, -117.81666667W\n(TO BEGINNING)\n\n090317Z NOV TO 090800Z NOV 2026---- (PRIMARY) \n100303Z NOV TO 100746Z NOV 2026---- (BACKUP DAY) \n110249Z NOV TO 110732Z NOV 2026---- (BACKUP DAY) \n120235Z NOV TO 120718Z NOV 2026---- (BACKUP DAY) \n130221Z NOV TO 130704Z NOV 2026---- (BACKUP DAY) \n140207Z NOV TO 140650Z NOV 2026---- (BACKUP DAY) \n150154Z NOV TO 150637Z NOV 2026---- (BACKUP DAY) \n\nMariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16.\n",
+"reason": "Hazardous operations will be conducted for Space X R-5 Launch Operations",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-02T18:46:22.434Z"
 },
 "via": "sitemap"
 },
@@ -97700,7 +98068,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%203235%2F26": {
-"lastmod": "2026-11-06T10:21:23.818Z",
+"lastmod": "2026-11-06T15:53:59.674Z",
 "notice": {
 "areas": [
 [
@@ -97773,9 +98141,9 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3235&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-11-06T10:21:23.818Z"
+"updated": "2026-11-06T15:53:59.674Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%203244%2F21": {
 "lastmod": "",
@@ -222512,6 +222880,258 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-CZQM-H7357%2F26": {
+"lastmod": "2026-11-06T18:40:25.014Z",
+"notice": {
+"areas": [
+[
+[
+43.8667,
+-58.8333
+],
+[
+44.2833,
+-57.7667
+],
+[
+44.7667,
+-56.1667
+],
+[
+44.8833,
+-55.6833
+],
+[
+44.5833,
+-55.35
+],
+[
+44.45,
+-56.05
+],
+[
+43.8667,
+-58.8333
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-11-13T19:00:00.000Z",
+"start": "2026-11-13T17:54:00.000Z"
+},
+{
+"end": "2026-11-14T18:38:00.000Z",
+"start": "2026-11-14T17:32:00.000Z"
+},
+{
+"end": "2026-11-15T18:17:00.000Z",
+"start": "2026-11-15T17:11:00.000Z"
+},
+{
+"end": "2026-11-17T17:34:00.000Z",
+"start": "2026-11-17T16:28:00.000Z"
+},
+{
+"end": "2026-11-18T17:13:00.000Z",
+"start": "2026-11-18T16:07:00.000Z"
+},
+{
+"end": "2026-11-19T16:52:00.000Z",
+"start": "2026-11-19T15:46:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-CZQM-H7357/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "H7357/26",
+"page": "https://space-notices.com/notice/notam-CZQM-H7357%2F26",
+"raw": "H7357/26 NOTAMN\r\nQ) CZQM/QRDXX/IV/BO/W/000/999/4414N05706W079\r\nA) CZQM B) 2611131754 C) 2611191652\r\nD) NOV 13 1754-1900, NOV 14 1732-1838, NOV 15 1711-1817, NOV 16 \r\n1650-1756, NOV 17 1628-1734, NOV 18 1607-1713, NOV 19 1546-1652\r\nE) DESIGNATED AIRSPACE HANDBOOK (DAH) IS AMENDED AS FLW: \r\nCYD795 MONCTON FIR AND GANDER FIR IS ESTABLISHED AS: \r\nROCKET HAZARD AREA BOUNDED BY\r\n4352N 05850W - 4417N 05746W - 4446N 05610W - 4453N 05541W -\r\n4435N 05521W - 4427N 05603W - 4352N 05850W\r\n(OVER ATLANTIC OCEAN S OF NEWFOUNDLAND)\r\nACFT SHOULD REMAIN CLEAR OF AREA DUE TO DANGER FM FALLING DEBRIS\r\n.\r\nFLW SEPARATIONS WILL BE PROVIDED WITHIN OCEANIC AIRSPACE:\r\nMNPS/NAT HIGH LEVEL AIRSPACE (HLA) 30NM, NON-MNPS/NAT HLA 60NM\r\nF) SFC G) UNL",
+"reason": "ROCKET HAZARD AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83010341",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-06T18:40:25.014Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-CZQM-H7358%2F26": {
+"lastmod": "2026-11-06T18:54:22.959Z",
+"notice": {
+"areas": [
+[
+[
+43.8667,
+-58.8333
+],
+[
+44.2833,
+-57.7667
+],
+[
+44.7667,
+-56.1667
+],
+[
+44.8833,
+-55.6833
+],
+[
+44.5833,
+-55.35
+],
+[
+44.45,
+-56.05
+],
+[
+43.8667,
+-58.8333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-13T19:00:00.000Z",
+"start": "2026-11-13T17:54:00.000Z"
+},
+{
+"end": "2026-11-14T18:38:00.000Z",
+"start": "2026-11-14T17:32:00.000Z"
+},
+{
+"end": "2026-11-15T18:17:00.000Z",
+"start": "2026-11-15T17:11:00.000Z"
+},
+{
+"end": "2026-11-17T17:34:00.000Z",
+"start": "2026-11-17T16:28:00.000Z"
+},
+{
+"end": "2026-11-18T17:13:00.000Z",
+"start": "2026-11-18T16:07:00.000Z"
+},
+{
+"end": "2026-11-19T16:52:00.000Z",
+"start": "2026-11-19T15:46:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-CZQM-H7358/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "H7358/26",
+"page": "https://space-notices.com/notice/notam-CZQM-H7358%2F26",
+"raw": "H7358/26 NOTAMN\r\nQ) CZXX/QRDXX/IV/BO/W/000/999/4414N05706W079\r\nA) CZQM CZQX B) 2611131754 C) 2611191652\r\nD) NOV 13 1754-1900, NOV 14 1732-1838, NOV 15 1711-1817, NOV 16  \r\n1650-1756, NOV 17 1628-1734, NOV 18 1607-1713, NOV 19 1546-1652\r\nE) DESIGNATED AIRSPACE HANDBOOK (DAH) IS AMENDED AS FLW: \r\nCYD795 MONCTON FIR AND GANDER FIR IS ESTABLISHED AS: \r\nROCKET HAZARD AREA BOUNDED BY\r\n4352N 05850W - 4417N 05746W - 4446N 05610W - 4453N 05541W -\r\n4435N 05521W - 4427N 05603W - 4352N 05850W\r\n(OVER ATLANTIC OCEAN S OF NEWFOUNDLAND)\r\nACFT SHOULD REMAIN CLEAR OF AREA DUE TO DANGER FM FALLING DEBRIS\r\n.\r\nFLW SEPARATIONS WILL BE PROVIDED WITHIN OCEANIC AIRSPACE:\r\nMNPS/NAT HIGH LEVEL AIRSPACE (HLA) 30NM, NON-MNPS/NAT HLA 60NM\r\nF) SFC G) UNL",
+"reason": "ROCKET HAZARD AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83010427",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-06T18:54:22.959Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-CZQM-H7365%2F26": {
+"lastmod": "2026-11-06T18:54:42.157Z",
+"notice": {
+"areas": [
+[
+[
+43.8667,
+-58.8333
+],
+[
+44.2833,
+-57.7667
+],
+[
+44.7667,
+-56.1667
+],
+[
+44.8833,
+-55.6833
+],
+[
+44.5833,
+-55.35
+],
+[
+44.45,
+-56.05
+],
+[
+43.8667,
+-58.8333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-13T19:00:00.000Z",
+"start": "2026-11-13T17:54:00.000Z"
+},
+{
+"end": "2026-11-14T18:38:00.000Z",
+"start": "2026-11-14T17:32:00.000Z"
+},
+{
+"end": "2026-11-15T18:17:00.000Z",
+"start": "2026-11-15T17:11:00.000Z"
+},
+{
+"end": "2026-11-17T17:34:00.000Z",
+"start": "2026-11-17T16:28:00.000Z"
+},
+{
+"end": "2026-11-18T17:13:00.000Z",
+"start": "2026-11-18T16:07:00.000Z"
+},
+{
+"end": "2026-11-19T16:52:00.000Z",
+"start": "2026-11-19T15:46:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-CZQM-H7365/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "H7365/26",
+"page": "https://space-notices.com/notice/notam-CZQM-H7365%2F26",
+"raw": "H7365/26 NOTAMN\r\nQ) CZXX/QRDXX/IV/BO/W/000/999/4414N05706W079\r\nA) CZQM CZQX B) 2611131754 C) 2611191652\r\nD) NOV 13 1754-1900, NOV 14 1732-1838, NOV 15 1711-1817, NOV 16   \r\n1650-1756, NOV 17 1628-1734, NOV 18 1607-1713, NOV 19 1546-1652\r\nE) DESIGNATED AIRSPACE HANDBOOK (DAH) IS AMENDED AS FLW: \r\nCYD795 MONCTON FIR AND GANDER FIR IS ESTABLISHED AS: \r\nROCKET HAZARD AREA BOUNDED BY\r\n4352N 05850W - 4417N 05746W - 4446N 05610W - 4453N 05541W -\r\n4435N 05521W - 4427N 05603W - 4352N 05850W\r\n(OVER ATLANTIC OCEAN S OF NEWFOUNDLAND)\r\nACFT SHOULD REMAIN CLEAR OF AREA DUE TO DANGER FM FALLING DEBRIS\r\nF) SFC G) UNL",
+"reason": "ROCKET HAZARD AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83012447",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-06T18:54:42.157Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/notam-FAJO-A3699%2F26": {
 "gone": "2026-10-24",
 "lastmod": "2026-09-29T14:14:05.864Z",
@@ -245250,6 +245870,90 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-NTTT-A1403%2F26": {
+"lastmod": "2026-11-02T19:51:29.997Z",
+"notice": {
+"areas": [
+[
+[
+-30.0,
+-121.8833
+],
+[
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-28.7167,
+-120.0
+],
+[
+-30.0,
+-120.0
+],
+[
+-30.0,
+-121.8833
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-11-09T09:42:00.000Z",
+"start": "2026-11-09T05:04:00.000Z"
+},
+{
+"end": "2026-11-10T09:28:00.000Z",
+"start": "2026-11-10T04:50:00.000Z"
+},
+{
+"end": "2026-11-11T09:14:00.000Z",
+"start": "2026-11-11T04:36:00.000Z"
+},
+{
+"end": "2026-11-12T09:00:00.000Z",
+"start": "2026-11-12T04:22:00.000Z"
+},
+{
+"end": "2026-11-13T08:46:00.000Z",
+"start": "2026-11-13T04:08:00.000Z"
+},
+{
+"end": "2026-11-14T08:32:00.000Z",
+"start": "2026-11-14T03:54:00.000Z"
+},
+{
+"end": "2026-11-15T08:19:00.000Z",
+"start": "2026-11-15T03:41:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1403/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-627",
+"title": "USSF-627"
+}
+],
+"markers": [],
+"name": "A1403/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1403%2F26",
+"raw": "A1403/26 NOTAMN\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2858S12112W113\r\nA) NTTT\r\nB) 2611090504 C) 2611150819\r\nD) 09 0504-0942, 10 0450-0928, 11 0436-0914, 12 0422-0900\r\n13 0408-0846, 14 0354-0832, 15 0341-0819\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX R-5 IN\r\n TAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING POINTS : \r\n3000S 12153W, 2759S 12244W, 2709S 12043W, 2843S 12000W, 3000S\r\n 12000W, 3000S 12153W \r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : SCIZ \r\n\r\nTHE FRENCH VERSION OF THIS NOTAM IS C2641/26\r\nF) SFC G) UNL",
+"reason": "TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX R-5",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82956492",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-02T19:51:29.997Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-NTTT-A1407%2F26": {
 "lastmod": "2026-11-02T22:46:21.900Z",
 "notice": {
@@ -251322,6 +252026,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RJJJ-P5065%2F26": {
+"gone": "2026-11-06",
 "lastmod": "2026-10-20T12:11:11.680Z",
 "notice": {
 "areas": [
@@ -251477,6 +252182,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RJJJ-P5197%2F26": {
+"gone": "2026-11-06",
 "lastmod": "2026-10-20T12:12:42.511Z",
 "notice": {
 "areas": [
@@ -253027,6 +253733,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RKRR-D3252%2F26": {
+"gone": "2026-11-06",
 "lastmod": "2026-10-20T12:03:33.638Z",
 "notice": {
 "areas": [
@@ -259238,7 +259945,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SCIZ-W3841%2F26": {
-"lastmod": "2026-11-03T23:32:42.390Z",
+"lastmod": "2026-11-06T18:18:21.948Z",
 "notice": {
 "areas": [
 [
@@ -259329,9 +260036,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83010146",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-03T23:32:42.390Z"
+"updated": "2026-11-06T18:18:21.948Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SMPM-A0368%2F26": {
 "lastmod": "2026-09-27T19:52:14.739Z",
@@ -299801,6 +300508,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLHW-A5284%2F26": {
+"gone": "2026-11-06",
 "lastmod": "2026-10-20T12:03:00.029Z",
 "notice": {
 "areas": [
@@ -299857,6 +300565,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLHW-A5285%2F26": {
+"gone": "2026-11-06",
 "lastmod": "2026-10-20T12:03:04.740Z",
 "notice": {
 "areas": [
@@ -322544,6 +323253,72 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-08-09T22:30:22.700Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/starbase-road-delay-1d588735-9eef-4ef7-b31e-9ca1bf460d8a": {
+"lastmod": "2026-11-06T18:12:03.245Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-08T10:00:00.000Z",
+"start": "2026-11-08T05:59:00.000Z"
+}
+],
+"height": null,
+"id": "starbase-road-delay-1d588735-9eef-4ef7-b31e-9ca1bf460d8a",
+"kind": "ROAD_DELAY",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [],
+"name": "Nov 08 Production -> Massey's",
+"page": "https://space-notices.com/notice/starbase-road-delay-1d588735-9eef-4ef7-b31e-9ca1bf460d8a",
+"raw": "Description: Production to Masseys\nDate: November 7 11:59 PM to November 8 4:00 AM",
+"reason": "Production to Masseys",
+"source": {
+"link": "https://www.starbase.texas.gov/beach-road-access",
+"name": "City of Starbase"
+},
+"updated": "2026-11-06T18:12:03.245Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/starbase-road-delay-4776fa70-faa0-488d-aa01-6de62cf30e54": {
+"lastmod": "2026-11-06T18:12:03.103Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-07T10:00:00.000Z",
+"start": "2026-11-07T05:59:00.000Z"
+}
+],
+"height": null,
+"id": "starbase-road-delay-4776fa70-faa0-488d-aa01-6de62cf30e54",
+"kind": "ROAD_DELAY",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [],
+"name": "Nov 07 Production -> Massey's",
+"page": "https://space-notices.com/notice/starbase-road-delay-4776fa70-faa0-488d-aa01-6de62cf30e54",
+"raw": "Description: Production to Masseys\nDate: November 6 11:59 PM to November 7 4:00 AM",
+"reason": "Production to Masseys",
+"source": {
+"link": "https://www.starbase.texas.gov/beach-road-access",
+"name": "City of Starbase"
+},
+"updated": "2026-11-06T18:12:03.103Z"
 },
 "via": "sitemap"
 },
