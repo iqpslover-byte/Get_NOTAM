@@ -1,6 +1,6 @@
 {
-"count": 286,
-"generated_utc": "2026-11-06T11:33:07Z",
+"count": 287,
+"generated_utc": "2026-11-06T18:30:54Z",
 "notices": [
 {
 "areas": [
@@ -2730,58 +2730,6 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-21T00:06:24.531Z"
-},
-{
-"areas": [
-[
-[
-38.0333,
-107.4833
-],
-[
-38.1333,
-107.9333
-],
-[
-37.95,
-108.0
-],
-[
-37.85,
-107.55
-],
-[
-38.0333,
-107.4833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-23T10:28:00.000Z",
-"start": "2026-10-23T10:07:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLHW-A5283/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-long-march-6a-unknown-payload-9648124f",
-"title": "Unknown Payload"
-}
-],
-"markers": [],
-"name": "A5283/26",
-"page": "https://space-notices.com/notice/notam-ZLHW-A5283%2F26",
-"raw": "A5283/26 NOTAMN\r\nQ)ZLHW/QRDCA/IV/BO/W/000/999/3759N10744E012\r\nA)ZLHW B)2610231007 C)2610231028 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY: \r\nN380200E1072900-N380800E1075600-N375700E1080000-N375100E1073300,BAC\r\nK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA ESTABLISHED",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82777044",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-20T12:02:55.482Z"
 },
 {
 "areas": [
@@ -10664,7 +10612,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83004514",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-02T14:06:18.909Z"
+"updated": "2026-11-06T10:29:45.143Z"
 },
 {
 "areas": [
@@ -12482,6 +12430,80 @@
 "areas": [
 [
 [
+24.4667,
+132.7667
+],
+[
+25.0333,
+133.7667
+],
+[
+22.1833,
+135.65
+],
+[
+21.6167,
+134.6667
+],
+[
+24.4667,
+132.7667
+]
+],
+[
+[
+15.7,
+138.9167
+],
+[
+16.1333,
+139.7333
+],
+[
+13.9167,
+140.9833
+],
+[
+13.4833,
+140.1833
+],
+[
+15.7,
+138.9167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-10T09:00:00.000Z",
+"start": "2026-11-10T06:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3235/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-mir-demo-flight",
+"title": "Demo Flight"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3235/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203235%2F26",
+"raw": "061549Z NOV 26\nHYDROPAC 3235/26.\nNORTH PACIFIC.\nPHILIPPINE SEA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   100600Z TO 100900Z NOV IN AREAS BOUND BY:\n   A. 24-28.48N 132-46.07E, 25-02.50N 133-46.72E,\n      22-11.55N 135-39.85E, 21-37.87N 134-40.25E.\n   B. 15-42.05N 138-55.09E, 16-08.44N 139-44.03E,\n      13-55.76N 140-59.81E, 13-29.48N 140-11.29E.\n2. CANCEL THIS MSG 101000Z NOV 26.\n\n",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3235&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-11-06T10:21:23.818Z"
+},
+{
+"areas": [
+[
+[
 33.0833,
 126.3
 ],
@@ -12640,7 +12662,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83004329",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-05T13:27:06.232Z"
+"updated": "2026-11-06T10:21:20.136Z"
 },
 {
 "areas": [
@@ -12801,7 +12823,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83002379",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-06T09:46:28.619Z"
+"updated": "2026-11-06T10:20:53.531Z"
 },
 {
 "areas": [],
@@ -12830,7 +12852,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83004467",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-05T13:27:06.232Z"
+"updated": "2026-11-06T10:29:21.788Z"
 },
 {
 "areas": [
@@ -12882,7 +12904,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83002579",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-06T09:46:28.619Z"
+"updated": "2026-11-06T10:20:58.497Z"
 },
 {
 "areas": [
@@ -15252,6 +15274,98 @@
 "areas": [
 [
 [
+-30.0,
+-121.8833
+],
+[
+-30.0,
+-120.0
+],
+[
+-28.7167,
+-120.0
+],
+[
+-38.35,
+-115.0667
+],
+[
+-49.15,
+-107.3667
+],
+[
+-59.15,
+-95.5667
+],
+[
+-59.9667,
+-99.0833
+],
+[
+-44.5667,
+-114.2167
+],
+[
+-30.0,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-13T10:48:00.000Z",
+"start": "2026-11-13T06:10:00.000Z"
+},
+{
+"end": "2026-11-14T10:34:00.000Z",
+"start": "2026-11-14T05:56:00.000Z"
+},
+{
+"end": "2026-11-15T10:20:00.000Z",
+"start": "2026-11-15T05:42:00.000Z"
+},
+{
+"end": "2026-11-16T10:06:00.000Z",
+"start": "2026-11-16T05:28:00.000Z"
+},
+{
+"end": "2026-11-17T09:53:00.000Z",
+"start": "2026-11-17T05:15:00.000Z"
+},
+{
+"end": "2026-11-18T09:39:00.000Z",
+"start": "2026-11-18T05:01:00.000Z"
+},
+{
+"end": "2026-11-19T09:25:00.000Z",
+"start": "2026-11-19T04:47:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-SCIZ-W3841/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-317",
+"title": "USSF-317"
+}
+],
+"markers": [],
+"name": "W3841/26",
+"page": "https://space-notices.com/notice/notam-SCIZ-W3841%2F26",
+"raw": "W3841/26 NOTAMN \r\nQ)SCIZ/QXXXX/IV/NBO/W/000/999/4106S11247W278\r\nA)SCIZ B)2611130610 C)2611190925\r\nD)13 0610-1048, 14 0556-1034, 15 0542-1020\r\n16 0528-1006, 17 0515-0953, 18 0501-0939\r\n19 0447-0925\r\nE)ZONE...D... IN WATERS PACIFIC OCEAN DUE TO SPACE VEHICLE RE-ENTRY\r\nAND SPLASHDOWN ACTIVITY. THE AFFECTED AREA IS BOUNDED BY NXT GEO\r\nCOORD: \r\n300000S/1215300W\r\n300000S/1200000W\r\n284300S/1200000W\r\n382100S/1150400W\r\n490900S/1072200W\r\n590900S/0953400W\r\n595800S/0990500W\r\n443400S/1141300W\r\n300000S/1215300W\r\nINSTRUCTIONS: SANTIAGO OCEANIC CONTROL 10024KHZ FANS 1A EQUIPPED\r\nINFO PROVIDED BY SPACE X\r\nF)SFC G)UNL",
+"reason": "SPACE VEHICLE RE-ENTRY AND SPLASHDOWN ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83010146",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-03T23:32:42.390Z"
+},
+{
+"areas": [
+[
+[
 -37.8,
 83.6
 ],
@@ -16011,7 +16125,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83004439",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-06T09:46:28.619Z"
+"updated": "2026-11-06T10:21:23.819Z"
 },
 {
 "areas": [],
@@ -19567,8 +19681,8 @@
 "updated": "2026-10-12T14:08:59.809Z"
 }
 ],
-"pending": 12,
+"pending": 13,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3342
+"total_known": 3344
 }
