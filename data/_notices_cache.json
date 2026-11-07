@@ -20234,7 +20234,7 @@
 "markers": [],
 "name": "54442",
 "page": "https://space-notices.com/notice/lnm-54442",
-"raw": "$3d",
+"raw": "$3c",
 "reason": "Hazardous operations will be conducted for Space X SDA-T1A Launch Operations",
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
@@ -224184,6 +224184,86 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-FIMM-A0106%2F26": {
+"lastmod": "2026-11-07T12:10:18.861Z",
+"notice": {
+"areas": [
+[
+[
+-24.9667,
+70.9333
+],
+[
+-23.7,
+75.0
+],
+[
+-26.5167,
+75.0
+],
+[
+-27.4833,
+72.1333
+],
+[
+-24.9667,
+70.9333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T01:14:00.000Z",
+"start": "2026-11-13T22:53:00.000Z"
+},
+{
+"end": "2026-11-15T01:14:00.000Z",
+"start": "2026-11-14T22:53:00.000Z"
+},
+{
+"end": "2026-11-16T01:14:00.000Z",
+"start": "2026-11-15T22:53:00.000Z"
+},
+{
+"end": "2026-11-17T01:14:00.000Z",
+"start": "2026-11-16T22:53:00.000Z"
+},
+{
+"end": "2026-11-18T01:14:00.000Z",
+"start": "2026-11-17T22:53:00.000Z"
+},
+{
+"end": "2026-11-19T01:14:00.000Z",
+"start": "2026-11-18T22:53:00.000Z"
+},
+{
+"end": "2026-11-20T01:14:00.000Z",
+"start": "2026-11-19T22:53:00.000Z"
+}
+],
+"height": "999",
+"id": "notam-FIMM-A0106/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-flight-15",
+"title": "Flight 15"
+}
+],
+"markers": [],
+"name": "A0106/26",
+"page": "https://space-notices.com/notice/notam-FIMM-A0106%2F26",
+"raw": "A0106/26 NOTAMN\r\nQ) FIMM/QRALW/IV/NBO/AE/000/999/2025S07540E999\r\n A) FIMM B) 2611132253 C) 2611200114 EST\r\n D) 13 2253 - 2359\r\n14 0000 - 0114\r\n14 2253 - 2359\r\n15 0000 - 0114\r\n15 2253 - 2359\r\n16 0000 - 0114\r\n16 2253 - 2359\r\n17 0000 - 0114\r\n17 2253 - 2359\r\n18 0000 - 0114\r\n18 2253 - 2359\r\n19 0000 - 0114\r\n19 2253 - 2359\r\n20 0000 - 0114\r\n E) STATIONARY ALTITUDE RESERVATION FOR HAZARDOUS OPERATIONS FROM SFC\r\nTO UNL FOR ATMOSPHERIC RE-ENTRY AND SPLASHDOWN OF SPACE X STARSHIP\r\nFLT-15 ROCKET WI AN AREA BOUNDED BY FLW COORD: \r\n2458S 07056E\r\n2342S 07500E\r\n2631S 07500E\r\n2729S 07208E TO BEGINNING\r\nPRIMARY RE-ENTRY BTN 2253 ON 13 NOV 2026 AND 0114 ON 14 NOV 2026\r\nBACK UP RE-ENTRY BTN 14 NOV 2026 AND 20 NOV 2026 AS PER FIELD D\r\n F) 000 G) 999",
+"reason": "ATMOSPHERIC RE-ENTRY AND SPLASHDOWN OF SPACE X STARSHIP FLT-15",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83016122",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-07T12:10:18.861Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-FIMM-A0118%2F24": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -295985,6 +296065,142 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-04T13:39:19.094Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZLA-11%2F067-26": {
+"lastmod": "2026-11-07T10:57:28.771Z",
+"notice": {
+"areas": [
+[
+[
+32.7167,
+-119.5167
+],
+[
+32.75,
+-119.4667
+],
+[
+33.2167,
+-119.65
+],
+[
+34.1167,
+-120.1167
+],
+[
+34.5667,
+-120.3833
+],
+[
+34.6667,
+-120.5
+],
+[
+34.65,
+-120.6333
+],
+[
+34.5333,
+-120.6333
+],
+[
+34.3333,
+-120.5333
+],
+[
+32.9,
+-119.7
+],
+[
+32.7167,
+-119.5167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-10T07:25:00.000Z",
+"start": "2026-11-10T03:03:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-11/067-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-627",
+"title": "USSF-627"
+}
+],
+"markers": [],
+"name": "11/067",
+"page": "https://space-notices.com/notice/notam-ZLA-11%2F067-26",
+"raw": "!CARF 11/067 ZLA AIRSPACE DCC SX R-5 26-72 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 324300N1193100W TO 324500N1192800W TO 331300N1193900W TO 340700N1200700W TO 343400N1202300W TO 344000N1203000W TO 343900N1203800W TO 343200N1203800W TO 342000N1203200W TO 325400N1194200W TO POINT OF ORIGIN SFC-UNL 2611100303-2611100725",
+"reason": "SX R-5 26-72",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83016097",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-07T10:57:28.771Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZLA-11%2F068-26": {
+"lastmod": "2026-11-07T10:57:17.712Z",
+"notice": {
+"areas": [
+[
+[
+32.45,
+-119.3833
+],
+[
+32.5,
+-119.3167
+],
+[
+31.7333,
+-118.8333
+],
+[
+31.6333,
+-119.05
+],
+[
+32.45,
+-119.3833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-10T07:27:00.000Z",
+"start": "2026-11-10T03:03:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-11/068-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-627",
+"title": "USSF-627"
+}
+],
+"markers": [],
+"name": "11/068",
+"page": "https://space-notices.com/notice/notam-ZLA-11%2F068-26",
+"raw": "!CARF 11/068 ZLA AIRSPACE DCC SX R-5 26-72 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 322700N1192300W TO 323000N1191900W TO 314400N1185000W TO 313800N1190300W TO POINT OF ORIGIN SFC-UNL 2611100303-2611100727",
+"reason": "SX R-5 26-72",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83016099",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-07T10:57:17.712Z"
 },
 "via": "sitemap"
 },
