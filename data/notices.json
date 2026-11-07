@@ -1,6 +1,6 @@
 {
-"count": 271,
-"generated_utc": "2026-11-07T16:39:45Z",
+"count": 272,
+"generated_utc": "2026-11-07T20:31:57Z",
 "notices": [
 {
 "areas": [
@@ -1867,7 +1867,7 @@
 "markers": [],
 "name": "54442",
 "page": "https://space-notices.com/notice/lnm-54442",
-"raw": "$3c",
+"raw": "$40",
 "reason": "Hazardous operations will be conducted for Space X SDA-T1A Launch Operations",
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
@@ -2083,7 +2083,7 @@
 "markers": [],
 "name": "CGD-SW BNM 9121-26",
 "page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209121-26",
-"raw": "$3d",
+"raw": "$40",
 "reason": "Re-Entry - NASA Crew-12 Reentry",
 "source": {
 "link": "https://www.navcen.uscg.gov/chart",
@@ -12748,7 +12748,7 @@
 "markers": [],
 "name": "57067",
 "page": "https://space-notices.com/notice/lnm-57067",
-"raw": "$3c",
+"raw": "$3f",
 "reason": "Hazardous operations will be conducted for Space X R-4 Launch Operations",
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
@@ -12835,6 +12835,39 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-04T01:30:41.301Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-13T19:00:00.000Z",
+"start": "2026-11-13T17:54:00.000Z"
+},
+{
+"end": "2026-11-14T18:38:00.000Z",
+"start": "2026-11-14T17:32:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-ula-kv-01",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-ula-kv-01",
+"raw": "ULA KV-01, CAPE CANAVERAL SFS, FL\nPRIMARY:\t11/13/26\t1754Z-1900Z\nBACKUP:\t\t11/14/26\t1732Z-1838Z",
+"reason": "ULA KV-01, CAPE CANAVERAL SFS, FL",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-06T22:21:40.849Z"
 },
 {
 "areas": [
@@ -18706,5 +18739,5 @@
 "pending": 10,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3355
+"total_known": 3356
 }
