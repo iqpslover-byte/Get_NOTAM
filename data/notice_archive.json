@@ -274986,7 +274986,7 @@
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-06T22:21:40.849Z"
+"updated": "2026-11-07T20:24:43.404Z"
 },
 {
 "areas": [
@@ -276597,8 +276597,8 @@
 "kind": "NOTAM",
 "launches": [
 {
-"id": "launch-starship-flight-15",
-"title": "Flight 15"
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
 }
 ],
 "markers": [],
@@ -276610,7 +276610,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83016122",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-07T12:10:18.861Z"
+"updated": "2026-11-07T20:08:56.687Z"
 },
 {
 "areas": [
