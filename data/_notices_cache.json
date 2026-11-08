@@ -98274,7 +98274,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%203244%2F26": {
-"lastmod": "2026-11-08T03:25:43.302Z",
+"lastmod": "2026-11-08T09:03:41.829Z",
 "notice": {
 "areas": [
 [
@@ -98433,7 +98433,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3244&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-11-08T03:25:43.302Z"
+"updated": "2026-11-08T09:03:41.829Z"
 },
 "via": "sitemap"
 },
@@ -98526,6 +98526,86 @@
 "name": "US National Geospatial-Intelligence Agency"
 },
 "updated": "2026-11-08T03:34:27.675Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/nav-warning-HYDROPAC%203246%2F26": {
+"lastmod": "2026-11-08T09:01:20.807Z",
+"notice": {
+"areas": [
+[
+[
+-37.8,
+83.6
+],
+[
+-48.0833,
+117.0333
+],
+[
+-54.7167,
+115.65
+],
+[
+-43.1833,
+78.45
+],
+[
+-37.8,
+83.6
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-13T21:24:00.000Z",
+"start": "2026-11-13T20:28:00.000Z"
+},
+{
+"end": "2026-11-14T21:03:00.000Z",
+"start": "2026-11-14T20:06:00.000Z"
+},
+{
+"end": "2026-11-15T20:42:00.000Z",
+"start": "2026-11-15T19:45:00.000Z"
+},
+{
+"end": "2026-11-16T20:20:00.000Z",
+"start": "2026-11-16T19:24:00.000Z"
+},
+{
+"end": "2026-11-17T19:59:00.000Z",
+"start": "2026-11-17T19:02:00.000Z"
+},
+{
+"end": "2026-11-18T19:38:00.000Z",
+"start": "2026-11-18T18:41:00.000Z"
+},
+{
+"end": "2026-11-19T19:16:00.000Z",
+"start": "2026-11-19T18:20:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3246/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3246/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203246%2F26",
+"raw": "052343Z NOV 26\nHYDROPAC 3246/26.\nEASTERN INDIAN OCEAN.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   132028Z TO 132124Z NOV, ALTERNATE\n   142006Z TO 142103Z, 151945Z TO 152042Z,\n   161924Z TO 162020Z, 171902Z TO 171959Z,\n   181841Z TO 181938Z AND 191820Z TO 191916Z NOV\n   IN AREA BOUND BY\n   37-48.00S 083-36.00E, 48-05.00S 117-02.00E,\n   54-43.00S 115-39.00E, 43-11.00S 078-27.00E.\n2. CANCEL THIS MSG 192016Z NOV 26.//\n\n",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3246&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-11-08T09:01:20.807Z"
 },
 "via": "sitemap"
 },
@@ -246745,7 +246825,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1440%2F26": {
-"lastmod": "2026-11-08T03:34:36.332Z",
+"lastmod": "2026-11-08T05:21:22.469Z",
 "notice": {
 "areas": [
 [
@@ -246824,9 +246904,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83020717",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-08T03:34:36.332Z"
+"updated": "2026-11-08T05:21:22.469Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NZZC-B4420%2F26": {
 "gone": "2026-09-26",
@@ -260683,7 +260763,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SCIZ-W3861%2F26": {
-"lastmod": "2026-11-08T04:39:26.813Z",
+"lastmod": "2026-11-08T09:15:43.620Z",
 "notice": {
 "areas": [
 [
@@ -260805,8 +260885,8 @@
 "kind": "NOTAM",
 "launches": [
 {
-"id": "launch-callisto-flight-1",
-"title": "Flight 1"
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
 }
 ],
 "markers": [],
@@ -260818,7 +260898,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83020586",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-08T04:39:26.813Z"
+"updated": "2026-11-08T09:15:43.620Z"
 },
 "via": "sitemap"
 },
@@ -280090,6 +280170,138 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZBPE-A5798%2F26": {
+"lastmod": "2026-11-08T09:11:05.232Z",
+"notice": {
+"areas": [
+[
+[
+39.7333,
+108.1167
+],
+[
+39.3667,
+108.9667
+],
+[
+39.2,
+108.8333
+],
+[
+39.2333,
+108.7333
+],
+[
+39.5167,
+108.05
+],
+[
+39.55,
+108.0
+],
+[
+39.7333,
+108.1167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-09T09:26:00.000Z",
+"start": "2026-11-09T08:53:00.000Z"
+},
+{
+"end": "2026-11-09T10:02:00.000Z",
+"start": "2026-11-09T09:39:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZBPE-A5798/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5798/26",
+"page": "https://space-notices.com/notice/notam-ZBPE-A5798%2F26",
+"raw": "A5798/26 NOTAMN\r\nQ)ZXXX/QRDCA/IV/BO/W/000/999/3928N10828E024\r\nA)ZBPE ZLHW B)2611090853 C)2611091002 \r\nD)0853-0926 0939-1002\r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED \r\nBY:N394400E1080700-N392200E1085800-N391200E1085000-N391400E1084400-\r\nN393100E1080300-N393300E1080000,VERTICAL LIMITS:SFC-UNL.CIVIL ACFT \r\nARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA ESTABLISHED",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83020954",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-08T09:11:05.232Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZBPE-A5799%2F26": {
+"lastmod": "2026-11-08T09:10:59.337Z",
+"notice": {
+"areas": [
+[
+[
+39.0,
+109.85
+],
+[
+38.8333,
+109.8
+],
+[
+38.8,
+109.4333
+],
+[
+38.9667,
+109.45
+],
+[
+39.1,
+109.55
+],
+[
+39.0,
+109.85
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-09T09:23:00.000Z",
+"start": "2026-11-09T08:52:00.000Z"
+},
+{
+"end": "2026-11-09T09:59:00.000Z",
+"start": "2026-11-09T09:39:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZBPE-A5799/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5799/26",
+"page": "https://space-notices.com/notice/notam-ZBPE-A5799%2F26",
+"raw": "A5799/26 NOTAMN\r\nQ)ZXXX/QRDCA/IV/BO/W/000/999/3854N10938E013\r\nA)ZBPE ZLHW B)2611090852 C)2611090959 \r\nD)0852-0923 0939-0959\r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED \r\nBY:N390000E1095100-N385000E1094800-N384800E1092600-N385800E1092700-\r\n  N390600E1093300,VERTICAL LIMITS:SFC-UNL.CIVIL ACFT ARE FORBIDDEN \r\nTO FLY INTO THE AREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA ESTABLISHED",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83020960",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-08T09:10:59.337Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-ZDC-09%2F364-26": {
 "gone": "2026-10-15",
 "lastmod": "2026-09-30T12:11:25.969Z",
@@ -296892,6 +297104,142 @@
 "updated": "2026-11-07T10:57:17.712Z"
 },
 "via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZLA-11%2F071-26": {
+"lastmod": "2026-11-07T10:57:28.796Z",
+"notice": {
+"areas": [
+[
+[
+32.7167,
+-119.5167
+],
+[
+32.75,
+-119.4667
+],
+[
+33.2167,
+-119.65
+],
+[
+34.1167,
+-120.1167
+],
+[
+34.5667,
+-120.3833
+],
+[
+34.6667,
+-120.5
+],
+[
+34.65,
+-120.6333
+],
+[
+34.5333,
+-120.6333
+],
+[
+34.3333,
+-120.5333
+],
+[
+32.9,
+-119.7
+],
+[
+32.7167,
+-119.5167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-11T07:11:00.000Z",
+"start": "2026-11-11T02:49:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-11/071-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-627",
+"title": "USSF-627"
+}
+],
+"markers": [],
+"name": "11/071",
+"page": "https://space-notices.com/notice/notam-ZLA-11%2F071-26",
+"raw": "!CARF 11/071 ZLA AIRSPACE DCC SX R-5 26-72 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 324300N1193100W TO 324500N1192800W TO 331300N1193900W TO 340700N1200700W TO 343400N1202300W TO 344000N1203000W TO 343900N1203800W TO 343200N1203800W TO 342000N1203200W TO 325400N1194200W TO POINT OF ORIGIN SFC-UNL 2611110249-2611110711",
+"reason": "SX R-5 26-72",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83021924",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-07T10:57:28.796Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/notam-ZLA-11%2F072-26": {
+"lastmod": "2026-11-07T10:57:28.796Z",
+"notice": {
+"areas": [
+[
+[
+32.45,
+-119.3833
+],
+[
+32.5,
+-119.3167
+],
+[
+31.7333,
+-118.8333
+],
+[
+31.6333,
+-119.05
+],
+[
+32.45,
+-119.3833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-11T07:13:00.000Z",
+"start": "2026-11-11T02:49:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-11/072-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-627",
+"title": "USSF-627"
+}
+],
+"markers": [],
+"name": "11/072",
+"page": "https://space-notices.com/notice/notam-ZLA-11%2F072-26",
+"raw": "!CARF 11/072 ZLA AIRSPACE DCC SX R-5 26-72 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 322700N1192300W TO 323000N1191900W TO 314400N1185000W TO 313800N1190300W TO POINT OF ORIGIN SFC-UNL 2611110249-2611110713",
+"reason": "SX R-5 26-72",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83021922",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-07T10:57:28.796Z"
+},
+"via": "entry"
 },
 "https://space-notices.com/notice/notam-ZLHW-A0063%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
