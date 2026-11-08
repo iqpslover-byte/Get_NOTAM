@@ -11674,6 +11674,96 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/bnm-CGD-SW%20BNM%209138-26": {
+"lastmod": "2026-11-08T15:19:38.547Z",
+"notice": {
+"areas": [
+[
+[
+34.266667,
+-124.55
+],
+[
+34.616667,
+-124.616667
+],
+[
+34.9,
+-121.983333
+],
+[
+34.55,
+-121.933333
+],
+[
+34.266667,
+-124.55
+]
+],
+[
+[
+34.633333,
+-121.383333
+],
+[
+34.633333,
+-120.866667
+],
+[
+34.733333,
+-120.583333
+],
+[
+34.916667,
+-120.583333
+],
+[
+34.933333,
+-120.95
+],
+[
+34.933333,
+-121.366667
+],
+[
+34.633333,
+-121.383333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-18T13:37:00.000Z",
+"start": "2026-11-18T06:31:00.000Z"
+},
+{
+"end": "2026-11-19T13:37:00.000Z",
+"start": "2026-11-19T06:31:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SW BNM 9138-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "other-vsfb-operation-W6407",
+"title": "VSFB Operation W6407"
+}
+],
+"markers": [],
+"name": "CGD-SW BNM 9138-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209138-26",
+"raw": "Launch Hazard Area\nMission: Operation W6407 \nMessage Id: CGD-SW BNM 9138-26\n\n\n18/0631 NOV 26 to 18/1337 NOV 26. \n19/0631 NOV 26 to 19/1337 NOV 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
+"reason": "Launch Hazard Area - Operation W6407",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-08T15:19:38.547Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/infopage-blueorigin-ng-2": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -23363,6 +23453,96 @@
 "name": "US Coast Guard"
 },
 "updated": "2026-11-02T18:46:22.434Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/lnm-57935": {
+"lastmod": "2026-11-08T15:20:25.471Z",
+"notice": {
+"areas": [
+[
+[
+34.63333,
+-121.38333
+],
+[
+34.63333,
+-120.86667
+],
+[
+34.73333,
+-120.58333
+],
+[
+34.91667,
+-120.58333
+],
+[
+34.93333,
+-120.95
+],
+[
+34.93333,
+-121.36667
+],
+[
+34.63333,
+-121.38333
+]
+],
+[
+[
+34.26667,
+-124.55
+],
+[
+34.61667,
+-124.61667
+],
+[
+34.9,
+-121.98333
+],
+[
+34.55,
+-121.93333
+],
+[
+34.26667,
+-124.55
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-18T13:37:00.000Z",
+"start": "2026-11-18T06:31:00.000Z"
+},
+{
+"end": "2026-11-19T13:37:00.000Z",
+"start": "2026-11-19T06:31:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-57935",
+"kind": "LNM",
+"launches": [
+{
+"id": "other-vsfb-operation-W6407",
+"title": "VSFB Operation W6407"
+}
+],
+"markers": [],
+"name": "57935",
+"page": "https://space-notices.com/notice/lnm-57935",
+"raw": "Hazardous operations will be conducted for Vandenberg Space Force Base, Western Range Operation W6407. Hazardous operation areas are bounded by the following coordinates and times:\nHazard Area A: \n34.63333 N, -121.38333 W\n34.63333 N, -120.86667 W\n34.73333 N, -120.58333 W\n34.91667 N, -120.58333 W\n34.93333 N, -120.95000 W\n34.93333 N, -121.36667 W\n34.63333 N, -121.38333 W\n(TO BEGINNING)\n\nHazard Area B:\n34.26667 N, -124.55000 W\n34.61667 N, -124.61667 W\n34.90000 N, -121.98333 W\n34.55000 N, -121.93333 W\n34.26667 N, -124.55000 W\n(TO BEGINNING)\n\nHazard Times:\n180631 Z NOV TO 181337 Z NOV 2026---- DO 6407 (PRIMARY)\n190631 Z NOV TO 191337 Z NOV 2026---- DO 6407 (BACKUP DAY)\n\nSurface vessels are strongly advised to avoid this area defined during specified dates / times. During operations, frontier control will be managing hazardous area surface traffic on VHF CH 16 and CH 6. For more details or comments contact 2 ROPS/DOS via telephone at commercial 805-606-8825 OR DSN 276-8825, or email: 2ROPS.DOS@US.AF.MIL.",
+"reason": "Hazardous operations will be conducted for Vandenberg Space Force Base, Western Range Operation W6407",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-08T15:20:25.471Z"
 },
 "via": "sitemap"
 },
@@ -297106,7 +297286,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-11%2F071-26": {
-"lastmod": "2026-11-07T10:57:28.796Z",
+"lastmod": "2026-11-08T13:02:13.240Z",
 "notice": {
 "areas": [
 [
@@ -297181,12 +297361,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83021924",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-07T10:57:28.796Z"
+"updated": "2026-11-08T13:02:13.240Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-11%2F072-26": {
-"lastmod": "2026-11-07T10:57:28.796Z",
+"lastmod": "2026-11-08T13:02:15.096Z",
 "notice": {
 "areas": [
 [
@@ -297237,9 +297417,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83021922",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-07T10:57:28.796Z"
+"updated": "2026-11-08T13:02:15.096Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLHW-A0063%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
