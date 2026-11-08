@@ -1,5 +1,5 @@
 {
-"count": 2839,
+"count": 2841,
 "notices": [
 {
 "areas": [
@@ -276076,6 +276076,98 @@
 "areas": [
 [
 [
+-19.3833,
+-148.8167
+],
+[
+-24.9667,
+-133.1667
+],
+[
+-26.9667,
+-124.6
+],
+[
+-27.85,
+-121.3667
+],
+[
+-27.6167,
+-120.0
+],
+[
+-29.1833,
+-120.0
+],
+[
+-28.1,
+-125.1
+],
+[
+-25.9,
+-133.9833
+],
+[
+-19.85,
+-149.0
+],
+[
+-19.3833,
+-148.8167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T11:37:00.000Z",
+"start": "2026-11-14T08:12:00.000Z"
+},
+{
+"end": "2026-11-15T11:37:00.000Z",
+"start": "2026-11-15T08:12:00.000Z"
+},
+{
+"end": "2026-11-16T11:37:00.000Z",
+"start": "2026-11-16T08:12:00.000Z"
+},
+{
+"end": "2026-11-17T11:37:00.000Z",
+"start": "2026-11-17T08:12:00.000Z"
+},
+{
+"end": "2026-11-18T11:37:00.000Z",
+"start": "2026-11-18T08:12:00.000Z"
+},
+{
+"end": "2026-11-19T11:37:00.000Z",
+"start": "2026-11-19T08:12:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1441/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "A1441/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1441%2F26",
+"raw": "A1441/26 NOTAMN\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2455S13229W967\r\nA) NTTT\r\nB) 2611140812 C) 2611191137\r\nD) 14 0812-1137, 15 0812-1137, 16 0812-1137, \r\n17 0812-1137, 18 0812-1137, 19 0812-1137\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX\r\nSTARSHIP FLT-15 IN TAHITI FIR WITHIN AN AREA BOUNDED BY\r\nFOLLOWING POINTS: \r\n1923S 14849W, 2458S 13310W, 2658S 12436W, 2751S 12122W,\r\n2737S 12000W, 2911S 12000W, 2806S 12506W, 2554S 13359W,\r\n1951S 14900W, 1923S 14849W \r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : SCIZ\r\n\r\nTHE FRENCH VERSION OF THIS NOTAM IS C2711/26\r\nF) SFC G) UNL",
+"reason": "TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX STARSHIP FLT-15",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83024517",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-08T09:15:43.620Z"
+},
+{
+"areas": [
+[
+[
 34.266667,
 -124.55
 ],
@@ -277303,6 +277395,136 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-31T14:27:13.871Z"
+},
+{
+"areas": [
+[
+[
+-39.2,
+177.75
+],
+[
+-39.2,
+178.0
+],
+[
+-39.3,
+178.5
+],
+[
+-39.55,
+178.4
+],
+[
+-39.4,
+177.75
+],
+[
+-39.2,
+177.75
+]
+],
+[
+[
+-39.25,
+-177.3
+],
+[
+-39.9,
+-171.9
+],
+[
+-41.7,
+-172.2
+],
+[
+-41.0,
+-177.75
+],
+[
+-39.25,
+-177.3
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T07:00:00.000Z",
+"start": "2026-11-13T22:15:00.000Z"
+},
+{
+"end": "2026-11-15T07:00:00.000Z",
+"start": "2026-11-14T22:15:00.000Z"
+},
+{
+"end": "2026-11-16T07:00:00.000Z",
+"start": "2026-11-15T22:15:00.000Z"
+},
+{
+"end": "2026-11-17T07:00:00.000Z",
+"start": "2026-11-16T22:15:00.000Z"
+},
+{
+"end": "2026-11-18T07:00:00.000Z",
+"start": "2026-11-17T22:15:00.000Z"
+},
+{
+"end": "2026-11-19T07:00:00.000Z",
+"start": "2026-11-18T22:15:00.000Z"
+},
+{
+"end": "2026-11-20T07:00:00.000Z",
+"start": "2026-11-19T22:15:00.000Z"
+},
+{
+"end": "2026-11-21T07:00:00.000Z",
+"start": "2026-11-20T22:15:00.000Z"
+},
+{
+"end": "2026-11-22T07:00:00.000Z",
+"start": "2026-11-21T22:15:00.000Z"
+},
+{
+"end": "2026-11-23T07:00:00.000Z",
+"start": "2026-11-22T22:15:00.000Z"
+},
+{
+"end": "2026-11-24T07:00:00.000Z",
+"start": "2026-11-23T22:15:00.000Z"
+},
+{
+"end": "2026-11-25T07:00:00.000Z",
+"start": "2026-11-24T22:15:00.000Z"
+},
+{
+"end": "2026-11-26T07:00:00.000Z",
+"start": "2026-11-25T22:15:00.000Z"
+},
+{
+"end": "2026-11-27T07:00:00.000Z",
+"start": "2026-11-26T22:15:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3249/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-electron-the-mountain-god-rises-iqps-launch-10",
+"title": "The Mountain God Rises (iQPS Launch 10)"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3249/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203249%2F26",
+"raw": "082137Z NOV 26\nHYDROPAC 3249/26.\nSOUTH PACIFIC.\nNEW ZEALAND.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   2215Z TO 0700Z DAILY 13 THRU 26 NOV\n   IN AREAS BOUND BY:\n   A. 39-12.00S 177-45.00E, 39-12.00S 178-00.00E,\n      39-18.00S 178-30.00E, 39-33.00S 178-24.00E,\n      39-24.00S 177-45.00E.\n   B. 39-15.00S 177-18.00W, 39-54.00S 171-54.00W,\n      41-42.00S 172-12.00W, 41-00.00S 177-45.00W.\n2. CANCEL THIS MSG 260800Z NOV 26.\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3249&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-10-12T23:44:29.672Z"
 },
 {
 "areas": [
