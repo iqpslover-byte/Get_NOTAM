@@ -1,6 +1,6 @@
 {
-"count": 289,
-"generated_utc": "2026-11-09T12:10:50Z",
+"count": 291,
+"generated_utc": "2026-11-09T22:44:44Z",
 "notices": [
 {
 "areas": [
@@ -157,590 +157,6 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-10T06:51:43.862Z"
-},
-{
-"areas": [
-[
-[
-36.116667,
--123.766667
-],
-[
-36.25,
--123.666667
-],
-[
-36.066667,
--123.133333
-],
-[
-35.316667,
--122.633333
-],
-[
-35.216667,
--122.033333
-],
-[
-35.166667,
--120.983333
-],
-[
-34.95,
--120.65
-],
-[
-34.666667,
--120.566667
-],
-[
-34.15,
--120.916667
-],
-[
-34.166667,
--121.416667
-],
-[
-33.466667,
--121.283333
-],
-[
-33.416667,
--121.65
-],
-[
-34.283333,
--122.516667
-],
-[
-36.116667,
--123.766667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-13T17:00:00.000Z",
-"start": "2026-10-13T13:00:00.000Z"
-}
-],
-"height": null,
-"id": "lnm-55528",
-"kind": "LNM",
-"launches": [
-{
-"id": "other-stratolaunch-erebus",
-"title": "Erebus"
-}
-],
-"markers": [],
-"name": "55528",
-"page": "https://space-notices.com/notice/lnm-55528",
-"raw": "Hazardous operations will be conducted for Launch Operation, EREBUS operation areas are bounded by the following coordinates and times:\n\nHazard Area A:\n36.1166666667N, -123.7666666667W\n36.2500000000N, -123.6666666667W\n36.0666666667N, -123.1333333333W\n35.3166666667N, -122.6333333333W\n35.2166666667N, -122.0333333333W\n35.1666666667N, -120.9833333333W\n34.9500000000N, -120.6500000000W\n34.6666666667N, -120.5666666667W\n34.1500000000N, -120.9166666667W\n34.1666666667N, -121.4166666667W\n33.4666666667N, -121.2833333333W\n33.4166666667N, -121.6500000000W\n34.2833333333N, -122.5166666667W\n\nHazard Times:\n131300Z OCT TO 131700Z OCT 2026                           \n\nMariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Stratolaunch at RangeOps@stratolaunch.com, 661-584-2365, or on VHF-FM Chan. 06 or 16.",
-"reason": "Hazardous operations will be conducted for Launch Operation",
-"source": {
-"link": "https://www.navcen.uscg.gov/msi",
-"name": "US Coast Guard"
-},
-"updated": "2026-10-11T03:52:45.181Z"
-},
-{
-"areas": [
-[
-[
-36.116667,
--123.766667
-],
-[
-36.25,
--123.666667
-],
-[
-36.066667,
--123.133333
-],
-[
-35.316667,
--122.633333
-],
-[
-35.216667,
--122.033333
-],
-[
-35.166667,
--120.983333
-],
-[
-34.95,
--120.65
-],
-[
-34.666667,
--120.566667
-],
-[
-34.15,
--120.916667
-],
-[
-34.166667,
--121.416667
-],
-[
-33.466667,
--121.283333
-],
-[
-33.416667,
--121.65
-],
-[
-34.283333,
--122.516667
-],
-[
-36.116667,
--123.766667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-13T19:00:00.000Z",
-"start": "2026-10-13T13:00:00.000Z"
-}
-],
-"height": null,
-"id": "bnm-CGD-SW BNM 9126-26",
-"kind": "BNM",
-"launches": [
-{
-"id": "other-stratolaunch-erebus",
-"title": "Erebus"
-}
-],
-"markers": [],
-"name": "CGD-SW BNM 9126-26",
-"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209126-26",
-"raw": "Launch Hazard Area\nMission: EREBUS Launch Operations \nMessage Id: CGD-SW BNM 9126-26\n\n13/1300 OCT 26 to 13/1900 OCT 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
-"reason": "Launch Hazard Area - EREBUS Launch Operations",
-"source": {
-"link": "https://www.navcen.uscg.gov/chart",
-"name": "US Coast Guard"
-},
-"updated": "2026-10-08T22:36:44.423Z"
-},
-{
-"areas": [
-[
-[
-33.9167,
--121.8833
-],
-[
-33.9667,
--121.9667
-],
-[
-33.7667,
--122.6333
-],
-[
-33.7667,
--122.65
-],
-[
-33.7833,
--122.65
-],
-[
-34.1,
--122.85
-],
-[
-34.4167,
--123.0667
-],
-[
-35.2167,
--123.5833
-],
-[
-36.3167,
--124.3333
-],
-[
-36.35,
--124.3333
-],
-[
-36.35,
--124.3167
-],
-[
-36.8833,
--123.1667
-],
-[
-37.0,
--122.9333
-],
-[
-37.1,
--122.7167
-],
-[
-37.1,
--122.7
-],
-[
-36.1167,
--122.0333
-],
-[
-35.9833,
--121.9333
-],
-[
-35.6333,
--121.5167
-],
-[
-35.1167,
--120.9167
-],
-[
-34.95,
--120.7333
-],
-[
-34.9667,
--120.7333
-],
-[
-35.0,
--120.7167
-],
-[
-35.0167,
--120.7167
-],
-[
-35.0167,
--120.7
-],
-[
-34.9167,
--120.55
-],
-[
-34.9167,
--120.5333
-],
-[
-34.9,
--120.5333
-],
-[
-34.85,
--120.5167
-],
-[
-34.7667,
--120.4333
-],
-[
-34.75,
--120.4333
-],
-[
-34.7,
--120.4833
-],
-[
-34.65,
--120.5
-],
-[
-34.6167,
--120.4667
-],
-[
-34.6167,
--120.45
-],
-[
-34.5167,
--120.25
-],
-[
-34.4,
--120.25
-],
-[
-34.4,
--120.45
-],
-[
-34.3833,
--120.4833
-],
-[
-34.25,
--120.95
-],
-[
-34.2167,
--120.9167
-],
-[
-34.1833,
--120.9167
-],
-[
-34.1833,
--120.9333
-],
-[
-33.9167,
--121.8833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-13T19:00:00.000Z",
-"start": "2026-10-13T13:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLA-10/144-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "other-stratolaunch-erebus",
-"title": "Erebus"
-}
-],
-"markers": [],
-"name": "10/144",
-"page": "https://space-notices.com/notice/notam-ZLA-10%2F144-26",
-"raw": "!CARF 10/144 ZLA AIRSPACE DCC ALBATROSS 26-3 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 335500N1215300W TO 335800N1215800W TO 334600N1223800W TO 334600N1223900W TO 334700N1223900W TO 340600N1225100W TO 342500N1230400W TO 351300N1233500W TO 361900N1242000W TO 362100N1242000W TO 362100N1241900W TO 365300N1231000W TO 370000N1225600W TO 370600N1224300W TO 370600N1224200W TO 360700N1220200W TO 355900N1215600W TO 353800N1213100W TO 350700N1205500W TO 345700N1204400W TO 345800N1204400W TO 350000N1204300W TO 350100N1204300W TO 350100N1204200W TO 345500N1203300W TO 345500N1203200W TO 345400N1203200W TO 345100N1203100W TO 344600N1202600W TO 344500N1202600W TO 344200N1202900W TO 343900N1203000W TO 343700N1202800W TO 343700N1202700W TO 343100N1201500W TO 342400N1201500W TO 342400N1202700W TO 342300N1202900W TO 341500N1205700W TO 341300N1205500W TO 341100N1205500W TO 341100N1205600W TO POINT OF ORIGIN SFC-UNL 2610131300-2610131900",
-"reason": "ALBATROSS 26-3",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82706443",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-11T10:03:37.156Z"
-},
-{
-"areas": [
-[
-[
-33.9167,
--121.8833
-],
-[
-33.9667,
--121.9667
-],
-[
-33.7667,
--122.6333
-],
-[
-33.7667,
--122.65
-],
-[
-33.7833,
--122.65
-],
-[
-34.1,
--122.85
-],
-[
-34.4167,
--123.0667
-],
-[
-35.2167,
--123.5833
-],
-[
-36.3167,
--124.3333
-],
-[
-36.35,
--124.3333
-],
-[
-36.35,
--124.3167
-],
-[
-36.8833,
--123.1667
-],
-[
-37.0,
--122.9333
-],
-[
-37.1,
--122.7167
-],
-[
-37.1,
--122.7
-],
-[
-36.1167,
--122.0333
-],
-[
-35.9833,
--121.9333
-],
-[
-35.6333,
--121.5167
-],
-[
-35.1167,
--120.9167
-],
-[
-34.95,
--120.7333
-],
-[
-34.9667,
--120.7333
-],
-[
-35.0,
--120.7167
-],
-[
-35.0167,
--120.7167
-],
-[
-35.0167,
--120.7
-],
-[
-34.9167,
--120.55
-],
-[
-34.9167,
--120.5333
-],
-[
-34.9,
--120.5333
-],
-[
-34.85,
--120.5167
-],
-[
-34.7667,
--120.4333
-],
-[
-34.75,
--120.4333
-],
-[
-34.7,
--120.4833
-],
-[
-34.65,
--120.5
-],
-[
-34.6167,
--120.4667
-],
-[
-34.6167,
--120.45
-],
-[
-34.5167,
--120.25
-],
-[
-34.4,
--120.25
-],
-[
-34.4,
--120.45
-],
-[
-34.3833,
--120.4833
-],
-[
-34.25,
--120.95
-],
-[
-34.2167,
--120.9167
-],
-[
-34.1833,
--120.9167
-],
-[
-34.1833,
--120.9333
-],
-[
-33.9167,
--121.8833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-13T19:00:00.000Z",
-"start": "2026-10-13T13:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZOA-10/145-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "other-stratolaunch-erebus",
-"title": "Erebus"
-}
-],
-"markers": [],
-"name": "10/145",
-"page": "https://space-notices.com/notice/notam-ZOA-10%2F145-26",
-"raw": "!CARF 10/145 ZOA AIRSPACE DCC ALBATROSS 26-3 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 335500N1215300W TO 335800N1215800W TO 334600N1223800W TO 334600N1223900W TO 334700N1223900W TO 340600N1225100W TO 342500N1230400W TO 351300N1233500W TO 361900N1242000W TO 362100N1242000W TO 362100N1241900W TO 365300N1231000W TO 370000N1225600W TO 370600N1224300W TO 370600N1224200W TO 360700N1220200W TO 355900N1215600W TO 353800N1213100W TO 350700N1205500W TO 345700N1204400W TO 345800N1204400W TO 350000N1204300W TO 350100N1204300W TO 350100N1204200W TO 345500N1203300W TO 345500N1203200W TO 345400N1203200W TO 345100N1203100W TO 344600N1202600W TO 344500N1202600W TO 344200N1202900W TO 343900N1203000W TO 343700N1202800W TO 343700N1202700W TO 343100N1201500W TO 342400N1201500W TO 342400N1202700W TO 342300N1202900W TO 341500N1205700W TO 341300N1205500W TO 341100N1205500W TO 341100N1205600W TO POINT OF ORIGIN SFC-UNL 2610131300-2610131900",
-"reason": "ALBATROSS 26-3",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82706440",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-11T10:03:31.533Z"
 },
 {
 "areas": [],
@@ -983,535 +399,6 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-12T10:32:09.990Z"
-},
-{
-"areas": [
-[
-[
-36.116667,
--123.766667
-],
-[
-36.25,
--123.666667
-],
-[
-36.066667,
--123.133333
-],
-[
-35.316667,
--122.633333
-],
-[
-35.216667,
--122.033333
-],
-[
-35.166667,
--120.983333
-],
-[
-34.95,
--120.65
-],
-[
-34.666667,
--120.566667
-],
-[
-34.15,
--120.916667
-],
-[
-34.166667,
--121.416667
-],
-[
-33.466667,
--121.283333
-],
-[
-33.416667,
--121.65
-],
-[
-34.283333,
--122.516667
-],
-[
-36.116667,
--123.766667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-15T17:00:00.000Z",
-"start": "2026-10-15T13:00:00.000Z"
-}
-],
-"height": null,
-"id": "bnm-CGD-SW BNM 9130-26",
-"kind": "BNM",
-"launches": [
-{
-"id": "other-stratolaunch-erebus",
-"title": "Erebus"
-}
-],
-"markers": [],
-"name": "CGD-SW BNM 9130-26",
-"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209130-26",
-"raw": "Launch Hazard Area\nMission: Stratolaunch EREBUS Launch Operations \nMessage Id: CGD-SW BNM 9130-26\n\n15/1300 OCT 26 to 15/1700 OCT 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
-"reason": "Launch Hazard Area - Stratolaunch EREBUS Launch Operations",
-"source": {
-"link": "https://www.navcen.uscg.gov/chart",
-"name": "US Coast Guard"
-},
-"updated": "2026-10-14T20:32:42.300Z"
-},
-{
-"areas": [],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-13T19:00:00.000Z",
-"start": "2026-10-13T13:00:00.000Z"
-},
-{
-"end": "2026-10-15T19:00:00.000Z",
-"start": "2026-10-15T13:00:00.000Z"
-}
-],
-"height": null,
-"id": "infopage-cadenaois-advisory-2778",
-"kind": "INFOPAGE",
-"launches": [
-{
-"id": "other-stratolaunch-erebus",
-"title": "Erebus"
-}
-],
-"markers": [],
-"name": "Cadena OIS Advisory 2778",
-"page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2778",
-"raw": "Primary Launch Day\t13 OCT\t1300Z-1900Z\nBackup Launch Day\t15 OCT\t1300Z-1900Z\n",
-"reason": "Stratolaunch EREBUS",
-"source": {
-"link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
-"name": "Cadena OIS"
-},
-"updated": "2026-10-07T16:40:04.948Z"
-},
-{
-"areas": [
-[
-[
-33.9167,
--121.8833
-],
-[
-33.9667,
--121.9667
-],
-[
-33.7667,
--122.6333
-],
-[
-33.7667,
--122.65
-],
-[
-33.7833,
--122.65
-],
-[
-34.1,
--122.85
-],
-[
-34.4167,
--123.0667
-],
-[
-35.2167,
--123.5833
-],
-[
-36.3167,
--124.3333
-],
-[
-36.35,
--124.3333
-],
-[
-36.35,
--124.3167
-],
-[
-36.8833,
--123.1667
-],
-[
-37.0,
--122.9333
-],
-[
-37.1,
--122.7167
-],
-[
-37.1,
--122.7
-],
-[
-36.1167,
--122.0333
-],
-[
-35.9833,
--121.9333
-],
-[
-35.6333,
--121.5167
-],
-[
-35.1167,
--120.9167
-],
-[
-34.95,
--120.7333
-],
-[
-34.9667,
--120.7333
-],
-[
-35.0,
--120.7167
-],
-[
-35.0167,
--120.7167
-],
-[
-35.0167,
--120.7
-],
-[
-34.9167,
--120.55
-],
-[
-34.9167,
--120.5333
-],
-[
-34.9,
--120.5333
-],
-[
-34.85,
--120.5167
-],
-[
-34.7667,
--120.4333
-],
-[
-34.75,
--120.4333
-],
-[
-34.7,
--120.4833
-],
-[
-34.65,
--120.5
-],
-[
-34.6167,
--120.4667
-],
-[
-34.6167,
--120.45
-],
-[
-34.5167,
--120.25
-],
-[
-34.4,
--120.25
-],
-[
-34.4,
--120.45
-],
-[
-34.3833,
--120.4833
-],
-[
-34.25,
--120.95
-],
-[
-34.2167,
--120.9167
-],
-[
-34.1833,
--120.9167
-],
-[
-34.1833,
--120.9333
-],
-[
-33.9167,
--121.8833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-15T19:00:00.000Z",
-"start": "2026-10-15T13:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLA-10/164-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "other-stratolaunch-erebus",
-"title": "Erebus"
-}
-],
-"markers": [],
-"name": "10/164",
-"page": "https://space-notices.com/notice/notam-ZLA-10%2F164-26",
-"raw": "!CARF 10/164 ZLA AIRSPACE DCC ALBATROSS 26-3 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 335500N1215300W TO 335800N1215800W TO 334600N1223800W TO 334600N1223900W TO 334700N1223900W TO 340600N1225100W TO 342500N1230400W TO 351300N1233500W TO 361900N1242000W TO 362100N1242000W TO 362100N1241900W TO 365300N1231000W TO 370000N1225600W TO 370600N1224300W TO 370600N1224200W TO 360700N1220200W TO 355900N1215600W TO 353800N1213100W TO 350700N1205500W TO 345700N1204400W TO 345800N1204400W TO 350000N1204300W TO 350100N1204300W TO 350100N1204200W TO 345500N1203300W TO 345500N1203200W TO 345400N1203200W TO 345100N1203100W TO 344600N1202600W TO 344500N1202600W TO 344200N1202900W TO 343900N1203000W TO 343700N1202800W TO 343700N1202700W TO 343100N1201500W TO 342400N1201500W TO 342400N1202700W TO 342300N1202900W TO 341500N1205700W TO 341300N1205500W TO 341100N1205500W TO 341100N1205600W TO POINT OF ORIGIN SFC-UNL 2610151300-2610151900",
-"reason": "ALBATROSS 26-3",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82723974",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-13T12:37:43.048Z"
-},
-{
-"areas": [
-[
-[
-33.9167,
--121.8833
-],
-[
-33.9667,
--121.9667
-],
-[
-33.7667,
--122.6333
-],
-[
-33.7667,
--122.65
-],
-[
-33.7833,
--122.65
-],
-[
-34.1,
--122.85
-],
-[
-34.4167,
--123.0667
-],
-[
-35.2167,
--123.5833
-],
-[
-36.3167,
--124.3333
-],
-[
-36.35,
--124.3333
-],
-[
-36.35,
--124.3167
-],
-[
-36.8833,
--123.1667
-],
-[
-37.0,
--122.9333
-],
-[
-37.1,
--122.7167
-],
-[
-37.1,
--122.7
-],
-[
-36.1167,
--122.0333
-],
-[
-35.9833,
--121.9333
-],
-[
-35.6333,
--121.5167
-],
-[
-35.1167,
--120.9167
-],
-[
-34.95,
--120.7333
-],
-[
-34.9667,
--120.7333
-],
-[
-35.0,
--120.7167
-],
-[
-35.0167,
--120.7167
-],
-[
-35.0167,
--120.7
-],
-[
-34.9167,
--120.55
-],
-[
-34.9167,
--120.5333
-],
-[
-34.9,
--120.5333
-],
-[
-34.85,
--120.5167
-],
-[
-34.7667,
--120.4333
-],
-[
-34.75,
--120.4333
-],
-[
-34.7,
--120.4833
-],
-[
-34.65,
--120.5
-],
-[
-34.6167,
--120.4667
-],
-[
-34.6167,
--120.45
-],
-[
-34.5167,
--120.25
-],
-[
-34.4,
--120.25
-],
-[
-34.4,
--120.45
-],
-[
-34.3833,
--120.4833
-],
-[
-34.25,
--120.95
-],
-[
-34.2167,
--120.9167
-],
-[
-34.1833,
--120.9167
-],
-[
-34.1833,
--120.9333
-],
-[
-33.9167,
--121.8833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-15T19:00:00.000Z",
-"start": "2026-10-15T13:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZOA-10/163-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "other-stratolaunch-erebus",
-"title": "Erebus"
-}
-],
-"markers": [],
-"name": "10/163",
-"page": "https://space-notices.com/notice/notam-ZOA-10%2F163-26",
-"raw": "!CARF 10/163 ZOA AIRSPACE DCC ALBATROSS 26-3 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 335500N1215300W TO 335800N1215800W TO 334600N1223800W TO 334600N1223900W TO 334700N1223900W TO 340600N1225100W TO 342500N1230400W TO 351300N1233500W TO 361900N1242000W TO 362100N1242000W TO 362100N1241900W TO 365300N1231000W TO 370000N1225600W TO 370600N1224300W TO 370600N1224200W TO 360700N1220200W TO 355900N1215600W TO 353800N1213100W TO 350700N1205500W TO 345700N1204400W TO 345800N1204400W TO 350000N1204300W TO 350100N1204300W TO 350100N1204200W TO 345500N1203300W TO 345500N1203200W TO 345400N1203200W TO 345100N1203100W TO 344600N1202600W TO 344500N1202600W TO 344200N1202900W TO 343900N1203000W TO 343700N1202800W TO 343700N1202700W TO 343100N1201500W TO 342400N1201500W TO 342400N1202700W TO 342300N1202900W TO 341500N1205700W TO 341300N1205500W TO 341100N1205500W TO 341100N1205600W TO POINT OF ORIGIN SFC-UNL 2610151300-2610151900",
-"reason": "ALBATROSS 26-3",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82723976",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-13T10:04:29.995Z"
 },
 {
 "areas": [
@@ -2410,169 +1297,6 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-24T09:57:35.432Z"
-},
-{
-"areas": [
-[
-[
-33.9167,
--121.8833
-],
-[
-33.95,
--121.9667
-],
-[
-33.7667,
--122.6333
-],
-[
-36.35,
--124.3333
-],
-[
-37.1,
--122.7
-],
-[
-35.9833,
--121.9333
-],
-[
-34.9667,
--120.7333
-],
-[
-35.0167,
--120.7833
-],
-[
-34.9167,
--120.6667
-],
-[
-34.7833,
--120.5333
-],
-[
-34.65,
--120.5167
-],
-[
-34.2167,
--120.9167
-],
-[
-33.9167,
--121.8833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-26T17:00:00.000Z",
-"start": "2026-10-26T13:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLA-10/295-26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "other-stratolaunch-erebus",
-"title": "Erebus"
-}
-],
-"markers": [],
-"name": "10/295",
-"page": "https://space-notices.com/notice/notam-ZLA-10%2F295-26",
-"raw": "!CARF 10/295 ZLA AIRSPACE DCC ALBATROSS 26-4 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 335500N1215300W TO 335700N1215800W TO 334600N1223800W TO 362100N1242000W TO 370600N1224200W TO 355900N1215600W TO 345800N1204400W TO 350100N1204700W TO 345500N1204000W TO 344700N1203200W TO 343900N1203100W TO 341300N1205500W TO POINT OF ORIGIN SFC-UNL 2610261300-2610261700",
-"reason": "ALBATROSS 26-4",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82852792",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-25T12:03:19.036Z"
-},
-{
-"areas": [
-[
-[
-33.9167,
--121.8833
-],
-[
-33.95,
--121.9667
-],
-[
-33.7667,
--122.6333
-],
-[
-36.35,
--124.3333
-],
-[
-37.1,
--122.7
-],
-[
-35.9833,
--121.9333
-],
-[
-34.9667,
--120.7333
-],
-[
-35.0167,
--120.7833
-],
-[
-34.9167,
--120.6667
-],
-[
-34.7833,
--120.5333
-],
-[
-34.65,
--120.5167
-],
-[
-34.2167,
--120.9167
-],
-[
-33.9167,
--121.8833
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-26T17:00:00.000Z",
-"start": "2026-10-26T13:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZOA-10/294-26",
-"kind": "NOTAM",
-"launches": [],
-"markers": [],
-"name": "10/294",
-"page": "https://space-notices.com/notice/notam-ZOA-10%2F294-26",
-"raw": "!CARF 10/294 ZOA AIRSPACE DCC ALBATROSS 26-4 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 335500N1215300W TO 335700N1215800W TO 334600N1223800W TO 362100N1242000W TO 370600N1224200W TO 355900N1215600W TO 345800N1204400W TO 350100N1204700W TO 345500N1204000W TO 344700N1203200W TO 343900N1203100W TO 341300N1205500W TO POINT OF ORIGIN SFC-UNL 2610261300-2610261700",
-"reason": "ALBATROSS 26-4",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82852793",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-24T09:57:30.935Z"
 },
 {
 "areas": [
@@ -4800,39 +3524,6 @@
 "updated": "2026-10-26T19:28:29.467Z"
 },
 {
-"areas": [],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-26T17:00:00.000Z",
-"start": "2026-10-26T13:00:00.000Z"
-},
-{
-"end": "2026-11-02T18:00:00.000Z",
-"start": "2026-11-02T14:00:00.000Z"
-}
-],
-"height": null,
-"id": "infopage-faa-operations-advisory-stratolaunch-erebus",
-"kind": "INFOPAGE",
-"launches": [
-{
-"id": "other-stratolaunch-erebus",
-"title": "Erebus"
-}
-],
-"markers": [],
-"name": "FAA Operations Advisory",
-"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-stratolaunch-erebus",
-"raw": "STRATOLAUNCH EREBUS, MOJAVE AIR AND SPACEPORT, CA\nPRIMARY:\t10/26/26\t1300Z-1700Z\nBACKUP:\t\t11/02/26\t1400Z-1800Z",
-"reason": "STRATOLAUNCH EREBUS, MOJAVE AIR AND SPACEPORT, CA",
-"source": {
-"link": "https://www.fly.faa.gov/adv/adv_spt",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-21T19:32:43.367Z"
-},
-{
 "areas": [
 [
 [
@@ -4991,102 +3682,6 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-30T05:40:53.296Z"
-},
-{
-"areas": [
-[
-[
-36.116667,
--123.766667
-],
-[
-36.25,
--123.666667
-],
-[
-36.066667,
--123.133333
-],
-[
-35.316667,
--122.633333
-],
-[
-35.216667,
--122.033333
-],
-[
-35.166667,
--120.983333
-],
-[
-34.95,
--120.65
-],
-[
-34.666667,
--120.566667
-],
-[
-34.15,
--120.916667
-],
-[
-34.166667,
--121.416667
-],
-[
-33.466667,
--121.283333
-],
-[
-33.416667,
--121.65
-],
-[
-34.283333,
--122.516667
-],
-[
-36.116667,
--123.766667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-26T19:00:00.000Z",
-"start": "2026-10-26T13:00:00.000Z"
-},
-{
-"end": "2026-11-02T19:00:00.000Z",
-"start": "2026-11-02T13:00:00.000Z"
-},
-{
-"end": "2026-10-03T19:00:00.000Z",
-"start": "2026-11-03T13:00:00.000Z"
-}
-],
-"height": null,
-"id": "bnm-CGD-SW BNM 9000-26",
-"kind": "BNM",
-"launches": [
-{
-"id": "other-stratolaunch-erebus",
-"title": "Erebus"
-}
-],
-"markers": [],
-"name": "CGD-SW BNM 9000-26",
-"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209000-26",
-"raw": "Launch Hazard Area\nMission:  \nMessage Id: CGD-SW BNM 9000-26\n\n26/1300 OCT 26 to 26/1900 OCT 26. \n02/1300 NOV 26 to 02/1900 NOV 26. \n03/1300 NOV 26 to 03/1900 OCT 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
-"reason": "Launch Hazard Area - ",
-"source": {
-"link": "https://www.navcen.uscg.gov/chart",
-"name": "US Coast Guard"
-},
-"updated": "2026-10-21T22:48:07.980Z"
 },
 {
 "areas": [
@@ -6310,235 +4905,6 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-30T05:49:45.311Z"
-},
-{
-"areas": [
-[
-[
-36.116667,
--123.766667
-],
-[
-36.25,
--123.666667
-],
-[
-36.066667,
--123.133333
-],
-[
-35.316667,
--122.633333
-],
-[
-35.216667,
--122.033333
-],
-[
-35.166667,
--120.983333
-],
-[
-34.95,
--120.65
-],
-[
-34.666667,
--120.566667
-],
-[
-34.15,
--120.916667
-],
-[
-34.166667,
--121.416667
-],
-[
-33.466667,
--121.283333
-],
-[
-33.416667,
--121.65
-],
-[
-34.283333,
--122.516667
-],
-[
-36.116667,
--123.766667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-26T19:00:00.000Z",
-"start": "2026-10-26T13:00:00.000Z"
-},
-{
-"end": "2026-11-02T19:00:00.000Z",
-"start": "2026-11-02T13:00:00.000Z"
-},
-{
-"end": "2026-11-03T19:00:00.000Z",
-"start": "2026-11-03T13:00:00.000Z"
-}
-],
-"height": null,
-"id": "bnm-CGD-SW BNM 9131-26",
-"kind": "BNM",
-"launches": [
-{
-"id": "other-stratolaunch-erebus",
-"title": "Erebus"
-}
-],
-"markers": [],
-"name": "CGD-SW BNM 9131-26",
-"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209131-26",
-"raw": "Launch Hazard Area\nMission: Stratolaunch EREBUS Launch Operations \nMessage Id: CGD-SW BNM 9131-26\n\n26/1300 OCT 26 to 26/1900 OCT 26. \n02/1300 NOV 26 to 02/1900 NOV 26. \n03/1300 NOV 26 to 03/1900 NOV 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
-"reason": "Launch Hazard Area - Stratolaunch EREBUS Launch Operations",
-"source": {
-"link": "https://www.navcen.uscg.gov/chart",
-"name": "US Coast Guard"
-},
-"updated": "2026-10-21T22:46:29.109Z"
-},
-{
-"areas": [
-[
-[
-36.116667,
--123.766667
-],
-[
-36.25,
--123.666667
-],
-[
-36.066667,
--123.133333
-],
-[
-35.316667,
--122.633333
-],
-[
-35.216667,
--122.033333
-],
-[
-35.166667,
--120.983333
-],
-[
-34.95,
--120.65
-],
-[
-34.666667,
--120.566667
-],
-[
-34.15,
--120.916667
-],
-[
-34.166667,
--121.416667
-],
-[
-33.466667,
--121.283333
-],
-[
-33.416667,
--121.65
-],
-[
-34.283333,
--122.516667
-],
-[
-36.116667,
--123.766667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-26T19:00:00.000Z",
-"start": "2026-10-26T13:00:00.000Z"
-},
-{
-"end": "2026-11-02T19:00:00.000Z",
-"start": "2026-11-02T13:00:00.000Z"
-},
-{
-"end": "2026-11-03T19:00:00.000Z",
-"start": "2026-11-03T13:00:00.000Z"
-}
-],
-"height": null,
-"id": "lnm-56268",
-"kind": "LNM",
-"launches": [
-{
-"id": "other-stratolaunch-erebus",
-"title": "Erebus"
-}
-],
-"markers": [],
-"name": "56268",
-"page": "https://space-notices.com/notice/lnm-56268",
-"raw": "Hazardous operations will be conducted for Launch Operation, EREBUS operation areas are bounded by the following coordinates and times:\n\nHazard Area A:\n36.1166666667N, -123.7666666667W\n36.2500000000N, -123.6666666667W\n36.0666666667N, -123.1333333333W\n35.3166666667N, -122.6333333333W\n35.2166666667N, -122.0333333333W\n35.1666666667N, -120.9833333333W\n34.9500000000N, -120.6500000000W\n34.6666666667N, -120.5666666667W\n34.1500000000N, -120.9166666667W\n34.1666666667N, -121.4166666667W\n33.4666666667N, -121.2833333333W\n33.4166666667N, -121.6500000000W\n34.2833333333N, -122.5166666667W\n\nHazard Period:\n261300Z OCT TO 261900Z OCT 2026\n021300Z NOV TO 021900Z NOV 2026\n031300Z NOV TO 031900Z NOV 2026                   \n\nMariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Stratolaunch at RangeOps@stratolaunch.com, 661-584-2365, or on VHF-FM Chan. 06 or 16.",
-"reason": "Hazardous operations will be conducted for Launch Operation by Stratolaunch",
-"source": {
-"link": "https://www.navcen.uscg.gov/msi",
-"name": "US Coast Guard"
-},
-"updated": "2026-10-21T22:45:46.924Z"
-},
-{
-"areas": [],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-26T19:00:00.000Z",
-"start": "2026-10-26T13:00:00.000Z"
-},
-{
-"end": "2026-11-02T20:00:00.000Z",
-"start": "2026-11-02T13:00:00.000Z"
-},
-{
-"end": "2026-11-03T20:00:00.000Z",
-"start": "2026-11-03T13:00:00.000Z"
-}
-],
-"height": null,
-"id": "infopage-cadenaois-advisory-2835",
-"kind": "INFOPAGE",
-"launches": [
-{
-"id": "other-stratolaunch-erebus",
-"title": "Erebus"
-}
-],
-"markers": [],
-"name": "Cadena OIS Advisory 2835",
-"page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2835",
-"raw": "Primary Launch Day\t26 OCT\t\t1300Z-1900Z\nBackup Launch Day\t02 NOV\t\t1300Z-2000Z\nBackup Launch Day\t03 NOV\t\t1300Z-2000Z\n",
-"reason": "Stratolaunch EREBUS",
-"source": {
-"link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
-"name": "Cadena OIS"
-},
-"updated": "2026-10-25T12:40:05.801Z"
 },
 {
 "areas": [
@@ -9896,35 +8262,6 @@
 "updated": "2026-11-08T09:11:05.232Z"
 },
 {
-"areas": [],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-11-09T20:00:00.000Z",
-"start": "2026-11-09T16:00:00.000Z"
-}
-],
-"height": null,
-"id": "starbase-road-delay-02579357-11ba-4d11-bb90-e3afe93db0f6",
-"kind": "ROAD_DELAY",
-"launches": [
-{
-"id": "collection-starbase-tx-construction-testing",
-"title": "Starbase, Tx"
-}
-],
-"markers": [],
-"name": "Nov 09 Production -> Pad",
-"page": "https://space-notices.com/notice/starbase-road-delay-02579357-11ba-4d11-bb90-e3afe93db0f6",
-"raw": "Description: Production to Pad\nDate: November 9 10:00 AM to November 9 2:00 PM",
-"reason": "Production to Pad",
-"source": {
-"link": "https://www.starbase.texas.gov/beach-road-access",
-"name": "City of Starbase"
-},
-"updated": "2026-11-09T01:42:31.789Z"
-},
-{
 "areas": [
 [
 [
@@ -9991,6 +8328,35 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-31T14:29:27.091Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-10T00:00:00.000Z",
+"start": "2026-11-09T20:00:00.000Z"
+}
+],
+"height": null,
+"id": "starbase-road-delay-02579357-11ba-4d11-bb90-e3afe93db0f6",
+"kind": "ROAD_DELAY",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [],
+"name": "Nov 09 Production -> Pad",
+"page": "https://space-notices.com/notice/starbase-road-delay-02579357-11ba-4d11-bb90-e3afe93db0f6",
+"raw": "Description: Production to Pad\nDate: November 9 2:00 PM to November 9 6:00 PM",
+"reason": "Production to Pad",
+"source": {
+"link": "https://www.starbase.texas.gov/beach-road-access",
+"name": "City of Starbase"
+},
+"updated": "2026-11-09T17:00:31.472Z"
 },
 {
 "areas": [
@@ -11769,6 +10135,134 @@
 "areas": [
 [
 [
+32.7167,
+-119.5167
+],
+[
+32.75,
+-119.4667
+],
+[
+33.2167,
+-119.65
+],
+[
+34.1167,
+-120.1167
+],
+[
+34.5667,
+-120.3833
+],
+[
+34.6667,
+-120.5
+],
+[
+34.65,
+-120.6333
+],
+[
+34.5333,
+-120.6333
+],
+[
+34.3333,
+-120.5333
+],
+[
+32.9,
+-119.7
+],
+[
+32.7167,
+-119.5167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-12T06:57:00.000Z",
+"start": "2026-11-12T02:35:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-11/080-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-627",
+"title": "USSF-627"
+}
+],
+"markers": [],
+"name": "11/080",
+"page": "https://space-notices.com/notice/notam-ZLA-11%2F080-26",
+"raw": "!CARF 11/080 ZLA AIRSPACE DCC SX R-5 26-72 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 324300N1193100W TO 324500N1192800W TO 331300N1193900W TO 340700N1200700W TO 343400N1202300W TO 344000N1203000W TO 343900N1203800W TO 343200N1203800W TO 342000N1203200W TO 325400N1194200W TO POINT OF ORIGIN SFC-UNL 2611120235-2611120657",
+"reason": "SX R-5 26-72",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83036231",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-09T12:29:44.668Z"
+},
+{
+"areas": [
+[
+[
+32.45,
+-119.3833
+],
+[
+32.5,
+-119.3167
+],
+[
+31.7333,
+-118.8333
+],
+[
+31.6333,
+-119.05
+],
+[
+32.45,
+-119.3833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-12T06:59:00.000Z",
+"start": "2026-11-12T02:35:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-11/081-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-627",
+"title": "USSF-627"
+}
+],
+"markers": [],
+"name": "11/081",
+"page": "https://space-notices.com/notice/notam-ZLA-11%2F081-26",
+"raw": "!CARF 11/081 ZLA AIRSPACE DCC SX R-5 26-72 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 322700N1192300W TO 323000N1191900W TO 314400N1185000W TO 313800N1190300W TO POINT OF ORIGIN SFC-UNL 2611120235-2611120659",
+"reason": "SX R-5 26-72",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83036257",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-09T12:29:44.668Z"
+},
+{
+"areas": [
+[
+[
 -30.0,
 -121.8833
 ],
@@ -12019,7 +10513,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3259&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-11-09T10:23:25.184Z"
+"updated": "2026-11-09T11:33:25.037Z"
 },
 {
 "areas": [
@@ -12771,7 +11265,36 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83027123",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-09T10:23:25.184Z"
+"updated": "2026-11-09T11:33:54.862Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-13T09:34:00.000Z",
+"start": "2026-11-13T04:51:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RJJJ-Q2688/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "Q2688/26",
+"page": "https://space-notices.com/notice/notam-RJJJ-Q2688%2F26",
+"raw": "Q2688/26 NOTAMN\r\nQ)RJJJ/QARCH/IV/BO/E/000/999/3310N14118E999\r\nA)RJJJ B)2611130451 C)2611130934\r\nE)ALTN RTE ARE ESTABLISHED DUE TO AN AEROSPACE FLIGHT ACTIVITY.\r\n\r\n1.FLT PLANNED RTE IS REQ TO BE FILED AS FLW\r\n (1)A1(BTN JEDAI AND RUSAR) 0451-0922 UTC\r\n    ALTN RTE: KOSHI - 3005N12901E - SAPET\r\n (2)A339(BTN SABGU AND KEITH) 0533-0934 UTC\r\n    ALTN RTE: (FOR RNP10 AIRCRAFT)\r\n                TAXON - 2320N13620E - 2100N13600E OR\r\n                SABGU - 2320N13620E - 2100N13600E OR\r\n                SABGU - G339 - PAKDO\r\n              (FOR NON RNP10 AIRCRAFT)\r\n                TAXON - 2245N13640E - 2100N13630E OR\r\n                SABGU - 2245N13640E - 2100N13630E OR\r\n                SABGU - G339 - PAKDO\r\n (3)R595/R584(BTN SALVA AND KEITH) 0533-0934 UTC\r\n    ALTN RTE: (FOR NON RNP10 AIRCRAFT)\r\n                SALVA - 2100N13330E\r\n (4)Y50(BTN JEDAI AND RUSAR) 0451-0922 UTC\r\n    ALTN RTE: KOSHI - 3005N12901E - SAPET\r\n (5)M750(BTN MELEN AND INVAM) 0451-0922 UTC\r\n    ALTN RTE: MUMBA - 3000N12906E - MOMPA\r\n\r\n2.SEE NOTAM RJAAYNYX P5642/26\r\nF)SFC G)UNL",
+"reason": "ALTN RTE ARE ESTABLISHED DUE TO AN AEROSPACE FLIGHT ACTIVITY.",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83029516",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-09T12:41:22.289Z"
 },
 {
 "areas": [],
@@ -12805,6 +11328,39 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-07T20:24:43.404Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T00:40:00.000Z",
+"start": "2026-11-13T22:45:00.000Z"
+},
+{
+"end": "2026-11-15T00:40:00.000Z",
+"start": "2026-11-14T22:45:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-spacex-starship-flight-15",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starship-flight-15",
+"raw": "SPACEX STARSHIP FLT-15, STARBASE, TX\nPRIMARY:\t11/13/26\t2245Z-0040Z\nBACKUP:\t\t11/14/26\t2245Z-0040Z",
+"reason": "SPACEX STARSHIP FLT-15, STARBASE, TX",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-09T14:30:36.084Z"
 },
 {
 "areas": [
@@ -12941,6 +11497,142 @@
 "name": "US National Geospatial-Intelligence Agency"
 },
 "updated": "2026-11-09T10:23:41.418Z"
+},
+{
+"areas": [
+[
+[
+9.15,
+153.7667
+],
+[
+10.8,
+156.3
+],
+[
+14.0667,
+162.0667
+],
+[
+16.1167,
+165.5833
+],
+[
+20.6333,
+174.5167
+],
+[
+22.7167,
+179.25
+],
+[
+24.85,
+-176.2167
+],
+[
+25.8833,
+-173.3333
+],
+[
+26.0667,
+-171.0333
+],
+[
+28.5167,
+-161.2333
+],
+[
+30.55,
+-150.2667
+],
+[
+29.3833,
+-150.25
+],
+[
+26.0167,
+-153.8167
+],
+[
+24.7667,
+-154.9
+],
+[
+25.4,
+-157.7667
+],
+[
+24.9,
+-161.7
+],
+[
+23.1833,
+-168.5333
+],
+[
+22.1333,
+-173.1333
+],
+[
+20.2,
+-179.1167
+],
+[
+19.35,
+178.35
+],
+[
+18.2167,
+174.9667
+],
+[
+17.0333,
+170.2833
+],
+[
+15.1833,
+165.9333
+],
+[
+11.9167,
+159.4333
+],
+[
+8.8,
+154.1
+],
+[
+9.15,
+153.7667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-15T01:44:00.000Z",
+"start": "2026-11-14T22:17:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA XII 787/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "NAVAREA XII 787/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20787%2F26",
+"raw": "090840Z NOV 26\nNAVAREA XII 787/26.\nNORTH PACIFIC.\nHAWAII.\nFEDERATED STATES OF MICRONESIA.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   2217Z TO 0144Z DAILY 14 THR 20 NOV\n   IN AREA BOUND BY\n   09-09.00N 153-46.00E, 10-48.00N 156-18.00E,\n   14-04.00N 162-04.00E, 16-07.00N 165-35.00E,\n   20-38.00N 174-31.00E, 22-43.00N 179-15.00E,\n   24-51.00N 176-13.00W, 25-53.00N 173-20.00W,\n   26-04.00N 171-02.00W, 28-31.00N 161-14.00W,\n   30-33.00N 150-16.00W, 29-23.00N 150-15.00W,\n   26-01.00N 153-49.00W, 24-46.00N 154-54.00W,\n   25-24.00N 157-46.00W, 24-54.00N 161-42.00W,\n   23-11.00N 168-32.00W, 22-08.00N 173-08.00W,\n   20-12.00N 179-07.00W, 19-21.00N 178-21.00E,\n   18-13.00N 174-58.00E, 17-02.00N 170-17.00E,\n   15-11.00N 165-56.00E, 11-55.00N 159-26.00E,\n   08-48.00N 154-06.00E.\n2. CANCEL THIS MSG 210244Z NOV 26.",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=787&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-11-09T16:22:36.921Z"
 },
 {
 "areas": [
@@ -13739,6 +12431,39 @@
 "updated": "2026-10-30T19:25:35.529Z"
 },
 {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-15T00:14:00.000Z",
+"start": "2026-11-14T20:56:00.000Z"
+},
+{
+"end": "2026-11-16T00:14:00.000Z",
+"start": "2026-11-15T20:56:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-spacex-starship-flight-15-reentry",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starship-flight-15-reentry",
+"raw": "SPACEX STARSHIP FLT-15   - REENTRY   \nPRIMARY:\t11/14/26\t2056Z-0014Z\nBACKUP:\t\t11/15/26\t2056Z-0014Z",
+"reason": "SPACEX STARSHIP FLT-15   - REENTRY   ",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-09T14:30:37.164Z"
+},
+{
 "areas": [
 [
 [
@@ -14081,6 +12806,290 @@
 "name": "US National Geospatial-Intelligence Agency"
 },
 "updated": "2026-10-29T19:12:56.609Z"
+},
+{
+"areas": [
+[
+[
+32.0833,
+-119.1333
+],
+[
+32.5,
+-119.3
+],
+[
+33.25,
+-119.6333
+],
+[
+34.2,
+-120.1
+],
+[
+34.5167,
+-120.3
+],
+[
+34.6667,
+-120.6333
+],
+[
+34.6,
+-120.65
+],
+[
+34.45,
+-120.6167
+],
+[
+34.3167,
+-120.5667
+],
+[
+32.0833,
+-119.15
+],
+[
+32.0833,
+-119.1333
+]
+],
+[
+[
+30.7667,
+-118.25
+],
+[
+31.3833,
+-118.7833
+],
+[
+30.4333,
+-118.5167
+],
+[
+29.5833,
+-118.2
+],
+[
+29.8667,
+-117.9
+],
+[
+29.8,
+-117.65
+],
+[
+30.7667,
+-118.25
+]
+],
+[
+[
+29.0333,
+-117.9833
+],
+[
+29.25,
+-118.0333
+],
+[
+29.4,
+-118.1333
+],
+[
+29.5833,
+-118.2
+],
+[
+29.8667,
+-117.9
+],
+[
+29.8,
+-117.65
+],
+[
+29.6,
+-117.2667
+],
+[
+28.8333,
+-117.3167
+],
+[
+28.25,
+-117.3167
+],
+[
+28.2667,
+-117.35
+],
+[
+28.8333,
+-117.8167
+],
+[
+29.0333,
+-117.9833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-13T08:47:00.000Z",
+"start": "2026-11-13T04:23:00.000Z"
+},
+{
+"end": "2026-11-14T08:33:00.000Z",
+"start": "2026-11-14T04:09:00.000Z"
+},
+{
+"end": "2026-11-15T08:19:00.000Z",
+"start": "2026-11-15T03:55:00.000Z"
+},
+{
+"end": "2026-11-16T08:05:00.000Z",
+"start": "2026-11-16T03:41:00.000Z"
+},
+{
+"end": "2026-11-17T07:52:00.000Z",
+"start": "2026-11-17T03:28:00.000Z"
+},
+{
+"end": "2026-11-18T07:38:00.000Z",
+"start": "2026-11-18T03:14:00.000Z"
+},
+{
+"end": "2026-11-19T07:24:00.000Z",
+"start": "2026-11-19T03:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA XII 785/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-f9-ussf-317",
+"title": "USSF-317"
+}
+],
+"markers": [],
+"name": "NAVAREA XII 785/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20785%2F26",
+"raw": "062355Z NOV 26\nNAVAREA XII 785/26\nNORTH PACIFIC.\nCALIFORNIA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING\n   A. 130423Z TO 130846Z NOV, ALTERNATE\n      140409Z TO 140832Z, 150355Z TO 150818Z,\n      160341Z TO 160804Z, 170328Z TO 170751Z,\n      180314Z TO 180737Z, AND 190300Z TO 190723Z NOV\n      IN AREA BOUND BY:\n      32-05.00N 119-08.00W, 32-30.00N 119-18.00W,\n      33-15.00N 119-38.00W, 34-12.00N 120-06.00W,\n      34-31.00N 120-18.00W, 34-40.00N 120-38.00W,\n      34-36.00N 120-39.00W, 34-27.00N 120-37.00W,\n      34-19.00N 120-34.00W, 32-05.00N 119-09.00W.\n   B. 130423Z TO 130847Z NOV, ALTERNATE\n      140409Z TO 140833Z, 150355Z TO 150819Z,\n      160341Z TO 160805Z, 170328Z TO 170752Z,\n      180314Z TO 180738Z AND 190300Z TO 190724Z NOV\n      IN AREA BOUND BY\n      30-46.00N 118-15.00W, 31-23.00N 118-47.00W,\n      30-26.00N 118-31.00W, 29-35.00N 118-12.00W,\n      29-52.00N 117-54.00W, 29-48.00N 117-39.00W.\n   C. 130423Z TO 130906Z NOV, ALTERNATE\n      140409Z TO 140852Z, 150355Z TO 150838Z,\n      160341Z TO 160824Z, 170328Z TO 170811Z,\n      180314Z TO 180757Z AND 190300Z TO 190743Z NOV\n      IN AREA BOUND BY\n      29-02.00N 117-59.00W, 29-15.00N 118-02.00W,\n      29-24.00N 118-08.00W, 29-35.00N 118-12.00W,\n      29-52.00N 117-54.00W, 29-48.00N 117-39.00W,\n      29-36.00N 117-16.00W, 28-50.00N 117-19.00W,\n      28-15.00N 117-19.00W, 28-16.00N 117-21.00W,\n      28-50.00N 117-49.00W.\n2. CANCEL THIS MSG 190843Z NOV 26.//",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=785&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-11-09T16:22:14.336Z"
+},
+{
+"areas": [
+[
+[
+31.6333,
+-119.05
+],
+[
+31.7333,
+-118.8333
+],
+[
+29.8,
+-117.65
+],
+[
+29.6,
+-117.2667
+],
+[
+28.8333,
+-117.3167
+],
+[
+28.25,
+-117.3167
+],
+[
+28.2333,
+-117.3333
+],
+[
+28.8333,
+-117.8167
+],
+[
+29.0333,
+-117.9833
+],
+[
+29.25,
+-118.0333
+],
+[
+29.4,
+-118.1333
+],
+[
+31.6333,
+-119.05
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-13T09:06:00.000Z",
+"start": "2026-11-13T04:23:00.000Z"
+},
+{
+"end": "2026-11-14T08:52:00.000Z",
+"start": "2026-11-14T04:09:00.000Z"
+},
+{
+"end": "2026-11-15T08:38:00.000Z",
+"start": "2026-11-15T03:55:00.000Z"
+},
+{
+"end": "2026-11-16T08:24:00.000Z",
+"start": "2026-11-16T03:41:00.000Z"
+},
+{
+"end": "2026-11-17T08:11:00.000Z",
+"start": "2026-11-17T03:28:00.000Z"
+},
+{
+"end": "2026-11-18T07:57:00.000Z",
+"start": "2026-11-18T03:14:00.000Z"
+},
+{
+"end": "2026-11-19T07:43:00.000Z",
+"start": "2026-11-19T03:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MMFR-B4162/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-317",
+"title": "USSF-317"
+}
+],
+"markers": [],
+"name": "B4162/26",
+"page": "https://space-notices.com/notice/notam-MMFR-B4162%2F26",
+"raw": "B4162/26 NOTAMN\r\r\nQ) MMFR/QRDCA/IV/BO/W/000/999/\r\r\nA) MMFR\r\r\nB) 2611130423\r\r\nC) 2611190743\r\r\nD) 13 0423-0906, 14 0409-0852, 15 0355-0838, 16 0341-0824, 17 0328-0811,\r\r\n   18 0314-0757, 19 0300-0743\r\r\nE) DANGEROUS AREA FOR REENTRY OF ROCKET USSF317 STAGE 1 \r\r\n   LATERAL LIMIT AREA FORMED BY THE UNION OF THE FLW POINTS:\r\r\n   3138N 11903W 3144N 11850W - 2948N 11739W - 2936N 11716W 2850N 11719W\r\r\n   - 2815N 11719W - 2814N 11720W - 2850N 11749W - 2902N 11759W - 2915N\r\r\n   11802W -2924N 11808W- 2935N 11812 - 3138N-11903W\r\r\n   MMFR\r\r\nF) SFC\r\r\nG) UNL",
+"reason": "DANGEROUS AREA FOR REENTRY OF ROCKET USSF317 STAGE 1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83035322",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-09T16:22:21.616Z"
 },
 {
 "areas": [
@@ -14605,6 +13614,59 @@
 "name": "US Coast Guard"
 },
 "updated": "2026-11-08T15:20:25.471Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-13T19:00:00.000Z",
+"start": "2026-11-13T17:54:00.000Z"
+},
+{
+"end": "2026-11-14T18:39:00.000Z",
+"start": "2026-11-14T17:32:00.000Z"
+},
+{
+"end": "2026-11-15T18:18:00.000Z",
+"start": "2026-11-15T17:11:00.000Z"
+},
+{
+"end": "2026-11-16T17:56:00.000Z",
+"start": "2026-11-16T16:50:00.000Z"
+},
+{
+"end": "2026-11-17T17:35:00.000Z",
+"start": "2026-11-17T16:28:00.000Z"
+},
+{
+"end": "2026-11-18T17:14:00.000Z",
+"start": "2026-11-18T16:07:00.000Z"
+},
+{
+"end": "2026-11-19T16:52:00.000Z",
+"start": "2026-11-19T15:46:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-cadenaois-advisory-2861",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "Cadena OIS Advisory 2861",
+"page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2861",
+"raw": "Primary Launch Day\t13 NOV\t1754Z-1900Z\nBackup Launch Day \t14 NOV\t1732Z-1839Z\nBackup Launch Day \t15 NOV\t1711Z-1818Z\nBackup Launch Day \t16 NOV\t1650Z-1756Z\nBackup Launch Day \t17 NOV\t1628Z-1735Z\nBackup Launch Day \t18 NOV\t1607Z-1714Z\nBackup Launch Day \t19 NOV\t1546Z-1652Z\n",
+"reason": "ULA KV-01",
+"source": {
+"link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
+"name": "Cadena OIS"
+},
+"updated": "2026-11-08T09:01:20.806Z"
 },
 {
 "areas": [
@@ -15162,6 +14224,380 @@
 "areas": [
 [
 [
+26.06666,
+-96.81666
+],
+[
+26.06666,
+-97.06666
+],
+[
+26.06666,
+-97.16666
+],
+[
+26.03333,
+-97.21666
+],
+[
+25.96666,
+-97.21666
+],
+[
+25.8,
+-97.08333
+],
+[
+25.68333,
+-96.78333
+],
+[
+25.03333,
+-95.08333
+],
+[
+24.48333,
+-94.13333
+],
+[
+24.33333,
+-93.53333
+],
+[
+24.41666,
+-92.86666
+],
+[
+24.75,
+-92.71666
+],
+[
+25.2,
+-92.96666
+],
+[
+25.51666,
+-93.86666
+],
+[
+25.7,
+-95.4
+],
+[
+26.03333,
+-96.53333
+],
+[
+26.06666,
+-96.81666
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T00:40:00.000Z",
+"start": "2026-11-13T22:45:00.000Z"
+},
+{
+"end": "2026-11-15T00:40:00.000Z",
+"start": "2026-11-14T22:45:00.000Z"
+},
+{
+"end": "2026-11-16T00:40:00.000Z",
+"start": "2026-11-15T22:45:00.000Z"
+},
+{
+"end": "2026-11-17T00:40:00.000Z",
+"start": "2026-11-16T22:45:00.000Z"
+},
+{
+"end": "2026-11-18T00:40:00.000Z",
+"start": "2026-11-17T22:45:00.000Z"
+},
+{
+"end": "2026-11-19T00:40:00.000Z",
+"start": "2026-11-18T22:45:00.000Z"
+},
+{
+"end": "2026-11-20T00:40:00.000Z",
+"start": "2026-11-19T22:45:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-58060",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "58060",
+"page": "https://space-notices.com/notice/lnm-58060",
+"raw": "Gulf of America - Hazardous Space Operations --- On November 13, 2026, between 2245Z and 0040Z, on November 14, 2026, rocket launching operations are scheduled to take place near Boca Chica, TX.  Back-up launch dates and times include the following: • 142245Z NOV 26 to 150040Z NOV 26 • 152245Z NOV 26 to 160040Z NOV 26 • 162245Z NOV 26 to 170040Z NOV 26 • 172245Z NOV 26 to 180040Z NOV 26 • 182245Z NOV 26 to 190040Z NOV 26 • 192245Z NOV 26 to 200040Z NOV 26 • Navigation hazards from rocket launching activity may include, free falling debris and/or descending vehicles or vehicle components, under various means of control.  Vessels should operate in a heightened state of awareness during the launch time and avoid all waters within rocket flight trajectories originating from the launch site near Boca Chica/Starbase, Texas, and extending across the Gulf of America.  Free falling rocket launching components will land within the indicated high-risk hazard area post-launch.  To ensure range clearance, mariners are requested to avoid the high-risk hazard area three hours prior to the launch window.  For additional information regarding the launch, mariners can contact the U.S. Coast Guard Sector Corpus Christi Command Center at (800) 874-2143 or access: www.navcen.uscg.gov/msi",
+"reason": "Rocket launching operations are scheduled to take place near Boca Chica, TX",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-09T17:01:04.227Z"
+},
+{
+"areas": [
+[
+[
+25.2,
+-92.9667
+],
+[
+25.5167,
+-93.8667
+],
+[
+25.7,
+-95.4
+],
+[
+26.0333,
+-96.5333
+],
+[
+26.0667,
+-96.8167
+],
+[
+26.0667,
+-97.0667
+],
+[
+26.0667,
+-97.1667
+],
+[
+26.0333,
+-97.2167
+],
+[
+25.9667,
+-97.2167
+],
+[
+25.8,
+-97.0833
+],
+[
+25.6833,
+-96.7833
+],
+[
+25.0333,
+-95.0833
+],
+[
+24.4833,
+-94.1333
+],
+[
+24.3333,
+-93.5333
+],
+[
+24.4167,
+-92.8667
+],
+[
+24.75,
+-92.7167
+],
+[
+25.2,
+-92.9667
+]
+],
+[
+[
+25.9667,
+-97.2167
+],
+[
+26.0333,
+-97.2167
+],
+[
+26.0667,
+-97.1667
+],
+[
+26.1,
+-97.0667
+],
+[
+26.1,
+-96.8167
+],
+[
+26.0167,
+-95.2
+],
+[
+25.6833,
+-93.4833
+],
+[
+25.1833,
+-91.9833
+],
+[
+23.5333,
+-88.8667
+],
+[
+23.35,
+-88.4833
+],
+[
+22.5167,
+-86.4833
+],
+[
+21.6833,
+-85.1167
+],
+[
+21.6333,
+-84.9833
+],
+[
+21.55,
+-84.5333
+],
+[
+21.4333,
+-83.8167
+],
+[
+20.9833,
+-82.6333
+],
+[
+20.7167,
+-81.7
+],
+[
+20.5167,
+-81.05
+],
+[
+20.2,
+-81.2167
+],
+[
+20.6,
+-83.2333
+],
+[
+21.1,
+-84.9
+],
+[
+21.7167,
+-86.7
+],
+[
+21.9833,
+-87.4333
+],
+[
+22.2667,
+-89.3167
+],
+[
+22.2667,
+-89.7333
+],
+[
+22.2667,
+-91.15
+],
+[
+23.2667,
+-93.4833
+],
+[
+24.6,
+-95.3167
+],
+[
+25.6333,
+-96.8167
+],
+[
+25.8,
+-97.0833
+],
+[
+25.9667,
+-97.2167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T00:40:00.000Z",
+"start": "2026-11-13T22:45:00.000Z"
+},
+{
+"end": "2026-11-15T00:40:00.000Z",
+"start": "2026-11-14T22:45:00.000Z"
+},
+{
+"end": "2026-11-16T00:40:00.000Z",
+"start": "2026-11-15T22:45:00.000Z"
+},
+{
+"end": "2026-11-17T00:40:00.000Z",
+"start": "2026-11-16T22:45:00.000Z"
+},
+{
+"end": "2026-11-18T00:40:00.000Z",
+"start": "2026-11-17T22:45:00.000Z"
+},
+{
+"end": "2026-11-19T00:40:00.000Z",
+"start": "2026-11-18T22:45:00.000Z"
+},
+{
+"end": "2026-11-20T00:40:00.000Z",
+"start": "2026-11-19T22:45:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-58067",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "58067",
+"page": "https://space-notices.com/notice/lnm-58067",
+"raw": "Gulf of America - Caribbean Sea --- Space launch operations, which may be hazardous to surface vessels, will be conducted within portions of the following hazard areas for Starship Flight 15:\nHigh Risk Hazard Area:\n25-12-00N 092-58-00W\n25-31-00N 093-52-00W\n25-42-00N 095-24-00W\n26-02-00N 096-32-00W\n26-04-00N 096-49-00W\n26-04-00N 097-04-00W\n26-04-00N 097-10-00W\n26-02-00N 097-13-00W\n25-58-00N 097-13-00W\n25-48-00N 097-05-00W\n25-41-00N 096-47-00W\n25-02-00N 095-05-00W\n24-29-00N 094-08-00W\n24-20-00N 093-32-00W\n24-25-00N 092-52-00W and\n24-45-00N 092-43-00W.\nHazard Area:\n25-58-00N 097-13-00W\n26-02-00N 097-13-00W\n26-04-00N 097-10-00W\n26-06-00N 097-04-00W\n26-06-00N 096-49-00W\n26-01-00N 095-12-00W\n25-41-00N 093-29-00W\n25-11-00N 091-59-00W\n23-32-00N 088-52-00W\n23-21-00N 088-29-00W\n22-31-00N 086-29-00W\n21-41-00N 085-07-00W\n21-38-00N 084-59-00W\n21-33-00N 084-32-00W\n21-26-00N 083-49-00W\n20-59-00N 082-38-00W\n20-43-00N 081-42-00W\n20-31-00N 081-03-00W\n20-12-00N 081-13-00W\n20-36-00N 083-14-00W\n21-06-00N 084-54-00W\n21-43-00N 086-42-00W\n21-59-00N 087-26-00W\n22-16-00N 089-19-00W\n22-16-00N 089-44-00W\n22-16-00N 091-09-00W\n23-16-00N 093-29-00W\n24-36-00N 095-19-00W\n25-38-00N 096-49-00W and\n25-48-00N 097-05-00W.\nPrimary and backup launch day hazard periods include:\n • 13/2245Z Nov 26 to 14/0040Z Nov 26\n • 14/2245Z Nov 26 to 15/0040Z Nov 26\n • 15/2245Z Nov 26 to 16/0040Z Nov 26\n • 16/2245Z Nov 26 to 17/0040Z Nov 26\n • 17/2245Z Nov 26 to 18/0040Z Nov 26\n • 18/2245Z Nov 26 to 19/0040Z Nov 26\n • 19/2245Z Nov 26 to 20/0040Z Nov 26\n•  Navigation hazards within the hazard areas may include free falling debris and/or descending vehicles or vehicle components under various means of control. Free falling rocket launching components will land within the high risk hazard area post launch. Mariners should avoid waters within the defined hazard areas during the scheduled launch window. The high risk hazard area should be avoided three hours prior to the earliest launch to ensure range clearance. For additional information, contact the U.S. Coast Guard Sector Corpus Christi Command Center at (800) 874-2143.",
+"reason": "Space launch operations for Starship Flight 15",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-09T17:18:53.730Z"
+},
+{
+"areas": [
+[
+[
 25.9667,
 -97.2167
 ],
@@ -15407,6 +14843,234 @@
 "name": "US National Geospatial-Intelligence Agency"
 },
 "updated": "2026-11-09T07:55:50.043Z"
+},
+{
+"areas": [
+[
+[
+21.3,
+-86.0
+],
+[
+22.0667,
+-85.5333
+],
+[
+21.85,
+-85.2833
+],
+[
+21.8,
+-85.05
+],
+[
+21.75,
+-84.7667
+],
+[
+21.7167,
+-84.5167
+],
+[
+21.6833,
+-84.4
+],
+[
+21.5333,
+-83.95
+],
+[
+21.4167,
+-83.4833
+],
+[
+21.2833,
+-83.1667
+],
+[
+21.2667,
+-83.1333
+],
+[
+21.2667,
+-83.0167
+],
+[
+21.2333,
+-82.9
+],
+[
+21.1333,
+-82.4
+],
+[
+20.7,
+-81.0
+],
+[
+20.0,
+-79.2667
+],
+[
+20.0,
+-80.65
+],
+[
+20.2,
+-81.2333
+],
+[
+20.2667,
+-82.4667
+],
+[
+20.8833,
+-84.1167
+],
+[
+21.2833,
+-85.5833
+],
+[
+21.3,
+-85.6333
+],
+[
+22.0,
+-86.0
+],
+[
+21.3,
+-86.0
+]
+],
+[
+[
+21.15,
+-85.5667
+],
+[
+22.0,
+-86.0
+],
+[
+22.3,
+-86.0
+],
+[
+21.9333,
+-84.8833
+],
+[
+21.6833,
+-83.9667
+],
+[
+21.35,
+-82.8
+],
+[
+21.2667,
+-82.3833
+],
+[
+21.1,
+-81.7167
+],
+[
+20.0,
+-78.75
+],
+[
+20.0,
+-82.0
+],
+[
+20.4,
+-83.7833
+],
+[
+20.4333,
+-83.8833
+],
+[
+21.15,
+-85.5667
+]
+],
+[
+[
+19.5,
+-77.5
+],
+[
+19.6,
+-77.6667
+],
+[
+18.5833,
+-74.9
+],
+[
+18.5,
+-75.0
+],
+[
+19.5,
+-77.5
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T00:40:00.000Z",
+"start": "2026-11-13T22:45:00.000Z"
+},
+{
+"end": "2026-11-15T00:40:00.000Z",
+"start": "2026-11-14T22:45:00.000Z"
+},
+{
+"end": "2026-11-16T00:40:00.000Z",
+"start": "2026-11-15T22:45:00.000Z"
+},
+{
+"end": "2026-11-17T00:40:00.000Z",
+"start": "2026-11-16T22:45:00.000Z"
+},
+{
+"end": "2026-11-18T00:40:00.000Z",
+"start": "2026-11-17T22:45:00.000Z"
+},
+{
+"end": "2026-11-19T00:40:00.000Z",
+"start": "2026-11-18T22:45:00.000Z"
+},
+{
+"end": "2026-11-20T00:40:00.000Z",
+"start": "2026-11-19T22:45:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MUFH-A4064/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "A4064/26",
+"page": "https://space-notices.com/notice/notam-MUFH-A4064%2F26",
+"raw": "A4064/26 NOTAMN\nQ)MUFH/QRDXX/IV/BO/W/000/999/2107N07944W999\nA)MUFH B)2611132245 C)2611200040\nD)2245/0045 DLY\nE)DANGER ZONE NOTICE DUE TO SPACE LAUNCH FROM BOCA CHICA IN THE  \n  AREA \n  \n  AHA-B2 MUFH\n  2118N08600W 2204N08532W 2151N08517W 2148N08503W 2145N08446W\n  2143N08431W 2141N08424W 2132N08357W  2125N08329W 2117N08310W\n  2116N08308W 2116N08301W 2114N08254W  2108N08224W 2042N08100W\n  2000N07916W 2000N08039W 2012N08114W  2016N08228W 2053N08407W\n  2117N08535W 2118N08538W 2200N08600W\n  \n  MUFH POINTS 1\n  2109N08534W 2200N08600W 2218N08600W 2156N08453W 2141N08358W \n  2121N08248W 2116N08223W 2106N08143W 2000N07845W 2000N08200W\n  2024N08347W 2026N08353W\n  \n  MUFH POINTS 2\n  1930N07730W 1936N07740W 1835N07454W 1830N07500W\n  \n  BACKP LAUNCH DATES\n  NOV 14 2245 UTC-NOV 15 0040 UTC\n  NOV 15 2245 UTC-NOV 16 0040 UTC\n  NOV 16 2245 UTC-NOV 17 0040 UTC\n  NOV 17 2245 UTC-NOV 18 0040 UTC\n  NOV 18 2245 UTC-NOV 19 0040 UTC\n  NOV 19 2245 UTC-NOV 20 0040 UTC\nF)SFC G)UNL",
+"reason": "DANGER ZONE NOTICE DUE TO SPACE LAUNCH FROM BOCA CHICA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83034321",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-09T19:07:38.647Z"
 },
 {
 "areas": [
@@ -15808,6 +15472,166 @@
 "areas": [
 [
 [
+23.9333,
+144.6167
+],
+[
+26.15,
+151.2333
+],
+[
+27.7667,
+156.6
+],
+[
+29.4667,
+165.1667
+],
+[
+30.7167,
+172.7333
+],
+[
+31.1667,
+178.0
+],
+[
+31.2667,
+-175.0167
+],
+[
+31.35,
+-171.45
+],
+[
+30.55,
+-161.25
+],
+[
+29.6167,
+-155.6667
+],
+[
+28.8167,
+-151.5833
+],
+[
+26.8833,
+-145.4333
+],
+[
+26.8333,
+-145.4667
+],
+[
+24.05,
+-154.5333
+],
+[
+23.7667,
+-156.1833
+],
+[
+24.8667,
+-159.3167
+],
+[
+27.6333,
+-167.8167
+],
+[
+29.3833,
+-175.0
+],
+[
+29.5833,
+-176.6
+],
+[
+29.6167,
+-179.9667
+],
+[
+29.4667,
+176.2167
+],
+[
+29.1833,
+170.1667
+],
+[
+28.2,
+163.75
+],
+[
+26.65,
+156.2833
+],
+[
+23.45,
+144.8167
+],
+[
+23.9333,
+144.6167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T05:01:00.000Z",
+"start": "2026-11-14T01:30:00.000Z"
+},
+{
+"end": "2026-11-15T05:01:00.000Z",
+"start": "2026-11-15T01:30:00.000Z"
+},
+{
+"end": "2026-11-16T05:01:00.000Z",
+"start": "2026-11-16T01:30:00.000Z"
+},
+{
+"end": "2026-11-17T05:01:00.000Z",
+"start": "2026-11-17T01:30:00.000Z"
+},
+{
+"end": "2026-11-18T05:01:00.000Z",
+"start": "2026-11-18T01:30:00.000Z"
+},
+{
+"end": "2026-11-19T05:01:00.000Z",
+"start": "2026-11-19T01:30:00.000Z"
+},
+{
+"end": "2026-11-20T05:01:00.000Z",
+"start": "2026-11-20T01:30:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA XII 788/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "NAVAREA XII 788/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20788%2F26",
+"raw": "090859Z NOV 26\nNAVAREA XII 788/26.\nNORTH PACIFIC.\nMIDWAY ISLANDS.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   0130Z TO 0501Z DAILY 14 THRU 20 NOV\n   IN AREA BOUND BY\n   23-56.00N 144-37.00E, 26-09.00N 151-14.00E,\n   27-46.00N 156-36.00E, 29-28.00N 165-10.00E,\n   30-43.00N 172-44.00E, 31-10.00N 178-00.00E,\n   31-16.00N 175-01.00W, 31-21.00N 171-27.00W,\n   30-33.00N 161-15.00W, 29-37.00N 155-40.00W,\n   28-49.00N 151-35.00W, 26-53.00N 145-26.00W,\n   26-50.00N 145-28.00W, 24-03.00N 154-32.00W,\n   23-46.00N 156-11.00W, 24-52.00N 159-19.00W,\n   27-38.00N 167-49.00W, 29-23.00N 175-00.00W,\n   29-35.00N 176-36.00W, 29-37.00N 179-58.00W,\n   29-28.00N 176-13.00E, 29-11.00N 170-10.00E,\n   28-12.00N 163-45.00E, 26-39.00N 156-17.00E,\n   23-27.00N 144-49.00E.\n2. CANCEL THIS MSG 200601Z NOV 26.//",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=12&msgSqncNumber=788&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-11-09T16:22:34.656Z"
+},
+{
+"areas": [
+[
+[
 -19.85,
 -149.0
 ],
@@ -16048,6 +15872,142 @@
 "areas": [
 [
 [
+-27.6167,
+-120.0
+],
+[
+-27.15,
+-117.3
+],
+[
+-27.15,
+-112.9333
+],
+[
+-27.4333,
+-109.3
+],
+[
+-27.0167,
+-106.0833
+],
+[
+-26.85,
+-101.5833
+],
+[
+-26.5333,
+-99.2
+],
+[
+-25.2833,
+-91.9333
+],
+[
+-23.9,
+-83.7833
+],
+[
+-27.3,
+-82.8167
+],
+[
+-30.35,
+-82.7833
+],
+[
+-31.0833,
+-85.2833
+],
+[
+-30.75,
+-87.5833
+],
+[
+-30.9667,
+-93.1
+],
+[
+-31.5167,
+-102.1
+],
+[
+-31.25,
+-106.8833
+],
+[
+-30.6,
+-113.0167
+],
+[
+-29.3167,
+-119.3
+],
+[
+-29.1833,
+-120.0
+],
+[
+-27.6167,
+-120.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T11:37:00.000Z",
+"start": "2026-11-14T08:12:00.000Z"
+},
+{
+"end": "2026-11-15T11:37:00.000Z",
+"start": "2026-11-15T08:12:00.000Z"
+},
+{
+"end": "2026-11-16T11:37:00.000Z",
+"start": "2026-11-16T08:12:00.000Z"
+},
+{
+"end": "2026-11-17T11:37:00.000Z",
+"start": "2026-11-17T08:12:00.000Z"
+},
+{
+"end": "2026-11-18T11:37:00.000Z",
+"start": "2026-11-18T08:12:00.000Z"
+},
+{
+"end": "2026-11-19T11:37:00.000Z",
+"start": "2026-11-19T08:12:00.000Z"
+},
+{
+"end": "2026-11-20T11:37:00.000Z",
+"start": "2026-11-20T08:12:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-SCIZ-W3900/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "W3900/26",
+"page": "https://space-notices.com/notice/notam-SCIZ-W3900%2F26",
+"raw": "W3900/26 NOTAMN \r\nQ)SCIZ/QXXXX/IV/BO/W/000/999/2907S10151W413\r\nA)SCIZ B)2611140812 C)2611201137\r\nD)DLY BTN 0812-1137\r\nE)ZONE...D... IN WATERS PACIFIC OCEAN DUE TO SPACE VEHICLE RE-ENTRY\r\nAND SPLASHDOWN ACTIVITY. THE AFFECTED AREA IS BOUNDED BY NXT GEO:\r\n273700S /1200000W\r\n270900S /1171800W\r\n270900S /1125600W\r\n272600S /1091800W\r\n270100S /1060500W\r\n265100S /1013500W\r\n263200S /0991200W\r\n251700S /0915600W\r\n235400S /0834700W\r\n271800S /0824900W\r\n302100S /0824700W\r\n310500S /0851700W\r\n304500S /0873500W\r\n305800S /0930600W\r\n313100S /1020600W\r\n311500S /1065300W\r\n303600S /1130100W\r\n291900S /1191800W\r\n291100S /1200000W\r\n273700S /1200000W\r\nINSTRUCTIONS: SANTIAGO OCEANIC CONTROL 10024KHZ FANS 1A EQUIPPED \r\nINFO PROVIDED BY SPACE X OPS, USA\r\nF)SFC G)UNL",
+"reason": "SPACE VEHICLE RE-ENTRY AND SPLASHDOWN ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83035653",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-09T19:07:38.679Z"
+},
+{
+"areas": [
+[
+[
 25.9333,
 -97.15
 ],
@@ -16163,6 +16123,278 @@
 "name": "US National Geospatial-Intelligence Agency"
 },
 "updated": "2026-11-09T10:31:06.688Z"
+},
+{
+"areas": [
+[
+[
+9.15,
+153.7667
+],
+[
+10.8,
+156.3
+],
+[
+14.0667,
+162.0667
+],
+[
+16.1167,
+165.5833
+],
+[
+20.6333,
+174.5167
+],
+[
+22.7167,
+179.25
+],
+[
+24.85,
+-176.2167
+],
+[
+25.8833,
+-173.3333
+],
+[
+26.0667,
+-171.0333
+],
+[
+28.5167,
+-161.2333
+],
+[
+30.55,
+-150.2667
+],
+[
+29.3833,
+-150.25
+],
+[
+26.0167,
+-153.8167
+],
+[
+24.7667,
+-154.9
+],
+[
+25.4,
+-157.7667
+],
+[
+24.9,
+-161.7
+],
+[
+23.1833,
+-168.5333
+],
+[
+22.1333,
+-173.1333
+],
+[
+20.2,
+-179.1167
+],
+[
+19.35,
+178.2
+],
+[
+18.2167,
+174.9667
+],
+[
+17.0333,
+170.2833
+],
+[
+15.1833,
+165.9333
+],
+[
+11.9167,
+159.4333
+],
+[
+8.8,
+154.1
+],
+[
+9.15,
+153.7667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-21T01:44:00.000Z",
+"start": "2026-11-14T22:17:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-58114",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "58114",
+"page": "https://space-notices.com/notice/lnm-58114",
+"raw": "Potential for space debris from the reentry of the Starship-Super Heavy Starship | Flight 15 | Starlink g31-1 Stage 2.\n\nHazardous operations space debris daily from November 14, 2026 to November 21, 2026 between 1217-1544 HST (2217-0144 UTC) in an area bounded by the following coordinates:\n09-09N 153-46E, \n10-48N 156-18E, \n14-04N 162-04E, \n16-07N 165-35E, \n20-38N 174-31E, \n22-43N 179-15E, \n24-51N 176-13W, \n25-53N 173-20W, \n26-04N 171-02W, \n28-31N 161-14W, \n30-33N 150-16W, \n29-23N 150-15W, \n26-01N 153-49W, \n24-46N 154-54W, \n25-24N 157-46W, \n24-54N 161-42W, \n23-11N 168-32W, \n22-08N 173-08W, \n20-12N 179-07W, \n19-21N 178-12E, \n18-13N 174-58E, \n17-02N 170-17E, \n15-11N 165-56E, \n11-55N 159-26E, \n08-48N 154-06E ",
+"reason": "Hazardous operations space debris daily for Starship-Super Heavy Starship Flight 15 Starlink g31-1 Stage 2",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-09T19:07:38.679Z"
+},
+{
+"areas": [
+[
+[
+9.15,
+153.7667
+],
+[
+10.8,
+156.3
+],
+[
+14.0667,
+162.0667
+],
+[
+16.1167,
+165.5833
+],
+[
+20.6333,
+174.5167
+],
+[
+22.7167,
+179.25
+],
+[
+24.85,
+-176.2167
+],
+[
+25.8833,
+-173.3333
+],
+[
+26.0667,
+-171.0333
+],
+[
+28.5167,
+-161.2333
+],
+[
+30.55,
+-150.2667
+],
+[
+29.3833,
+-150.25
+],
+[
+26.0167,
+-153.8167
+],
+[
+24.7667,
+-154.9
+],
+[
+25.4,
+-157.7667
+],
+[
+24.9,
+-161.7
+],
+[
+23.1833,
+-168.5333
+],
+[
+22.1333,
+-173.1333
+],
+[
+20.2,
+-179.1167
+],
+[
+19.35,
+178.2
+],
+[
+18.2167,
+174.9667
+],
+[
+17.0333,
+170.2833
+],
+[
+15.1833,
+165.9333
+],
+[
+11.9167,
+159.4333
+],
+[
+8.8,
+154.1
+],
+[
+9.15,
+153.7667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-21T01:44:00.000Z",
+"start": "2026-11-14T22:17:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-58116",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "58116",
+"page": "https://space-notices.com/notice/lnm-58116",
+"raw": "Potential for space debris from the reentry of the Starship-Super Heavy Starship | Flight 15 | Starlink g31-1 Stage 2.\n\nHazardous operations space debris daily from November 14, 2026 to November 21, 2026 between 1217-1544 HST (2217-0144 UTC) in an area bounded by the following coordinates:\n09-09N 153-46E, \n10-48N 156-18E, \n14-04N 162-04E, \n16-07N 165-35E, \n20-38N 174-31E, \n22-43N 179-15E, \n24-51N 176-13W, \n25-53N 173-20W, \n26-04N 171-02W, \n28-31N 161-14W, \n30-33N 150-16W, \n29-23N 150-15W, \n26-01N 153-49W, \n24-46N 154-54W, \n25-24N 157-46W, \n24-54N 161-42W, \n23-11N 168-32W, \n22-08N 173-08W, \n20-12N 179-07W, \n19-21N 178-12E, \n18-13N 174-58E, \n17-02N 170-17E, \n15-11N 165-56E, \n11-55N 159-26E, \n08-48N 154-06E ",
+"reason": "Hazardous operations space debris daily for Starship-Super Heavy Starship Flight 15 Starlink g31-1 Stage 2",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-09T19:07:38.679Z"
 },
 {
 "areas": [
@@ -17086,6 +17318,148 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-06T10:21:23.819Z"
+},
+{
+"areas": [
+[
+[
+30.6167,
+128.1333
+],
+[
+30.7833,
+128.5
+],
+[
+30.15,
+128.9
+],
+[
+29.9833,
+128.55
+],
+[
+30.6167,
+128.1333
+]
+],
+[
+[
+24.4667,
+132.7667
+],
+[
+25.0333,
+133.7667
+],
+[
+22.1833,
+135.65
+],
+[
+21.6167,
+134.6667
+],
+[
+24.4667,
+132.7667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-13T09:34:00.000Z",
+"start": "2026-11-13T05:21:00.000Z"
+},
+{
+"end": "2026-11-14T09:34:00.000Z",
+"start": "2026-11-14T05:21:00.000Z"
+},
+{
+"end": "2026-11-15T09:34:00.000Z",
+"start": "2026-11-14T20:26:00.000Z"
+},
+{
+"end": "2026-11-16T09:34:00.000Z",
+"start": "2026-11-16T05:21:00.000Z"
+},
+{
+"end": "2026-11-17T09:34:00.000Z",
+"start": "2026-11-17T05:21:00.000Z"
+},
+{
+"end": "2026-11-18T09:34:00.000Z",
+"start": "2026-11-18T05:21:00.000Z"
+},
+{
+"end": "2026-11-19T09:34:00.000Z",
+"start": "2026-11-19T05:21:00.000Z"
+},
+{
+"end": "2026-11-20T09:34:00.000Z",
+"start": "2026-11-20T05:21:00.000Z"
+},
+{
+"end": "2026-11-21T09:34:00.000Z",
+"start": "2026-11-21T05:21:00.000Z"
+},
+{
+"end": "2026-11-22T09:34:00.000Z",
+"start": "2026-11-22T05:21:00.000Z"
+},
+{
+"end": "2026-11-23T09:34:00.000Z",
+"start": "2026-11-23T05:21:00.000Z"
+},
+{
+"end": "2026-11-24T09:34:00.000Z",
+"start": "2026-11-24T05:21:00.000Z"
+},
+{
+"end": "2026-11-25T09:34:00.000Z",
+"start": "2026-11-25T05:21:00.000Z"
+},
+{
+"end": "2026-11-26T09:34:00.000Z",
+"start": "2026-11-26T05:21:00.000Z"
+},
+{
+"end": "2026-11-27T09:34:00.000Z",
+"start": "2026-11-27T05:21:00.000Z"
+},
+{
+"end": "2026-11-28T09:34:00.000Z",
+"start": "2026-11-28T05:21:00.000Z"
+},
+{
+"end": "2026-11-29T09:34:00.000Z",
+"start": "2026-11-29T05:21:00.000Z"
+},
+{
+"end": "2026-11-30T09:34:00.000Z",
+"start": "2026-11-30T05:21:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RJJJ-P5642/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-mir-demo-flight",
+"title": "Demo Flight"
+}
+],
+"markers": [],
+"name": "P5642/26",
+"page": "https://space-notices.com/notice/notam-RJJJ-P5642%2F26",
+"raw": "P5642/26 NOTAMN\r\nQ)RJJJ/QXXXX/IV/NBO/E/000/999/2627N13202E324\r\nA)RJJJ B)2611130521 C)2611300934\r\nD)0521/0934\r\nE)KSLV(KOREA SPACE LAUNCH VEHICLE) WILL BE LAUNCHED AS FLW\r\n- PLANNED LAUNCH DATE       : NOV 13 2026\r\n- PLANNED LAUNCH WINDOW TIME: 0500-0900 UTC\r\n- RESERVED LAUNCH DATE      : NOV 14 2026 - NOV 30 2026\r\n\r\nTHE FLIGHT SAFETY OF THE AIRCRAFT IN FOLLOWING AREAS MAY BE AFFECTED.\r\nAREA:\r\n 1ST STAGE      : 0521-0922 UTC\r\n                  303721N1280853E - 304747N1283051E -\r\n                  300949N1285451E - 295926N1283301E -\r\n                  303721N1280853E\r\n                  VERTICAL ALTITUDE: SFC-UNL.\r\n\r\n PAYLOAD FAIRING: 0533-0934 UTC\r\n                  242829N1324604E - 250230N1334643E -\r\n                  221133N1353951E - 213752N1344015E -\r\n                  242829N1324604E\r\n                  VERTICAL ALTITUDE: SFC-UNL.\r\n\r\nRMK: ATC WILL NOT CLEAR IFR FLT THRU THIS AREA FOR THE FLIGHT SAFETY\r\nF)SFC G)UNL",
+"reason": "KSLV(KOREA SPACE LAUNCH VEHICLE) WILL BE LAUNCHED AS FLW",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83029446",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-09T12:29:44.668Z"
 },
 {
 "areas": [],
@@ -20644,5 +21018,5 @@
 "pending": 10,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3382
+"total_known": 3399
 }
