@@ -1,5 +1,5 @@
 {
-"count": 2841,
+"count": 2843,
 "notices": [
 {
 "areas": [
@@ -272067,6 +272067,35 @@
 "updated": "2026-11-08T09:11:05.232Z"
 },
 {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-09T20:00:00.000Z",
+"start": "2026-11-09T16:00:00.000Z"
+}
+],
+"height": null,
+"id": "starbase-road-delay-02579357-11ba-4d11-bb90-e3afe93db0f6",
+"kind": "ROAD_DELAY",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [],
+"name": "Nov 09 Production -> Pad",
+"page": "https://space-notices.com/notice/starbase-road-delay-02579357-11ba-4d11-bb90-e3afe93db0f6",
+"raw": "Description: Production to Pad\nDate: November 9 10:00 AM to November 9 2:00 PM",
+"reason": "Production to Pad",
+"source": {
+"link": "https://www.starbase.texas.gov/beach-road-access",
+"name": "City of Starbase"
+},
+"updated": "2026-11-06T18:36:36.487Z"
+},
+{
 "areas": [
 [
 [
@@ -276162,7 +276191,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83024517",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-08T09:15:43.620Z"
+"updated": "2026-11-08T19:23:33.549Z"
 },
 {
 "areas": [
@@ -277524,7 +277553,111 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3249&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-10-12T23:44:29.672Z"
+"updated": "2026-11-08T21:45:55.166Z"
+},
+{
+"areas": [
+[
+[
+-40.5,
+-162.7
+],
+[
+-40.6,
+-155.7
+],
+[
+-42.75,
+-155.6
+],
+[
+-42.5,
+-162.8
+],
+[
+-40.5,
+-162.7
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T07:00:00.000Z",
+"start": "2026-11-13T22:15:00.000Z"
+},
+{
+"end": "2026-11-15T07:00:00.000Z",
+"start": "2026-11-14T22:15:00.000Z"
+},
+{
+"end": "2026-11-16T07:00:00.000Z",
+"start": "2026-11-15T22:15:00.000Z"
+},
+{
+"end": "2026-11-17T07:00:00.000Z",
+"start": "2026-11-16T22:15:00.000Z"
+},
+{
+"end": "2026-11-18T07:00:00.000Z",
+"start": "2026-11-17T22:15:00.000Z"
+},
+{
+"end": "2026-11-19T07:00:00.000Z",
+"start": "2026-11-18T22:15:00.000Z"
+},
+{
+"end": "2026-11-20T07:00:00.000Z",
+"start": "2026-11-19T22:15:00.000Z"
+},
+{
+"end": "2026-11-21T07:00:00.000Z",
+"start": "2026-11-20T22:15:00.000Z"
+},
+{
+"end": "2026-11-22T07:00:00.000Z",
+"start": "2026-11-21T22:15:00.000Z"
+},
+{
+"end": "2026-11-23T07:00:00.000Z",
+"start": "2026-11-22T22:15:00.000Z"
+},
+{
+"end": "2026-11-24T07:00:00.000Z",
+"start": "2026-11-23T22:15:00.000Z"
+},
+{
+"end": "2026-11-25T07:00:00.000Z",
+"start": "2026-11-24T22:15:00.000Z"
+},
+{
+"end": "2026-11-26T07:00:00.000Z",
+"start": "2026-11-25T22:15:00.000Z"
+},
+{
+"end": "2026-11-27T07:00:00.000Z",
+"start": "2026-11-26T22:15:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3251/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-electron-the-mountain-god-rises-iqps-launch-10",
+"title": "The Mountain God Rises (iQPS Launch 10)"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3251/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203251%2F26",
+"raw": "082321Z NOV 26\nHYDROPAC 3251/26\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   2215Z TO 0700Z DAILY 13 THRU 26 NOV\n   IN AREA BOUND BY\n   40-30.00S 162-42.00W, 40-36.00S 155-42.00W,\n   42-45.00S 155-36.00W, 42-30.00S 162-48.00W.\n2. CANCEL THIS MSG 270800Z NOV 26.\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3251&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-11-08T21:45:55.165Z"
 },
 {
 "areas": [
