@@ -1,6 +1,6 @@
 {
-"count": 291,
-"generated_utc": "2026-11-09T22:44:44Z",
+"count": 312,
+"generated_utc": "2026-11-10T04:48:59Z",
 "notices": [
 {
 "areas": [
@@ -8563,35 +8563,6 @@
 "updated": "2026-11-07T10:57:17.712Z"
 },
 {
-"areas": [],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-11-10T07:46:00.000Z",
-"start": "2026-11-10T03:03:00.000Z"
-}
-],
-"height": null,
-"id": "infopage-faa-operations-advisory-spacex-r-5",
-"kind": "INFOPAGE",
-"launches": [
-{
-"id": "launch-f9-ussf-xxx-r-5",
-"title": "USSF-xxx (\"R-5\")"
-}
-],
-"markers": [],
-"name": "FAA Operations Advisory",
-"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-r-5",
-"raw": "SPACEX R-5, VANDENBERG SFB, CA\nPRIMARY:\t11/10/26\t0303Z-0746Z",
-"reason": "SPACEX R-5, VANDENBERG SFB, CA",
-"source": {
-"link": "https://www.fly.faa.gov/adv/adv_spt",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-11-03T13:01:13.342Z"
-},
-{
 "areas": [
 [
 [
@@ -10205,7 +10176,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83036231",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-09T12:29:44.668Z"
+"updated": "2026-11-09T22:14:19.270Z"
 },
 {
 "areas": [
@@ -10257,7 +10228,40 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83036257",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-09T12:29:44.668Z"
+"updated": "2026-11-09T22:26:19.760Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-11T07:32:00.000Z",
+"start": "2026-11-11T02:49:00.000Z"
+},
+{
+"end": "2026-11-12T07:18:00.000Z",
+"start": "2026-11-12T02:35:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-spacex-r-5",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-ussf-627",
+"title": "USSF-627"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-r-5",
+"raw": "SPACEX R-5, VANDENBERG SFB, CA\nPRIMARY:\t11/11/26\t0249Z-0732Z\nBACKUP:\t\t11/12/26\t0235Z-0718Z",
+"reason": "SPACEX R-5, VANDENBERG SFB, CA",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-10T00:28:36.317Z"
 },
 {
 "areas": [
@@ -10454,6 +10458,342 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-09T10:23:15.715Z"
+},
+{
+"areas": [
+[
+[
+-15.1667,
+-170.2
+],
+[
+-16.5167,
+-168.6167
+],
+[
+-17.85,
+-167.0
+],
+[
+-19.1667,
+-165.3667
+],
+[
+-20.4667,
+-163.7
+],
+[
+-21.75,
+-162.0167
+],
+[
+-23.0333,
+-160.2667
+],
+[
+-24.25,
+-158.5
+],
+[
+-25.1167,
+-157.0
+],
+[
+-26.3667,
+-157.0
+],
+[
+-24.9667,
+-159.1167
+],
+[
+-23.75,
+-160.8833
+],
+[
+-22.4667,
+-162.6333
+],
+[
+-21.1833,
+-164.3167
+],
+[
+-19.8833,
+-165.9667
+],
+[
+-18.5667,
+-167.6
+],
+[
+-17.2333,
+-169.2
+],
+[
+-15.8833,
+-170.7833
+],
+[
+-15.5333,
+-170.4833
+],
+[
+-15.1667,
+-170.2
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-12T20:50:00.000Z",
+"start": "2026-11-12T19:45:00.000Z"
+}
+],
+"height": "24500ft",
+"id": "notam-NCRG-P0556/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-kuaizhou-11-unknown-payload-e2523821",
+"title": "Unknown Payload"
+}
+],
+"markers": [],
+"name": "P0556/26",
+"page": "https://space-notices.com/notice/notam-NCRG-P0556%2F26",
+"raw": "P0556/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /AW/000/245/2054S16351W507\r\nA) NCRG B) 2611121945 C) 2611122050\r\nE) TEMPO DANGER AREA NZD094 (AUCKLAND OCEANIC FIR, COOK SECTOR)\r\nIS PRESCRIBED AS FLW:\r\nALL THAT AIRSPACE COINCIDENT WITH COOK SECTOR CONTAINED WITHIN THE \r\nAREA BOUNDED BY A LINE JOINING:\r\n15 10 S 170 12 W\r\n16 31 S 168 37 W\r\n17 51 S 167 00 W\r\n19 10 S 165 22 W\r\n20 28 S 163 42 W\r\n21 45 S 162 01 W\r\n23 02 S 160 16 W\r\n24 15 S 158 30 W\r\n25 07 27 S 157 00 00 W\r\n26 22 52 S 157 00 00 W\r\n24 58 S 159 07 W\r\n23 45 S 160 53 W\r\n22 28 S 162 38 W\r\n21 11 S 164 19 W\r\n19 53 S 165 58 W\r\n18 34 S 167 36 W\r\n17 14 S 169 12 W\r\n15 53 S 170 47 W\r\n15 32 S 170 29 W\r\n15 10 S 170 12 W \r\nACTIVITY: SPACE DEBRIS RETURN\r\nUSING AGENCY: FOREIGN SPACE AGENCY\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED\r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) FL245",
+"reason": "SPACE DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83037843",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-10T03:08:15.141Z"
+},
+{
+"areas": [
+[
+[
+-15.1667,
+-170.2
+],
+[
+-16.5167,
+-168.6167
+],
+[
+-17.85,
+-167.0
+],
+[
+-19.1667,
+-165.3667
+],
+[
+-20.4667,
+-163.7
+],
+[
+-21.75,
+-162.0167
+],
+[
+-23.0333,
+-160.2667
+],
+[
+-24.25,
+-158.5
+],
+[
+-25.1167,
+-157.0
+],
+[
+-26.3667,
+-157.0
+],
+[
+-24.9667,
+-159.1167
+],
+[
+-23.75,
+-160.8833
+],
+[
+-22.4667,
+-162.6333
+],
+[
+-21.1833,
+-164.3167
+],
+[
+-19.8833,
+-165.9667
+],
+[
+-18.5667,
+-167.6
+],
+[
+-17.2333,
+-169.2
+],
+[
+-15.8833,
+-170.7833
+],
+[
+-15.5333,
+-170.4833
+],
+[
+-15.1667,
+-170.2
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-12T20:50:00.000Z",
+"start": "2026-11-12T19:45:00.000Z"
+}
+],
+"height": "24500ft",
+"id": "notam-NSFA-P0555/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-kuaizhou-11-unknown-payload-e2523821",
+"title": "Unknown Payload"
+}
+],
+"markers": [],
+"name": "P0555/26",
+"page": "https://space-notices.com/notice/notam-NSFA-P0555%2F26",
+"raw": "P0555/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /AW/000/245/2054S16351W507\r\nA) NSFA B) 2611121945 C) 2611122050\r\nE) TEMPO DANGER AREA NZD094 (AUCKLAND OCEANIC FIR, SAMOA SECTOR)\r\nIS PRESCRIBED AS FLW:\r\nALL THAT AIRSPACE COINCIDENT WITH SAMOA SECTOR CONTAINED WITHIN THE \r\nAREA BOUNDED BY A LINE JOINING:\r\n15 10 S 170 12 W\r\n16 31 S 168 37 W\r\n17 51 S 167 00 W\r\n19 10 S 165 22 W\r\n20 28 S 163 42 W\r\n21 45 S 162 01 W\r\n23 02 S 160 16 W\r\n24 15 S 158 30 W\r\n25 07 27 S 157 00 00 W\r\n26 22 52 S 157 00 00 W\r\n24 58 S 159 07 W\r\n23 45 S 160 53 W\r\n22 28 S 162 38 W\r\n21 11 S 164 19 W\r\n19 53 S 165 58 W\r\n18 34 S 167 36 W\r\n17 14 S 169 12 W\r\n15 53 S 170 47 W\r\n15 32 S 170 29 W\r\n15 10 S 170 12 W \r\nACTIVITY: SPACE DEBRIS RETURN\r\nUSING AGENCY: FOREIGN SPACE AGENCY\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED\r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) FL245",
+"reason": "SPACE DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83037832",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-10T03:08:05.488Z"
+},
+{
+"areas": [
+[
+[
+-15.1667,
+-170.2
+],
+[
+-16.5167,
+-168.6167
+],
+[
+-17.85,
+-167.0
+],
+[
+-19.1667,
+-165.3667
+],
+[
+-20.4667,
+-163.7
+],
+[
+-21.75,
+-162.0167
+],
+[
+-23.0333,
+-160.2667
+],
+[
+-24.25,
+-158.5
+],
+[
+-25.1167,
+-157.0
+],
+[
+-26.3667,
+-157.0
+],
+[
+-24.9667,
+-159.1167
+],
+[
+-23.75,
+-160.8833
+],
+[
+-22.4667,
+-162.6333
+],
+[
+-21.1833,
+-164.3167
+],
+[
+-19.8833,
+-165.9667
+],
+[
+-18.5667,
+-167.6
+],
+[
+-17.2333,
+-169.2
+],
+[
+-15.8833,
+-170.7833
+],
+[
+-15.5333,
+-170.4833
+],
+[
+-15.1667,
+-170.2
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-12T20:50:00.000Z",
+"start": "2026-11-12T19:45:00.000Z"
+}
+],
+"height": "99900ft",
+"id": "notam-NZZO-B5511/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-kuaizhou-11-unknown-payload-e2523821",
+"title": "Unknown Payload"
+}
+],
+"markers": [],
+"name": "B5511/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B5511%2F26",
+"raw": "B5511/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/2054S16351W507\r\nA) NZZO B) 2611121945 C) 2611122050\r\nE) TEMPO DANGER AREA NZD094 (AUCKLAND OCEANIC FIR, INC COOK AND \r\nSAMOA SECTORS) IS PRESCRIBED AS FLW:\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n15 10 S 170 12 W\r\n16 31 S 168 37 W\r\n17 51 S 167 00 W\r\n19 10 S 165 22 W\r\n20 28 S 163 42 W\r\n21 45 S 162 01 W\r\n23 02 S 160 16 W\r\n24 15 S 158 30 W\r\n25 07 27 S 157 00 00 W\r\n26 22 52 S 157 00 00 W\r\n24 58 S 159 07 W\r\n23 45 S 160 53 W\r\n22 28 S 162 38 W\r\n21 11 S 164 19 W\r\n19 53 S 165 58 W\r\n18 34 S 167 36 W\r\n17 14 S 169 12 W\r\n15 53 S 170 47 W\r\n15 32 S 170 29 W\r\n15 10 S 170 12 W \r\nACTIVITY: SPACE DEBRIS RETURN\r\nUSING AGENCY: FOREIGN SPACE AGENCY\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED \r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) FL999",
+"reason": "SPACE DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83037803",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-10T03:02:33.970Z"
 },
 {
 "areas": [
@@ -11295,6 +11635,91 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-09T12:41:22.289Z"
+},
+{
+"areas": [
+[
+[
+-33.5667,
+-162.15
+],
+[
+-41.6167,
+-141.7333
+],
+[
+-42.6333,
+-142.2167
+],
+[
+-34.5333,
+-162.7333
+],
+[
+-33.5667,
+-162.15
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-13T09:50:00.000Z",
+"start": "2026-11-13T05:50:00.000Z"
+}
+],
+"height": "99900ft",
+"id": "notam-NZZO-B5499/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-mir-demo-flight",
+"title": "Demo Flight"
+}
+],
+"markers": [],
+"name": "B5499/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B5499%2F26",
+"raw": "B5499/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3832S15249W550\r\nA) NZZO B) 2611130550 C) 2611130950\r\nE) TEMPO DANGER AREA NZD093 (AUCKLAND OCEANIC FIR) IS PRESCRIBED AS \r\nFLW:\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n33 34 18 S 162 09 30 W\r\n41 37 39 S 141 44 14 W\r\n42 38 36 S 142 13 53 W\r\n34 32 11 S 162 44 48 W\r\n33 34 18 S 162 09 30 W\r\nACTIVITY: SPACE DEBRIS RETURN\r\nUSING AGENCY: FOREIGN SPACE AGENCY\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED \r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) FL999",
+"reason": "SPACE DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83034899",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-09T19:50:35.580Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-13T09:06:00.000Z",
+"start": "2026-11-13T04:23:00.000Z"
+},
+{
+"end": "2026-11-14T08:52:00.000Z",
+"start": "2026-11-14T04:09:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-spacex-ussf-317",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-ussf-317",
+"title": "USSF-317"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-ussf-317",
+"raw": "SPACEX USSF-317, VANDENBERG SFB, CA\nPRIMARY:\t11/13/26\t0423Z-0906Z\nBACKUP:\t\t11/14/26\t0409Z-0852Z",
+"reason": "SPACEX USSF-317, VANDENBERG SFB, CA",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-10T00:28:36.457Z"
 },
 {
 "areas": [],
@@ -12547,6 +12972,82 @@
 "areas": [
 [
 [
+-30.0,
+-121.8833
+],
+[
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-28.7167,
+-120.0
+],
+[
+-30.0,
+-120.0
+],
+[
+-30.0,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-11T09:14:00.000Z",
+"start": "2026-11-11T04:36:00.000Z"
+},
+{
+"end": "2026-11-12T09:00:00.000Z",
+"start": "2026-11-12T04:22:00.000Z"
+},
+{
+"end": "2026-11-13T08:46:00.000Z",
+"start": "2026-11-13T04:08:00.000Z"
+},
+{
+"end": "2026-11-14T08:32:00.000Z",
+"start": "2026-11-14T03:54:00.000Z"
+},
+{
+"end": "2026-11-15T08:19:00.000Z",
+"start": "2026-11-15T03:41:00.000Z"
+},
+{
+"end": "2026-11-16T08:05:00.000Z",
+"start": "2026-11-16T03:27:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1447/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-627",
+"title": "USSF-627"
+}
+],
+"markers": [],
+"name": "A1447/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1447%2F26",
+"raw": "A1447/26 NOTAMN\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2858S12112W113\r\nA) NTTT\r\nB) 2611110436 C) 2611160805\r\nD) 11 0436-0914, 12 0422-0900\r\n13 0408-0846, 14 0354-0832, 15 0341-0819, 16 0327-0805\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX R-5 IN\r\n TAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING POINTS : \r\n3000S 12153W, 2759S 12244W, 2709S 12043W, 2843S 12000W, 3000S\r\n 12000W, 3000S 12153W \r\n\r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : SCIZ \r\nTHE FRENCH VERSION OF THIS NOTAM IS C2731/26\r\nF) SFC G) UNL",
+"reason": "TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX R-5",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83037582",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-10T02:16:35.832Z"
+},
+{
+"areas": [
+[
+[
 -39.2,
 177.75
 ],
@@ -12806,6 +13307,58 @@
 "name": "US National Geospatial-Intelligence Agency"
 },
 "updated": "2026-10-29T19:12:56.609Z"
+},
+{
+"areas": [
+[
+[
+-30.0,
+-132.5833
+],
+[
+-36.95,
+-131.0
+],
+[
+-51.4333,
+-131.0
+],
+[
+-30.0,
+-135.85
+],
+[
+-30.0,
+-132.5833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-16T23:30:00.000Z",
+"start": "2026-11-16T18:50:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B5506/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-266",
+"title": "USSF-266"
+}
+],
+"markers": [],
+"name": "B5506/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B5506%2F26",
+"raw": "B5506/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/4044S13349W663\r\nA) NZZO B) 2611161850 C) 2611162330\r\nE) TEMPO DANGER AREA NZD029 (AUCKLAND OCEANIC FIR) IS PRESCRIBED AS\r\nFLW:\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING\r\n30 00 00 S 132 35 00 W\r\n36 57 00 S 131 00 00 W\r\n51 26 00 S 131 00 00 W\r\n30 00 00 S 135 51 00 W\r\n30 00 00 S 132 35 00 W\r\nACTIVITY: SPACE DEBRIS RETURN\r\nUSING AGENCY: FOREIGN SPACE AGENCY\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED\r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION.\r\nF) SFC G) UNL",
+"reason": "SPACE DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83036545",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-09T22:59:10.273Z"
 },
 {
 "areas": [
@@ -13089,7 +13642,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83035322",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-09T16:22:21.616Z"
+"updated": "2026-11-09T20:33:09.606Z"
 },
 {
 "areas": [
@@ -13666,7 +14219,7 @@
 "link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
 "name": "Cadena OIS"
 },
-"updated": "2026-11-08T09:01:20.806Z"
+"updated": "2026-11-09T19:23:06.170Z"
 },
 {
 "areas": [
@@ -14592,7 +15145,7 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-09T17:18:53.730Z"
+"updated": "2026-11-09T19:15:37.833Z"
 },
 {
 "areas": [
@@ -15070,7 +15623,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83034321",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-09T19:07:38.647Z"
+"updated": "2026-11-09T19:25:51.637Z"
 },
 {
 "areas": [
@@ -16002,7 +16555,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83035653",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-09T19:07:38.679Z"
+"updated": "2026-11-09T21:08:48.112Z"
 },
 {
 "areas": [
@@ -16258,7 +16811,7 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-09T19:07:38.679Z"
+"updated": "2026-11-09T21:00:33.521Z"
 },
 {
 "areas": [
@@ -16394,7 +16947,408 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-09T19:07:38.679Z"
+"updated": "2026-11-09T21:30:32.480Z"
+},
+{
+"areas": [
+[
+[
+29.85,
+-119.8167
+],
+[
+30.75,
+-119.7833
+],
+[
+30.75,
+-119.75
+],
+[
+29.5833,
+-119.2667
+],
+[
+29.35,
+-119.2
+],
+[
+29.85,
+-119.8167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-16T21:31:00.000Z",
+"start": "2026-11-16T17:07:00.000Z"
+},
+{
+"end": "2026-11-17T21:22:00.000Z",
+"start": "2026-11-17T16:58:00.000Z"
+},
+{
+"end": "2026-11-18T21:13:00.000Z",
+"start": "2026-11-18T16:49:00.000Z"
+},
+{
+"end": "2026-11-19T21:04:00.000Z",
+"start": "2026-11-19T16:40:00.000Z"
+},
+{
+"end": "2026-11-20T20:55:00.000Z",
+"start": "2026-11-20T16:31:00.000Z"
+},
+{
+"end": "2026-11-21T20:46:00.000Z",
+"start": "2026-11-21T16:22:00.000Z"
+},
+{
+"end": "2026-11-22T20:37:00.000Z",
+"start": "2026-11-22T16:13:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MMFR-B4160/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-266",
+"title": "USSF-266"
+}
+],
+"markers": [],
+"name": "B4160/26",
+"page": "https://space-notices.com/notice/notam-MMFR-B4160%2F26",
+"raw": "B4160/26 NOTAMN\r\r\nQ) MMFR/QRDCA/IV/BO/W/000/999/\r\r\nA) MMFR\r\r\nB) 2611161707\r\r\nC) 2611222037\r\r\nD) 16 1707-2131, 17 1658-2122, 18 1649-2113, 19 1640-2104, 20 1631-2055,\r\r\n   21 1622-2046, 22 1613-2037 \r\r\nE) DANGEROUS AREA FOR REENTRY OF ROCKET SPACEX USFF266-TH3 STAGE 1 \r\r\n   LATERAL LIMIT AREA FORMED BY THE UNION OF THE FLW POINTS:\r\r\n   2951N 11949W - 3045N 11947W - 3045N 11945W - 2935N 11916W - 2921N\r\r\n   11912W - 2951N 11949W\r\r\n   MMFR\r\r\nF) SFC\r\r\nG) UNL",
+"reason": "DANGEROUS AREA FOR REENTRY OF ROCKET SPACEX USFF266-TH3 STAGE 1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83035068",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-09T22:59:44.256Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-16T21:50:00.000Z",
+"start": "2026-11-16T17:07:00.000Z"
+},
+{
+"end": "2026-11-17T21:41:00.000Z",
+"start": "2026-11-17T16:58:00.000Z"
+},
+{
+"end": "2026-11-18T21:32:00.000Z",
+"start": "2026-11-18T16:49:00.000Z"
+},
+{
+"end": "2026-11-19T21:23:00.000Z",
+"start": "2026-11-19T16:40:00.000Z"
+},
+{
+"end": "2026-11-20T21:14:00.000Z",
+"start": "2026-11-20T16:31:00.000Z"
+},
+{
+"end": "2026-11-21T21:05:00.000Z",
+"start": "2026-11-21T16:22:00.000Z"
+},
+{
+"end": "2026-11-22T20:56:00.000Z",
+"start": "2026-11-22T16:13:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-cadenaois-advisory-2862",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-ussf-266",
+"title": "USSF-266"
+}
+],
+"markers": [],
+"name": "Cadena OIS Advisory 2862",
+"page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2862",
+"raw": "Primary Launch Day\t16 NOV\t1707Z-2150Z\nBackup Launch Day\t17 NOV\t1658Z-2141Z\nBackup Launch Day\t18 NOV\t1649Z-2132Z\nBackup Launch Day\t19 NOV\t1640Z-2123Z\nBackup Launch Day\t20 NOV\t1631Z-2114Z\nBackup Launch Day\t21 NOV\t1622Z-2105Z\nBackup Launch Day\t22 NOV\t1613Z-2056Z\n",
+"reason": "SpaceX USSF266-TH3",
+"source": {
+"link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
+"name": "Cadena OIS"
+},
+"updated": "2026-11-09T23:00:03.201Z"
+},
+{
+"areas": [
+[
+[
+29.85,
+-119.8167
+],
+[
+29.35,
+-119.2
+],
+[
+29.2333,
+-119.1833
+],
+[
+28.9167,
+-118.7667
+],
+[
+28.65,
+-118.7167
+],
+[
+28.3,
+-119.0667
+],
+[
+28.3,
+-119.2
+],
+[
+27.6667,
+-119.25
+],
+[
+27.6667,
+-119.2833
+],
+[
+28.3,
+-119.3833
+],
+[
+28.6833,
+-119.8833
+],
+[
+28.95,
+-119.9167
+],
+[
+29.0833,
+-119.7833
+],
+[
+29.85,
+-119.8167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-16T21:50:00.000Z",
+"start": "2026-11-16T17:07:00.000Z"
+},
+{
+"end": "2026-11-17T21:41:00.000Z",
+"start": "2026-11-17T16:58:00.000Z"
+},
+{
+"end": "2026-11-18T21:32:00.000Z",
+"start": "2026-11-18T16:49:00.000Z"
+},
+{
+"end": "2026-11-19T21:23:00.000Z",
+"start": "2026-11-19T16:40:00.000Z"
+},
+{
+"end": "2026-11-20T21:14:00.000Z",
+"start": "2026-11-20T16:31:00.000Z"
+},
+{
+"end": "2026-11-21T21:05:00.000Z",
+"start": "2026-11-21T16:22:00.000Z"
+},
+{
+"end": "2026-11-22T20:56:00.000Z",
+"start": "2026-11-22T16:13:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MMFO-B4161/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-266",
+"title": "USSF-266"
+}
+],
+"markers": [],
+"name": "B4161/26",
+"page": "https://space-notices.com/notice/notam-MMFO-B4161%2F26",
+"raw": "B4161/26 NOTAMN\r\r\nQ) MMFR/QRDCA/IV/BO/W/000/999/\r\r\nA) MMFO\r\r\nB) 2611161707\r\r\nC) 2611222056\r\r\nD) 16 1707-2150, 17 1658-2141, 18 1649-2132, 19 1640-2123,\r\r\n   20 1631-2114, 21 1622-2105, 22 1613-2056\r\r\nE) DANGEROUS AREA FOR REENTRY OF ROCKET SPACEX USSF266-TH3 STAGE 1 \r\r\n   LATERAL LIMIT AREA FORMED BY THE UNION OF THE FLW POINTS:\r\r\n   2951N 11949W - 2921N 11912W - 2914N 11911W - 2855N 11846W -\r\r\n   2839N 11843W - 2818N 11904W - 2818N 11912W - 2740N 11915W - \r\r\n   2740N 11917W - 2818N 11923W - 2841N 11953W - 2857N 11955W - \r\r\n   2905N 11947W - 2951N 11949W\r\r\n   (MMFO)\r\r\nF) SFC\r\r\nG) UNL",
+"reason": "DANGEROUS AREA FOR REENTRY OF ROCKET SPACEX USSF266-TH3 STAGE 1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83035096",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-09T22:59:48.552Z"
+},
+{
+"areas": [
+[
+[
+-30.0,
+-135.85
+],
+[
+-27.8,
+-136.2167
+],
+[
+-27.3167,
+-133.1667
+],
+[
+-30.0,
+-132.5833
+],
+[
+-30.0,
+-135.85
+],
+[
+-30.0,
+-135.85
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-16T23:30:00.000Z",
+"start": "2026-11-16T18:52:00.000Z"
+},
+{
+"end": "2026-11-17T23:21:00.000Z",
+"start": "2026-11-17T18:43:00.000Z"
+},
+{
+"end": "2026-11-18T23:12:00.000Z",
+"start": "2026-11-18T18:34:00.000Z"
+},
+{
+"end": "2026-11-19T23:03:00.000Z",
+"start": "2026-11-19T18:25:00.000Z"
+},
+{
+"end": "2026-11-20T22:54:00.000Z",
+"start": "2026-11-20T18:16:00.000Z"
+},
+{
+"end": "2026-11-21T22:45:00.000Z",
+"start": "2026-11-21T18:07:00.000Z"
+},
+{
+"end": "2026-11-22T22:36:00.000Z",
+"start": "2026-11-22T17:58:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1444/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-266",
+"title": "USSF-266"
+}
+],
+"markers": [],
+"name": "A1444/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1444%2F26",
+"raw": "A1444/26 NOTAMN\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2847S13424W130\r\nA) NTTT\r\nB) 2611161852 C) 2611222236\r\nD) 16 1852-2330, 17 1843-2321, 18 1834-2312, 19 1825-2303, \r\n20 1816-2254, 21 1807-2245, 22 1758-2236\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX\r\n USSF266-TH3 IN TAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING\r\n POINTS : \r\n3000S 13551W, 2748S 13613W, 2719S 13310W, 3000S 13235W, 3000S\r\n 13551W \r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : NZZO, SCIZ \r\n\r\nTHE FRENCH VERSION OF THIS NOTAM IS C2719/26\r\nF) SFC G) UNL",
+"reason": "SPACE DEBRIS RETURN OF SPACEX USSF266-TH3",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83034694",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-09T22:59:55.881Z"
+},
+{
+"areas": [
+[
+[
+-59.7,
+-127.7167
+],
+[
+-51.4333,
+-131.0
+],
+[
+-36.95,
+-131.0
+],
+[
+-59.2167,
+-122.4
+],
+[
+-59.7,
+-127.7167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-16T23:30:00.000Z",
+"start": "2026-11-16T18:52:00.000Z"
+},
+{
+"end": "2026-11-17T23:21:00.000Z",
+"start": "2026-11-17T18:42:00.000Z"
+},
+{
+"end": "2026-11-18T23:12:00.000Z",
+"start": "2026-11-18T18:34:00.000Z"
+},
+{
+"end": "2026-11-19T23:03:00.000Z",
+"start": "2026-11-19T18:25:00.000Z"
+},
+{
+"end": "2026-11-20T22:54:00.000Z",
+"start": "2026-11-20T18:16:00.000Z"
+},
+{
+"end": "2026-11-21T22:45:00.000Z",
+"start": "2026-11-21T18:07:00.000Z"
+},
+{
+"end": "2026-11-22T22:36:00.000Z",
+"start": "2026-11-22T17:58:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-SCIZ-W3890/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-266",
+"title": "USSF-266"
+}
+],
+"markers": [],
+"name": "W3890/26",
+"page": "https://space-notices.com/notice/notam-SCIZ-W3890%2F26",
+"raw": "W3890/26 NOTAMN \r\nQ)SCIZ/QXXXX/IV/NBO/W/000/999/5329S12823W225\r\nA)SCIZ B)2611161852 C)2611222236\r\nD)16 1852-2330, 17 1842-2321, 18 1834-2312, 19 1825-2303,\r\n20 1816-2254, 21 1807-2245, 22 1758-2236\r\nE)ZONE...D... IN WATERS PACIFIC OCEAN DUE TO SPACE VEHICLE RE-ENTRY\r\nAND SPLASHDOWN ACTIVITY. THE AFFECTED AREA IS BOUNDED BY NXT GEO\r\nCOORD: \r\n594200S/1274300W\r\n512600S/1310000W\r\n365700S/1310000W\r\n591300S/1222400W\r\n594200S/1274300W\r\nINSTRUCTIONS: SANTIAGO OCEANIC CONTROL 10024KHZ FANS 1A EQUIPPED\r\nINFO PROVIDED BY SPACE X\r\nF)SFC G)UNL",
+"reason": "SPACE VEHICLE RE-ENTRY AND SPLASHDOWN ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83033537",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-09T23:00:11.438Z"
 },
 {
 "areas": [
@@ -16829,6 +17783,618 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-31T14:27:05.273Z"
+},
+{
+"areas": [
+[
+[
+27.11667,
+-123.31667
+],
+[
+25.5,
+-124.16667
+],
+[
+22.61667,
+-126.9
+],
+[
+18.35,
+-130.65
+],
+[
+19.38333,
+-131.9
+],
+[
+23.68333,
+-128.16667
+],
+[
+26.58333,
+-125.43333
+],
+[
+27.5,
+-123.75
+],
+[
+27.11667,
+-123.31667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-27T20:00:00.000Z",
+"start": "2026-11-17T23:10:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-58127",
+"kind": "LNM",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "58127",
+"page": "https://space-notices.com/notice/lnm-58127",
+"raw": "Hazardous operations, including the trunk hazard ascending, will be conducted for SpaceX CRS- 35 reentry with a splashdown in the Pacific Ocean from 172310Z NOV 2026 to 272000Z NOV 2026. Hazardous operation areas are bounded by the following coordinates:\nTrunk Hazard Area:\n27.11667N, -123.31667W\n25.50000N, -124.16667W\n22.61667N, -126.90000W\n18.35000N, -130.65000W\n19.38333N, -131.90000W\n23.68333N, -128.16667W\n26.58333N, -125.43333W\n27.50000N, -123.75000W\n27.11667N, -123.31667W (TO BEGINNING)\n\nThe identified locations above are designated a hazardous warning area(s) for space vehicle reentry. A space vehicle may reenter within this/these area(s) between the dates and times listed. The U.S. Coast guard is establishing this/these hazardous warning area(s) to protect vessels and waterway users from the potential hazards created by reentry vehicle splashdowns and recovery operations. The U.S. Coast guard is providing this notice to advise mariners of this/these hazardous area(s) which may impact navigation interests. Navigations hazards from space capsule reentry activities may include free falling debris and/or descending vehicles or vehicle components under various means of control. Mariners are urged to avoid the reentry sites during reentry windows as detailed above.  For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16",
+"reason": "Hazardous operations will be conducted for SpaceX CRS- 35 reentry",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-10T01:04:45.755Z"
+},
+{
+"areas": [
+[
+[
+27.55,
+-123.41667
+],
+[
+25.93333,
+-124.28333
+],
+[
+23.06667,
+-127.03333
+],
+[
+18.8,
+-130.8
+],
+[
+19.85,
+-132.05
+],
+[
+24.13333,
+-128.3
+],
+[
+27.03333,
+-125.33333
+],
+[
+27.93333,
+-123.85
+],
+[
+27.55,
+-123.41667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-27T20:05:00.000Z",
+"start": "2026-11-17T23:15:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-58125",
+"kind": "LNM",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "58125",
+"page": "https://space-notices.com/notice/lnm-58125",
+"raw": "Hazardous operations, including the trunk hazard ascending, will be conducted for SpaceX CRS- 35 reentry with a splashdown in the Pacific Ocean from 172315Z NOV 2026 to 272005Z NOV 2026. Hazardous operation areas are bounded by the following coordinates:\nTrunk Hazard Area:\n27.55000N, -123.41667W\n25.93333N, -124.28333W\n23.06667N, -127.03333W\n18.80000N, -130.80000W\n19.85000N, -132.05000W\n24.13333N, -128.30000W\n27.03333N, -125.33333W\n27.93333N, -123.85000W\n27.55000N, -123.41667W (TO BEGINNING)\n\nThe identified locations above are designated a hazardous warning area(s) for space vehicle reentry. A space vehicle may reenter within this/these area(s) between the dates and times listed. The U.S. Coast guard is establishing this/these hazardous warning area(s) to protect vessels and waterway users from the potential hazards created by reentry vehicle splashdowns and recovery operations. The U.S. Coast guard is providing this notice to advise mariners of this/these hazardous area(s) which may impact navigation interests. Navigations hazards from space capsule reentry activities may include free falling debris and/or descending vehicles or vehicle components under various means of control. Mariners are urged to avoid the reentry sites during reentry windows as detailed above.  For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16",
+"reason": "Hazardous operations will be conducted for SpaceX CRS-35 reentry",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-10T01:04:45.755Z"
+},
+{
+"areas": [
+[
+[
+28.26667,
+-124.91667
+],
+[
+26.65,
+-125.8
+],
+[
+23.8,
+-128.58333
+],
+[
+19.55,
+-132.4
+],
+[
+20.6,
+-133.65
+],
+[
+24.86667,
+-129.85
+],
+[
+27.75,
+-127.05
+],
+[
+28.65,
+-125.35
+],
+[
+28.26667,
+-124.91667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-27T20:15:00.000Z",
+"start": "2026-11-16T23:45:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-58122",
+"kind": "LNM",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "58122",
+"page": "https://space-notices.com/notice/lnm-58122",
+"raw": "Hazardous operations, including the trunk hazard ascending, will be conducted for SpaceX CRS- 35 reentry with a splashdown in the Pacific Ocean from 162345Z NOV 2026 to 272015Z NOV 2026 Hazardous operation areas are bounded by the following coordinates:\n\nTrunk Hazard Area:\n28.26667N, -124.91667W\n26.65000N, -125.80000W\n23.80000N, -128.58333W\n19.55000N, -132.40000W\n20.60000N, -133.65000W\n24.86667N, -129.85000W\n27.75000N, -127.05000W\n28.65000N, -125.35000W\n28.26667N, -124.91667W (TO BEGINNING)\n\nThe identified locations above are designated a hazardous warning area(s) for space vehicle reentry. A space vehicle may reenter within this/these area(s) between the dates and times listed. The U.S. Coast guard is establishing this/these hazardous warning area(s) to protect vessels and waterway users from the potential hazards created by reentry vehicle splashdowns and recovery operations. The U.S. Coast guard is providing this notice to advise mariners of this/these hazardous area(s) which may impact navigation interests. Navigations hazards from space capsule reentry activities may include free falling debris and/or descending vehicles or vehicle components under various means of control. Mariners are urged to avoid the reentry sites during reentry windows as detailed above.  For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16.",
+"reason": "Hazardous operations will be conducted for SpaceX CRS-35 reentry",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-10T01:04:32.136Z"
+},
+{
+"areas": [
+[
+[
+33.116667,
+-117.833333
+],
+[
+33.083333,
+-117.9
+],
+[
+32.933333,
+-117.9
+],
+[
+32.883333,
+-117.833333
+],
+[
+32.883333,
+-117.716667
+],
+[
+32.95,
+-117.633333
+],
+[
+33.083333,
+-117.633333
+],
+[
+33.116667,
+-117.683333
+],
+[
+33.116667,
+-117.833333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-28T03:30:00.000Z",
+"start": "2026-11-17T23:20:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-58120",
+"kind": "LNM",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "58120",
+"page": "https://space-notices.com/notice/lnm-58120",
+"raw": "Hazardous operations for Space X CRS-35 reentry, including splashdown in the Pacific Ocean. Will occur between 172320Z NOV and 280330Z NOV 2026. Hazardous operation areas are bounded by the following coordinates:  \n\nHazard Area OCEANSIDE: \n33.116667N, -117.833333W\n33.083333N, -117.9W\n32.933333N, -117.9W\n32.883333N, -117.833333W\n32.883333N, -117.716667W\n32.95N, -117.633333W\n33.083333N, -117.633333W\n33.116667N, -117.683333W\n33.116667N, -117.833333W (TO BEGINNING)\n\nMariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16",
+"reason": "Hazardous operations for Space X CRS-35 reentry, including splashdown in the Pacific Ocean",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-10T01:04:41.717Z"
+},
+{
+"areas": [
+[
+[
+33.783333,
+-119.25
+],
+[
+33.75,
+-119.3
+],
+[
+33.6,
+-119.3
+],
+[
+33.55,
+-119.233333
+],
+[
+33.55,
+-119.116667
+],
+[
+33.616667,
+-119.033333
+],
+[
+33.75,
+-119.033333
+],
+[
+33.783333,
+-119.083333
+],
+[
+33.783333,
+-119.25
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-28T03:35:00.000Z",
+"start": "2026-11-16T23:50:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-58119",
+"kind": "LNM",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "58119",
+"page": "https://space-notices.com/notice/lnm-58119",
+"raw": "Hazardous operations for Space X CRS-35 reentry, including splashdown in the Pacific Ocean. Will occur between 162350 Z NOV and 280335 Z NOV 2026.\nHazardous operation areas are bounded by the following coordinates:  \nHazard Area LOS ANGELES: \n33.783333N, -119.25W\n33.75N, -119.3W\n33.6N, -119.3W\n33.55N, -119.233333W\n33.55N, -119.116667W\n33.616667N, -119.033333W\n33.75N, -119.033333W\n33.783333N, -119.083333W\n33.783333N, -119.25W (TO BEGINNING)\n\nMariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16",
+"reason": "Hazardous operations for Space X CRS-35 reentry",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-10T01:04:45.755Z"
+},
+{
+"areas": [
+[
+[
+32.7,
+-117.8
+],
+[
+32.666667,
+-117.85
+],
+[
+32.516667,
+-117.85
+],
+[
+32.466667,
+-117.783333
+],
+[
+32.466667,
+-117.666667
+],
+[
+32.533333,
+-117.583333
+],
+[
+32.666667,
+-117.583333
+],
+[
+32.7,
+-117.633333
+],
+[
+32.7,
+-117.8
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-28T03:35:00.000Z",
+"start": "2026-11-17T23:15:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-58121",
+"kind": "LNM",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "58121",
+"page": "https://space-notices.com/notice/lnm-58121",
+"raw": "Hazardous operations for Space X CRS-35 reentry, including splashdown in the Pacific Ocean, will occur between 172315Z NOV and 280335Z NOV 2026. Hazardous operation areas are bounded by the following coordinates:  \n\nHazard Area SAN DIEGO: \n32.7N, -117.8W\n32.666667N, -117.85W\n32.516667N, -117.85W\n32.466667N, -117.783333W\n32.466667N, -117.666667W\n32.533333N, -117.583333W\n32.666667N, -117.583333W\n32.7N, -117.633333W\n32.7N, -117.8W (TO BEGINNING)\n\nMariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16.",
+"reason": "Hazardous operations for Space X CRS-35 reentry",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-10T01:04:36.371Z"
+},
+{
+"areas": [
+[
+[
+37.7,
+-124.46667
+],
+[
+38.36667,
+-126.53333
+],
+[
+40.65,
+-130.48333
+],
+[
+43.63333,
+-136.68333
+],
+[
+45.0,
+-135.6
+],
+[
+41.95,
+-129.31667
+],
+[
+39.61667,
+-125.33333
+],
+[
+38.13333,
+-124.05
+],
+[
+37.7,
+-124.46667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-28T03:50:00.000Z",
+"start": "2026-11-18T07:00:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-58124",
+"kind": "LNM",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "58124",
+"page": "https://space-notices.com/notice/lnm-58124",
+"raw": "Hazardous operations, including the trunk hazard ascending, will be conducted for SpaceX CRS- 35 reentry with a splashdown in the Pacific Ocean from 180700Z NOV 2026 to 280350Z NOV 2026 Hazardous operation areas are bounded by the following coordinates:\nTrunk Hazard Area:\n37.70000N, -124.46667W\n38.36667N, -126.53333W\n40.65000N, -130.48333W\n43.63333N, -136.68333W\n45.00000N, -135.60000W\n41.95000N, -129.31667W\n39.61667N, -125.33333W\n38.13333N, -124.05000W\n37.70000N, -124.46667W (TO BEGINNING)\n\nThe identified locations above are designated a hazardous warning area(s) for space vehicle reentry. A space vehicle may reenter within this/these area(s) between the dates and times listed. The U.S. Coast guard is establishing this/these hazardous warning area(s) to protect vessels and waterway users from the potential hazards created by reentry vehicle splashdowns and recovery operations. The U.S. Coast guard is providing this notice to advise mariners of this/these hazardous area(s) which may impact navigation interests. Navigations hazards from space capsule reentry activities may include free falling debris and/or descending vehicles or vehicle components under various means of control. Mariners are urged to avoid the reentry sites during reentry windows as detailed above.  For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16",
+"reason": "Hazardous operations will be conducted for SpaceX CRS- 35 reentry",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-10T01:04:45.755Z"
+},
+{
+"areas": [
+[
+[
+38.31667,
+-125.98333
+],
+[
+38.95,
+-128.08333
+],
+[
+41.18333,
+-132.08333
+],
+[
+44.11667,
+-138.41667
+],
+[
+45.5,
+-137.35
+],
+[
+42.5,
+-130.91667
+],
+[
+40.21667,
+-126.88333
+],
+[
+38.73333,
+-125.56667
+],
+[
+38.31667,
+-125.98333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-28T03:55:00.000Z",
+"start": "2026-11-18T07:00:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-58123",
+"kind": "LNM",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "58123",
+"page": "https://space-notices.com/notice/lnm-58123",
+"raw": "Hazardous operations, including the trunk hazard ascending, will be conducted for SpaceX CRS- 35 reentry with a splashdown in the Pacific Ocean from 180700Z NOV 2026 to 280355Z NOV 2026 Hazardous operation areas are bounded by the following coordinates:\n\nTrunk Hazard Area:\n38.31667N, -125.98333W\n38.95000N, -128.08333W\n41.18333N, -132.08333W\n44.11667N, -138.41667W\n45.50000N, -137.35000W\n42.50000N, -130.91667W\n40.21667N, -126.88333W\n38.73333N, -125.56667W\n38.31667N, -125.98333W (TO BEGINNING)\n\nThe identified locations above are designated a hazardous warning area(s) for space vehicle reentry. A space vehicle may reenter within this/these area(s) between the dates and times listed. The U.S. Coast guard is establishing this/these hazardous warning area(s) to protect vessels and waterway users from the potential hazards created by reentry vehicle splashdowns and recovery operations. The U.S. Coast guard is providing this notice to advise mariners of this/these hazardous area(s) which may impact navigation interests. Navigations hazards from space capsule reentry activities may include free falling debris and/or descending vehicles or vehicle components under various means of control. Mariners are urged to avoid the reentry sites during reentry windows as detailed above.  For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16",
+"reason": "Hazardous operations will be conducted for SpaceX CRS- 35 reentry",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-10T01:04:26.600Z"
+},
+{
+"areas": [
+[
+[
+37.33333,
+-124.35
+],
+[
+38.0,
+-126.41667
+],
+[
+40.3,
+-130.31667
+],
+[
+43.33333,
+-136.45
+],
+[
+44.7,
+-135.35
+],
+[
+41.6,
+-129.13333
+],
+[
+39.25,
+-125.2
+],
+[
+37.75,
+-123.93333
+],
+[
+37.33333,
+-124.35
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-28T03:55:00.000Z",
+"start": "2026-11-18T07:00:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-58126",
+"kind": "LNM",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "58126",
+"page": "https://space-notices.com/notice/lnm-58126",
+"raw": "Hazardous operations, including the trunk hazard ascending, will be conducted for SpaceX CRS- 35 reentry with a splashdown in the Pacific Ocean from 180700Z NOV 2026 to 280355Z NOV 2026. Hazardous operation areas are bounded by the following coordinates:\n\nTrunk Hazard Area:\n37.33333N, -124.35000W\n38.00000N, -126.41667W\n40.30000N, -130.31667W\n43.33333N, -136.45000W\n44.70000N, -135.35000W\n41.60000N, -129.13333W\n39.25000N, -125.20000W\n37.75000N, -123.93333W\n37.33333N, -124.35000W (TO BEGINNING)\n\nThe identified locations above are designated a hazardous warning area(s) for space vehicle reentry. A space vehicle may reenter within this/these area(s) between the dates and times listed. The U.S. Coast guard is establishing this/these hazardous warning area(s) to protect vessels and waterway users from the potential hazards created by reentry vehicle splashdowns and recovery operations. The U.S. Coast guard is providing this notice to advise mariners of this/these hazardous area(s) which may impact navigation interests. Navigations hazards from space capsule reentry activities may include free falling debris and/or descending vehicles or vehicle components under various means of control. Mariners are urged to avoid the reentry sites during reentry windows as detailed above.  For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16",
+"reason": "Hazardous operations will be conducted for SpaceX CRS- 35 reentry",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-10T01:04:45.755Z"
 },
 {
 "areas": [],
@@ -21015,8 +22581,8 @@
 "updated": "2026-10-12T14:08:59.809Z"
 }
 ],
-"pending": 10,
+"pending": 11,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3399
+"total_known": 3420
 }
