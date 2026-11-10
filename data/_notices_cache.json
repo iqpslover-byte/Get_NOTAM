@@ -10655,6 +10655,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209132-26": {
+"gone": "2026-11-10",
 "lastmod": "2026-10-21T22:46:23.338Z",
 "notice": {
 "areas": [
@@ -13233,6 +13234,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-cadenaois-advisory-2830": {
+"gone": "2026-11-10",
 "lastmod": "2026-10-26T18:32:04.442Z",
 "notice": {
 "areas": [],
@@ -14219,6 +14221,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-16": {
+"gone": "2026-11-10",
 "lastmod": "2026-10-23T19:52:43.083Z",
 "notice": {
 "areas": [],
@@ -22855,6 +22858,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-56736": {
+"gone": "2026-11-10",
 "lastmod": "2026-10-21T22:45:57.090Z",
 "notice": {
 "areas": [
@@ -24807,7 +24811,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-58124": {
-"lastmod": "2026-11-10T01:04:45.755Z",
+"lastmod": "2026-11-10T04:00:37.067Z",
 "notice": {
 "areas": [
 [
@@ -24874,12 +24878,12 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-10T01:04:45.755Z"
+"updated": "2026-11-10T04:00:37.067Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-58125": {
-"lastmod": "2026-11-10T01:04:45.755Z",
+"lastmod": "2026-11-10T04:15:30.413Z",
 "notice": {
 "areas": [
 [
@@ -24946,12 +24950,12 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-10T01:04:45.755Z"
+"updated": "2026-11-10T04:15:30.413Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-58126": {
-"lastmod": "2026-11-10T01:04:45.755Z",
+"lastmod": "2026-11-10T04:46:58.207Z",
 "notice": {
 "areas": [
 [
@@ -25018,12 +25022,12 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-10T01:04:45.755Z"
+"updated": "2026-11-10T04:46:58.207Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-58127": {
-"lastmod": "2026-11-10T01:04:45.755Z",
+"lastmod": "2026-11-10T04:47:04.999Z",
 "notice": {
 "areas": [
 [
@@ -25090,9 +25094,9 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-10T01:04:45.755Z"
+"updated": "2026-11-10T04:47:04.999Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROARC%2010%2F24": {
 "lastmod": "",
@@ -96471,6 +96475,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%203028%2F26": {
+"gone": "2026-11-10",
 "lastmod": "2026-10-19T03:45:50.093Z",
 "notice": {
 "areas": [
@@ -101830,6 +101835,84 @@
 "updated": ""
 },
 "via": "backfill"
+},
+"https://space-notices.com/notice/nav-warning-HYDROPAC%203286%2F26": {
+"lastmod": "2026-11-10T12:20:02.139Z",
+"notice": {
+"areas": [
+[
+[
+24.4667,
+132.7667
+],
+[
+25.0333,
+133.7667
+],
+[
+22.1833,
+135.65
+],
+[
+21.6167,
+134.6667
+],
+[
+24.4667,
+132.7667
+]
+],
+[
+[
+15.7,
+138.9167
+],
+[
+16.1333,
+139.7333
+],
+[
+13.9167,
+140.9833
+],
+[
+13.4833,
+140.1833
+],
+[
+15.7,
+138.9167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-13T09:00:00.000Z",
+"start": "2026-11-13T05:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3286/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-mir-demo-flight",
+"title": "Demo Flight"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3286/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203286%2F26",
+"raw": "101215Z NOV 26\nHYDROPAC 3286/26\nNORTH PACIFIC.\nPHILIPPINE SEA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   130500Z TO 130900Z NOV IN AREAS BOUND BY:\n   A. 24-28.48N 132-46.07E, 25-02.50N 133-46.72E,\n      22-11.55N 135-39.85E, 21-37.87N 134-40.25E.\n   B. 15-42.05N 138-55.09E, 16-08.44N 139-44.03E,\n      13-55.76N 140-59.81E, 13-29.48N 140-11.29E.\n2. CANCEL THIS MSG 131000Z NOV 26.\n",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3286&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-11-10T12:20:02.139Z"
+},
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%203289%2F22": {
 "lastmod": "",
@@ -223522,6 +223605,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20737%2F26": {
+"gone": "2026-11-10",
 "lastmod": "2026-10-19T03:48:23.919Z",
 "notice": {
 "areas": [
@@ -241281,6 +241365,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-MMFR-B3055%2F26": {
+"gone": "2026-11-10",
 "lastmod": "2026-10-16T20:05:28.589Z",
 "notice": {
 "areas": [
@@ -249442,6 +249527,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1334%2F26": {
+"gone": "2026-11-10",
 "lastmod": "2026-10-16T18:20:29.816Z",
 "notice": {
 "areas": [
@@ -249760,6 +249846,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1359%2F26": {
+"gone": "2026-11-10",
 "lastmod": "2026-10-22T20:45:30.889Z",
 "notice": {
 "areas": [
@@ -249905,6 +249992,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1372%2F26": {
+"gone": "2026-11-10",
 "lastmod": "2026-10-24T18:28:30.150Z",
 "notice": {
 "areas": [
@@ -258094,6 +258182,114 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-RJJJ-P5648%2F26": {
+"lastmod": "2026-11-10T10:08:44.051Z",
+"notice": {
+"areas": [
+[
+[
+23.9333,
+144.6167
+],
+[
+26.15,
+151.2333
+],
+[
+27.7667,
+156.6
+],
+[
+29.45,
+165.0
+],
+[
+28.4,
+165.0
+],
+[
+28.4,
+165.0
+],
+[
+28.2,
+163.75
+],
+[
+27.0,
+157.8
+],
+[
+27.0,
+155.0
+],
+[
+26.3333,
+155.0
+],
+[
+23.45,
+144.8167
+],
+[
+23.9333,
+144.6167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T05:01:00.000Z",
+"start": "2026-11-14T01:30:00.000Z"
+},
+{
+"end": "2026-11-15T05:01:00.000Z",
+"start": "2026-11-15T01:30:00.000Z"
+},
+{
+"end": "2026-11-16T05:01:00.000Z",
+"start": "2026-11-16T01:30:00.000Z"
+},
+{
+"end": "2026-11-17T05:01:00.000Z",
+"start": "2026-11-17T01:30:00.000Z"
+},
+{
+"end": "2026-11-18T05:01:00.000Z",
+"start": "2026-11-18T01:30:00.000Z"
+},
+{
+"end": "2026-11-19T05:01:00.000Z",
+"start": "2026-11-19T01:30:00.000Z"
+},
+{
+"end": "2026-11-20T05:01:00.000Z",
+"start": "2026-11-20T01:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RJJJ-P5648/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "P5648/26",
+"page": "https://space-notices.com/notice/notam-RJJJ-P5648%2F26",
+"raw": "P5648/26 NOTAMN\r\nQ)RJJJ/QXXXX/IV/NBO/E/000/999/2630N15445E573\r\nA)RJJJ B)2611140130 C)2611200501\r\nD)0130/0501\r\nE)DUE TO AN AEROSPACE FLIGHT ACTIVITY, THE FLIGHT SAFETY OF THE\r\nAIRCRAFT IN FOLLOWING AREA MAY BE AFFECTED THRU NOV 14-20 2026,\r\n0130-0501 DLY\r\n\r\nAREA:\r\n2356N14437E - 2609N15114E - 2746N15636E - 2927N16500E - 2824N16500E -\r\n2824N16500E - 2812N16345E - 2700N15748E - 2700N15500E - 2620N15500E -\r\n2327N14449E - 2356N14437E\r\n\r\nALTITUDE:\r\nSFC - UNL\r\n\r\nRMK: ATC WILL NOT CLEAR IFR FLT THRU THIS AREA FOR THE FLIGHT SAFETY.\r\nF)SFC G)UNL",
+"reason": "DUE TO AN AEROSPACE FLIGHT ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83038561",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-10T10:08:44.051Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-RJJJ-P5756%2F25": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -259194,6 +259390,63 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-09T12:41:22.289Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-RJJJ-Q2693%2F26": {
+"lastmod": "2026-11-10T05:26:04.689Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T05:01:00.000Z",
+"start": "2026-11-14T01:30:00.000Z"
+},
+{
+"end": "2026-11-15T05:01:00.000Z",
+"start": "2026-11-15T01:30:00.000Z"
+},
+{
+"end": "2026-11-16T05:01:00.000Z",
+"start": "2026-11-16T01:30:00.000Z"
+},
+{
+"end": "2026-11-17T05:01:00.000Z",
+"start": "2026-11-17T01:30:00.000Z"
+},
+{
+"end": "2026-11-18T05:01:00.000Z",
+"start": "2026-11-18T01:30:00.000Z"
+},
+{
+"end": "2026-11-19T05:01:00.000Z",
+"start": "2026-11-19T01:30:00.000Z"
+},
+{
+"end": "2026-11-20T05:01:00.000Z",
+"start": "2026-11-20T01:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RJJJ-Q2693/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "Q2693/26",
+"page": "https://space-notices.com/notice/notam-RJJJ-Q2693%2F26",
+"raw": "Q2693/26 NOTAMN\r\nQ)RJJJ/QARCH/IV/BO/E/000/999/3310N14118E999\r\nA)RJJJ B)2611140130 C)2611200501\r\nD)0130/0501\r\nE)ALTN RTE ARE ESTABLISHED DUE TO AN AEROSPACE FLIGHT ACTIVITY.\r\n1.FLT PLANNED RTE IS REQ TO BE FILED AS FLW\r\n (1)A337(SAGOP - TEGOD)\r\n    (FOR RNP10)\r\n     ALTN RTE: DAGDA - A337 - NOGAK - 2340N14410E - TEGOD\r\n    (FOR NON RNP10)\r\n     ALTN RTE: DAGDA - G223 - BEGAD - NOGAK - 2340N14340E\r\n               - 2250N14400E - TEGOD\r\n (2)B452(UPDOB - ATIGO)\r\n     ALTN RTE:NOT ESTABLISHED\r\n (3)G223(KAKNI - BEEBO)\r\n     ALTN RTE:NOT ESTABLISHED\r\n\r\n2.REQ TO BE PLAN VIA ATC ROUTE OR DESIGNATED ALTERNATE ROUTE.\r\nOTHERWISE AVOID U.S. ROCKET FIRING IMPACT AREA BY AT LEAST 25NM(RNP10\r\nACFT) OR 50NM(NON-RNP10 ACFT)\r\n\r\n3.SEE NOTAM RJAAYNYX P5648/26\r\nF)SFC G)UNL",
+"reason": "AN AEROSPACE FLIGHT ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83038565",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-10T05:26:04.689Z"
 },
 "via": "sitemap"
 },
@@ -265057,6 +265310,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SCIZ-W3534%2F26": {
+"gone": "2026-11-10",
 "lastmod": "2026-10-16T14:31:28.806Z",
 "notice": {
 "areas": [
@@ -277437,6 +277691,382 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-06T10:29:45.143Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-YMMM-E4212%2F26": {
+"lastmod": "2026-11-10T05:29:38.658Z",
+"notice": {
+"areas": [
+[
+[
+-23.7,
+75.0
+],
+[
+-23.05,
+76.9833
+],
+[
+-21.75,
+80.95
+],
+[
+-18.9333,
+87.7
+],
+[
+-16.2333,
+93.6167
+],
+[
+-15.2667,
+95.4333
+],
+[
+-15.3,
+95.5167
+],
+[
+-15.4167,
+95.8333
+],
+[
+-15.5,
+96.2
+],
+[
+-15.5667,
+96.5667
+],
+[
+-15.5667,
+97.0333
+],
+[
+-15.55,
+97.2333
+],
+[
+-15.5,
+97.55
+],
+[
+-15.4667,
+97.7
+],
+[
+-15.4333,
+97.8333
+],
+[
+-15.4,
+97.9667
+],
+[
+-15.3667,
+98.05
+],
+[
+-15.3167,
+98.1833
+],
+[
+-15.3,
+98.2333
+],
+[
+-15.9333,
+98.5167
+],
+[
+-17.0667,
+96.6333
+],
+[
+-19.9333,
+91.0333
+],
+[
+-23.0333,
+84.1
+],
+[
+-24.9833,
+79.1
+],
+[
+-23.7,
+75.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-20T01:14:00.000Z",
+"start": "2026-11-13T22:53:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-YMMM-E4212/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "E4212/26",
+"page": "https://space-notices.com/notice/notam-YMMM-E4212%2F26",
+"raw": "E4212/26 NOTAMN\r\nQ) YMMM/QRDCA/IV/BO/W/000/999/2009S08749E730\r\nA) YMMM\r\nB) 2611132253 C) 2611200114\r\nD) DAILY 2253 TO 0114 \r\nE) TEMPO DANGER AREA ACT\r\nROCKET LAUNCH WILL TAKE PLACE FLW RECEIVED FM GOVERNMENT OF UNITED\r\nSTATES OF AMERICA: HAZARDOUS OPS WILL BE CONDUCTED FOR ATMOSPHERIC\r\nRE-ENTRY AND SPLASHDOWN OF SPACEX ULA KV-01 ROCKET STAGE 2 WI THE\r\nFOLLOWING AREAS BOUNDED BY 2342S 07500E - 2303S 07659E - 2145S 08057E\r\n- 1856S 08742E - 1614S 09337E - 1516S 09526E - 1518S 09531E - 1525S\r\n09550E - 1530S 09612E - 1534S 09634E - 1534S 09702E - 1533S 09714E -\r\n1530S 09733E - 1528S 09742E - 1526S 09750E - 1524S 09758E - 1522S\r\n09803E - 1519S 09811E - 1518S 09814E - 1556S 09831E - 1704S 09638E -\r\n1956S 09102E - 2302S 08406E - 2459S 07906E - 2342S 07500E\r\nF) SFC G) UNL",
+"reason": "ATMOSPHERIC RE-ENTRY AND SPLASHDOWN OF SPACEX ULA KV-01 ROCKET STAGE 2",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83038588",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-10T05:29:38.658Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-YMMM-E4213%2F26": {
+"lastmod": "2026-11-10T05:38:38.634Z",
+"notice": {
+"areas": [
+[
+[
+-37.8,
+83.6
+],
+[
+-48.0833,
+117.0333
+],
+[
+-54.7167,
+115.65
+],
+[
+-43.1833,
+78.45
+],
+[
+-37.8,
+83.6
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-13T21:24:00.000Z",
+"start": "2026-11-13T20:28:00.000Z"
+},
+{
+"end": "2026-11-14T21:02:00.000Z",
+"start": "2026-11-14T20:06:00.000Z"
+},
+{
+"end": "2026-11-15T20:41:00.000Z",
+"start": "2026-11-15T19:45:00.000Z"
+},
+{
+"end": "2026-11-16T20:20:00.000Z",
+"start": "2026-11-16T19:24:00.000Z"
+},
+{
+"end": "2026-11-17T19:58:00.000Z",
+"start": "2026-11-17T19:02:00.000Z"
+},
+{
+"end": "2026-11-18T19:37:00.000Z",
+"start": "2026-11-18T18:41:00.000Z"
+},
+{
+"end": "2026-11-19T19:16:00.000Z",
+"start": "2026-11-19T18:20:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-YMMM-E4213/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "E4213/26",
+"page": "https://space-notices.com/notice/notam-YMMM-E4213%2F26",
+"raw": "E4213/26 NOTAMN\r\nQ) YMMM/QRTCA/IV/BO/W/000/999/4714S09656E840\r\nA) YMMM\r\nB) 2611132028 C) 2611191916\r\nD) 2611132028 TO 2611132124\r\n   2611142006 TO 2611142102\r\n   2611151945 TO 2611152041\r\n   2611161924 TO 2611162020\r\n   2611171902 TO 2611171958\r\n   2611181841 TO 2611181937\r\n   2611191820 TO 2611191916\r\nE) TEMPO DANGER AREA ACT\r\nROCKET LAUNCH WILL TAKE PLACE FLW RECEIVED FM GOVERNMENT OF UNITED\r\nSTATES OF AMERICA: HAZARDOUS OPS WILL BE CONDUCTED FOR ATMOSPHERIC\r\nRE-ENTRY AND SPLASHDOWN OF ULA KV-01 ROCKET STAGE 2 WI THE\r\nFOLLOWING AREAS BOUNDED BY 3748S 08336E - 4805S 11702E - \r\n5443S 11539E - 4311S 07827E - 3748S 08336E\r\nF) SFC G) UNL",
+"reason": "HAZARDOUS OPS WILL BE CONDUCTED FOR ATMOSPHERIC RE-ENTRY AND SPLASHDOWN OF ULA KV-01 ROCKET STAGE 2",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83038623",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-10T05:38:38.634Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-YMMM-E4215%2F26": {
+"lastmod": "2026-11-10T10:21:33.516Z",
+"notice": {
+"areas": [
+[
+[
+-23.7,
+75.0
+],
+[
+-23.05,
+76.9833
+],
+[
+-21.75,
+80.95
+],
+[
+-18.9333,
+87.7
+],
+[
+-16.2333,
+93.6167
+],
+[
+-15.2667,
+95.4333
+],
+[
+-15.3,
+95.5167
+],
+[
+-15.4167,
+95.8333
+],
+[
+-15.5,
+96.2
+],
+[
+-15.5667,
+96.5667
+],
+[
+-15.5667,
+97.0333
+],
+[
+-15.55,
+97.2333
+],
+[
+-15.5,
+97.55
+],
+[
+-15.4667,
+97.7
+],
+[
+-15.4333,
+97.8333
+],
+[
+-15.4,
+97.9667
+],
+[
+-15.3667,
+98.05
+],
+[
+-15.3167,
+98.1833
+],
+[
+-15.3,
+98.2333
+],
+[
+-15.9333,
+98.5167
+],
+[
+-17.0667,
+96.6333
+],
+[
+-19.9333,
+91.0333
+],
+[
+-23.0333,
+84.1
+],
+[
+-24.9833,
+79.1
+],
+[
+-23.7,
+75.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T01:14:00.000Z",
+"start": "2026-11-13T22:53:00.000Z"
+},
+{
+"end": "2026-11-15T01:14:00.000Z",
+"start": "2026-11-14T22:53:00.000Z"
+},
+{
+"end": "2026-11-16T01:14:00.000Z",
+"start": "2026-11-15T22:53:00.000Z"
+},
+{
+"end": "2026-11-17T01:14:00.000Z",
+"start": "2026-11-16T22:53:00.000Z"
+},
+{
+"end": "2026-11-18T01:14:00.000Z",
+"start": "2026-11-17T22:53:00.000Z"
+},
+{
+"end": "2026-11-19T01:14:00.000Z",
+"start": "2026-11-18T22:53:00.000Z"
+},
+{
+"end": "2026-11-20T01:14:00.000Z",
+"start": "2026-11-19T22:53:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-YMMM-E4215/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "E4215/26",
+"page": "https://space-notices.com/notice/notam-YMMM-E4215%2F26",
+"raw": "E4215/26 NOTAMN\r\nQ) YMMM/QRDCA/IV/BO/W/000/999/2009S08749E730\r\nA) YMMM\r\nB) 2611132253 C) 2611200114\r\nD) DAILY 2253-0114\r\n \r\nE) TEMPO DANGER AREA ACT\r\nROCKET LAUNCH WILL TAKE PLACE FLW RECEIVED FM GOVERNMENT OF UNITED\r\nSTATES OF AMERICA: HAZARDOUS OPS WILL BE CONDUCTED FOR ATMOSPHERIC\r\nRE-ENTRY AND SPLASHDOWN OF SPACEX STARSHIP FLT-15 ROCKET STAGE 2 WI\r\nTHE\r\nFOLLOWING AREAS BOUNDED BY 2342S 07500E - 2303S 07659E - 2145S 08057E\r\n- 1856S 08742E - 1614S 09337E - 1516S 09526E - 1518S 09531E - 1525S\r\n09550E - 1530S 09612E - 1534S 09634E - 1534S 09702E - 1533S 09714E -\r\n1530S 09733E - 1528S 09742E - 1526S 09750E - 1524S 09758E - 1522S\r\n09803E - 1519S 09811E - 1518S 09814E - 1556S 09831E - 1704S 09638E -\r\n1956S 09102E - 2302S 08406E - 2459S 07906E - 2342S 07500E\r\nF) SFC G) UNL",
+"reason": "ATMOSPHERIC RE-ENTRY AND SPLASHDOWN OF SPACEX STARSHIP FLT-15 ROCKET STAGE 2",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83039212",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-10T10:21:33.516Z"
 },
 "via": "sitemap"
 },
@@ -300307,6 +300937,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F280-26": {
+"gone": "2026-11-10",
 "lastmod": "2026-10-22T10:13:24.612Z",
 "notice": {
 "areas": [
@@ -300367,6 +300998,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F281-26": {
+"gone": "2026-11-10",
 "lastmod": "2026-10-22T10:19:28.241Z",
 "notice": {
 "areas": [
@@ -300423,6 +301055,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F292-26": {
+"gone": "2026-11-10",
 "lastmod": "2026-10-24T09:57:35.432Z",
 "notice": {
 "areas": [
@@ -300479,6 +301112,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F293-26": {
+"gone": "2026-11-10",
 "lastmod": "2026-10-24T09:57:44.206Z",
 "notice": {
 "areas": [
@@ -300628,6 +301262,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F300-26": {
+"gone": "2026-11-10",
 "lastmod": "2026-10-25T10:07:24.704Z",
 "notice": {
 "areas": [
@@ -300684,6 +301319,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F301-26": {
+"gone": "2026-11-10",
 "lastmod": "2026-10-25T10:16:37.276Z",
 "notice": {
 "areas": [
@@ -300744,6 +301380,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F312-26": {
+"gone": "2026-11-10",
 "lastmod": "2026-10-26T10:11:44.016Z",
 "notice": {
 "areas": [
@@ -300804,6 +301441,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F313-26": {
+"gone": "2026-11-10",
 "lastmod": "2026-10-26T10:11:35.969Z",
 "notice": {
 "areas": [
