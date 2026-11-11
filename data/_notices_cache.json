@@ -6271,6 +6271,192 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/bnm-CGD-SE%20BNM%209081-26": {
+"lastmod": "2026-11-11T15:27:50.932Z",
+"notice": {
+"areas": [
+[
+[
+-37.8,
+83.6
+],
+[
+-48.083333,
+117.033333
+],
+[
+-54.716667,
+115.65
+],
+[
+-43.183333,
+78.45
+],
+[
+-37.8,
+83.6
+]
+],
+[
+[
+43.633333,
+-59.4
+],
+[
+44.283333,
+-57.766667
+],
+[
+44.883333,
+-55.683333
+],
+[
+44.516667,
+-55.333333
+],
+[
+42.983333,
+-57.383333
+],
+[
+42.583333,
+-59.033333
+],
+[
+43.633333,
+-59.4
+]
+],
+[
+[
+29.233333,
+-80.033333
+],
+[
+29.816667,
+-79.433333
+],
+[
+29.633333,
+-79.216667
+],
+[
+29.066667,
+-79.833333
+],
+[
+29.233333,
+-80.033333
+]
+],
+[
+[
+28.653889,
+-80.630833
+],
+[
+29.8,
+-79.883333
+],
+[
+31.383333,
+-77.966667
+],
+[
+34.183333,
+-74.2
+],
+[
+36.466667,
+-71.05
+],
+[
+36.25,
+-70.9
+],
+[
+34.216667,
+-73.633333
+],
+[
+32.316667,
+-75.9
+],
+[
+29.45,
+-78.633333
+],
+[
+28.683333,
+-79.6
+],
+[
+28.55,
+-80.066667
+],
+[
+28.490556,
+-80.542222
+],
+[
+28.653889,
+-80.630833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-13T21:24:00.000Z",
+"start": "2026-11-13T20:28:00.000Z"
+},
+{
+"end": "2026-11-14T21:03:00.000Z",
+"start": "2026-11-14T20:06:00.000Z"
+},
+{
+"end": "2026-11-15T20:42:00.000Z",
+"start": "2026-11-15T19:45:00.000Z"
+},
+{
+"end": "2026-11-16T20:20:00.000Z",
+"start": "2026-11-16T19:24:00.000Z"
+},
+{
+"end": "2026-11-17T19:59:00.000Z",
+"start": "2026-11-17T19:02:00.000Z"
+},
+{
+"end": "2026-11-18T19:38:00.000Z",
+"start": "2026-11-18T18:41:00.000Z"
+},
+{
+"end": "2026-11-19T19:16:00.000Z",
+"start": "2026-11-19T18:20:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SE BNM 9081-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "CGD-SE BNM 9081-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SE%20BNM%209081-26",
+"raw": "Launch Hazard Area\nMission: VULCAN KV-01\nMessage Id: CGD-SE BNM 9081-26\n\n\n13/2028 NOV 26 to 13/2124 NOV 26. \n14/2006 NOV 26 to 14/2103 NOV 26. \n15/1945 NOV 26 to 15/2042 NOV 26. \n16/1924 NOV 26 to 16/2020 NOV 26. \n17/1902 NOV 26 to 17/1959 NOV 26. \n18/1841 NOV 26 to 18/1938 NOV 26. \n19/1820 NOV 26 to 19/1916 NOV 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
+"reason": "Launch Hazard Area - VULCAN KV-01",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-11T15:27:50.932Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/bnm-CGD-SE%20BNM%209137-25": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -21966,7 +22152,7 @@
 "markers": [],
 "name": "54442",
 "page": "https://space-notices.com/notice/lnm-54442",
-"raw": "$3f",
+"raw": "$40",
 "reason": "Hazardous operations will be conducted for Space X SDA-T1A Launch Operations",
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
@@ -26945,6 +27131,214 @@
 "updated": "2026-11-11T01:02:22.285Z"
 },
 "via": "sitemap"
+},
+"https://space-notices.com/notice/lnm-58224": {
+"lastmod": "2026-11-11T15:27:50.932Z",
+"notice": {
+"areas": [
+[
+[
+36.46667,
+-71.05
+],
+[
+34.18333,
+-74.2
+],
+[
+31.38333,
+-77.96667
+],
+[
+29.8,
+-79.88333
+],
+[
+28.65389,
+-80.63083
+],
+[
+28.49056,
+-80.54222
+],
+[
+28.55,
+-80.06667
+],
+[
+28.68333,
+-79.6
+],
+[
+29.45,
+-78.63333
+],
+[
+32.31667,
+-75.9
+],
+[
+34.21667,
+-73.63333
+],
+[
+36.25,
+-70.9
+],
+[
+36.46667,
+-71.05
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-13T19:32:00.000Z",
+"start": "2026-11-13T17:54:00.000Z"
+},
+{
+"end": "2026-11-14T19:11:00.000Z",
+"start": "2026-11-14T17:32:00.000Z"
+},
+{
+"end": "2026-11-15T18:50:00.000Z",
+"start": "2026-11-15T17:11:00.000Z"
+},
+{
+"end": "2026-11-16T18:28:00.000Z",
+"start": "2026-11-16T16:50:00.000Z"
+},
+{
+"end": "2026-11-17T18:07:00.000Z",
+"start": "2026-11-17T16:28:00.000Z"
+},
+{
+"end": "2026-11-18T17:46:00.000Z",
+"start": "2026-11-18T16:07:00.000Z"
+},
+{
+"end": "2026-11-19T17:24:00.000Z",
+"start": "2026-11-19T15:46:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-58224",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "58224",
+"page": "https://space-notices.com/notice/lnm-58224",
+"raw": "Space Operations/Hazardous Warning Area/Government Supported (Hazardous)\n\n1. SPACE LAUNCH OPERATIONS, WHICH MAY BE HAZARDOUS TO SURFACE VESSELS, WILL\nBE CONDUCTED WITHIN PORTIONS OF THE FOLLOWING HAZARD AREAS FOR VULCAN KV-01:\nA. FROM 28-39-14N/080-37-51W\nTO 29-48-00N/079-53-00W\nTO 31-23-00N/077-58-00W\nTO 34-11-00N/074-12-00W\nTO 36-28-00N/071-03-00W\nTO 36-15-00N/070-54-00W\nTO 34-13-00N/073-38-00W\nTO 32-19-00N/075-54-00W\nTO 29-27-00N/078-38-00W\nTO 28-41-00N/079-36-00W\nTO 28-33-00N/080-04-00W\nTO 28-29-26N/080-32-32W TO BEGINNING\n\n2. HAZARD PERIODS FOR PRIMARY LAUNCH DAY AND BACKUP LAUNCH DAYS (ALL TIMES\nARE REPRESENTED AS ZULU TIME UNLESS OTHERWISE INDICATED):\n13/1754 NOV 26 TO 13/1932 NOV 26.\n14/1732 NOV 26 TO 14/1911 NOV 26.\n15/1711 NOV 26 TO 15/1850 NOV 26.\n16/1650 NOV 26 TO 16/1828 NOV 26.\n17/1628 NOV 26 TO 17/1807 NOV 26.\n18/1607 NOV 26 TO 18/1746 NOV 26.\n19/1546 NOV 26 TO 19/1724 NOV 26.\n\n3. THE U.S. COAST GUARD HAS ESTABLISHED A REGULATED NAVIGATION AREA UNDER 33\nCFR 165.775 TO ENCOMPASS THE WATERS BOUND BY THE COORDINATES:\nA. FROM 28-38-35N/080-37-24W\nTO 28-47-53.9N/080-27-52.3W\nTO 28-42-58.5N/080-24-11.5W\nTO 28-40-32.5N/080-22-20.1W\nTO 28-36-59.9N/080-21-00.6W\nTO 28-34-42.2N/080-20-15.2W\nTO 28-33-16.6N/080-19-29.5W\nTO 28-31-14N/080-33-24W, THEN FOLLOWING THE SHORELINE BACK TO THE POINT OF\nORIGIN.\nB. MARINERS ARE ADVISED THAT THE AREA ENCOMPASSED BY THIS ZONE IS CLOSED TO\nALL VESSELS AND PERSONS EXCEPT AS AUTHORIZED BY THE COMMANDER, COAST GUARD\nDISTRICT SOUTHEAST OR THE CAPTAIN OF THE PORT, JACKSONVILLE, FL BEGINNING 45\nMINUTES PRIOR TO THE SCHEDULED LAUNCH WINDOW IN THIS NOTICE UNTIL REOPENED BY\nTHE CAPTAIN OF THE PORT, JACKSONVILLE, FL VIA BROADCAST ON VHF-FM CHANNEL 16\nAND CANCELLATION OF THIS BROADCAST NOTICE TO MARINERS MESSAGE. DETAILED\nLAUNCH INFORMATION IS AVAILABLE ON THE DAY OF LAUNCH BY CONTACTING THE U.S.\nCOAST GUARD VIA VHF-FM CHANNEL 16 AND 81A OR THROUGH THE U.S. SPACE FORCE\nLAUNCH INFORMATION HOTLINE AT 1-800-470-7232.\n4. THE U.S. SPACE FORCE AND KENNEDY SPACE CENTER MAY CHOOSE TO ENFORCE A\nRESTRICTED AREA AS SPECIFIED IN 33 CFR 334.525 AND 33 CFR 334.595. PRIMARILY\nBEGINNING 2 HOURS PRIOR TO THE SCHEDULED LAUNCH WINDOW OF ANY ROCKET\nLAUNCHES. THE RESTRICTED AREA WOULD REMAIN IN EFFECT UNTIL SUSPENDED BY SPACE\nLAUNCH DELTA 45.\n5. THE U.S. COAST GUARD IS PROVIDING THIS NOTICE TO ADVISE MARINERS OF THESE\nHAZARDOUS AREAS IDENTIFIED BY U.S. SPACE FORCE AND/OR A COMMERCIAL SPACE\nOPERATION, WHICH MAY IMPACT NAVIGATION INTERESTS. NAVIGATION HAZARDS FROM\nROCKET LAUNCH ACTIVITIES MAY INCLUDE FREE FALLING DEBRIS AND/OR DESCENDING\nVEHICLES OR VEHICLE COMPONENTS UNDER VARIOUS MEANS OF CONTROL. MARINERS ARE\nURGED TO AVOID WATERS WITHIN ROCKET FLIGHT TRAJECTORIES/HAZARD AREAS DURING\nLAUNCH WINDOWS AS DETAILED ABOVE.\n6. FOR MORE INFORMATION, MARINERS MAY CONTACT THE U.S. SPACE FORCE LAUNCH\nINFORMATION HOTLINE AT 1-800-470-7232 OR BY VISITING\nWWW.PATRICK.SPACEFORCE.MIL. FOR NAVIGATIONAL SAFETY, MARINERS ARE ADVISED TO\nREFER TO WWW.NAVCEN.USCG.GOV/MSI TO VIEW THE LOCAL NOTICE TO MARINERS (LNM)\nAND THE GEOSPATIAL CHART AT WWW.NAVCEN.USCG.GOV/CHART FOR INFORMATION ON\nSPACE LAUNCH AND RECOVERY OPERATIONS (SOLAR).",
+"reason": "Hazardous operations will be conducted for Vulcan KV-01 launch by U.S. Space Force and Kennedy Space Center",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-11T15:27:50.932Z"
+},
+"via": "entry"
+},
+"https://space-notices.com/notice/lnm-58225": {
+"lastmod": "2026-11-11T15:27:50.932Z",
+"notice": {
+"areas": [
+[
+[
+28.79831,
+-80.46453
+],
+[
+28.64306,
+-80.63083
+],
+[
+28.52056,
+-80.55667
+],
+[
+28.55461,
+-80.31666
+],
+[
+28.57839,
+-80.33756
+],
+[
+28.61664,
+-80.35017
+],
+[
+28.67569,
+-80.37225
+],
+[
+28.71625,
+-80.40319
+],
+[
+28.79831,
+-80.46453
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-13T19:32:00.000Z",
+"start": "2026-11-13T17:54:00.000Z"
+},
+{
+"end": "2026-11-14T19:11:00.000Z",
+"start": "2026-11-14T17:32:00.000Z"
+},
+{
+"end": "2026-11-15T18:50:00.000Z",
+"start": "2026-11-15T17:11:00.000Z"
+},
+{
+"end": "2026-11-16T18:28:00.000Z",
+"start": "2026-11-16T16:50:00.000Z"
+},
+{
+"end": "2026-11-17T18:07:00.000Z",
+"start": "2026-11-17T16:28:00.000Z"
+},
+{
+"end": "2026-11-18T17:46:00.000Z",
+"start": "2026-11-18T16:07:00.000Z"
+},
+{
+"end": "2026-11-19T17:24:00.000Z",
+"start": "2026-11-19T15:46:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-58225",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "58225",
+"page": "https://space-notices.com/notice/lnm-58225",
+"raw": "Space Operations/Active RNA/Government Supported (RNA)\n\n1. SPACE LAUNCH OPERATIONS, WHICH MAY BE HAZARDOUS TO SURFACE VESSELS, WILL\nBE CONDUCTED WITHIN PORTIONS OF THE FOLLOWING HAZARD AREAS FOR VULCAN KV-01:\nA. FROM 28-39-14N/080-37-51W\nTO 29-48-00N/079-53-00W\nTO 31-23-00N/077-58-00W\nTO 34-11-00N/074-12-00W\nTO 36-28-00N/071-03-00W\nTO 36-15-00N/070-54-00W\nTO 34-13-00N/073-38-00W\nTO 32-19-00N/075-54-00W\nTO 29-27-00N/078-38-00W\nTO 28-41-00N/079-36-00W\nTO 28-33-00N/080-04-00W\nTO 28-29-26N/080-32-32W TO BEGINNING\n\n2. HAZARD PERIODS FOR PRIMARY LAUNCH DAY AND BACKUP LAUNCH DAYS (ALL TIMES\nARE REPRESENTED AS ZULU TIME UNLESS OTHERWISE INDICATED):\n13/1754 NOV 26 TO 13/1932 NOV 26.\n14/1732 NOV 26 TO 14/1911 NOV 26.\n15/1711 NOV 26 TO 15/1850 NOV 26.\n16/1650 NOV 26 TO 16/1828 NOV 26.\n17/1628 NOV 26 TO 17/1807 NOV 26.\n18/1607 NOV 26 TO 18/1746 NOV 26.\n19/1546 NOV 26 TO 19/1724 NOV 26.\n\n3. THE U.S. COAST GUARD HAS ESTABLISHED A REGULATED NAVIGATION AREA UNDER 33\nCFR 165.775 TO ENCOMPASS THE WATERS BOUND BY THE COORDINATES:\nA. FROM 28-38-35N/080-37-24W\nTO 28-47-53.9N/080-27-52.3W\nTO 28-42-58.5N/080-24-11.5W\nTO 28-40-32.5N/080-22-20.1W\nTO 28-36-59.9N/080-21-00.6W\nTO 28-34-42.2N/080-20-15.2W\nTO 28-33-16.6N/080-19-29.5W\nTO 28-31-14N/080-33-24W, THEN FOLLOWING THE SHORELINE BACK TO THE POINT OF\nORIGIN.\nB. MARINERS ARE ADVISED THAT THE AREA ENCOMPASSED BY THIS ZONE IS CLOSED TO\nALL VESSELS AND PERSONS EXCEPT AS AUTHORIZED BY THE COMMANDER, COAST GUARD\nDISTRICT SOUTHEAST OR THE CAPTAIN OF THE PORT, JACKSONVILLE, FL BEGINNING 45\nMINUTES PRIOR TO THE SCHEDULED LAUNCH WINDOW IN THIS NOTICE UNTIL REOPENED BY\nTHE CAPTAIN OF THE PORT, JACKSONVILLE, FL VIA BROADCAST ON VHF-FM CHANNEL 16\nAND CANCELLATION OF THIS BROADCAST NOTICE TO MARINERS MESSAGE. DETAILED\nLAUNCH INFORMATION IS AVAILABLE ON THE DAY OF LAUNCH BY CONTACTING THE U.S.\nCOAST GUARD VIA VHF-FM CHANNEL 16 AND 81A OR THROUGH THE U.S. SPACE FORCE\nLAUNCH INFORMATION HOTLINE AT 1-800-470-7232.\n4. THE U.S. SPACE FORCE AND KENNEDY SPACE CENTER MAY CHOOSE TO ENFORCE A\nRESTRICTED AREA AS SPECIFIED IN 33 CFR 334.525 AND 33 CFR 334.595. PRIMARILY\nBEGINNING 2 HOURS PRIOR TO THE SCHEDULED LAUNCH WINDOW OF ANY ROCKET\nLAUNCHES. THE RESTRICTED AREA WOULD REMAIN IN EFFECT UNTIL SUSPENDED BY SPACE\nLAUNCH DELTA 45.\n5. THE U.S. COAST GUARD IS PROVIDING THIS NOTICE TO ADVISE MARINERS OF THESE\nHAZARDOUS AREAS IDENTIFIED BY U.S. SPACE FORCE AND/OR A COMMERCIAL SPACE\nOPERATION, WHICH MAY IMPACT NAVIGATION INTERESTS. NAVIGATION HAZARDS FROM\nROCKET LAUNCH ACTIVITIES MAY INCLUDE FREE FALLING DEBRIS AND/OR DESCENDING\nVEHICLES OR VEHICLE COMPONENTS UNDER VARIOUS MEANS OF CONTROL. MARINERS ARE\nURGED TO AVOID WATERS WITHIN ROCKET FLIGHT TRAJECTORIES/HAZARD AREAS DURING\nLAUNCH WINDOWS AS DETAILED ABOVE.\n6. FOR MORE INFORMATION, MARINERS MAY CONTACT THE U.S. SPACE FORCE LAUNCH\nINFORMATION HOTLINE AT 1-800-470-7232 OR BY VISITING\nWWW.PATRICK.SPACEFORCE.MIL. FOR NAVIGATIONAL SAFETY, MARINERS ARE ADVISED TO\nREFER TO WWW.NAVCEN.USCG.GOV/MSI TO VIEW THE LOCAL NOTICE TO MARINERS (LNM)\nAND THE GEOSPATIAL CHART AT WWW.NAVCEN.USCG.GOV/CHART FOR INFORMATION ON\nSPACE LAUNCH AND RECOVERY OPERATIONS (SOLAR).",
+"reason": "Hazardous operations will be conducted for Vulcan KV-01",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-11T15:27:50.932Z"
+},
+"via": "entry"
 },
 "https://space-notices.com/notice/nav-warning-HYDROARC%2010%2F24": {
 "lastmod": "",
@@ -234358,6 +234752,98 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-MDCS-A0699%2F26": {
+"lastmod": "2026-11-11T21:20:35.304Z",
+"notice": {
+"areas": [
+[
+[
+17.3667,
+-71.6833
+],
+[
+17.0,
+-71.6667
+],
+[
+16.4333,
+-71.6667
+],
+[
+16.0667,
+-70.6333
+],
+[
+16.0,
+-70.4833
+],
+[
+16.0,
+-68.1833
+],
+[
+16.4,
+-69.1667
+],
+[
+17.3667,
+-71.6833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T00:40:00.000Z",
+"start": "2026-11-13T22:45:00.000Z"
+},
+{
+"end": "2026-11-15T00:40:00.000Z",
+"start": "2026-11-14T22:45:00.000Z"
+},
+{
+"end": "2026-11-16T00:40:00.000Z",
+"start": "2026-11-15T22:45:00.000Z"
+},
+{
+"end": "2026-11-17T00:40:00.000Z",
+"start": "2026-11-16T22:45:00.000Z"
+},
+{
+"end": "2026-11-18T00:40:00.000Z",
+"start": "2026-11-17T22:45:00.000Z"
+},
+{
+"end": "2026-11-19T00:40:00.000Z",
+"start": "2026-11-18T22:45:00.000Z"
+},
+{
+"end": "2026-11-20T00:40:00.000Z",
+"start": "2026-11-19T22:45:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MDCS-A0699/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "A0699/26",
+"page": "https://space-notices.com/notice/notam-MDCS-A0699%2F26",
+"raw": "A0699/26 NOTAMN\r\nQ) MDCS/QRDCA/IV/BO/W/000/999/1822N06957W999\r\nA) MDCS B) 2611132245 C) 2611200040\r\nD) 2245-0040\r\nE) DUE TO SPACEX STARSHIP FLIGHT-15 SPACE OPERATIONS, \r\nA DEBRIS RESPONSE AREA (DRA) IS ESTABLISHED WITHIN SANTO DOMINGO FIR.\r\nALL FLIGHT OPERATIONS ARE RESTRICTED WITHIN THE AREA \r\nDESCRIBED BELOW DURING THE PERIOD OF THIS NOTAM. \r\nTHE DRA IS BOUNDED BY: \r\n1722N07141W \r\n1700N07140W \r\n1626N07140W \r\n1604N07038W \r\n1600N07029W\r\n1600N06811W\r\n1624N06910W\r\n1722N07141W \r\nAIRCRAFT SHALL AVOID THE AREA AND COMPLY WITH ATC \r\nINSTRUCTIONS. ATFM MEASURES, INCLUDING GROUND \r\nDELAYS, ROUTE DEVIATIONS AND AIRBORNE HOLDING, MAY BE \r\nAPPLIED\r\nF) SFC G) UNL",
+"reason": "SPACEX STARSHIP FLIGHT-15 SPACE OPERATIONS",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83057042",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T21:20:35.304Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-MHCC-A1432%2F26": {
 "lastmod": "2026-07-15T16:58:11.052Z",
 "notice": {
@@ -235879,7 +236365,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-MKJK-A0455%2F26": {
-"lastmod": "2026-11-11T12:40:30.769Z",
+"lastmod": "2026-11-11T16:28:42.977Z",
 "notice": {
 "areas": [
 [
@@ -235958,9 +236444,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83055415",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-11T12:40:30.769Z"
+"updated": "2026-11-11T16:28:42.977Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-MMFO-B1827%2F26": {
 "gone": "2026-10-02",
@@ -249772,6 +250258,94 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-09-22T13:22:25.909Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-MWCR-A0460%2F26": {
+"lastmod": "2026-11-11T17:18:10.898Z",
+"notice": {
+"areas": [
+[
+[
+19.95,
+-82.0167
+],
+[
+20.0,
+-82.0
+],
+[
+20.0,
+-79.5
+],
+[
+19.3333,
+-79.5
+],
+[
+19.2167,
+-79.7167
+],
+[
+19.3667,
+-80.2667
+],
+[
+19.95,
+-82.0167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T00:40:00.000Z",
+"start": "2026-11-13T22:45:00.000Z"
+},
+{
+"end": "2026-11-15T00:40:00.000Z",
+"start": "2026-11-14T22:45:00.000Z"
+},
+{
+"end": "2026-11-16T00:40:00.000Z",
+"start": "2026-11-15T22:45:00.000Z"
+},
+{
+"end": "2026-11-17T00:40:00.000Z",
+"start": "2026-11-16T22:45:00.000Z"
+},
+{
+"end": "2026-11-18T00:40:00.000Z",
+"start": "2026-11-17T22:45:00.000Z"
+},
+{
+"end": "2026-11-19T00:40:00.000Z",
+"start": "2026-11-18T22:45:00.000Z"
+},
+{
+"end": "2026-11-20T00:40:00.000Z",
+"start": "2026-11-19T22:45:00.000Z"
+}
+],
+"height": "24500FT",
+"id": "notam-MWCR-A0460/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "A0460/26",
+"page": "https://space-notices.com/notice/notam-MWCR-A0460%2F26",
+"raw": "A0460/26 NOTAMN\r\nQ) MKJK/QRTCA/IV/BO/W/000/245/1918N08122W114\r\nA) MWCR\r\nB) 2611132245 C) 2611200040\r\nD) DAILY 2245 - 0040\r\nE) TEMPO RESTRICTED AREA ACT DUE TO POSSIBILITY OF FALLING DEBRIS\r\nCAUSED BY SPACEX STARSHIP FLT-15 LAUNCH.\r\nAREA BOUNDED BY COORD:\r\n195700N0820100W-\r\n200000N0820000W-\r\n200000N0793000W-\r\n192000N0793000W-\r\n191300N0794300W-\r\n192200N0801600W-\r\n195700N0820100W.\r\nCTN ADZ.\r\nF) SFC G) 24500FT AMSL",
+"reason": "POS...",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83055723",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T17:18:10.898Z"
 },
 "via": "sitemap"
 },
@@ -271025,6 +271599,116 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-TNCF-A0635%2F26": {
+"lastmod": "2026-11-11T20:13:39.066Z",
+"notice": {
+"areas": [
+[
+[
+17.0,
+-71.6667
+],
+[
+16.4333,
+-71.6667
+],
+[
+16.95,
+-73.0667
+],
+[
+17.0,
+-73.0
+],
+[
+17.0,
+-71.6667
+]
+],
+[
+[
+16.0,
+-70.4833
+],
+[
+15.8,
+-69.9333
+],
+[
+15.4,
+-68.5
+],
+[
+15.0333,
+-67.2
+],
+[
+15.5667,
+-67.0833
+],
+[
+16.0,
+-68.2167
+],
+[
+16.0,
+-70.4833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T00:45:00.000Z",
+"start": "2026-11-13T22:45:00.000Z"
+},
+{
+"end": "2026-11-15T00:45:00.000Z",
+"start": "2026-11-14T22:45:00.000Z"
+},
+{
+"end": "2026-11-16T00:45:00.000Z",
+"start": "2026-11-15T22:45:00.000Z"
+},
+{
+"end": "2026-11-17T00:45:00.000Z",
+"start": "2026-11-16T22:45:00.000Z"
+},
+{
+"end": "2026-11-18T00:45:00.000Z",
+"start": "2026-11-17T22:45:00.000Z"
+},
+{
+"end": "2026-11-19T00:45:00.000Z",
+"start": "2026-11-18T22:45:00.000Z"
+},
+{
+"end": "2026-11-20T00:45:00.000Z",
+"start": "2026-11-19T22:45:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-TNCF-A0635/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "A0635/26",
+"page": "https://space-notices.com/notice/notam-TNCF-A0635%2F26",
+"raw": "A0635/26 NOTAMN\r\nQ) TNCF/QRDCA/IV/BO/W/000/999/1700N07140W250\r\nA) TNCF\r\nB) 2611132245 C) 2611200045\r\nD) 2245-0045\r\nE) DEBRIS RESPONSE AREAS(DRA) WITHIN CUR FIR MAY BE ACTIVATED IF\r\nREQUIRED DUE TO STARSHIP FLT 15 LAUNCH MALFUNCTION. IF\r\nACTIVATED, DRA ESTABLISHED AS TEMPORARY DANGER AREA. DRA\r\nBOUNDED BY: 1700N07140W-1626N07140W-1657N07304W-1700N07300W\r\nAND 1600N07029W-1548N06956W-1524N06830W-1502N06712W-1534N06705W-\r\n1600N06813W. DEPARTURES WITHIN CUR TMA MAY EXPECT GND DELAYS. \r\nACFT WITHIN CUR FIR MAY EXPECT AIRBORNE HOLDING. ATC WILL ADVISE\r\nDRA ACTIVATION AND RESUMPTION OF NORMAL OPS.DRA ACTIVATION, IF\r\nREQUIRED, MAY OCCUR ON 261113. SHOULD THE LAUNCH BE POSTPONED,\r\nDRA MAY BE ACTIVATED, IF REQUIRED, ON ANY OF THE FOLLOWING\r\nBACKUP DATES: 261114, 261115, 261116,261117, 261118 OR 261119.\r\nF) SFC G) UNL",
+"reason": "DEBRIS RESPONSE AREAS(DRA) WITHIN CUR FIR MAY BE ACTIVATED IF REQUIRED DUE TO STARSHIP FLT 15 LAUNCH MALFUNCTION",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83056768",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T20:13:39.066Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-TTZP-A0263%2F25": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -276445,7 +277129,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-TTZP-A1764%2F26": {
-"lastmod": "2026-11-11T12:40:30.769Z",
+"lastmod": "2026-11-11T15:12:17.174Z",
 "notice": {
 "areas": [
 [
@@ -276496,12 +277180,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83054737",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-11T12:40:30.769Z"
+"updated": "2026-11-11T15:12:17.174Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-TTZP-A1765%2F26": {
-"lastmod": "2026-11-11T12:40:30.769Z",
+"lastmod": "2026-11-11T15:24:59.165Z",
 "notice": {
 "areas": [
 [
@@ -276586,12 +277270,68 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83054843",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-11T12:40:30.769Z"
+"updated": "2026-11-11T15:24:59.165Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-TTZP-A1767%2F26": {
-"lastmod": "2026-11-11T12:40:30.769Z",
+"lastmod": "2026-11-11T16:25:16.692Z",
+"notice": {
+"areas": [
+[
+[
+12.9,
+-60.7333
+],
+[
+12.3333,
+-60.3833
+],
+[
+11.5667,
+-61.6
+],
+[
+11.9333,
+-62.3
+],
+[
+12.9,
+-60.7333
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-11-14T02:20:00.000Z",
+"start": "2026-11-13T22:45:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-TTZP-A1767/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "A1767/26",
+"page": "https://space-notices.com/notice/notam-TTZP-A1767%2F26",
+"raw": "A1767/26 NOTAMN\r\nQ) TTZP/QXXXX/IV/NBO/W/000/999/1450N05112W999\r\nA) TTZP\r\nB) 2611132245 C) 2611140220\r\nE) A DEBRIS RESPONSE AREA HAS BEEN DEFINED WITHIN THE PIARCO FIR DUE\r\nTO THE LAUNCH OF THE &apos;SPACE X STARSHIP FLIGHT 15&apos; ROCKET. THE AREA\r\nIS BOUNDED BY THE FOLLOWING COORDINATES:\r\n1254N06044W  1220N06023W - 1134N06136W - 1156N06218W - 1254N06044W.\r\nPRIMARY LAUNCH DATE: 261113\r\nBACK-UP DATES: 261114 261115 261116 261117 261118 261119.\r\nF) SFC G) UNL",
+"reason": "DEBRIS RESPONSE AREA\nSPACE X STARSHIP FLIGHT 15",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83055394",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T16:25:16.692Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-TTZP-A1769%2F26": {
+"lastmod": "2026-11-11T16:37:45.489Z",
 "notice": {
 "areas": [
 [
@@ -276625,7 +277365,7 @@
 }
 ],
 "height": "Unlimited",
-"id": "notam-TTZP-A1767/26",
+"id": "notam-TTZP-A1769/26",
 "kind": "NOTAM",
 "launches": [
 {
@@ -276634,17 +277374,85 @@
 }
 ],
 "markers": [],
-"name": "A1767/26",
-"page": "https://space-notices.com/notice/notam-TTZP-A1767%2F26",
-"raw": "A1767/26 NOTAMN\r\nQ) TTZP/QXXXX/IV/NBO/W/000/999/1450N05112W999\r\nA) TTZP\r\nB) 2611132245 C) 2611140220\r\nE) A DEBRIS RESPONSE AREA HAS BEEN DEFINED WITHIN THE PIARCO FIR DUE\r\nTO THE LAUNCH OF THE &apos;SPACE X STARSHIP FLIGHT 15&apos; ROCKET. THE AREA\r\nIS BOUNDED BY THE FOLLOWING COORDINATES:\r\n1254N06044W  1220N06023W - 1134N06136W - 1156N06218W - 1254N06044W.\r\nPRIMARY LAUNCH DATE: 261113\r\nBACK-UP DATES: 261114 261115 261116 261117 261118 261119.\r\nF) SFC G) UNL",
-"reason": "DEBRIS RESPONSE AREA\nSPACE X STARSHIP FLIGHT 15",
+"name": "A1769/26",
+"page": "https://space-notices.com/notice/notam-TTZP-A1769%2F26",
+"raw": "A1769/26 NOTAMN\r\nQ) TTZP/QXXXX/IV/NBO/W/135/999/1450N05112W999\r\nA) TTZP\r\nB) 2611132245 C) 2611140220\r\nE) A DEBRIS RESPONSE AREA HAS BEEN DEFINED WITHIN THE PIARCO FIR DUE\r\nTO THE LAUNCH OF THE &apos;SPACE X STARSHIP FLIGHT 15&apos; ROCKET. THE AREA\r\nIS BOUNDED BY THE FOLLOWING COORDINATES:\r\n1254N06044W - 1220N06023W - 1134N06136W - 1156N06218W - 1254N06044W.\r\n \r\nPRIMARY LAUNCH DATE: 261113\r\nBACK-UP DATES: 261114 261115 261116 261117 261118 261119.\r\nF) FL135 G) UNL",
+"reason": "DEBRIS RESPONSE AREA DUE TO LAUNCH OF SPACE X STARSHIP FLIGHT 15",
 "source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83055394",
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83055464",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-11T12:40:30.769Z"
+"updated": "2026-11-11T16:37:45.489Z"
 },
-"via": "entry"
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-TTZP-A1770%2F26": {
+"lastmod": "2026-11-11T16:43:16.691Z",
+"notice": {
+"areas": [
+[
+[
+12.0333,
+-59.0
+],
+[
+12.9,
+-60.7333
+],
+[
+12.3333,
+-60.3833
+],
+[
+12.0833,
+-60.0833
+],
+[
+11.9833,
+-59.8333
+],
+[
+11.9333,
+-59.5667
+],
+[
+11.95,
+-59.3
+],
+[
+12.0333,
+-59.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T02:20:00.000Z",
+"start": "2026-11-13T22:45:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-TTZP-A1770/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "A1770/26",
+"page": "https://space-notices.com/notice/notam-TTZP-A1770%2F26",
+"raw": "A1770/26 NOTAMN\r\nQ) TTZP/QXXXX/IV/NBO/W/245/999/1450N05112W999\r\nA) TTZP\r\nB) 2611132245 C) 2611140220\r\nE) A DEBRIS RESPONSE AREA HAS BEEN DEFINED WITHIN THE PIARCO FIR DUE\r\nTO THE LAUNCH OF THE &apos;SPACE X STARSHIP FLIGHT 15&apos; ROCKET. THE AREA\r\nIS BOUNDED BY THE FOLLOWING COORDINATES: 1202N05900W - 1254N06044W -\r\n1220N06023W - 1205N06005W - 1159N05950W - 1156N05934W - 1157N05918W\r\n- 1202N05900W  PRIMARY\r\nLAUNCH DATE: 261113\r\nBACK-UP DATES: 261114 261115 261116 261117 261118 261119.\r\nF) FL245 G) UNL",
+"reason": "DEBRIS RESPONSE AREA DUE TO THE LAUNCH OF SPACE X STARSHIP FLIGHT 15",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83055496",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T16:43:16.691Z"
+},
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-TVSA-A1064%2F26": {
 "lastmod": "2026-07-13T20:51:28.187Z",
@@ -286841,6 +287649,58 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-11T12:26:43.994Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZAK-11%2F111-26": {
+"lastmod": "2026-11-11T17:18:44.228Z",
+"notice": {
+"areas": [
+[
+[
+27.0,
+155.0
+],
+[
+27.0,
+157.8167
+],
+[
+26.3333,
+155.0
+],
+[
+27.0,
+155.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-20T05:01:00.000Z",
+"start": "2026-11-14T01:30:00.000Z"
+}
+],
+"height": "Unknown",
+"id": "notam-ZAK-11/111-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "11/111",
+"page": "https://space-notices.com/notice/notam-ZAK-11%2F111-26",
+"raw": "!CARF 11/111 ZAK AIRSPACE SPACEX HAS PLANNED A ROCKET LAUNCH. DEBRIS FM THIS LAUNCH WILL FALL WI AN AREA DEFINED AS 270000N 1550000E TO 270000N 1574900E TO 262000N 1550000E TO POINT OF ORIGIN. IN THE INTEREST OF SAFETY ALL NON-PARTICIPATING AIR TFC ARE ADZ TO AVOID THE NOTAMED AREA. IFR ACFT UNDER ATC JURISDICTION SHOULD ANTICIPATE CLR AROUND THE NOTAMED AREA. SFC- UNL 2611140130-2611200501",
+"reason": "SPACEX ROCKET LAUNCH",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83055725",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T17:18:44.228Z"
 },
 "via": "sitemap"
 },
@@ -339954,6 +340814,198 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/tfr-ZHU-6%2F7129": {
+"lastmod": "2026-11-11T16:51:08.668Z",
+"notice": {
+"areas": [
+[
+[
+25.9333,
+-97.1667
+],
+[
+26.0167,
+-97.2
+],
+[
+26.0667,
+-97.1167
+],
+[
+26.1,
+-96.9167
+],
+[
+26.0,
+-96.9167
+],
+[
+26.0,
+-97.0
+],
+[
+25.9333,
+-97.1667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T00:40:00.000Z",
+"start": "2026-11-13T22:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "tfr-ZHU-6/7129",
+"kind": "TFR",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "FDC 6/7129",
+"page": "https://space-notices.com/notice/tfr-ZHU-6%2F7129",
+"raw": "!FDC 6/7129 ZHU TX..AIRSPACE STARBASE, TX..TEMPORARY FLIGHT RESTRICTIONS. PURSUANT TO 14 CFR SECTION 91.143, SPACE OPS AREA, ACFT OPS ARE PROHIBITED WI AN AREA DEFINED AS 255600N0971000W (BRO078011.3) TO 260100N0971200W (BRO051011) TO 260400N0970700W (BRO050016.4) TO 260600N0965500W (BRO058026.9) TO 260000N0965500W (BRO071025.2) TO 260000N0970000W (BRO068020.8) TO POINT OF ORIGIN SFC-UNL EFFECTIVE 2611132230 UTC (1630 LOCAL 11/13/26) UNTIL 2611140040 UTC (1840 LOCAL 11/13/26). SPACE OPS AREA: ACFT OPS ARE PROHIBITIED. EXCLUDING AIRSPACE OVER INTERNATIONAL WATERS. UAS OPR WHO DO NOT COMPLY WITH APPLICABLE AIRSPACE RESTRICTIONS ARE WARNED THAT PURSUANT TO 10 U.S.C.SECTION 130I AND 6 U.S.C.SECTION 124N, THE DEPARTMENT OF DEFENSE (DOD), THE DEPARTMENT OF HOMELAND SECURITY (DHS) OR THE DEPARTMENT OF JUSTICE (DOJ) MAY TAKE SECURITY ACTION THAT RESULTS IN THE INTERFERENCE, DISRUPTION, SEIZURE, DAMAGING, OR DESTRUCTION OF UNMANNED ACFT DEEMED TO POSE A CREDIBLE SAFETY OR SECURITY THREAT TO PROTECTED PERSONNEL, FAC, OR ASSETS. THE HOUSTON /ZHU/ ARTCC, TEL 281-230-5560, IS THE CDN FAC. 2611132230-2611140040",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83055561",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T16:51:08.668Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tfr-ZHU-6%2F7130": {
+"lastmod": "2026-11-11T16:52:02.323Z",
+"notice": {
+"areas": [
+[
+[
+25.9333,
+-97.1667
+],
+[
+26.0167,
+-97.2
+],
+[
+26.0667,
+-97.1167
+],
+[
+26.1,
+-96.9167
+],
+[
+26.0,
+-96.9167
+],
+[
+26.0,
+-97.0
+],
+[
+25.9333,
+-97.1667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-15T00:40:00.000Z",
+"start": "2026-11-14T22:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "tfr-ZHU-6/7130",
+"kind": "TFR",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "FDC 6/7130",
+"page": "https://space-notices.com/notice/tfr-ZHU-6%2F7130",
+"raw": "!FDC 6/7130 ZHU TX..AIRSPACE STARBASE, TX..TEMPORARY FLIGHT RESTRICTIONS. PURSUANT TO 14 CFR SECTION 91.143, SPACE OPS AREA, ACFT OPS ARE PROHIBITED WI AN AREA DEFINED AS 255600N0971000W (BRO078011.3) TO 260100N0971200W (BRO051011) TO 260400N0970700W (BRO050016.4) TO 260600N0965500W (BRO058026.9) TO 260000N0965500W (BRO071025.2) TO 260000N0970000W (BRO068020.8) TO POINT OF ORIGIN SFC-UNL EFFECTIVE 2611142230 UTC (1630 LOCAL 11/14/26) UNTIL 2611150040 UTC (1840 LOCAL 11/14/26). SPACE OPS AREA: ACFT OPS ARE PROHIBITIED. EXCLUDING AIRSPACE OVER INTERNATIONAL WATERS. UAS OPR WHO DO NOT COMPLY WITH APPLICABLE AIRSPACE RESTRICTIONS ARE WARNED THAT PURSUANT TO 10 U.S.C.SECTION 130I AND 6 U.S.C.SECTION 124N, THE DEPARTMENT OF DEFENSE (DOD), THE DEPARTMENT OF HOMELAND SECURITY (DHS) OR THE DEPARTMENT OF JUSTICE (DOJ) MAY TAKE SECURITY ACTION THAT RESULTS IN THE INTERFERENCE, DISRUPTION, SEIZURE, DAMAGING, OR DESTRUCTION OF UNMANNED ACFT DEEMED TO POSE A CREDIBLE SAFETY OR SECURITY THREAT TO PROTECTED PERSONNEL, FAC, OR ASSETS. HOUSTON /ZHU/ ARTCC, TEL 281-230-5560, IS THE FAA CDN FAC. 2611142230-2611150040",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83055562",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T16:52:02.323Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tfr-ZHU-6%2F7131": {
+"lastmod": "2026-11-11T17:04:02.060Z",
+"notice": {
+"areas": [
+[
+[
+25.9333,
+-97.1667
+],
+[
+26.0167,
+-97.2
+],
+[
+26.0667,
+-97.1167
+],
+[
+26.1,
+-96.9167
+],
+[
+26.0,
+-96.9167
+],
+[
+26.0,
+-97.0
+],
+[
+25.9333,
+-97.1667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-15T00:14:00.000Z",
+"start": "2026-11-14T20:53:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "tfr-ZHU-6/7131",
+"kind": "TFR",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "FDC 6/7131",
+"page": "https://space-notices.com/notice/tfr-ZHU-6%2F7131",
+"raw": "!FDC 6/7131 ZHU TX..AIRSPACE STARBASE, TX..TEMPORARY FLIGHT RESTRICTIONS. PURSUANT TO 14 CFR SECTION 91.143, SPACE OPS AREA, ACFT OPS ARE PROHIBITED WI AN AREA DEFINED AS 255600N0971000W (BRO078011.3) TO 260100N0971200W (BRO051011) TO 260400N0970700W (BRO050016.4) TO 260600N0965500W (BRO058026.9) TO 260000N0965500W (BRO071025.2) TO 260000N0970000W (BRO068020.8) TO POINT OF ORIGIN SFC-UNL EFFECTIVE 2611142053 UTC (1453 LOCAL 11/14/26) UNTIL 2611150014 UTC (1814 LOCAL 11/14/26). SPACE OPS AREA: ACFT OPS ARE PROHIBITIED. EXCLUDING AIRSPACE OVER INTERNATIONAL WATERS. UAS OPR WHO DO NOT COMPLY WITH APPLICABLE AIRSPACE RESTRICTIONS ARE WARNED THAT PURSUANT TO 10 U.S.C.SECTION 130I AND 6 U.S.C.SECTION 124N, THE DEPARTMENT OF DEFENSE (DOD), THE DEPARTMENT OF HOMELAND SECURITY (DHS) OR THE DEPARTMENT OF JUSTICE (DOJ) MAY TAKE SECURITY ACTION THAT RESULTS IN THE INTERFERENCE, DISRUPTION, SEIZURE, DAMAGING, OR DESTRUCTION OF UNMANNED ACFT DEEMED TO POSE A CREDIBLE SAFETY OR SECURITY THREAT TO PROTECTED PERSONNEL, FAC, OR ASSETS. THE HOUSTON /ZHU/ ARTCC, TEL 281-230-5560, IS THE CDN FAC. 2611142053-2611150014",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83055569",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T17:04:02.060Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/tfr-ZHU-6%2F7489": {
 "lastmod": "2026-07-21T17:04:08.992Z",
 "notice": {
@@ -343195,7 +344247,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZJX-6%2F7112": {
-"lastmod": "2026-11-11T12:44:08.878Z",
+"lastmod": "2026-11-11T15:24:50.929Z",
 "notice": {
 "areas": [
 [
@@ -343374,12 +344426,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83054847",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-11T12:44:08.878Z"
+"updated": "2026-11-11T15:24:50.929Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZJX-6%2F7114": {
-"lastmod": "2026-11-11T12:44:08.878Z",
+"lastmod": "2026-11-11T15:27:50.923Z",
 "notice": {
 "areas": [
 [
@@ -343558,9 +344610,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83054866",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-11T12:44:08.878Z"
+"updated": "2026-11-11T15:27:50.923Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZJX-6%2F8896": {
 "gone": "2026-10-27",
@@ -349994,7 +351046,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-6%2F7109": {
-"lastmod": "2026-11-11T12:44:08.878Z",
+"lastmod": "2026-11-11T15:15:50.881Z",
 "notice": {
 "areas": [
 [
@@ -350173,12 +351225,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83054782",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-11T12:44:08.878Z"
+"updated": "2026-11-11T15:15:50.881Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-6%2F7111": {
-"lastmod": "2026-11-11T12:44:08.878Z",
+"lastmod": "2026-11-11T15:23:18.233Z",
 "notice": {
 "areas": [
 [
@@ -350357,12 +351409,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83054830",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-11T12:44:08.878Z"
+"updated": "2026-11-11T15:23:18.233Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-6%2F7113": {
-"lastmod": "2026-11-11T12:44:08.878Z",
+"lastmod": "2026-11-11T15:27:08.101Z",
 "notice": {
 "areas": [
 [
@@ -350541,9 +351593,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83054858",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-11T12:44:08.878Z"
+"updated": "2026-11-11T15:27:08.101Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/tfr-ZMA-6%2F7476": {
 "lastmod": "2026-04-23T14:04:24.726Z",
