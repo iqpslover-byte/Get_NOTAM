@@ -12782,7 +12782,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209148-26": {
-"lastmod": "2026-11-10T23:48:19.060Z",
+"lastmod": "2026-11-11T01:02:44.760Z",
 "notice": {
 "areas": [
 [
@@ -12961,12 +12961,12 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-10T23:48:19.060Z"
+"updated": "2026-11-11T01:02:44.760Z"
 },
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209149-26": {
-"lastmod": "2026-11-09T23:00:11.437Z",
+"lastmod": "2026-11-11T01:14:33.612Z",
 "notice": {
 "areas": [
 [
@@ -13131,9 +13131,9 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-09T23:00:11.437Z"
+"updated": "2026-11-11T01:14:33.612Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-blueorigin-ng-2": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -21966,7 +21966,7 @@
 "markers": [],
 "name": "54442",
 "page": "https://space-notices.com/notice/lnm-54442",
-"raw": "$40",
+"raw": "$3f",
 "reason": "Hazardous operations will be conducted for Space X SDA-T1A Launch Operations",
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
@@ -26773,7 +26773,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-58218": {
-"lastmod": "2026-11-09T23:00:11.437Z",
+"lastmod": "2026-11-11T01:02:22.285Z",
 "notice": {
 "areas": [
 [
@@ -26942,9 +26942,9 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-09T23:00:11.437Z"
+"updated": "2026-11-11T01:02:22.285Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROARC%2010%2F24": {
 "lastmod": "",

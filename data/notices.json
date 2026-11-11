@@ -1,163 +1,7 @@
 {
-"count": 318,
-"generated_utc": "2026-11-11T01:29:54Z",
+"count": 315,
+"generated_utc": "2026-11-11T08:25:33Z",
 "notices": [
-{
-"areas": [
-[
-[
-39.2,
-89.5667
-],
-[
-39.5333,
-86.5333
-],
-[
-39.2333,
-86.4833
-],
-[
-38.9,
-89.5167
-],
-[
-39.2,
-89.5667
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-10-12T02:16:00.000Z",
-"start": "2026-10-12T01:03:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZWUQ-A5087/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "A5087/26",
-"page": "https://space-notices.com/notice/notam-ZWUQ-A5087%2F26",
-"raw": "A5087/26 NOTAMN\r\nQ)ZWUQ/QRDCA/IV/BO/W/000/999/3914N08802E072\r\nA)ZWUQ B)2610120103 C)2610120216 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED \r\nBY:N391250E0893445-N393221E0863257-N391410E0862928-N385440E0893116,\r\n BACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA ESTABLISHED",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82699233",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-10T06:51:58.743Z"
-},
-{
-"areas": [
-[
-[
-39.1167,
-91.1167
-],
-[
-39.35,
-88.3667
-],
-[
-38.9833,
-88.3333
-],
-[
-38.75,
-91.0667
-],
-[
-39.1167,
-91.1167
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-12T04:16:00.000Z",
-"start": "2026-10-12T03:01:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLHW-A5089/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "A5089/26",
-"page": "https://space-notices.com/notice/notam-ZLHW-A5089%2F26",
-"raw": "A5089/26 NOTAMN\r\nQ)ZXXX/QRDCA/IV/BO/W/000/999/3903N08943E066\r\nA)ZLHW ZWUQ B)2610120301 C)2610120416 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN390708E0910756-N392112E0882232-N385937E0882000-N384547E0910442, \r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82699236",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-10T06:51:52.346Z"
-},
-{
-"areas": [
-[
-[
-38.9667,
-92.5167
-],
-[
-39.0667,
-91.4333
-],
-[
-38.7333,
-91.3833
-],
-[
-38.6167,
-92.4667
-],
-[
-38.9667,
-92.5167
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-12T04:21:00.000Z",
-"start": "2026-10-12T03:01:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLHW-A5088/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "A5088/26",
-"page": "https://space-notices.com/notice/notam-ZLHW-A5088%2F26",
-"raw": "A5088/26 NOTAMN\r\nQ)ZLHW/QRDCA/IV/BO/W/000/999/3851N09157E028\r\nA)ZLHW B)2610120301 C)2610120421 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN385805E0923127-N390450E0912641-N384404E0912313-N383729E0922809, \r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA ESTABLISHED",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82699232",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-10T06:51:43.862Z"
-},
 {
 "areas": [],
 "cancelled": false,
@@ -702,7 +546,7 @@
 "markers": [],
 "name": "54442",
 "page": "https://space-notices.com/notice/lnm-54442",
-"raw": "$40",
+"raw": "$3f",
 "reason": "Hazardous operations will be conducted for Space X SDA-T1A Launch Operations",
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
@@ -12772,7 +12616,7 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-10T23:48:19.060Z"
+"updated": "2026-11-11T01:02:44.760Z"
 },
 {
 "areas": [
@@ -17296,7 +17140,7 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-09T23:00:11.437Z"
+"updated": "2026-11-11T01:14:33.612Z"
 },
 {
 "areas": [],
@@ -17519,7 +17363,7 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-09T23:00:11.437Z"
+"updated": "2026-11-11T01:02:22.285Z"
 },
 {
 "areas": [
