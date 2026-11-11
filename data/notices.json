@@ -1,6 +1,6 @@
 {
-"count": 315,
-"generated_utc": "2026-11-11T08:25:33Z",
+"count": 337,
+"generated_utc": "2026-11-11T16:38:41Z",
 "notices": [
 {
 "areas": [],
@@ -10339,6 +10339,1000 @@
 "updated": "2026-11-09T19:50:35.580Z"
 },
 {
+"areas": [
+[
+[
+28.8544,
+-80.7053
+],
+[
+29.125,
+-80.5
+],
+[
+29.0992,
+-80.455
+],
+[
+29.085,
+-80.4081
+],
+[
+29.0675,
+-80.3622
+],
+[
+29.0467,
+-80.3186
+],
+[
+29.0222,
+-80.2772
+],
+[
+28.995,
+-80.2386
+],
+[
+28.9647,
+-80.2025
+],
+[
+28.9317,
+-80.1697
+],
+[
+28.8964,
+-80.1406
+],
+[
+28.8592,
+-80.1147
+],
+[
+28.82,
+-80.0928
+],
+[
+28.7792,
+-80.0747
+],
+[
+28.7372,
+-80.0611
+],
+[
+28.6942,
+-80.0514
+],
+[
+28.6508,
+-80.0461
+],
+[
+28.6069,
+-80.045
+],
+[
+28.5633,
+-80.0483
+],
+[
+28.52,
+-80.0561
+],
+[
+28.4778,
+-80.0678
+],
+[
+28.4364,
+-80.0839
+],
+[
+28.3964,
+-80.1039
+],
+[
+28.3581,
+-80.1275
+],
+[
+28.3217,
+-80.155
+],
+[
+28.2875,
+-80.1861
+],
+[
+28.2558,
+-80.2203
+],
+[
+28.2269,
+-80.2572
+],
+[
+28.225,
+-80.2667
+],
+[
+28.4169,
+-80.5081
+],
+[
+28.4169,
+-80.6331
+],
+[
+28.4169,
+-80.6956
+],
+[
+28.5225,
+-80.7303
+],
+[
+28.6336,
+-80.7836
+],
+[
+28.8194,
+-80.8456
+],
+[
+28.8544,
+-80.7872
+],
+[
+28.8544,
+-80.7053
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-13T19:32:00.000Z",
+"start": "2026-11-13T17:44:00.000Z"
+}
+],
+"height": "18000ft",
+"id": "tfr-ZMA-6/7109",
+"kind": "TFR",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "FDC 6/7109",
+"page": "https://space-notices.com/notice/tfr-ZMA-6%2F7109",
+"raw": "!FDC 6/7109 ZMA PART 1 OF 2 AIRSPACE FL..AIRSPACE CAPE CANAVERAL, FL..TEMPORARY FLIGHT RESTRICTIONS. PURSUANT TO 14 CFR SECTION 91.143, SPACE OPS AREA, ACFT OPS ARE PROHIBITED WI AN AREA DEFINED AS 285116N0804219W TO 290730N0803000W TO 290557N0802718W TO 290506N0802429W TO 290403N0802144W TO 290248N0801907W TO 290120N0801638W TO 285942N0801419W TO 285753N0801209W TO 285554N0801011W TO 285347N0800826W TO 285133N0800653W TO 284912N0800534W TO 284645N0800429W TO 284414N0800340W TO 284139N0800305W TO 283903N0800246W TO 283625N0800242W TO 283348N0800254W TO 283112N0800322W TO 282840N0800404W TO 282611N0800502W TO 282347N0800614W TO 282129N0800739W TO 281918N0800918W TO 281715N0801110W TO 281521N0801313W TO 281337N0801526W TO 281330N0801600W TO 282501N0803029W TO 282501N0803759W TO 282501N0804144W TO 283121N0804349W TO 283801N0804701W TO 284910N0805044W TO 285116N0804714W TO POINT OF ORIGIN SFC-FL180 EFFECTIVE 2611131744 UTC (1244 LOCAL 11/13/26) UNTIL 2611131932 UTC (1432 LOCAL 11/13/26). EXCLUDING AIRSPACE BEYOND 12 MILE COASTAL LIMIT OVER INTERNATIONAL WATERS. THIS AREA ENCOMPASSES R2932, R2933 AND PORTIONS OF R2934 AND W497A. ADDITIONAL WARNING AND RESTRICTED AREAS WILL BE ACT. PILOTS MUST CONSULT ALL NOTAMS 2611131744-2611131932 END PART 1 OF 2\r\n!FDC 6/7109 ZMA PART 2 OF 2 REGARDING THESE OPS AND MAY CTC ZMA FOR CURRENT AIRSPACE STATUS. MIAMI /ZMA/ ARTCC, TEL 305-716-1588, IS THE FAA CDN FAC. 2611131744-2611131932 END PART 2 OF 2\r\n",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83054782",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T12:44:08.878Z"
+},
+{
+"areas": [
+[
+[
+51.6,
+-30.0
+],
+[
+52.25,
+-22.05
+],
+[
+51.5,
+-22.1333
+],
+[
+50.9667,
+-30.0
+],
+[
+51.6,
+-30.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-13T19:35:00.000Z",
+"start": "2026-11-13T17:50:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-EGGX-J4008/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "J4008/26",
+"page": "https://space-notices.com/notice/notam-EGGX-J4008%2F26",
+"raw": "J4008/26 NOTAMN\r\nQ) EGGX/QRDCS/IV/BO /W /000/999/5141N02605W156\r\nA) EGGX B) 2611131750 C) 2611131935\r\nE) TEMPO DANGER AREA (TDA) INSTALLED (EGD195) WI AREA BOUNDED BY\r\n513600N 0300000W - 521500N 0220300W - 513000N 0220800W - \r\n505800N 0300000W - 513600N 0300000W (SHANWICK). POTENTIAL DEBRIS AREA\r\nFROM SPACE LAUNCH ACTIVITY POSING INCREASED RISK TO AVIATION.\r\nAR-2026-10743/01.\r\nF) SFC G) UNL",
+"reason": "POTENTIAL DEBRIS AREA FROM SPACE LAUNCH ACTIVITY POSING INCREASED RISK TO AVIATION.",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83052003",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T10:59:56.593Z"
+},
+{
+"areas": [
+[
+[
+20.0,
+-82.0
+],
+[
+19.85,
+-82.0167
+],
+[
+19.4333,
+-80.2
+],
+[
+18.6,
+-77.2
+],
+[
+17.4,
+-74.2833
+],
+[
+16.95,
+-73.05
+],
+[
+17.0,
+-73.0
+],
+[
+18.5,
+-75.0
+],
+[
+19.5,
+-77.5
+],
+[
+19.6,
+-77.6667
+],
+[
+20.0,
+-78.75
+],
+[
+20.0,
+-82.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T00:40:00.000Z",
+"start": "2026-11-13T22:45:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MKJK-A0455/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "A0455/26",
+"page": "https://space-notices.com/notice/notam-MKJK-A0455%2F26",
+"raw": "A0455/26 NOTAMN\r\nQ) MKJK/QRTCA/IV/BO/W/000/999/1713N07808W999\r\nA) MKJK\r\nB) 2611132245 C) 2611140040\r\nE) RESTRICTED AREA (DEBRIS RESPONSE AREA) ACT DUE LAUNCH OF SPACEX STARSHIP FLT-15.\r\nALL FLT PROHIBITED WI THE FLW COORD:\r\n2000N 08200W\r\n1951N 08201W\r\n1926N 08012W\r\n1836N 07712W\r\n1724N 07417W\r\n1657N 07303W\r\n1700N 07300W\r\n1830N 07500W\r\n1930N 07730W\r\n1936N 07740W\r\n2000N 07845W.\r\nF) SFC G) UNL",
+"reason": "RESTRICTED AREA (DEBRIS RESPONSE AREA) ACT DUE LAUNCH OF SPACEX STARSHIP FLT-15.",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83055415",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T12:40:30.769Z"
+},
+{
+"areas": [
+[
+[
+26.0,
+-95.9167
+],
+[
+26.0,
+-95.6167
+],
+[
+25.95,
+-95.1
+],
+[
+25.8833,
+-94.3833
+],
+[
+25.5667,
+-93.0667
+],
+[
+24.5,
+-91.05
+],
+[
+24.5,
+-93.0
+],
+[
+26.0,
+-95.9167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T00:40:00.000Z",
+"start": "2026-11-13T22:45:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZHU-11/106-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "11/106",
+"page": "https://space-notices.com/notice/notam-ZHU-11%2F106-26",
+"raw": "!CARF 11/106 ZHU AIRSPACE DCC STARSHIP FT15 STLK G31-2 STNR ALT RESERVATION LAUNCH AHA-A2 US WI AN AREA DEFINED AS 260000N0955500W TO 260000N0953700W TO 255700N0950600W TO 255300N0942300W TO 253400N0930400W TO 243000N0910300W TO 243000N0930000W TO POINT OF ORIGIN SFC-UNL 2611132245-2611140040",
+"reason": "STARSHIP FT15 STLK G31-2",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83053246",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T12:28:12.302Z"
+},
+{
+"areas": [
+[
+[
+26.0167,
+-97.2
+],
+[
+26.0667,
+-97.1167
+],
+[
+26.1167,
+-96.7333
+],
+[
+26.0,
+-95.6167
+],
+[
+26.0,
+-97.0
+],
+[
+25.9333,
+-97.1667
+],
+[
+26.0167,
+-97.2
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T00:40:00.000Z",
+"start": "2026-11-13T22:45:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZHU-11/108-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "11/108",
+"page": "https://space-notices.com/notice/notam-ZHU-11%2F108-26",
+"raw": "!CARF 11/108 ZHU AIRSPACE DCC STARSHIP FT15 STLK G31-2 STNR ALT RESERVATION LAUNCH AHA-A1 US WI AN AREA DEFINED AS 260100N0971200W TO 260400N0970700W TO 260700N0964400W TO 260000N0953700W TO 260000N0970000W TO 255600N0971000W TO POINT OF ORIGIN SFC-UNL 2611132245-2611140040",
+"reason": "STARSHIP FT15 STLK G31-2",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83053330",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T12:40:30.737Z"
+},
+{
+"areas": [
+[
+[
+11.7,
+-57.15
+],
+[
+10.8167,
+-55.0167
+],
+[
+9.2333,
+-55.45
+],
+[
+9.65,
+-57.0
+],
+[
+11.7,
+-57.15
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T02:20:00.000Z",
+"start": "2026-11-13T22:45:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-TTZP-A1764/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "A1764/26",
+"page": "https://space-notices.com/notice/notam-TTZP-A1764%2F26",
+"raw": "A1764/26 NOTAMN\r\nQ) TTZP/QXXXX/IV/NBO/W/000/999/1450N05112W999\r\nA) TTZP\r\nB) 2611132245 C) 2611140220\r\nE) DANGER AREA ACTIVATED WITHIN THE PIARCO FIR DUE TO THE LAUNCH OF\r\nTHE &apos;SPACE X STARSHIP FLIGHT 15&apos; ROCKET. THE PIARCO ACC STRONGLY\r\nCAUTIONS AIRCRAFT NOT TO OPERATE WITHIN THE DANGER AREA BOUNDED BY\r\nCOORDINATES: 1142N05709W 1049N05501W 0914N05527W 0939N05700W\r\n1142N05709W\r\nPRIMARY LAUNCH DATE: 261113\r\nBACK-UP DATES: 261114 261115 261116 261117 261118 261119.\r\nF) SFC G) UNL",
+"reason": "SPACE X STARSHIP FLIGHT 15",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83054737",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T12:40:30.769Z"
+},
+{
+"areas": [
+[
+[
+14.8167,
+-64.8833
+],
+[
+13.3333,
+-61.6833
+],
+[
+11.9333,
+-62.3
+],
+[
+12.5167,
+-63.4333
+],
+[
+14.8167,
+-64.8833
+]
+],
+[
+[
+11.5667,
+-61.6
+],
+[
+11.35,
+-61.1
+],
+[
+10.3167,
+-57.0167
+],
+[
+11.0667,
+-57.0833
+],
+[
+12.3667,
+-59.6667
+],
+[
+12.9,
+-60.7333
+],
+[
+12.3333,
+-60.3833
+],
+[
+11.5667,
+-61.6
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T02:20:00.000Z",
+"start": "2026-11-13T22:45:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-TTZP-A1765/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "A1765/26",
+"page": "https://space-notices.com/notice/notam-TTZP-A1765%2F26",
+"raw": "A1765/26 NOTAMN\r\nQ) TTZP/QXXXX/IV/NBO/W/000/999/1450N05112W999\r\nA) TTZP\r\nB) 2611132245 C) 2611140220\r\nE) DEBRIS RESPONSE AREAS HAVE BEEN DEFINED WITHIN THE PIARCO FIR DUE\r\nTO THE LAUNCH OF THE &apos;SPACE X STARSHIP FLIGHT 14&apos; ROCKET. \r\nTHE AREA IS BOUNDED BY THE FOLLOWING COORDINATES: \r\nDEBRIS RESPONSE AREA &quot;A&quot;: 1449N06453W - 1320N06141W - 1156N06218W -\r\n1231N06326W - 1449N06453W.    \r\nDEBRIS RESPONSE AREA &quot;B&quot;:  1134N06136W - 1121N06106W - 1019N05701W -\r\n1104N05705W - 1222N05940W  1254N06044W - 1220N06023W - 1134N06136W.\r\nPRIMARY LAUNCH DATE: 261113\r\nBACK-UP DATES: 261114 261115 261116 261117 261118 261119.\r\nF) SFC G) UNL",
+"reason": "SPACE X STARSHIP FLIGHT 14",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83054843",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T12:40:30.769Z"
+},
+{
+"areas": [
+[
+[
+12.9,
+-60.7333
+],
+[
+12.3333,
+-60.3833
+],
+[
+11.5667,
+-61.6
+],
+[
+11.9333,
+-62.3
+],
+[
+12.9,
+-60.7333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T02:20:00.000Z",
+"start": "2026-11-13T22:45:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-TTZP-A1767/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "A1767/26",
+"page": "https://space-notices.com/notice/notam-TTZP-A1767%2F26",
+"raw": "A1767/26 NOTAMN\r\nQ) TTZP/QXXXX/IV/NBO/W/000/999/1450N05112W999\r\nA) TTZP\r\nB) 2611132245 C) 2611140220\r\nE) A DEBRIS RESPONSE AREA HAS BEEN DEFINED WITHIN THE PIARCO FIR DUE\r\nTO THE LAUNCH OF THE &apos;SPACE X STARSHIP FLIGHT 15&apos; ROCKET. THE AREA\r\nIS BOUNDED BY THE FOLLOWING COORDINATES:\r\n1254N06044W  1220N06023W - 1134N06136W - 1156N06218W - 1254N06044W.\r\nPRIMARY LAUNCH DATE: 261113\r\nBACK-UP DATES: 261114 261115 261116 261117 261118 261119.\r\nF) SFC G) UNL",
+"reason": "DEBRIS RESPONSE AREA\nSPACE X STARSHIP FLIGHT 15",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83055394",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T12:40:30.769Z"
+},
+{
+"areas": [
+[
+[
+29.45,
+165.0
+],
+[
+29.4667,
+165.1667
+],
+[
+30.7167,
+172.7333
+],
+[
+31.1667,
+178.0
+],
+[
+31.2667,
+-175.0167
+],
+[
+31.35,
+-171.45
+],
+[
+30.55,
+-161.25
+],
+[
+29.6167,
+-155.6667
+],
+[
+28.8167,
+-151.5833
+],
+[
+26.8833,
+-145.4333
+],
+[
+26.8333,
+-145.4667
+],
+[
+24.05,
+-154.5333
+],
+[
+23.7667,
+-156.1833
+],
+[
+24.8667,
+-159.3167
+],
+[
+27.6333,
+-167.8167
+],
+[
+29.3833,
+-175.0
+],
+[
+29.5833,
+-176.6
+],
+[
+29.6167,
+-179.9667
+],
+[
+29.4667,
+176.2167
+],
+[
+29.1833,
+170.1667
+],
+[
+28.4,
+165.0
+],
+[
+29.45,
+165.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T05:01:00.000Z",
+"start": "2026-11-14T01:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-11/104-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "11/104",
+"page": "https://space-notices.com/notice/notam-ZAK-11%2F104-26",
+"raw": "!CARF 11/104 ZAK AIRSPACE DCC STARSP FT15 G31-2 REENTRY STNR ALT RESERVATION REENTRY EARLY HAWAII - KZAK 1 WI AN AREA DEFINED AS 292700N1650000E TO 292800N1651000E TO 304300N1724400E TO 311000N1780000E TO 311600N1750100W TO 312100N1712700W TO 303300N1611500W TO 293700N1554000W TO 284900N1513500W TO 265300N1452600W TO 265000N1452800W TO 240300N1543200W TO 234600N1561100W TO 245200N1591900W TO 273800N1674900W TO 292300N1750000W TO 293500N1763600W TO 293700N1795800W TO 292800N1761300E TO 291100N1701000E TO 282400N1650000E TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL 2611140130-2611140501",
+"reason": "STARSP FT15 G31-2 REENTRY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83053235",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T12:26:43.994Z"
+},
+{
+"areas": [
+[
+[
+29.45,
+165.0
+],
+[
+29.4667,
+165.1667
+],
+[
+30.7167,
+172.7333
+],
+[
+31.1667,
+178.0
+],
+[
+31.2667,
+-175.0167
+],
+[
+31.35,
+-171.45
+],
+[
+30.55,
+-161.25
+],
+[
+29.6167,
+-155.6667
+],
+[
+28.8167,
+-151.5833
+],
+[
+26.8833,
+-145.4333
+],
+[
+26.8333,
+-145.4667
+],
+[
+24.05,
+-154.5333
+],
+[
+23.7667,
+-156.1833
+],
+[
+24.8667,
+-159.3167
+],
+[
+27.6333,
+-167.8167
+],
+[
+29.3833,
+-175.0
+],
+[
+29.5833,
+-176.6
+],
+[
+29.6167,
+-179.9667
+],
+[
+29.4667,
+176.2167
+],
+[
+29.1833,
+170.1667
+],
+[
+28.4,
+165.0
+],
+[
+29.45,
+165.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T05:01:00.000Z",
+"start": "2026-11-14T01:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZHN-11/105-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "11/105",
+"page": "https://space-notices.com/notice/notam-ZHN-11%2F105-26",
+"raw": "!CARF 11/105 ZHN AIRSPACE DCC STARSP FT15 G31-2 REENTRY STNR ALT RESERVATION REENTRY EARLY HAWAII - KZAK 1 WI AN AREA DEFINED AS 292700N1650000E TO 292800N1651000E TO 304300N1724400E TO 311000N1780000E TO 311600N1750100W TO 312100N1712700W TO 303300N1611500W TO 293700N1554000W TO 284900N1513500W TO 265300N1452600W TO 265000N1452800W TO 240300N1543200W TO 234600N1561100W TO 245200N1591900W TO 273800N1674900W TO 292300N1750000W TO 293500N1763600W TO 293700N1795800W TO 292800N1761300E TO 291100N1701000E TO 282400N1650000E TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL 2611140130-2611140501",
+"reason": "STARSP FT15 G31-2 REENTRY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83053230",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T12:26:52.987Z"
+},
+{
+"areas": [
+[
+[
+32.7167,
+-119.5167
+],
+[
+32.75,
+-119.4667
+],
+[
+33.2167,
+-119.65
+],
+[
+34.1167,
+-120.1167
+],
+[
+34.5667,
+-120.3833
+],
+[
+34.6667,
+-120.5
+],
+[
+34.65,
+-120.6333
+],
+[
+34.5333,
+-120.6333
+],
+[
+34.3333,
+-120.5333
+],
+[
+32.9,
+-119.7
+],
+[
+32.7167,
+-119.5167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T06:29:00.000Z",
+"start": "2026-11-14T02:07:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-11/107-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-627",
+"title": "USSF-627"
+}
+],
+"markers": [],
+"name": "11/107",
+"page": "https://space-notices.com/notice/notam-ZLA-11%2F107-26",
+"raw": "!CARF 11/107 ZLA AIRSPACE DCC SX R-5 26-72 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 324300N1193100W TO 324500N1192800W TO 331300N1193900W TO 340700N1200700W TO 343400N1202300W TO 344000N1203000W TO 343900N1203800W TO 343200N1203800W TO 342000N1203200W TO 325400N1194200W TO POINT OF ORIGIN SFC-UNL 2611140207-2611140629",
+"reason": "SX R-5 26-72",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83053243",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T12:31:00.685Z"
+},
+{
+"areas": [
+[
+[
+32.45,
+-119.3833
+],
+[
+32.5,
+-119.3167
+],
+[
+31.7333,
+-118.8333
+],
+[
+31.6333,
+-119.05
+],
+[
+32.45,
+-119.3833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T06:31:00.000Z",
+"start": "2026-11-14T02:07:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-11/109-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-627",
+"title": "USSF-627"
+}
+],
+"markers": [],
+"name": "11/109",
+"page": "https://space-notices.com/notice/notam-ZLA-11%2F109-26",
+"raw": "!CARF 11/109 ZLA AIRSPACE DCC SX R-5 26-72 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 322700N1192300W TO 323000N1191900W TO 314400N1185000W TO 313800N1190300W TO POINT OF ORIGIN SFC-UNL 2611140207-2611140631",
+"reason": "SX R-5 26-72",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83053369",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T12:45:01.280Z"
+},
+{
 "areas": [],
 "cancelled": false,
 "dates": [
@@ -10370,6 +11364,418 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-07T20:24:43.404Z"
+},
+{
+"areas": [
+[
+[
+28.8544,
+-80.7053
+],
+[
+29.125,
+-80.5
+],
+[
+29.0992,
+-80.455
+],
+[
+29.085,
+-80.4081
+],
+[
+29.0675,
+-80.3622
+],
+[
+29.0467,
+-80.3186
+],
+[
+29.0222,
+-80.2772
+],
+[
+28.995,
+-80.2386
+],
+[
+28.9647,
+-80.2025
+],
+[
+28.9317,
+-80.1697
+],
+[
+28.8964,
+-80.1406
+],
+[
+28.8592,
+-80.1147
+],
+[
+28.82,
+-80.0928
+],
+[
+28.7792,
+-80.0747
+],
+[
+28.7372,
+-80.0611
+],
+[
+28.6942,
+-80.0514
+],
+[
+28.6508,
+-80.0461
+],
+[
+28.6069,
+-80.045
+],
+[
+28.5633,
+-80.0483
+],
+[
+28.52,
+-80.0561
+],
+[
+28.4778,
+-80.0678
+],
+[
+28.4364,
+-80.0839
+],
+[
+28.3964,
+-80.1039
+],
+[
+28.3581,
+-80.1275
+],
+[
+28.3217,
+-80.155
+],
+[
+28.2875,
+-80.1861
+],
+[
+28.2558,
+-80.2203
+],
+[
+28.2269,
+-80.2572
+],
+[
+28.225,
+-80.2667
+],
+[
+28.4169,
+-80.5081
+],
+[
+28.4169,
+-80.6331
+],
+[
+28.4169,
+-80.6956
+],
+[
+28.5225,
+-80.7303
+],
+[
+28.6336,
+-80.7836
+],
+[
+28.8194,
+-80.8456
+],
+[
+28.8544,
+-80.7872
+],
+[
+28.8544,
+-80.7053
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T19:11:00.000Z",
+"start": "2026-11-14T17:22:00.000Z"
+}
+],
+"height": "18000ft",
+"id": "tfr-ZJX-6/7112",
+"kind": "TFR",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "FDC 6/7112",
+"page": "https://space-notices.com/notice/tfr-ZJX-6%2F7112",
+"raw": "!FDC 6/7112 ZJX PART 1 OF 2 FL..AIRSPACE CAPE CANAVERAL, FL..TEMPORARY FLIGHT RESTRICTIONS. PURSUANT TO 14 CFR SECTION 91.143, SPACE OPS AREA, ACFT OPS ARE PROHIBITED WI AN AREA DEFINED AS 285116N0804219W TO 290730N0803000W TO 290557N0802718W TO 290506N0802429W TO 290403N0802144W TO 290248N0801907W TO 290120N0801638W TO 285942N0801419W TO 285753N0801209W TO 285554N0801011W TO 285347N0800826W TO 285133N0800653W TO 284912N0800534W TO 284645N0800429W TO 284414N0800340W TO 284139N0800305W TO 283903N0800246W TO 283625N0800242W TO 283348N0800254W TO 283112N0800322W TO 282840N0800404W TO 282611N0800502W TO 282347N0800614W TO 282129N0800739W TO 281918N0800918W TO 281715N0801110W TO 281521N0801313W TO 281337N0801526W TO 281330N0801600W TO 282501N0803029W TO 282501N0803759W TO 282501N0804144W TO 283121N0804349W TO 283801N0804701W TO 284910N0805044W TO 285116N0804714W TO POINT OF ORIGIN SFC-FL180 EFFECTIVE 2611141722 UTC (1222 LOCAL 11/14/26) UNTIL 2611141911 UTC (1411 LOCAL 11/14/26). EXCLUDING AIRSPACE BEYOND 12NM COASTAL LIMIT OVER INTERNATIONAL WATERS. THIS AREA ENCOMPASSES R2932, R2933 AND PORTIONS OF R2934 AND W497A. ADDITIONAL WARNING AND RESTRICTED AREAS WILL BE ACT. PILOTS MUST CONSULT ALL NOTAMS REGARDING 2611141722-2611141911 END PART 1 OF 2\r\n!FDC 6/7112 ZJX PART 2 OF 2 THESE OPS AND MAY CTC ZMA FOR CURRENT AIRSPACE STATUS. MIAMI /ZMA/ ARTCC TEL 305-716-1588 IS THE FAA CDN FAC. 2611141722-2611141911 END PART 2 OF 2\r\n",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83054847",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T12:44:08.878Z"
+},
+{
+"areas": [
+[
+[
+28.8544,
+-80.7053
+],
+[
+29.125,
+-80.5
+],
+[
+29.0992,
+-80.455
+],
+[
+29.085,
+-80.4081
+],
+[
+29.0675,
+-80.3622
+],
+[
+29.0467,
+-80.3186
+],
+[
+29.0222,
+-80.2772
+],
+[
+28.995,
+-80.2386
+],
+[
+28.9647,
+-80.2025
+],
+[
+28.9317,
+-80.1697
+],
+[
+28.8964,
+-80.1406
+],
+[
+28.8592,
+-80.1147
+],
+[
+28.82,
+-80.0928
+],
+[
+28.7792,
+-80.0747
+],
+[
+28.7372,
+-80.0611
+],
+[
+28.6942,
+-80.0514
+],
+[
+28.6508,
+-80.0461
+],
+[
+28.6069,
+-80.045
+],
+[
+28.5633,
+-80.0483
+],
+[
+28.52,
+-80.0561
+],
+[
+28.4778,
+-80.0678
+],
+[
+28.4364,
+-80.0839
+],
+[
+28.3964,
+-80.1039
+],
+[
+28.3581,
+-80.1275
+],
+[
+28.3217,
+-80.155
+],
+[
+28.2875,
+-80.1861
+],
+[
+28.2558,
+-80.2203
+],
+[
+28.2269,
+-80.2572
+],
+[
+28.225,
+-80.2667
+],
+[
+28.4169,
+-80.5081
+],
+[
+28.4169,
+-80.6331
+],
+[
+28.4169,
+-80.6956
+],
+[
+28.5225,
+-80.7303
+],
+[
+28.6336,
+-80.7836
+],
+[
+28.8194,
+-80.8456
+],
+[
+28.8544,
+-80.7872
+],
+[
+28.8544,
+-80.7053
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T19:11:00.000Z",
+"start": "2026-11-14T17:22:00.000Z"
+}
+],
+"height": "18000ft",
+"id": "tfr-ZMA-6/7111",
+"kind": "TFR",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "FDC 6/7111",
+"page": "https://space-notices.com/notice/tfr-ZMA-6%2F7111",
+"raw": "!FDC 6/7111 ZMA PART 1 OF 2 FL..AIRSPACE CAPE CANAVERAL, FL..TEMPORARY FLIGHT RESTRICTIONS. PURSUANT TO 14 CFR SECTION 91.143, SPACE OPS AREA, ACFT OPS ARE PROHIBITED WI AN AREA DEFINED AS 285116N0804219W TO 290730N0803000W TO 290557N0802718W TO 290506N0802429W TO 290403N0802144W TO 290248N0801907W TO 290120N0801638W TO 285942N0801419W TO 285753N0801209W TO 285554N0801011W TO 285347N0800826W TO 285133N0800653W TO 284912N0800534W TO 284645N0800429W TO 284414N0800340W TO 284139N0800305W TO 283903N0800246W TO 283625N0800242W TO 283348N0800254W TO 283112N0800322W TO 282840N0800404W TO 282611N0800502W TO 282347N0800614W TO 282129N0800739W TO 281918N0800918W TO 281715N0801110W TO 281521N0801313W TO 281337N0801526W TO 281330N0801600W TO 282501N0803029W TO 282501N0803759W TO 282501N0804144W TO 283121N0804349W TO 283801N0804701W TO 284910N0805044W TO 285116N0804714W TO POINT OF ORIGIN SFC-FL180 EFFECTIVE 2611141722 UTC (1222 LOCAL 11/14/26) UNTIL 2611141911 UTC (1411 LOCAL 11/14/26). EXCLUDING AIRSPACE BEYOND 12NM COASTAL LIMIT OVER INTERNATIONAL WATERS. THIS AREA ENCOMPASSES R2932, R2933 AND PORTIONS OF R2934 AND W497A. ADDITIONAL WARNING AND RESTRICTED AREAS WILL BE ACT. PILOTS MUST CONSULT ALL NOTAMS REGARDING 2611141722-2611141911 END PART 1 OF 2\r\n!FDC 6/7111 ZMA PART 2 OF 2 THESE OPS AND MAY CTC ZMA FOR CURRENT AIRSPACE STATUS. MIAMI /ZMA/ ARTCC TEL 305-716-1588 IS THE FAA CDN FAC. 2611141722-2611141911 END PART 2 OF 2\r\n",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83054830",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T12:44:08.878Z"
+},
+{
+"areas": [
+[
+[
+51.6,
+-30.0
+],
+[
+52.25,
+-22.05
+],
+[
+51.5,
+-22.1333
+],
+[
+50.9667,
+-30.0
+],
+[
+51.6,
+-30.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-14T19:15:00.000Z",
+"start": "2026-11-14T17:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-EGGX-J4007/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "J4007/26",
+"page": "https://space-notices.com/notice/notam-EGGX-J4007%2F26",
+"raw": "J4007/26 NOTAMN\r\nQ) EGGX/QRDCS/IV/BO /W /000/999/5141N02605W156\r\nA) EGGX B) 2611141730 C) 2611141915\r\nE) TEMPO DANGER AREA (TDA) INSTALLED (EGD195) WI AREA BOUNDED BY\r\n513600N 0300000W - 521500N 0220300W - 513000N 0220800W - \r\n505800N 0300000W - 513600N 0300000W (SHANWICK). POTENTIAL DEBRIS AREA\r\nFROM SPACE LAUNCH ACTIVITY POSING INCREASED RISK TO AVIATION.\r\nAR-2026-10743/02.\r\nF) SFC G) UNL",
+"reason": "POTENTIAL DEBRIS AREA FROM SPACE LAUNCH ACTIVITY POSING INCREASED RISK TO AVIATION.",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83051991",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T10:59:58.610Z"
 },
 {
 "areas": [],
@@ -11509,6 +12915,418 @@
 "areas": [
 [
 [
+28.8544,
+-80.7053
+],
+[
+29.125,
+-80.5
+],
+[
+29.0992,
+-80.455
+],
+[
+29.085,
+-80.4081
+],
+[
+29.0675,
+-80.3622
+],
+[
+29.0467,
+-80.3186
+],
+[
+29.0222,
+-80.2772
+],
+[
+28.995,
+-80.2386
+],
+[
+28.9647,
+-80.2025
+],
+[
+28.9317,
+-80.1697
+],
+[
+28.8964,
+-80.1406
+],
+[
+28.8592,
+-80.1147
+],
+[
+28.82,
+-80.0928
+],
+[
+28.7792,
+-80.0747
+],
+[
+28.7372,
+-80.0611
+],
+[
+28.6942,
+-80.0514
+],
+[
+28.6508,
+-80.0461
+],
+[
+28.6069,
+-80.045
+],
+[
+28.5633,
+-80.0483
+],
+[
+28.52,
+-80.0561
+],
+[
+28.4778,
+-80.0678
+],
+[
+28.4364,
+-80.0839
+],
+[
+28.3964,
+-80.1039
+],
+[
+28.3581,
+-80.1275
+],
+[
+28.3217,
+-80.155
+],
+[
+28.2875,
+-80.1861
+],
+[
+28.2558,
+-80.2203
+],
+[
+28.2269,
+-80.2572
+],
+[
+28.225,
+-80.2667
+],
+[
+28.4169,
+-80.5081
+],
+[
+28.4169,
+-80.6331
+],
+[
+28.4169,
+-80.6956
+],
+[
+28.5225,
+-80.7303
+],
+[
+28.6336,
+-80.7836
+],
+[
+28.8194,
+-80.8456
+],
+[
+28.8544,
+-80.7872
+],
+[
+28.8544,
+-80.7053
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-15T18:50:00.000Z",
+"start": "2026-11-15T17:01:00.000Z"
+}
+],
+"height": "18000ft",
+"id": "tfr-ZJX-6/7114",
+"kind": "TFR",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "FDC 6/7114",
+"page": "https://space-notices.com/notice/tfr-ZJX-6%2F7114",
+"raw": "!FDC 6/7114 ZJX PART 1 OF 2 FL..AIRSPACE CAPE CANAVERAL, FL..TEMPORARY FLIGHT RESTRICTIONS. PURSUANT TO 14 CFR SECTION 91.143, SPACE OPS AREA, ACFT OPS ARE PROHIBITED WI AN AREA DEFINED AS 285116N0804219W TO 290730N0803000W TO 290557N0802718W TO 290506N0802429W TO 290403N0802144W TO 290248N0801907W TO 290120N0801638W TO 285942N0801419W TO 285753N0801209W TO 285554N0801011W TO 285347N0800826W TO 285133N0800653W TO 284912N0800534W TO 284645N0800429W TO 284414N0800340W TO 284139N0800305W TO 283903N0800246W TO 283625N0800242W TO 283348N0800254W TO 283112N0800322W TO 282840N0800404W TO 282611N0800502W TO 282347N0800614W TO 282129N0800739W TO 281918N0800918W TO 281715N0801110W TO 281521N0801313W TO 281337N0801526W TO 281330N0801600W TO 282501N0803029W TO 282501N0803759W TO 282501N0804144W TO 283121N0804349W TO 283801N0804701W TO 284910N0805044W TO 285116N0804714W TO POINT OF ORIGIN SFC-FL180 EFFECTIVE 2611151701 UTC (1201 LOCAL 11/15/26) UNTIL 2611151850 UTC (1350 LOCAL 11/15/26). EXCLUDING AIRSPACE BEYOND 12NM COASTAL LIMIT OVER INTERNATIONAL WATERS. THIS AREA ENCOMPASSES R2932, R2933 AND PORTIONS OF R2934 AND W497A. ADDITIONAL WARNING AND RESTRICTED AREAS WILL BE ACT. PILOTS MUST CONSULT ALL NOTAMS REGARDING 2611151701-2611151850 END PART 1 OF 2\r\n!FDC 6/7114 ZJX PART 2 OF 2 THESE OPS AND MAY CTC ZMA FOR CURRENT AIRSPACE STATUS. MIAMI /ZMA/ ARTCC TEL 305-716-1588 IS THE FAA CDN FAC. 2611151701-2611151850 END PART 2 OF 2\r\n",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83054866",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T12:44:08.878Z"
+},
+{
+"areas": [
+[
+[
+28.8544,
+-80.7053
+],
+[
+29.125,
+-80.5
+],
+[
+29.0992,
+-80.455
+],
+[
+29.085,
+-80.4081
+],
+[
+29.0675,
+-80.3622
+],
+[
+29.0467,
+-80.3186
+],
+[
+29.0222,
+-80.2772
+],
+[
+28.995,
+-80.2386
+],
+[
+28.9647,
+-80.2025
+],
+[
+28.9317,
+-80.1697
+],
+[
+28.8964,
+-80.1406
+],
+[
+28.8592,
+-80.1147
+],
+[
+28.82,
+-80.0928
+],
+[
+28.7792,
+-80.0747
+],
+[
+28.7372,
+-80.0611
+],
+[
+28.6942,
+-80.0514
+],
+[
+28.6508,
+-80.0461
+],
+[
+28.6069,
+-80.045
+],
+[
+28.5633,
+-80.0483
+],
+[
+28.52,
+-80.0561
+],
+[
+28.4778,
+-80.0678
+],
+[
+28.4364,
+-80.0839
+],
+[
+28.3964,
+-80.1039
+],
+[
+28.3581,
+-80.1275
+],
+[
+28.3217,
+-80.155
+],
+[
+28.2875,
+-80.1861
+],
+[
+28.2558,
+-80.2203
+],
+[
+28.2269,
+-80.2572
+],
+[
+28.225,
+-80.2667
+],
+[
+28.4169,
+-80.5081
+],
+[
+28.4169,
+-80.6331
+],
+[
+28.4169,
+-80.6956
+],
+[
+28.5225,
+-80.7303
+],
+[
+28.6336,
+-80.7836
+],
+[
+28.8194,
+-80.8456
+],
+[
+28.8544,
+-80.7872
+],
+[
+28.8544,
+-80.7053
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-15T18:50:00.000Z",
+"start": "2026-11-15T17:01:00.000Z"
+}
+],
+"height": "18000ft",
+"id": "tfr-ZMA-6/7113",
+"kind": "TFR",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "FDC 6/7113",
+"page": "https://space-notices.com/notice/tfr-ZMA-6%2F7113",
+"raw": "!FDC 6/7113 ZMA PART 1 OF 2 FL..AIRSPACE CAPE CANAVERAL, FL..TEMPORARY FLIGHT RESTRICTIONS. PURSUANT TO 14 CFR SECTION 91.143, SPACE OPS AREA, ACFT OPS ARE PROHIBITED WI AN AREA DEFINED AS 285116N0804219W TO 290730N0803000W TO 290557N0802718W TO 290506N0802429W TO 290403N0802144W TO 290248N0801907W TO 290120N0801638W TO 285942N0801419W TO 285753N0801209W TO 285554N0801011W TO 285347N0800826W TO 285133N0800653W TO 284912N0800534W TO 284645N0800429W TO 284414N0800340W TO 284139N0800305W TO 283903N0800246W TO 283625N0800242W TO 283348N0800254W TO 283112N0800322W TO 282840N0800404W TO 282611N0800502W TO 282347N0800614W TO 282129N0800739W TO 281918N0800918W TO 281715N0801110W TO 281521N0801313W TO 281337N0801526W TO 281330N0801600W TO 282501N0803029W TO 282501N0803759W TO 282501N0804144W TO 283121N0804349W TO 283801N0804701W TO 284910N0805044W TO 285116N0804714W TO POINT OF ORIGIN SFC-FL180 EFFECTIVE 2611151701 UTC (1201 LOCAL 11/15/26) UNTIL 2611151850 UTC (1350 LOCAL 11/15/26). EXCLUDING AIRSPACE BEYOND 12NM COASTAL LIMIT OVER INTERNATIONAL WATERS. THIS AREA ENCOMPASSES R2932, R2933 AND PORTIONS OF R2934 AND W497A. ADDITIONAL WARNING AND RESTRICTED AREAS WILL BE ACT. PILOTS MUST CONSULT ALL NOTAMS REGARDING 2611151701-2611151850 END PART 1 OF 2\r\n!FDC 6/7113 ZMA PART 2 OF 2 THESE OPS AND MAY CTC ZMA FOR CURRENT AIRSPACE STATUS. MIAMI /ZMA/ ARTCC TEL 305-716-1588 IS THE FAA CDN FAC. 2611151701-2611151850 END PART 2 OF 2\r\n",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83054858",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T12:44:08.878Z"
+},
+{
+"areas": [
+[
+[
+51.6,
+-30.0
+],
+[
+52.25,
+-22.05
+],
+[
+51.5,
+-22.1333
+],
+[
+50.9667,
+-30.0
+],
+[
+51.6,
+-30.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-15T18:55:00.000Z",
+"start": "2026-11-15T17:10:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-EGGX-J4009/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "J4009/26",
+"page": "https://space-notices.com/notice/notam-EGGX-J4009%2F26",
+"raw": "J4009/26 NOTAMN\r\nQ) EGGX/QRDCS/IV/BO /W /000/999/5141N02605W156\r\nA) EGGX B) 2611151710 C) 2611151855\r\nE) TEMPO DANGER AREA (TDA) INSTALLED (EGD195) WI AREA BOUNDED BY\r\n513600N 0300000W - 521500N 0220300W - 513000N 0220800W - \r\n505800N 0300000W - 513600N 0300000W (SHANWICK). POTENTIAL DEBRIS AREA\r\nFROM SPACE LAUNCH ACTIVITY POSING INCREASED RISK TO AVIATION.\r\nAR-2026-10743/03.\r\nF) SFC G) UNL",
+"reason": "POTENTIAL DEBRIS AREA FROM SPACE LAUNCH ACTIVITY POSING INCREASED RISK TO AVIATION.",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83052030",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T12:44:08.878Z"
+},
+{
+"areas": [
+[
+[
 -24.6333,
 -157.0
 ],
@@ -12030,6 +13848,58 @@
 "areas": [
 [
 [
+51.6,
+-30.0
+],
+[
+52.25,
+-22.05
+],
+[
+51.5,
+-22.1333
+],
+[
+50.9667,
+-30.0
+],
+[
+51.6,
+-30.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-16T18:35:00.000Z",
+"start": "2026-11-16T16:50:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-EGGX-J4012/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "J4012/26",
+"page": "https://space-notices.com/notice/notam-EGGX-J4012%2F26",
+"raw": "J4012/26 NOTAMN\r\nQ) EGGX/QRDCS/IV/BO /W /000/999/5141N02605W156\r\nA) EGGX B) 2611161650 C) 2611161835\r\nE) TEMPO DANGER AREA (TDA) INSTALLED (EGD195) WI AREA BOUNDED BY\r\n513600N 0300000W - 521500N 0220300W - 513000N 0220800W - \r\n505800N 0300000W - 513600N 0300000W (SHANWICK). POTENTIAL DEBRIS AREA\r\nFROM SPACE LAUNCH ACTIVITY POSING INCREASED RISK TO AVIATION.\r\nAR-2026-10743/04.\r\nF) SFC G) UNL",
+"reason": "POTENTIAL DEBRIS AREA FROM SPACE LAUNCH ACTIVITY POSING INCREASED RISK TO AVIATION.",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83052075",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T12:44:08.839Z"
+},
+{
+"areas": [
+[
+[
 -30.0,
 -132.5833
 ],
@@ -12077,6 +13947,162 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-09T22:59:10.273Z"
+},
+{
+"areas": [
+[
+[
+51.6,
+-30.0
+],
+[
+52.25,
+-22.05
+],
+[
+51.5,
+-22.1333
+],
+[
+50.9667,
+-30.0
+],
+[
+51.6,
+-30.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-17T18:10:00.000Z",
+"start": "2026-11-17T16:25:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-EGGX-J4013/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "J4013/26",
+"page": "https://space-notices.com/notice/notam-EGGX-J4013%2F26",
+"raw": "J4013/26 NOTAMN\r\nQ) EGGX/QRDCS/IV/BO /W /000/999/5141N02605W156\r\nA) EGGX B) 2611171625 C) 2611171810\r\nE) TEMPO DANGER AREA (TDA) INSTALLED (EGD195) WI AREA BOUNDED BY\r\n513600N 0300000W - 521500N 0220300W - 513000N 0220800W - \r\n505800N 0300000W - 513600N 0300000W (SHANWICK). POTENTIAL DEBRIS AREA\r\nFROM SPACE LAUNCH ACTIVITY POSING INCREASED RISK TO AVIATION.\r\nAR-2026-10743/05.\r\nF) SFC G) UNL",
+"reason": "POTENTIAL DEBRIS AREA FROM SPACE LAUNCH ACTIVITY POSING INCREASED RISK TO AVIATION.",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83052093",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T12:44:08.861Z"
+},
+{
+"areas": [
+[
+[
+33.5667,
+110.5167
+],
+[
+33.5333,
+110.7333
+],
+[
+33.1667,
+110.6833
+],
+[
+33.1833,
+110.45
+],
+[
+33.5667,
+110.5167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-18T23:05:00.000Z",
+"start": "2026-11-18T22:43:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLHW-A5897/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5897/26",
+"page": "https://space-notices.com/notice/notam-ZLHW-A5897%2F26",
+"raw": "A5897/26 NOTAMN\r\nQ)ZXXX/QRDCA/IV/BO/W/000/999/3322N11036E013\r\nA)ZLHW ZHWH B)2611182243 C)2611182305 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN333400E1103100-N333200E1104400-N331000E1104100-N331100E1102700, \r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83049930",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T10:59:31.796Z"
+},
+{
+"areas": [
+[
+[
+30.5833,
+109.95
+],
+[
+30.55,
+110.3167
+],
+[
+29.9,
+110.2167
+],
+[
+29.95,
+109.8333
+],
+[
+30.5833,
+109.95
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-18T23:10:00.000Z",
+"start": "2026-11-18T22:44:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZHWH-A5898/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5898/26",
+"page": "https://space-notices.com/notice/notam-ZHWH-A5898%2F26",
+"raw": "A5898/26 NOTAMN\r\nQ)ZHWH/QRDCA/IV/BO/W/000/999/3015N11004E022\r\nA)ZHWH B)2611182244 C)2611182310 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN303500E1095700-N303300E1101900-N295400E1101300-N295700E1095000, \r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83049929",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-11T10:59:26.336Z"
 },
 {
 "areas": [
@@ -24103,5 +26129,5 @@
 "pending": 10,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3446
+"total_known": 3468
 }
