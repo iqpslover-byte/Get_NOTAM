@@ -1,5 +1,5 @@
 {
-"count": 2874,
+"count": 2882,
 "notices": [
 {
 "areas": [
@@ -271006,39 +271006,6 @@
 "updated": "2026-11-09T22:26:19.760Z"
 },
 {
-"areas": [],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-11-11T07:32:00.000Z",
-"start": "2026-11-11T02:49:00.000Z"
-},
-{
-"end": "2026-11-12T07:18:00.000Z",
-"start": "2026-11-12T02:35:00.000Z"
-}
-],
-"height": null,
-"id": "infopage-faa-operations-advisory-spacex-r-5",
-"kind": "INFOPAGE",
-"launches": [
-{
-"id": "launch-f9-ussf-627",
-"title": "USSF-627"
-}
-],
-"markers": [],
-"name": "FAA Operations Advisory",
-"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-r-5",
-"raw": "SPACEX R-5, VANDENBERG SFB, CA\nPRIMARY:\t11/11/26\t0249Z-0732Z\nBACKUP:\t\t11/12/26\t0235Z-0718Z",
-"reason": "SPACEX R-5, VANDENBERG SFB, CA",
-"source": {
-"link": "https://www.fly.faa.gov/adv/adv_spt",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-11-10T00:28:36.317Z"
-},
-{
 "areas": [
 [
 [
@@ -272217,6 +272184,39 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-04T01:30:41.301Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-12T07:18:00.000Z",
+"start": "2026-11-12T02:35:00.000Z"
+},
+{
+"end": "2026-11-13T07:04:00.000Z",
+"start": "2026-11-13T02:21:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-spacex-r-5",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-ussf-627",
+"title": "USSF-627"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-r-5",
+"raw": "SPACEX R-5, VANDENBERG SFB, CA\nPRIMARY:\t11/12/26\t0235Z-0718Z\nBACKUP:\t\t11/13/26\t0221Z-0704Z",
+"reason": "SPACEX R-5, VANDENBERG SFB, CA",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-10T18:26:36.933Z"
 },
 {
 "areas": [
@@ -273705,7 +273705,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83047468",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-10T02:16:35.852Z"
+"updated": "2026-11-10T20:57:06.492Z"
 },
 {
 "areas": [
@@ -274409,6 +274409,186 @@
 "areas": [
 [
 [
+32.083333,
+-119.133333
+],
+[
+32.5,
+-119.3
+],
+[
+33.25,
+-119.633333
+],
+[
+34.2,
+-120.1
+],
+[
+34.516667,
+-120.3
+],
+[
+34.666667,
+-120.633333
+],
+[
+34.6,
+-120.65
+],
+[
+34.45,
+-120.616667
+],
+[
+34.316667,
+-120.566667
+],
+[
+32.083333,
+-119.15
+],
+[
+32.083333,
+-119.133333
+]
+],
+[
+[
+30.766667,
+-118.25
+],
+[
+31.383333,
+-118.783333
+],
+[
+30.433333,
+-118.516667
+],
+[
+29.583333,
+-118.2
+],
+[
+29.866667,
+-117.9
+],
+[
+29.8,
+-117.65
+],
+[
+30.766667,
+-118.25
+]
+],
+[
+[
+29.033333,
+-117.983333
+],
+[
+29.25,
+-118.033333
+],
+[
+29.4,
+-118.133333
+],
+[
+29.583333,
+-118.2
+],
+[
+29.866667,
+-117.9
+],
+[
+29.8,
+-117.65
+],
+[
+29.6,
+-117.266667
+],
+[
+28.833333,
+-117.316667
+],
+[
+28.25,
+-117.316667
+],
+[
+28.266667,
+-117.35
+],
+[
+28.833333,
+-117.816667
+],
+[
+29.033333,
+-117.983333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-13T08:47:00.000Z",
+"start": "2026-11-13T04:23:00.000Z"
+},
+{
+"end": "2026-11-14T08:33:00.000Z",
+"start": "2026-11-14T04:09:00.000Z"
+},
+{
+"end": "2026-11-15T08:19:00.000Z",
+"start": "2026-11-15T03:55:00.000Z"
+},
+{
+"end": "2026-11-16T08:05:00.000Z",
+"start": "2026-11-16T03:41:00.000Z"
+},
+{
+"end": "2026-11-17T07:52:00.000Z",
+"start": "2026-11-17T03:28:00.000Z"
+},
+{
+"end": "2026-11-18T07:38:00.000Z",
+"start": "2026-11-18T03:14:00.000Z"
+},
+{
+"end": "2026-11-19T07:24:00.000Z",
+"start": "2026-11-19T03:00:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-58217",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-f9-ussf-317",
+"title": "USSF-317"
+}
+],
+"markers": [],
+"name": "58217",
+"page": "https://space-notices.com/notice/lnm-58217",
+"raw": "Hazardous operations will be conducted for Space X, R-6 Launch Operations. Hazardous operation areas are bounded by the following coordinates and times:\nHazard Area A: \n32.08333333N, -119.13333333W\n32.5N, -119.3W\n33.25N, -119.63333333W\n34.2N, -120.1W\n34.51666667N, -120.3W\n34.66666667N, -120.63333333W\n34.6N, -120.65W\n34.45N, -120.61666667W\n34.31666667N, -120.56666667W\n32.08333333N, -119.15W (TO BEGINNING)\n             \n130423Z NOV TO 130846Z NOV 2026---- (PRIMARY) \n140409Z NOV TO 140832Z NOV 2026---- (BACKUP DAY) \n150355Z NOV TO 150818Z NOV 2026---- (BACKUP DAY) \n160341Z NOV TO 160804Z NOV 2026---- (BACKUP DAY) \n170328Z NOV TO 170751Z NOV 2026---- (BACKUP DAY) \n180314Z NOV TO 180737Z NOV 2026---- (BACKUP DAY) \n190300Z NOV TO 190723Z NOV 2026---- (BACKUP DAY) \n\nHazard Area B:\n30.76666667N, -118.25W\n31.38333333N, -118.78333333W\n30.43333333N, -118.51666667W\n29.58333333N, -118.2W\n29.86666667N, -117.9W\n29.8N, -117.65W (TO BEGINNING)\n            \n130423Z NOV TO 130847Z NOV 2026---- (PRIMARY) \n140409Z NOV TO 140833Z NOV 2026---- (BACKUP DAY) \n150355Z NOV TO 150819Z NOV 2026---- (BACKUP DAY) \n160341Z NOV TO 160805Z NOV 2026---- (BACKUP DAY) \n170328Z NOV TO 170752Z NOV 2026---- (BACKUP DAY) \n180314Z NOV TO 180738Z NOV 2026---- (BACKUP DAY) \n190300Z NOV TO 190724Z NOV 2026---- (BACKUP DAY) \n\nHazard Area C:\n29.03333333N, -117.98333333W\n29.25N, -118.03333333W\n29.4N, -118.13333333W\n29.58333333N, -118.2W\n29.86666667N, -117.9W\n29.8N, -117.65W\n29.6N, -117.26666667W\n28.83333333N, -117.31666667W\n28.25N, -117.31666667W\n28.26666667N, -117.35W\n28.83333333N, -117.81666667W (TO BEGINNING)\n\n130423Z NOV TO 130906Z NOV 2026---- (PRIMARY) \n140409Z NOV TO 140852Z NOV 2026---- (BACKUP DAY) \n150355Z NOV TO 150838Z NOV 2026---- (BACKUP DAY) \n160341Z NOV TO 160824Z NOV 2026---- (BACKUP DAY) \n170328Z NOV TO 170811Z NOV 2026---- (BACKUP DAY) \n180314Z NOV TO 180757Z NOV 2026---- (BACKUP DAY) \n190300Z NOV TO 190743Z NOV 2026---- (BACKUP DAY) \n\nMariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16.",
+"reason": "Hazardous operations will be conducted for Space X R-6 Launch Operations",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-10T23:30:30.802Z"
+},
+{
+"areas": [
+[
+[
 32.0833,
 -119.1333
 ],
@@ -274584,6 +274764,186 @@
 "name": "US National Geospatial-Intelligence Agency"
 },
 "updated": "2026-11-09T16:22:14.336Z"
+},
+{
+"areas": [
+[
+[
+29.033333,
+-117.983333
+],
+[
+29.25,
+-118.033333
+],
+[
+29.4,
+-118.133333
+],
+[
+29.583333,
+-118.2
+],
+[
+29.866667,
+-117.9
+],
+[
+29.8,
+-117.65
+],
+[
+29.6,
+-117.266667
+],
+[
+28.833333,
+-117.316667
+],
+[
+28.25,
+-117.316667
+],
+[
+28.266667,
+-117.35
+],
+[
+28.833333,
+-117.816667
+],
+[
+29.033333,
+-117.983333
+]
+],
+[
+[
+30.766667,
+-118.25
+],
+[
+31.383333,
+-118.783333
+],
+[
+30.433333,
+-118.516667
+],
+[
+29.583333,
+-118.2
+],
+[
+29.866667,
+-117.9
+],
+[
+29.8,
+-117.65
+],
+[
+30.766667,
+-118.25
+]
+],
+[
+[
+32.083333,
+-119.133333
+],
+[
+32.5,
+-119.3
+],
+[
+33.25,
+-119.633333
+],
+[
+34.2,
+-120.1
+],
+[
+34.516667,
+-120.3
+],
+[
+34.666667,
+-120.633333
+],
+[
+34.6,
+-120.65
+],
+[
+34.45,
+-120.616667
+],
+[
+34.316667,
+-120.566667
+],
+[
+32.083333,
+-119.15
+],
+[
+32.083333,
+-119.133333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-13T09:06:00.000Z",
+"start": "2026-11-13T04:23:00.000Z"
+},
+{
+"end": "2026-11-14T08:52:00.000Z",
+"start": "2026-11-14T04:09:00.000Z"
+},
+{
+"end": "2026-11-15T08:38:00.000Z",
+"start": "2026-11-15T03:55:00.000Z"
+},
+{
+"end": "2026-11-16T08:24:00.000Z",
+"start": "2026-11-16T03:41:00.000Z"
+},
+{
+"end": "2026-11-17T08:11:00.000Z",
+"start": "2026-11-17T03:28:00.000Z"
+},
+{
+"end": "2026-11-18T07:57:00.000Z",
+"start": "2026-11-18T03:14:00.000Z"
+},
+{
+"end": "2026-11-19T07:43:00.000Z",
+"start": "2026-11-19T03:00:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SW BNM 9148-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "launch-f9-ussf-317",
+"title": "USSF-317"
+}
+],
+"markers": [],
+"name": "CGD-SW BNM 9148-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209148-26",
+"raw": "Launch Hazard Area\nMission: SpaceX R-6 Launch Operations\nMessage Id: CGD-SW BNM 9148-26\n\n\n13/0423 NOV 26 to 13/0906 NOV 26. \n14/0409 NOV 26 to 14/0852 NOV 26. \n15/0355 NOV 26 to 15/0838 NOV 26. \n16/0341 NOV 26 to 16/0824 NOV 26. \n17/0328 NOV 26 to 17/0811 NOV 26. \n18/0314 NOV 26 to 18/0757 NOV 26. \n19/0300 NOV 26 to 19/0743 NOV 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
+"reason": "Launch Hazard Area - SpaceX R-6 Launch Operations",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-10T23:48:19.060Z"
 },
 {
 "areas": [
@@ -278469,7 +278829,7 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-10T17:36:46.246Z"
+"updated": "2026-11-10T20:30:38.331Z"
 },
 {
 "areas": [
@@ -278867,165 +279227,6 @@
 "areas": [
 [
 [
-24.41549,
-113.9667
-],
-[
-24.38046,
-114.35192
-],
-[
-24.27678,
-114.72174
-],
-[
-24.10859,
-115.06144
-],
-[
-23.88259,
-115.35765
-],
-[
-23.60775,
-115.59889
-],
-[
-23.29488,
-115.77606
-],
-[
-22.95623,
-115.8827
-],
-[
-22.60494,
-115.91523
-],
-[
-22.25454,
-115.87296
-],
-[
-21.91844,
-115.75805
-],
-[
-21.60939,
-115.57535
-],
-[
-21.33904,
-115.33216
-],
-[
-21.11755,
-115.03788
-],
-[
-20.95317,
-114.70371
-],
-[
-20.85204,
-114.34216
-],
-[
-20.81791,
-113.9667
-],
-[
-20.85204,
-113.59124
-],
-[
-20.95317,
-113.22969
-],
-[
-21.11755,
-112.89552
-],
-[
-21.33904,
-112.60124
-],
-[
-21.60939,
-112.35805
-],
-[
-21.91844,
-112.17535
-],
-[
-22.25454,
-112.06044
-],
-[
-22.60494,
-112.01817
-],
-[
-22.95623,
-112.0507
-],
-[
-23.29488,
-112.15734
-],
-[
-23.60775,
-112.33451
-],
-[
-23.88259,
-112.57575
-],
-[
-24.10859,
-112.87196
-],
-[
-24.27678,
-113.21166
-],
-[
-24.38046,
-113.58148
-],
-[
-24.41549,
-113.9667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-11-22T16:00:00.000Z",
-"start": "2026-11-10T16:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZGZU-A5871/26",
-"kind": "NOTAM",
-"launches": [],
-"markers": [],
-"name": "A5871/26",
-"page": "https://space-notices.com/notice/notam-ZGZU-A5871%2F26",
-"raw": "A5871/26 NOTAMN\r\nQ)ZGZU/QRTCA/IV/BO/W/000/999/2237N11358E108\r\nA)ZGZU B)2611101600 C)2611221600 \r\nE) A TEMPORARY RESTRICTED AREA ESTABLISHED,THE AREA WITHIN A CIRCLE \r\nCENTERED AT N223637E1135758 WITH RADIUS OF 200KM.\r\nVERTICAL LIMITS:SFC-UNL.\r\nALL GENERAL AVIATION FLIGHT ACTIVITIES ARE PROHIBITED WITHOUT \r\nPRIOR APPROVAL.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY RESTRICTED AREA ESTABLISHED",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83040606",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-11-10T14:13:07.409Z"
-},
-{
-"areas": [
-[
-[
 29.85,
 -119.8167
 ],
@@ -279103,6 +279304,172 @@
 "updated": "2026-11-09T22:59:44.256Z"
 },
 {
+"areas": [
+[
+[
+30.616667,
+-119.75
+],
+[
+29.1,
+-119.783333
+],
+[
+28.95,
+-119.916667
+],
+[
+28.683333,
+-119.883333
+],
+[
+28.3,
+-119.383333
+],
+[
+27.716667,
+-119.3
+],
+[
+27.7,
+-119.25
+],
+[
+28.3,
+-119.066667
+],
+[
+28.65,
+-118.716667
+],
+[
+28.916667,
+-118.766667
+],
+[
+29.15,
+-119.066667
+],
+[
+30.55,
+-119.666667
+],
+[
+30.616667,
+-119.75
+]
+],
+[
+[
+34.466667,
+-120.35
+],
+[
+34.666667,
+-120.616667
+],
+[
+34.633333,
+-120.65
+],
+[
+34.516667,
+-120.65
+],
+[
+34.333333,
+-120.633333
+],
+[
+33.283333,
+-120.35
+],
+[
+33.216667,
+-120.266667
+],
+[
+32.616667,
+-120.15
+],
+[
+32.016667,
+-120.033333
+],
+[
+32.0,
+-120.0
+],
+[
+32.1,
+-120.0
+],
+[
+33.233333,
+-120.216667
+],
+[
+33.966667,
+-120.233333
+],
+[
+34.466667,
+-120.35
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-16T21:50:00.000Z",
+"start": "2026-11-16T17:07:00.000Z"
+},
+{
+"end": "2026-11-17T21:41:00.000Z",
+"start": "2026-11-17T16:58:00.000Z"
+},
+{
+"end": "2026-11-18T21:32:00.000Z",
+"start": "2026-11-18T16:49:00.000Z"
+},
+{
+"end": "2026-11-19T21:23:00.000Z",
+"start": "2026-11-19T16:40:00.000Z"
+},
+{
+"end": "2026-11-20T21:14:00.000Z",
+"start": "2026-11-20T16:31:00.000Z"
+},
+{
+"end": "2026-11-21T21:05:00.000Z",
+"start": "2026-11-21T16:22:00.000Z"
+},
+{
+"end": "2026-11-22T20:56:00.000Z",
+"start": "2026-11-22T16:13:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SW BNM 9149-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "launch-f9-ussf-266",
+"title": "USSF-266"
+}
+],
+"markers": [],
+"name": "CGD-SW BNM 9149-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209149-26",
+"raw": "Launch Hazard Area\nMission: SpaceX TH-3 Launch Operations\nMessage Id: CGD-SW BNM 9149-26\n\n\n16/1707 NOV 26 to 16/2150 NOV 26. \n17/1658 NOV 26 to 17/2141 NOV 26. \n18/1649 NOV 26 to 18/2132 NOV 26. \n19/1640 NOV 26 to 19/2123 NOV 26. \n20/1631 NOV 26 to 20/2114 NOV 26. \n21/1622 NOV 26 to 21/2105 NOV 26. \n22/1613 NOV 26 to 22/2056 NOV 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
+"reason": "Launch Hazard Area - SpaceX TH-3 Launch Operations",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-09T23:00:11.437Z"
+},
+{
 "areas": [],
 "cancelled": false,
 "dates": [
@@ -279154,6 +279521,176 @@
 "name": "Cadena OIS"
 },
 "updated": "2026-11-09T23:00:03.201Z"
+},
+{
+"areas": [
+[
+[
+34.466667,
+-120.35
+],
+[
+34.666667,
+-120.616667
+],
+[
+34.633333,
+-120.65
+],
+[
+34.516667,
+-120.65
+],
+[
+34.333333,
+-120.633333
+],
+[
+33.283333,
+-120.35
+],
+[
+33.216667,
+-120.266667
+],
+[
+32.616667,
+-120.15
+],
+[
+32.016667,
+-120.033333
+],
+[
+32.0,
+-120.0
+],
+[
+32.1,
+-120.0
+],
+[
+33.233333,
+-120.216667
+],
+[
+33.966667,
+-120.233333
+],
+[
+34.466667,
+-120.35
+]
+],
+[
+[
+30.616667,
+-119.75
+],
+[
+29.1,
+-119.783333
+],
+[
+28.95,
+-119.916667
+],
+[
+28.683333,
+-119.883333
+],
+[
+28.3,
+-119.383333
+],
+[
+27.716667,
+-119.3
+],
+[
+27.7,
+-119.25
+],
+[
+28.3,
+-119.066667
+],
+[
+28.65,
+-118.716667
+],
+[
+28.916667,
+-118.766667
+],
+[
+29.15,
+-119.066667
+],
+[
+30.55,
+-119.666667
+],
+[
+30.616667,
+-119.75
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-10-22T03:33:00.000Z",
+"start": "2026-10-21T22:50:00.000Z"
+},
+{
+"end": "2026-11-16T21:50:00.000Z",
+"start": "2026-11-16T17:07:00.000Z"
+},
+{
+"end": "2026-11-17T21:41:00.000Z",
+"start": "2026-11-17T16:58:00.000Z"
+},
+{
+"end": "2026-11-18T21:32:00.000Z",
+"start": "2026-11-18T16:49:00.000Z"
+},
+{
+"end": "2026-11-19T21:23:00.000Z",
+"start": "2026-11-19T16:40:00.000Z"
+},
+{
+"end": "2026-11-20T21:14:00.000Z",
+"start": "2026-11-20T16:31:00.000Z"
+},
+{
+"end": "2026-11-21T21:05:00.000Z",
+"start": "2026-11-21T16:22:00.000Z"
+},
+{
+"end": "2026-11-22T20:56:00.000Z",
+"start": "2026-11-22T16:13:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-58218",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-f9-ussf-266",
+"title": "USSF-266"
+}
+],
+"markers": [],
+"name": "58218",
+"page": "https://space-notices.com/notice/lnm-58218",
+"raw": "Hazardous operations will be conducted for Space X, TH-3. Hazardous operation areas are bounded by the following coordinates and times:\nHazard Area A: \n34.46666667N, -120.35W\n34.66666667N, -120.61666667W\n34.63333333N, -120.65W\n34.51666667N, -120.65W\n34.33333333N, -120.63333333W\n33.28333333N, -120.35W\n33.21666667N, -120.26666667W\n32.61666667N, -120.15W\n32.01666667N, -120.03333333W\n32N, -120W\n32.1N, -120W\n33.23333333N, -120.21666667W\n33.96666667N, -120.23333333 W(TO BEGINNING)\n\n161707Z NOV TO 162131Z NOV 2026---- (PRIMARY) \n171658Z NOV TO 172122Z NOV 2026---- (BACKUP DAY) \n181649Z NOV TO 182113Z NOV 2026---- (BACKUP DAY) \n191640Z NOV TO 192104Z NOV 2026---- (BACKUP DAY) \n201631Z NOV TO 202055Z NOV 2026---- (BACKUP DAY) \n211622Z NOV TO 212046Z NOV 2026---- (BACKUP DAY) \n221613Z NOV TO 222037Z NOV 2026---- (BACKUP DAY) \n\nHazard Area B:\n30.61666667N, -119.75W\n29.1N, -119.78333333W\n28.95N, -119.91666667W\n28.68333333N, -119.88333333W\n28.3N, -119.38333333W\n27.71666667N, -119.3W\n27.7N, -119.25W\n28.3N, -119.06666667W\n28.65N, -118.71666667W\n28.91666667N, -118.76666667W\n29.15N, -119.06666667W\n30.55N, -119.66666667W (TO BEGINNING)\n\n161707Z NOV TO 162150Z NOV 2026---- (PRIMARY) \n171658Z NOV TO 172141Z NOV 2026---- (BACKUP DAY) \n181649Z NOV TO 182132Z NOV 2026---- (BACKUP DAY) \n191640Z NOV TO 192123Z NOV 2026---- (BACKUP DAY) \n201631Z NOV TO 202114Z NOV 2026---- (BACKUP DAY) \n211622Z NOV TO 212105Z NOV 2026---- (BACKUP DAY) \n221613Z NOV TO 222056Z NOV 2026---- (BACKUP DAY) \n212250Z OCT TO 220333Z OCT 2026---- (BACKUP DAY) \n\nMariners are strongly advised to remain clear of these areas for the duration of operations. For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16.",
+"reason": "Hazardous operations will be conducted for Space X TH-3",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-09T23:00:11.437Z"
 },
 {
 "areas": [
@@ -279861,6 +280398,114 @@
 "areas": [
 [
 [
+27.116667,
+-123.316667
+],
+[
+25.5,
+-124.166667
+],
+[
+22.616667,
+-126.9
+],
+[
+18.35,
+-130.65
+],
+[
+19.383333,
+-131.9
+],
+[
+23.683333,
+-128.166667
+],
+[
+26.583333,
+-125.433333
+],
+[
+27.5,
+-123.75
+],
+[
+27.116667,
+-123.316667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-17T23:55:00.000Z",
+"start": "2026-11-17T23:10:00.000Z"
+},
+{
+"end": "2026-11-18T23:35:00.000Z",
+"start": "2026-11-18T22:50:00.000Z"
+},
+{
+"end": "2026-11-19T23:10:00.000Z",
+"start": "2026-11-19T22:25:00.000Z"
+},
+{
+"end": "2026-11-20T22:45:00.000Z",
+"start": "2026-11-20T22:00:00.000Z"
+},
+{
+"end": "2026-11-21T22:25:00.000Z",
+"start": "2026-11-21T21:40:00.000Z"
+},
+{
+"end": "2026-11-22T22:00:00.000Z",
+"start": "2026-11-22T21:15:00.000Z"
+},
+{
+"end": "2026-11-23T21:35:00.000Z",
+"start": "2026-11-23T20:50:00.000Z"
+},
+{
+"end": "2026-11-24T21:10:00.000Z",
+"start": "2026-11-24T20:25:00.000Z"
+},
+{
+"end": "2026-11-25T20:50:00.000Z",
+"start": "2026-11-25T20:05:00.000Z"
+},
+{
+"end": "2026-11-26T20:25:00.000Z",
+"start": "2026-11-26T19:40:00.000Z"
+},
+{
+"end": "2026-11-27T20:00:00.000Z",
+"start": "2026-11-27T19:15:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SW BNM 9147-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "CGD-SW BNM 9147-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209147-26",
+"raw": "Re-Entry\nMission: SpaceX CRS-35 \nMessage Id: CGD-SW BNM 9147-26\n\nA: Trunk / Stage Separation Hazard Area\n17/2310 NOV 26 to 17/2355 NOV 26. \n18/2250 NOV 26 to 18/2335 NOV 26. \n19/2225 NOV 26 to 19/2310 NOV 26. \n20/2200 NOV 26 to 20/2245 NOV 26. \n21/2140 NOV 26 to 21/2225 NOV 26. \n22/2115 NOV 26 to 22/2200 NOV 26. \n23/2050 NOV 26 to 23/2135 NOV 26. \n24/2025 NOV 26 to 24/2110 NOV 26. \n25/2005 NOV 26 to 25/2050 NOV 26. \n26/1940 NOV 26 to 26/2025 NOV 26. \n27/1915 NOV 26 to 27/2000 NOV 26. \n\n(All times in Zulu unless otherwise noted.)\n\n",
+"reason": "Re-Entry - SpaceX CRS-35",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-10T22:55:20.960Z"
+},
+{
+"areas": [
+[
+[
 27.11667,
 -123.31667
 ],
@@ -279924,6 +280569,114 @@
 "name": "US Coast Guard"
 },
 "updated": "2026-11-10T04:47:04.999Z"
+},
+{
+"areas": [
+[
+[
+27.55,
+-123.416667
+],
+[
+25.933333,
+-124.283333
+],
+[
+23.066667,
+-127.033333
+],
+[
+18.8,
+-130.8
+],
+[
+19.85,
+-132.05
+],
+[
+24.133333,
+-128.3
+],
+[
+27.033333,
+-125.533333
+],
+[
+27.933333,
+-123.85
+],
+[
+27.55,
+-123.416667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-18T00:00:00.000Z",
+"start": "2026-11-17T23:15:00.000Z"
+},
+{
+"end": "2026-11-18T23:35:00.000Z",
+"start": "2026-11-18T22:50:00.000Z"
+},
+{
+"end": "2026-11-19T23:10:00.000Z",
+"start": "2026-11-19T22:25:00.000Z"
+},
+{
+"end": "2026-11-20T22:50:00.000Z",
+"start": "2026-11-20T22:05:00.000Z"
+},
+{
+"end": "2026-11-21T22:25:00.000Z",
+"start": "2026-11-21T21:40:00.000Z"
+},
+{
+"end": "2026-11-22T22:00:00.000Z",
+"start": "2026-11-22T21:15:00.000Z"
+},
+{
+"end": "2026-11-23T21:35:00.000Z",
+"start": "2026-11-23T20:50:00.000Z"
+},
+{
+"end": "2026-11-24T21:15:00.000Z",
+"start": "2026-11-24T20:30:00.000Z"
+},
+{
+"end": "2026-11-25T20:50:00.000Z",
+"start": "2026-11-25T20:05:00.000Z"
+},
+{
+"end": "2026-11-26T20:30:00.000Z",
+"start": "2026-11-26T19:45:00.000Z"
+},
+{
+"end": "2026-11-27T20:05:00.000Z",
+"start": "2026-11-27T19:20:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SW BNM 9144-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "CGD-SW BNM 9144-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209144-26",
+"raw": "Re-Entry\nMission: SpaceX CRS-35 Reentry \nMessage Id: CGD-SW BNM 9144-26\n\nA: Trunk / Stage Separation Hazard Area\n17/2315 NOV 26 to 18/0000 NOV 26. \n18/2250 NOV 26 to 18/2335 NOV 26. \n19/2225 NOV 26 to 19/2310 NOV 26. \n20/2205 NOV 26 to 20/2250 NOV 26. \n21/2140 NOV 26 to 21/2225 NOV 26. \n22/2115 NOV 26 to 22/2200 NOV 26. \n23/2050 NOV 26 to 23/2135 NOV 26. \n24/2030 NOV 26 to 24/2115 NOV 26. \n25/2005 NOV 26 to 25/2050 NOV 26. \n26/1945 NOV 26 to 26/2030 NOV 26. \n27/1920 NOV 26 to 27/2005 NOV 26. \n\n(All times in Zulu unless otherwise noted.)\n\n",
+"reason": "Re-Entry - SpaceX CRS-35 Reentry",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-10T21:49:19.124Z"
 },
 {
 "areas": [
@@ -280091,7 +280844,7 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-10T18:16:19.649Z"
+"updated": "2026-11-10T20:52:19.139Z"
 },
 {
 "areas": [
@@ -280160,6 +280913,158 @@
 "name": "US Coast Guard"
 },
 "updated": "2026-11-10T01:04:32.136Z"
+},
+{
+"areas": [
+[
+[
+33.116667,
+-117.833333
+],
+[
+33.083333,
+-117.9
+],
+[
+32.933333,
+-117.9
+],
+[
+32.883333,
+-117.833333
+],
+[
+32.883333,
+-117.716667
+],
+[
+32.95,
+-117.633333
+],
+[
+33.083333,
+-117.633333
+],
+[
+33.116667,
+-117.683333
+],
+[
+33.116667,
+-117.833333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-17T23:40:00.000Z",
+"start": "2026-11-17T23:20:00.000Z"
+},
+{
+"end": "2026-11-18T07:25:00.000Z",
+"start": "2026-11-18T07:05:00.000Z"
+},
+{
+"end": "2026-11-18T23:15:00.000Z",
+"start": "2026-11-18T22:55:00.000Z"
+},
+{
+"end": "2026-11-19T07:00:00.000Z",
+"start": "2026-11-19T06:40:00.000Z"
+},
+{
+"end": "2026-11-19T22:50:00.000Z",
+"start": "2026-11-19T22:30:00.000Z"
+},
+{
+"end": "2026-11-20T06:40:00.000Z",
+"start": "2026-11-20T06:20:00.000Z"
+},
+{
+"end": "2026-11-20T22:30:00.000Z",
+"start": "2026-11-20T22:10:00.000Z"
+},
+{
+"end": "2026-11-21T06:15:00.000Z",
+"start": "2026-11-21T05:55:00.000Z"
+},
+{
+"end": "2026-11-21T22:05:00.000Z",
+"start": "2026-11-21T21:45:00.000Z"
+},
+{
+"end": "2026-11-22T05:50:00.000Z",
+"start": "2026-11-22T05:30:00.000Z"
+},
+{
+"end": "2026-11-22T21:40:00.000Z",
+"start": "2026-11-22T21:20:00.000Z"
+},
+{
+"end": "2026-11-23T05:30:00.000Z",
+"start": "2026-11-23T05:10:00.000Z"
+},
+{
+"end": "2026-11-23T21:15:00.000Z",
+"start": "2026-11-23T20:55:00.000Z"
+},
+{
+"end": "2026-11-24T05:05:00.000Z",
+"start": "2026-11-24T04:45:00.000Z"
+},
+{
+"end": "2026-11-24T20:55:00.000Z",
+"start": "2026-11-24T20:35:00.000Z"
+},
+{
+"end": "2026-11-25T04:40:00.000Z",
+"start": "2026-11-25T04:20:00.000Z"
+},
+{
+"end": "2026-11-25T20:30:00.000Z",
+"start": "2026-11-25T20:10:00.000Z"
+},
+{
+"end": "2026-11-26T04:15:00.000Z",
+"start": "2026-11-26T03:55:00.000Z"
+},
+{
+"end": "2026-11-26T20:10:00.000Z",
+"start": "2026-11-26T19:50:00.000Z"
+},
+{
+"end": "2026-11-27T03:55:00.000Z",
+"start": "2026-11-27T03:35:00.000Z"
+},
+{
+"end": "2026-11-27T19:45:00.000Z",
+"start": "2026-11-27T19:25:00.000Z"
+},
+{
+"end": "2026-11-28T03:30:00.000Z",
+"start": "2026-11-28T03:10:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SW BNM 9142-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "CGD-SW BNM 9142-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209142-26",
+"raw": "Re-Entry\nMission: SpaceX CRS-35 Reentry \nMessage Id: CGD-SW BNM 9142-26\n\nA: Re-Entry Hazard Area - Additional\n17/2320 NOV 26 to 17/2340 NOV 26. \n18/0705 NOV 26 to 18/0725 NOV 26. \n18/2255 NOV 26 to 18/2315 NOV 26. \n19/0640 NOV 26 to 19/0700 NOV 26. \n19/2230 NOV 26 to 19/2250 NOV 26. \n20/0620 NOV 26 to 20/0640 NOV 26. \n20/2210 NOV 26 to 20/2230 NOV 26. \n21/0555 NOV 26 to 21/0615 NOV 26. \n21/2145 NOV 26 to 21/2205 NOV 26. \n22/0530 NOV 26 to 22/0550 NOV 26. \n22/2120 NOV 26 to 22/2140 NOV 26. \n23/0510 NOV 26 to 23/0530 NOV 26. \n23/2055 NOV 26 to 23/2115 NOV 26. \n24/0445 NOV 26 to 24/0505 NOV 26. \n24/2035 NOV 26 to 24/2055 NOV 26. \n25/0420 NOV 26 to 25/0440 NOV 26. \n25/2010 NOV 26 to 25/2030 NOV 26. \n26/0355 NOV 26 to 26/0415 NOV 26. \n26/1950 NOV 26 to 26/2010 NOV 26. \n27/0335 NOV 26 to 27/0355 NOV 26. \n27/1925 NOV 26 to 27/1945 NOV 26. \n28/0310 NOV 26 to 28/0330 NOV 26. \n\n(All times in Zulu unless otherwise noted.)\n\n",
+"reason": "Re-Entry - SpaceX CRS-35 Reentry",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-10T21:10:21.954Z"
 },
 {
 "areas": [
@@ -280372,6 +281277,158 @@
 "name": "US Coast Guard"
 },
 "updated": "2026-11-10T16:19:19.500Z"
+},
+{
+"areas": [
+[
+[
+32.7,
+-117.8
+],
+[
+32.666667,
+-117.85
+],
+[
+32.516667,
+-117.85
+],
+[
+32.466667,
+-117.783333
+],
+[
+32.466667,
+-117.666667
+],
+[
+32.533333,
+-117.583333
+],
+[
+32.666667,
+-117.583333
+],
+[
+32.7,
+-117.633333
+],
+[
+32.7,
+-117.8
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-17T23:35:00.000Z",
+"start": "2026-11-17T23:15:00.000Z"
+},
+{
+"end": "2026-11-18T07:25:00.000Z",
+"start": "2026-11-18T07:05:00.000Z"
+},
+{
+"end": "2026-11-18T23:15:00.000Z",
+"start": "2026-11-18T22:55:00.000Z"
+},
+{
+"end": "2026-11-19T07:05:00.000Z",
+"start": "2026-11-19T06:45:00.000Z"
+},
+{
+"end": "2026-11-19T22:50:00.000Z",
+"start": "2026-11-19T22:30:00.000Z"
+},
+{
+"end": "2026-11-20T06:40:00.000Z",
+"start": "2026-11-20T06:20:00.000Z"
+},
+{
+"end": "2026-11-20T22:25:00.000Z",
+"start": "2026-11-20T22:05:00.000Z"
+},
+{
+"end": "2026-11-21T06:15:00.000Z",
+"start": "2026-11-21T05:55:00.000Z"
+},
+{
+"end": "2026-11-21T22:05:00.000Z",
+"start": "2026-11-21T21:45:00.000Z"
+},
+{
+"end": "2026-11-22T05:50:00.000Z",
+"start": "2026-11-22T05:30:00.000Z"
+},
+{
+"end": "2026-11-22T21:40:00.000Z",
+"start": "2026-11-22T21:20:00.000Z"
+},
+{
+"end": "2026-11-23T05:30:00.000Z",
+"start": "2026-11-23T05:10:00.000Z"
+},
+{
+"end": "2026-11-23T21:15:00.000Z",
+"start": "2026-11-23T20:55:00.000Z"
+},
+{
+"end": "2026-11-24T05:05:00.000Z",
+"start": "2026-11-24T04:45:00.000Z"
+},
+{
+"end": "2026-11-24T20:50:00.000Z",
+"start": "2026-11-24T20:30:00.000Z"
+},
+{
+"end": "2026-11-25T04:40:00.000Z",
+"start": "2026-11-25T04:20:00.000Z"
+},
+{
+"end": "2026-11-25T20:30:00.000Z",
+"start": "2026-11-25T20:10:00.000Z"
+},
+{
+"end": "2026-11-26T04:20:00.000Z",
+"start": "2026-11-26T04:00:00.000Z"
+},
+{
+"end": "2026-11-26T20:05:00.000Z",
+"start": "2026-11-26T19:45:00.000Z"
+},
+{
+"end": "2026-11-27T03:55:00.000Z",
+"start": "2026-11-27T03:35:00.000Z"
+},
+{
+"end": "2026-11-27T19:40:00.000Z",
+"start": "2026-11-27T19:20:00.000Z"
+},
+{
+"end": "2026-11-28T03:35:00.000Z",
+"start": "2026-11-28T03:15:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SW BNM 9145-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "CGD-SW BNM 9145-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209145-26",
+"raw": "Re-Entry\nMission: SpaceX CRS-35 Reentry \nMessage Id: CGD-SW BNM 9145-26\n\nA: Re-Entry Hazard Area - Additional\n17/2315 NOV 26 to 17/2335 NOV 26. \n18/0705 NOV 26 to 18/0725 NOV 26. \n18/2255 NOV 26 to 18/2315 NOV 26. \n19/0645 NOV 26 to 19/0705 NOV 26. \n19/2230 NOV 26 to 19/2250 NOV 26. \n20/0620 NOV 26 to 20/0640 NOV 26. \n20/2205 NOV 26 to 20/2225 NOV 26. \n21/0555 NOV 26 to 21/0615 NOV 26. \n21/2145 NOV 26 to 21/2205 NOV 26. \n22/0530 NOV 26 to 22/0550 NOV 26. \n22/2120 NOV 26 to 22/2140 NOV 26. \n23/0510 NOV 26 to 23/0530 NOV 26. \n23/2055 NOV 26 to 23/2115 NOV 26. \n24/0445 NOV 26 to 24/0505 NOV 26. \n24/2030 NOV 26 to 24/2050 NOV 26. \n25/0420 NOV 26 to 25/0440 NOV 26. \n25/2010 NOV 26 to 25/2030 NOV 26. \n26/0400 NOV 26 to 26/0420 NOV 26. \n26/1945 NOV 26 to 26/2005 NOV 26. \n27/0335 NOV 26 to 27/0355 NOV 26. \n27/1920 NOV 26 to 27/1940 NOV 26. \n28/0315 NOV 26 to 28/0335 NOV 26. \n\n(All times in Zulu unless otherwise noted.)\n\n",
+"reason": "Re-Entry - SpaceX CRS-35 Reentry",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-10T22:20:29.661Z"
 },
 {
 "areas": [
@@ -280684,6 +281741,114 @@
 "name": "US Coast Guard"
 },
 "updated": "2026-11-10T18:16:19.629Z"
+},
+{
+"areas": [
+[
+[
+37.333333,
+-124.35
+],
+[
+38.0,
+-126.416667
+],
+[
+40.3,
+-130.316667
+],
+[
+43.333333,
+-136.45
+],
+[
+44.7,
+-135.35
+],
+[
+41.6,
+-129.133333
+],
+[
+39.25,
+-125.2
+],
+[
+37.75,
+-123.933333
+],
+[
+37.333333,
+-124.35
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-18T07:45:00.000Z",
+"start": "2026-11-18T07:00:00.000Z"
+},
+{
+"end": "2026-11-19T07:25:00.000Z",
+"start": "2026-11-19T06:40:00.000Z"
+},
+{
+"end": "2026-11-20T07:00:00.000Z",
+"start": "2026-11-20T06:15:00.000Z"
+},
+{
+"end": "2026-11-21T06:35:00.000Z",
+"start": "2026-11-21T05:50:00.000Z"
+},
+{
+"end": "2026-11-22T06:10:00.000Z",
+"start": "2026-11-22T05:25:00.000Z"
+},
+{
+"end": "2026-11-23T05:50:00.000Z",
+"start": "2026-11-23T05:05:00.000Z"
+},
+{
+"end": "2026-11-24T05:25:00.000Z",
+"start": "2026-11-24T04:40:00.000Z"
+},
+{
+"end": "2026-11-25T05:00:00.000Z",
+"start": "2026-11-25T04:15:00.000Z"
+},
+{
+"end": "2026-11-26T04:40:00.000Z",
+"start": "2026-11-26T03:55:00.000Z"
+},
+{
+"end": "2026-11-27T04:15:00.000Z",
+"start": "2026-11-27T03:30:00.000Z"
+},
+{
+"end": "2026-11-28T03:55:00.000Z",
+"start": "2026-11-28T03:10:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SW BNM 9146-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "CGD-SW BNM 9146-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209146-26",
+"raw": "Re-Entry\nMission: SpaceX CRS-35 \nMessage Id: CGD-SW BNM 9146-26\n\nA: Trunk / Stage Separation Hazard Area\n18/0700 NOV 26 to 18/0745 NOV 26. \n19/0640 NOV 26 to 19/0725 NOV 26. \n20/0615 NOV 26 to 20/0700 NOV 26. \n21/0550 NOV 26 to 21/0635 NOV 26. \n22/0525 NOV 26 to 22/0610 NOV 26. \n23/0505 NOV 26 to 23/0550 NOV 26. \n24/0440 NOV 26 to 24/0525 NOV 26. \n25/0415 NOV 26 to 25/0500 NOV 26. \n26/0355 NOV 26 to 26/0440 NOV 26. \n27/0330 NOV 26 to 27/0415 NOV 26. \n28/0310 NOV 26 to 28/0355 NOV 26. \n\n(All times in Zulu unless otherwise noted.)\n\n",
+"reason": "Re-Entry - SpaceX CRS-35",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-10T22:37:19.649Z"
 },
 {
 "areas": [
@@ -281851,7 +283016,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83045817",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-09T02:17:44.970Z"
+"updated": "2026-11-10T18:26:25.695Z"
 },
 {
 "areas": [],
