@@ -1,5 +1,5 @@
 {
-"count": 2934,
+"count": 2938,
 "notices": [
 {
 "areas": [
@@ -275451,7 +275451,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83059011",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-12T02:53:49.149Z"
+"updated": "2026-11-12T03:03:08.578Z"
 },
 {
 "areas": [
@@ -275740,6 +275740,82 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-05T01:11:22.467Z"
+},
+{
+"areas": [
+[
+[
+32.7167,
+-119.5167
+],
+[
+32.75,
+-119.4667
+],
+[
+33.2167,
+-119.65
+],
+[
+34.1167,
+-120.1167
+],
+[
+34.5667,
+-120.3833
+],
+[
+34.6667,
+-120.5
+],
+[
+34.65,
+-120.6333
+],
+[
+34.5333,
+-120.6333
+],
+[
+34.3333,
+-120.5333
+],
+[
+32.9,
+-119.7
+],
+[
+32.7167,
+-119.5167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-15T08:17:00.000Z",
+"start": "2026-11-15T03:55:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-11/116-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-317",
+"title": "USSF-317"
+}
+],
+"markers": [],
+"name": "11/116",
+"page": "https://space-notices.com/notice/notam-ZLA-11%2F116-26",
+"raw": "!CARF 11/116 ZLA AIRSPACE DCC SX USSF317 R-6 26-73 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 324300N1193100W TO 324500N1192800W TO 331300N1193900W TO 340700N1200700W TO 343400N1202300W TO 344000N1203000W TO 343900N1203800W TO 343200N1203800W TO 342000N1203200W TO 325400N1194200W TO POINT OF ORIGIN SFC-UNL 2611150355-2611150817",
+"reason": "SX USSF317 R-6 26-73",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83062274",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-12T11:04:00.870Z"
 },
 {
 "areas": [
@@ -276068,6 +276144,58 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-02T17:50:41.971Z"
+},
+{
+"areas": [
+[
+[
+32.45,
+-119.3833
+],
+[
+32.5,
+-119.3167
+],
+[
+31.7333,
+-118.8333
+],
+[
+31.6333,
+-119.05
+],
+[
+32.45,
+-119.3833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-15T08:19:00.000Z",
+"start": "2026-11-15T03:55:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-11/115-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-317",
+"title": "USSF-317"
+}
+],
+"markers": [],
+"name": "11/115",
+"page": "https://space-notices.com/notice/notam-ZLA-11%2F115-26",
+"raw": "!CARF 11/115 ZLA AIRSPACE DCC SX USSF317 R-6 26-73 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 322700N1192300W TO 323000N1191900W TO 314400N1185000W TO 313800N1190300W TO POINT OF ORIGIN SFC-UNL 2611150355-2611150819",
+"reason": "SX USSF317 R-6 26-73",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83062256",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-12T10:55:01.061Z"
 },
 {
 "areas": [
@@ -280374,7 +280502,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83059392",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-12T01:45:32.638Z"
+"updated": "2026-11-12T04:09:34.892Z"
 },
 {
 "areas": [
@@ -286129,6 +286257,170 @@
 "updated": "2026-11-10T04:46:58.207Z"
 },
 {
+"areas": [
+[
+[
+25.97528,
+-97.2497
+],
+[
+25.9748,
+-97.24428
+],
+[
+25.97338,
+-97.23907
+],
+[
+25.97107,
+-97.23426
+],
+[
+25.96796,
+-97.23005
+],
+[
+25.96418,
+-97.2266
+],
+[
+25.95986,
+-97.22403
+],
+[
+25.95517,
+-97.22245
+],
+[
+25.9503,
+-97.22192
+],
+[
+25.94542,
+-97.22245
+],
+[
+25.94074,
+-97.22403
+],
+[
+25.93642,
+-97.2266
+],
+[
+25.93263,
+-97.23006
+],
+[
+25.92953,
+-97.23427
+],
+[
+25.92722,
+-97.23907
+],
+[
+25.9258,
+-97.24428
+],
+[
+25.92532,
+-97.2497
+],
+[
+25.9258,
+-97.25512
+],
+[
+25.92722,
+-97.26033
+],
+[
+25.92953,
+-97.26513
+],
+[
+25.93263,
+-97.26934
+],
+[
+25.93642,
+-97.2728
+],
+[
+25.94074,
+-97.27537
+],
+[
+25.94542,
+-97.27695
+],
+[
+25.9503,
+-97.27748
+],
+[
+25.95517,
+-97.27695
+],
+[
+25.95986,
+-97.27537
+],
+[
+25.96418,
+-97.2728
+],
+[
+25.96796,
+-97.26935
+],
+[
+25.97107,
+-97.26514
+],
+[
+25.97338,
+-97.26033
+],
+[
+25.9748,
+-97.25512
+],
+[
+25.97528,
+-97.2497
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-29T05:00:00.000Z",
+"start": "2026-11-19T05:00:00.000Z"
+}
+],
+"height": "5000FT",
+"id": "tfr-ZHU-6/7165",
+"kind": "TFR",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [],
+"name": "FDC 6/7165",
+"page": "https://space-notices.com/notice/tfr-ZHU-6%2F7165",
+"raw": "!FDC 6/7165 ZHU TX..AIRSPACE BROWNSVILLE, TX..TEMPORARY FLIGHT RESTRICTIONS. PURSUANT TO 14 CFR SECTION 91.137(A)(1) HIGH ENERGY TESTING GROUND HAZARD WI AN AREA DEFINED AS 1.5NM RADIUS OF 255701N0971459W (BRO068007.0) SFC-5000FT AGL ONLY RELIEF ACFT OPS UNDER DIRECTION OF SPACE X SECURITY, STARBASE ARE AUTH IN THE AIRSPACE. SPACE X SECURITY, STARBASE, KYLE HURN TEL 956-346-8311 OR EMAIL KYLE.HURN@SPACEX.COM IS IN CHARGE OF ON SCENE EMERG RESPONSE ACT. HOUSTON/ZHU/ARTCC TEL 281-230-5560 IS THE FAA CDN FAC. 2611190500-2611290500",
+"reason": "HIGH ENERGY TESTING GROUND HAZARD",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83062961",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-12T01:33:31.380Z"
+},
+{
 "areas": [],
 "cancelled": false,
 "dates": [
@@ -287392,6 +287684,170 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-08-22T22:00:31.501Z"
+},
+{
+"areas": [
+[
+[
+22.09998,
+113.3833
+],
+[
+22.09838,
+113.40083
+],
+[
+22.09363,
+113.41769
+],
+[
+22.08593,
+113.43323
+],
+[
+22.07557,
+113.44684
+],
+[
+22.06295,
+113.45801
+],
+[
+22.04855,
+113.46631
+],
+[
+22.03292,
+113.47141
+],
+[
+22.01668,
+113.47313
+],
+[
+22.00043,
+113.47139
+],
+[
+21.98481,
+113.46627
+],
+[
+21.97042,
+113.45796
+],
+[
+21.9578,
+113.44679
+],
+[
+21.94745,
+113.43318
+],
+[
+21.93976,
+113.41766
+],
+[
+21.93502,
+113.40081
+],
+[
+21.93342,
+113.3833
+],
+[
+21.93502,
+113.36579
+],
+[
+21.93976,
+113.34894
+],
+[
+21.94745,
+113.33342
+],
+[
+21.9578,
+113.31981
+],
+[
+21.97042,
+113.30864
+],
+[
+21.98481,
+113.30033
+],
+[
+22.00043,
+113.29521
+],
+[
+22.01668,
+113.29347
+],
+[
+22.03292,
+113.29519
+],
+[
+22.04855,
+113.30029
+],
+[
+22.06295,
+113.30859
+],
+[
+22.07557,
+113.31976
+],
+[
+22.08593,
+113.33337
+],
+[
+22.09363,
+113.34891
+],
+[
+22.09838,
+113.36577
+],
+[
+22.09998,
+113.3833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-01-10T16:00:00.000Z",
+"start": "2026-11-14T16:00:00.000Z"
+}
+],
+"height": "Unknown",
+"id": "notam-ZGSD-G5051/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "G5051/26",
+"page": "https://space-notices.com/notice/notam-ZGSD-G5051%2F26",
+"raw": "G5051/26 NOTAMN\r\nQ)ZGZU/QFATT/IV/BO/A/000/999/2201N11323E005\r\nA)ZGSD B)2611141600 C)2701101600 \r\nE) TRIGGER NOTAM\r\nAIP SUP NR.31/26 (NOV 10.2026) ABOUT ZHUHAI/JINWAN AIRPORT (ZGSD) \r\nWILL OPEN FOR CHINA INTERNATIONAL AVIATION AND AEROSPACE \r\nEXHIBITION. \r\nLOG ON AIS CHINA WEBSITE: WWW.EAIPCHINA.CN OR WWW.AISCHINA.COM FOR \r\nPREVIEWING THE WHOLE INFORMATION.",
+"reason": "WILL OPEN FOR CHINA INTERNATIONAL AVIATION AND AEROSPACE EXHIBITION.",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83060758",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-12T08:05:05.606Z"
 },
 {
 "areas": [],
