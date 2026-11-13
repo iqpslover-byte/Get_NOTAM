@@ -1,215 +1,7 @@
 {
-"count": 414,
-"generated_utc": "2026-11-13T02:10:30Z",
+"count": 411,
+"generated_utc": "2026-11-13T10:01:59Z",
 "notices": [
-{
-"areas": [
-[
-[
-40.0333,
-102.6667
-],
-[
-39.8833,
-100.3167
-],
-[
-38.9833,
-100.4167
-],
-[
-39.1333,
-102.75
-],
-[
-40.0333,
-102.6667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-14T04:36:00.000Z",
-"start": "2026-10-14T03:22:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLHW-A5095/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "A5095/26",
-"page": "https://space-notices.com/notice/notam-ZLHW-A5095%2F26",
-"raw": "A5095/26 NOTAMN\r\nQ)ZLHW/QRDCA/IV/BO/W/000/999/3930N10132E061\r\nA)ZLHW B)2610140322 C)2610140436 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN400200E1024023-N395311E1001911-N385922E1002528-N390807E1024516, \r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82700178",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-10T10:45:31.327Z"
-},
-{
-"areas": [
-[
-[
-38.05,
-85.25
-],
-[
-37.7333,
-83.5667
-],
-[
-36.85,
-83.8167
-],
-[
-37.1833,
-85.5167
-],
-[
-38.05,
-85.25
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-14T04:36:00.000Z",
-"start": "2026-10-14T03:22:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZWUQ-A5096/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "A5096/26",
-"page": "https://space-notices.com/notice/notam-ZWUQ-A5096%2F26",
-"raw": "A5096/26 NOTAMN\r\nQ)ZWUQ/QRDCA/IV/BO/W/000/999/3727N08432E050\r\nA)ZWUQ B)2610140322 C)2610140436 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN380347E0851557-N374418E0833421-N365138E0834933-N371106E0853113, \r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82700188",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-10T10:45:37.825Z"
-},
-{
-"areas": [
-[
-[
-40.0333,
-102.6667
-],
-[
-39.8833,
-100.3167
-],
-[
-38.9833,
-100.4167
-],
-[
-39.1333,
-102.75
-],
-[
-40.0333,
-102.6667
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-14T06:44:00.000Z",
-"start": "2026-10-14T01:39:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLHW-A5150/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "A5150/26",
-"page": "https://space-notices.com/notice/notam-ZLHW-A5150%2F26",
-"raw": "A5150/26 NOTAMN\r\nQ)ZLHW/QRDCA/IV/BO/W/000/999/3930N10132E061\r\nA)ZLHW B)2610140139 C)2610140644 \r\nD)0139-0302,0521-0644\r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN400200E1024023-N395311E1001911-N385922E1002528-N390807E1024516, \r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA. \r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA ESTABLISHED",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82713461",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-12T10:32:06.059Z"
-},
-{
-"areas": [
-[
-[
-38.05,
-85.25
-],
-[
-37.7333,
-83.5667
-],
-[
-36.85,
-83.8167
-],
-[
-37.1833,
-85.5167
-],
-[
-38.05,
-85.25
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-14T06:44:00.000Z",
-"start": "2026-10-14T01:39:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZWUQ-A5151/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "A5151/26",
-"page": "https://space-notices.com/notice/notam-ZWUQ-A5151%2F26",
-"raw": "A5151/26 NOTAMN\r\nQ)ZWUQ/QRDCA/IV/BO/W/000/999/3727N08432E050\r\nA)ZWUQ B)2610140139 C)2610140644 \r\nD)0139-0302,0521-0644\r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN380347E0851557-N374418E0833421-N365138E0834933-N371106E0853113, \r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA. \r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82713470",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-12T10:32:09.990Z"
-},
 {
 "areas": [
 [
@@ -512,7 +304,7 @@
 "markers": [],
 "name": "54442",
 "page": "https://space-notices.com/notice/lnm-54442",
-"raw": "$40",
+"raw": "$3f",
 "reason": "Hazardous operations will be conducted for Space X SDA-T1A Launch Operations",
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
@@ -23109,6 +22901,86 @@
 "areas": [
 [
 [
+23.9333,
+144.6167
+],
+[
+26.15,
+151.2333
+],
+[
+27.7667,
+156.6
+],
+[
+29.45,
+165.0
+],
+[
+28.4,
+165.0
+],
+[
+28.4,
+165.0
+],
+[
+28.2,
+163.75
+],
+[
+27.0,
+157.8
+],
+[
+27.0,
+155.0
+],
+[
+26.3333,
+155.0
+],
+[
+23.45,
+144.8167
+],
+[
+23.9333,
+144.6167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-20T05:01:00.000Z",
+"start": "2026-11-14T01:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RJTA-M0627/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "M0627/26",
+"page": "https://space-notices.com/notice/notam-RJTA-M0627%2F26",
+"raw": "M0627/26 NOTAMN \r\nQ) RJJJ/QXXXX/IV/NBO/A/000/999/3527N13927E005 \r\nA) RJTA \r\nB) 2611140130 \r\nC) 2611200501 \r\nE) DUE TO AN AEROSPACE FLIGHT ACTIVITY, THE FLIGHT SAFETY OF THE AIRCRAFT IN FOLLOWING AREA MAY BE AFFECTED THRU NOV 14-20 2026, 0130-0501 DLY. AREA: 2356N14437E - 2609N15114E - 2746N15636E - 2927N16500E - 2824N16500E - 2824N16500E - 2812N16345E - 2700N15748E - 2700N15500E - 2620N15500E - 2327N14449E - 2356N14437E ALTITUDE: SFC - UNL RMK: ATC WILL NOT CLEAR IFR FLT THRU THIS AREA FOR THE FLIGHT SAFETY. F)SFC G)UNL",
+"reason": "AN AEROSPACE FLIGHT ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83072360",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-13T03:05:58.148Z"
+},
+{
+"areas": [
+[
+[
 27.0,
 155.0
 ],
@@ -24409,7 +24281,7 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-12T19:00:50.472Z"
+"updated": "2026-11-13T02:43:13.354Z"
 },
 {
 "areas": [],
@@ -32443,5 +32315,5 @@
 "pending": 11,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3547
+"total_known": 3548
 }

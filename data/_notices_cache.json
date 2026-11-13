@@ -22368,7 +22368,7 @@
 "markers": [],
 "name": "54442",
 "page": "https://space-notices.com/notice/lnm-54442",
-"raw": "$40",
+"raw": "$3f",
 "reason": "Hazardous operations will be conducted for Space X SDA-T1A Launch Operations",
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
@@ -27557,7 +27557,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-58298": {
-"lastmod": "2026-11-12T19:00:50.472Z",
+"lastmod": "2026-11-13T02:43:13.354Z",
 "notice": {
 "areas": [
 [
@@ -27680,7 +27680,7 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-12T19:00:50.472Z"
+"updated": "2026-11-13T02:43:13.354Z"
 },
 "via": "sitemap"
 },
@@ -264390,6 +264390,90 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-10T05:26:04.689Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-RJTA-M0627%2F26": {
+"lastmod": "2026-11-13T03:05:58.148Z",
+"notice": {
+"areas": [
+[
+[
+23.9333,
+144.6167
+],
+[
+26.15,
+151.2333
+],
+[
+27.7667,
+156.6
+],
+[
+29.45,
+165.0
+],
+[
+28.4,
+165.0
+],
+[
+28.4,
+165.0
+],
+[
+28.2,
+163.75
+],
+[
+27.0,
+157.8
+],
+[
+27.0,
+155.0
+],
+[
+26.3333,
+155.0
+],
+[
+23.45,
+144.8167
+],
+[
+23.9333,
+144.6167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-20T05:01:00.000Z",
+"start": "2026-11-14T01:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RJTA-M0627/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "M0627/26",
+"page": "https://space-notices.com/notice/notam-RJTA-M0627%2F26",
+"raw": "M0627/26 NOTAMN \r\nQ) RJJJ/QXXXX/IV/NBO/A/000/999/3527N13927E005 \r\nA) RJTA \r\nB) 2611140130 \r\nC) 2611200501 \r\nE) DUE TO AN AEROSPACE FLIGHT ACTIVITY, THE FLIGHT SAFETY OF THE AIRCRAFT IN FOLLOWING AREA MAY BE AFFECTED THRU NOV 14-20 2026, 0130-0501 DLY. AREA: 2356N14437E - 2609N15114E - 2746N15636E - 2927N16500E - 2824N16500E - 2824N16500E - 2812N16345E - 2700N15748E - 2700N15500E - 2620N15500E - 2327N14449E - 2356N14437E ALTITUDE: SFC - UNL RMK: ATC WILL NOT CLEAR IFR FLT THRU THIS AREA FOR THE FLIGHT SAFETY. F)SFC G)UNL",
+"reason": "AN AEROSPACE FLIGHT ACTIVITY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83072360",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-13T03:05:58.148Z"
 },
 "via": "sitemap"
 },
