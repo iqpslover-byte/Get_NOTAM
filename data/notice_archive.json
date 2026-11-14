@@ -1,5 +1,5 @@
 {
-"count": 2975,
+"count": 2976,
 "notices": [
 {
 "areas": [
@@ -281033,6 +281033,74 @@
 "areas": [
 [
 [
+-43.1833,
+78.45
+],
+[
+-37.8,
+83.6
+],
+[
+-48.0833,
+117.0333
+],
+[
+-54.7167,
+115.65
+],
+[
+-43.1833,
+78.45
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-15T20:42:00.000Z",
+"start": "2026-11-15T19:45:00.000Z"
+},
+{
+"end": "2026-11-16T20:20:00.000Z",
+"start": "2026-11-16T19:24:00.000Z"
+},
+{
+"end": "2026-11-17T19:59:00.000Z",
+"start": "2026-11-17T19:02:00.000Z"
+},
+{
+"end": "2026-11-18T19:38:00.000Z",
+"start": "2026-11-18T18:41:00.000Z"
+},
+{
+"end": "2026-11-19T19:16:00.000Z",
+"start": "2026-11-19T18:20:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3342/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3342/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203342%2F26",
+"raw": "141419Z NOV 26\nHYDROPAC 3342/26\nEASTERN INDIAN OCEAN.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   151945Z TO 152042Z NOV, ALTERNATE\n   161924Z TO 162020Z, 171902Z TO 171959Z\n   181841Z TO 181938Z AND 191820Z TO 191916Z NOV \n   IN AREA BOUND BY\n   43-11.00S 078-27.00E, 37-48.00S 083-36.00E,\n   48-05.00S 117-02.00E, 54-43.00S 115-39.00E.   \n2. CANCEL HYDROPAC 3326/26.\n3. CANCEL THIS MSG 192016Z NOV 26.\n\n",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3342&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-11-13T21:08:50.318Z"
+},
+{
+"areas": [
+[
+[
 -37.8,
 83.6
 ],
@@ -287317,7 +287385,7 @@
 ]
 ]
 ],
-"cancelled": false,
+"cancelled": true,
 "dates": [
 {
 "end": "2026-11-14T07:00:00.000Z",
@@ -287394,7 +287462,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3249&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-11-09T02:17:44.970Z"
+"updated": "2026-11-14T06:38:45.519Z"
 },
 {
 "areas": [
