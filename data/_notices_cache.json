@@ -13547,7 +13547,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209153-26": {
-"lastmod": "2026-11-14T00:22:57.430Z",
+"lastmod": "2026-11-14T14:06:38.901Z",
 "notice": {
 "areas": [
 [
@@ -13746,7 +13746,7 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-14T00:22:57.430Z"
+"updated": "2026-11-14T14:06:38.901Z"
 },
 "via": "sitemap"
 },
@@ -16866,18 +16866,18 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-ula-kv-01": {
-"lastmod": "2026-11-13T14:38:36.049Z",
+"lastmod": "2026-11-14T14:42:35.978Z",
 "notice": {
 "areas": [],
 "cancelled": false,
 "dates": [
 {
-"end": "2026-11-14T18:38:00.000Z",
-"start": "2026-11-14T17:32:00.000Z"
-},
-{
 "end": "2026-11-15T18:18:00.000Z",
 "start": "2026-11-15T17:11:00.000Z"
+},
+{
+"end": "2026-11-16T17:56:00.000Z",
+"start": "2026-11-16T16:50:00.000Z"
 }
 ],
 "height": null,
@@ -16892,13 +16892,13 @@
 "markers": [],
 "name": "FAA Operations Advisory",
 "page": "https://space-notices.com/notice/infopage-faa-operations-advisory-ula-kv-01",
-"raw": "ULA KV-01, CAPE CANAVERAL SFS, FL\nPRIMARY:\t11/14/26\t1732Z-1838Z\nBACKUP:\t\t11/15/26\t1711Z-1818Z",
+"raw": "ULA KV-01, CAPE CANAVERAL SFS, FL\nPRIMARY:\t11/15/26\t1711Z-1818Z\nBACKUP:\t\t11/16/26\t1650Z-1756Z",
 "reason": "ULA KV-01, CAPE CANAVERAL SFS, FL",
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-13T14:38:36.049Z"
+"updated": "2026-11-14T14:42:35.978Z"
 },
 "via": "sitemap"
 },
@@ -105934,7 +105934,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%203342%2F26": {
-"lastmod": "2026-11-13T21:08:50.318Z",
+"lastmod": "2026-11-14T14:30:26.693Z",
 "notice": {
 "areas": [
 [
@@ -106001,9 +106001,9 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3342&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-11-13T21:08:50.318Z"
+"updated": "2026-11-14T14:30:26.693Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%203343%2F22": {
 "lastmod": "",
@@ -133096,7 +133096,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20IV%201099%2F26": {
-"lastmod": "2026-11-13T17:36:12.929Z",
+"lastmod": "2026-11-14T14:32:24.091Z",
 "notice": {
 "areas": [
 [
@@ -133247,7 +133247,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=1099&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-11-13T17:36:12.929Z"
+"updated": "2026-11-14T14:32:24.091Z"
 },
 "via": "sitemap"
 },
@@ -133490,6 +133490,162 @@
 "updated": ""
 },
 "via": "backfill"
+},
+"https://space-notices.com/notice/nav-warning-NAVAREA%20IV%201104%2F26": {
+"lastmod": "2026-11-14T14:32:18.568Z",
+"notice": {
+"areas": [
+[
+[
+28.65,
+-80.6167
+],
+[
+29.8,
+-79.8833
+],
+[
+31.3833,
+-77.9667
+],
+[
+34.1833,
+-74.2
+],
+[
+36.4667,
+-71.05
+],
+[
+36.25,
+-70.9
+],
+[
+34.2167,
+-73.6333
+],
+[
+32.3167,
+-75.9
+],
+[
+29.45,
+-78.6333
+],
+[
+28.6833,
+-79.6
+],
+[
+28.55,
+-80.0667
+],
+[
+28.4833,
+-80.5333
+],
+[
+28.65,
+-80.6167
+]
+],
+[
+[
+29.8167,
+-79.4333
+],
+[
+29.6333,
+-79.2167
+],
+[
+29.0667,
+-79.8333
+],
+[
+29.2333,
+-80.0333
+],
+[
+29.8167,
+-79.4333
+]
+],
+[
+[
+44.2833,
+-57.7667
+],
+[
+44.8833,
+-55.6833
+],
+[
+44.5167,
+-55.3333
+],
+[
+42.9833,
+-57.3833
+],
+[
+42.5833,
+-59.0333
+],
+[
+43.6333,
+-59.4
+],
+[
+44.2833,
+-57.7667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-15T18:50:00.000Z",
+"start": "2026-11-15T17:11:00.000Z"
+},
+{
+"end": "2026-11-16T18:28:00.000Z",
+"start": "2026-11-16T16:50:00.000Z"
+},
+{
+"end": "2026-11-17T18:07:00.000Z",
+"start": "2026-11-17T16:28:00.000Z"
+},
+{
+"end": "2026-11-18T17:46:00.000Z",
+"start": "2026-11-18T16:07:00.000Z"
+},
+{
+"end": "2026-11-19T17:24:00.000Z",
+"start": "2026-11-19T15:46:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA IV 1104/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "NAVAREA IV 1104/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20IV%201104%2F26",
+"raw": "141419Z NOV 26\nNAVAREA IV 1104/26\nNORTH ATLANTIC.\nFLORIDA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   151711Z TO 151850Z NOV, ALTERNATE\n   161650Z TO 161828Z, 171628Z TO 171807,\n   181607Z TO 181746Z AND 191546Z TO 191724Z NOV\n   IN AREAS BOUND BY:\n   A. 28-39.23N 080-37.85W, 29-48.00N 079-53.00W,\n      31-23.00N 077-58.00W, 34-11.00N 074-12.00W,\n      36-28.00N 071-03.00W, 36-15.00N 070-54.00W,\n      34-13.00N 073-38.00W, 32-19.00N 075-54.00W,\n      29-27.00N 078-38.00W, 28-41.00N 079-36.00W,\n      28-33.00N 080-04.00W, 28-29.43N 080-32.53W.\n   B. 29-49.00N 079-26.00W, 29-38.00N 079-13.00W,\n      29-04.00N 079-50.00W, 29-14.00N 080-02.00W.   \n   C. 44-17.00N 057-46.00W, 44-53.00N 055-41.00W,\n      44-31.00N 055-20.00W, 42-59.00N 057-23.00W,\n      42-35.00N 059-02.00W, 43-38.00N 059-24.00W.\n2. CANCEL NAVAREA IV 1099/26.\n3. CANCEL THIS MSG 191824Z NOV 26.\n\n",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=1104&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-11-14T14:32:18.568Z"
+},
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20IV%201107%2F22": {
 "lastmod": "",
@@ -272423,6 +272579,198 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-09T21:08:48.112Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-SCIZ-W3979%2F26": {
+"lastmod": "2026-11-14T14:42:35.453Z",
+"notice": {
+"areas": [
+[
+[
+-30.0,
+-121.8833
+],
+[
+-30.0,
+-120.0
+],
+[
+-28.7167,
+-120.0
+],
+[
+-38.35,
+-115.0667
+],
+[
+-49.15,
+-107.3667
+],
+[
+-59.15,
+-95.5667
+],
+[
+-59.9667,
+-99.0833
+],
+[
+-44.5667,
+-114.2167
+],
+[
+-30.0,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-21T15:31:00.000Z",
+"start": "2026-11-21T14:14:00.000Z"
+},
+{
+"end": "2026-11-22T15:17:00.000Z",
+"start": "2026-11-22T14:00:00.000Z"
+},
+{
+"end": "2026-11-23T15:03:00.000Z",
+"start": "2026-11-23T13:46:00.000Z"
+},
+{
+"end": "2026-11-24T14:49:00.000Z",
+"start": "2026-11-24T13:32:00.000Z"
+},
+{
+"end": "2026-11-25T14:36:00.000Z",
+"start": "2026-11-25T13:19:00.000Z"
+},
+{
+"end": "2026-11-26T14:22:00.000Z",
+"start": "2026-11-26T13:05:00.000Z"
+},
+{
+"end": "2026-11-27T14:08:00.000Z",
+"start": "2026-11-27T12:51:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-SCIZ-W3979/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-nrol-136",
+"title": "NROL-136"
+}
+],
+"markers": [],
+"name": "W3979/26",
+"page": "https://space-notices.com/notice/notam-SCIZ-W3979%2F26",
+"raw": "W3979/26 NOTAMN \r\nQ)SCIZ/QXXXX/IV/BO/W/000/999/4513S11115W999\r\nA)SCIZ B)2611211414 C)2611271408\r\nD)21 1414-1531 22 1400-1517 23 1346-1503 24 1332-1449\r\n25 1319-1436 26 1305-1422 27 1251-1408\r\nE) SPACEX WILL BE CONDUCTING HAZARDOUS OPERATIONS SURFACE TO\r\nUNLIMITED FOR ATMOSPHERIC RE-\r\nENTRY AND SPLASHDOWN OF LAUNCH VEHICLE UPPER STAGE WITHIN THE\r\nFOLLOWING AREA:\r\n3000S 12153W\r\n3000S 12000W\r\n2843S 12000W\r\n3821S 11504W\r\n4909S 10722W\r\n5909S 09534W\r\n5958S 09905W\r\n4434S 11413W TO BEGINNING.\r\nF)SFC G)UNL",
+"reason": "SPACEX ATMOSPHERIC RE-ENTRY AND SPLASHDOWN OF LAUNCH VEHICLE UPPER STAGE",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83088553",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-14T14:42:35.453Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-SCIZ-W3981%2F26": {
+"lastmod": "2026-11-14T15:24:38.987Z",
+"notice": {
+"areas": [
+[
+[
+-30.0,
+-121.8833
+],
+[
+-30.0,
+-120.0
+],
+[
+-28.7167,
+-120.0
+],
+[
+-38.35,
+-115.0667
+],
+[
+-49.15,
+-107.3667
+],
+[
+-59.15,
+-95.5667
+],
+[
+-59.9667,
+-99.0833
+],
+[
+-44.5667,
+-114.2167
+],
+[
+-30.0,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-18T09:39:00.000Z",
+"start": "2026-11-18T05:01:00.000Z"
+},
+{
+"end": "2026-11-19T09:25:00.000Z",
+"start": "2026-11-19T04:47:00.000Z"
+},
+{
+"end": "2026-11-20T09:11:00.000Z",
+"start": "2026-11-20T04:33:00.000Z"
+},
+{
+"end": "2026-11-21T08:57:00.000Z",
+"start": "2026-11-21T04:19:00.000Z"
+},
+{
+"end": "2026-11-22T08:43:00.000Z",
+"start": "2026-11-22T04:05:00.000Z"
+},
+{
+"end": "2026-11-23T08:30:00.000Z",
+"start": "2026-11-23T05:47:00.000Z"
+},
+{
+"end": "2026-11-24T08:16:00.000Z",
+"start": "2026-11-24T05:33:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-SCIZ-W3981/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-317",
+"title": "USSF-317"
+}
+],
+"markers": [],
+"name": "W3981/26",
+"page": "https://space-notices.com/notice/notam-SCIZ-W3981%2F26",
+"raw": "W3981/26 NOTAMN \r\nQ)SCIZ/QXXXX/IV/BO/W/000/999/4513S11115W999\r\nA)SCIZ B)2611180501 C)2611240816\r\nD)18 0501-0939 19 0447-0925 20 0433-0911 21 0419-0857\r\n22 0405-0843 23 0547-0830 24 0533-0816\r\nE)SPACEX WILL BE CONDUCTING HAZARDOUS OPERATIONS SURFACE TO\r\nUNLIMITED FOR ATMOSPHERIC RE-\r\nENTRY AND SPLASHDOWN OF LAUNCH VEHICLE UPPER STAGE WITHIN THE\r\nFOLLOWING AREA:\r\n3000S 12153W\r\n3000S 12000W\r\n2843S 12000W\r\n3821S 11504W\r\n4909S 10722W\r\n5909S 09534W\r\n5958S 09905W\r\n4434S 11413W\r\n3000S 12153W\r\nCENTRAL POINT: 4513S 11115W\r\nLEN ZNE: 2000NM,WID ZONE:140NM\r\nF)SFC G)UNL",
+"reason": "SPACEX ATMOSPHERIC RE-ENTRY AND SPLASHDOWN OF LAUNCH VEHICLE UPPER STAGE",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83088863",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-14T15:24:38.987Z"
 },
 "via": "sitemap"
 },
