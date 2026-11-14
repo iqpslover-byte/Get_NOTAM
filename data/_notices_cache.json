@@ -10976,6 +10976,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209133-26": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-21T23:40:38.289Z",
 "notice": {
 "areas": [
@@ -13546,7 +13547,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209153-26": {
-"lastmod": "2026-11-13T21:56:11.886Z",
+"lastmod": "2026-11-14T00:22:57.430Z",
 "notice": {
 "areas": [
 [
@@ -13732,8 +13733,8 @@
 "kind": "BNM",
 "launches": [
 {
-"id": "launch-f9-ussf-317",
-"title": "USSF-317"
+"id": "launch-f9-ussf-627",
+"title": "USSF-627"
 }
 ],
 "markers": [],
@@ -13745,7 +13746,7 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-13T21:56:11.886Z"
+"updated": "2026-11-14T00:22:57.430Z"
 },
 "via": "sitemap"
 },
@@ -15260,6 +15261,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-cadenaois-advisory-2833": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-22T11:36:05.923Z",
 "notice": {
 "areas": [],
@@ -15355,6 +15357,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-cadenaois-advisory-2843": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-26T18:36:06.511Z",
 "notice": {
 "areas": [],
@@ -15469,6 +15472,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-cadenaois-advisory-2848": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-29T12:08:05.237Z",
 "notice": {
 "areas": [],
@@ -16284,6 +16288,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starlink-15-18": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-29T11:36:43.894Z",
 "notice": {
 "areas": [],
@@ -16573,7 +16578,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starship-flight-15-reentry": {
-"lastmod": "2026-11-09T14:30:37.164Z",
+"lastmod": "2026-11-14T02:26:36.123Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -16597,15 +16602,15 @@
 }
 ],
 "markers": [],
-"name": "FAA Operations Advisory",
+"name": "Reentry FAA Ops Advisory",
 "page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-starship-flight-15-reentry",
-"raw": "SPACEX STARSHIP FLT-15   - REENTRY   \nPRIMARY:\t11/14/26\t2056Z-0014Z\nBACKUP:\t\t11/15/26\t2056Z-0014Z",
+"raw": "SPACEX STARSHIP FLT-15 - REENTRY   \nPRIMARY:\t11/14/26\t2056Z-0014Z\nBACKUP:\t\t11/15/26\t2056Z-0014Z",
 "reason": "SPACEX STARSHIP FLT-15   - REENTRY   ",
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-09T14:30:37.164Z"
+"updated": "2026-11-14T02:26:36.123Z"
 },
 "via": "sitemap"
 },
@@ -25018,6 +25023,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-56848": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-21T23:15:47.499Z",
 "notice": {
 "areas": [
@@ -100088,6 +100094,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%203072%2F26": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-23T10:24:12.645Z",
 "notice": {
 "areas": [
@@ -227232,6 +227239,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-NAVAREA%20XII%20747%2F26": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-23T04:16:24.716Z",
 "notice": {
 "areas": [
@@ -245611,6 +245619,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-MMFR-B3313%2F26": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-22T18:18:29.225Z",
 "notice": {
 "areas": [
@@ -254694,6 +254703,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1355%2F26": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-21T19:35:29.805Z",
 "notice": {
 "areas": [
@@ -255070,6 +255080,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1374%2F26": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-26T19:28:29.467Z",
 "notice": {
 "areas": [
@@ -255222,6 +255233,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1382%2F26": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-29T18:13:29.988Z",
 "notice": {
 "areas": [
@@ -271537,6 +271549,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SCIZ-W3590%2F26": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-21T15:24:28.539Z",
 "notice": {
 "areas": [
@@ -271621,6 +271634,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SCIZ-W3662%2F26": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-26T13:42:29.315Z",
 "notice": {
 "areas": [
@@ -311839,6 +311853,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F331-26": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-27T10:44:36.835Z",
 "notice": {
 "areas": [
@@ -311899,6 +311914,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F332-26": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-27T11:02:24.819Z",
 "notice": {
 "areas": [
@@ -311955,6 +311971,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F336-26": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-28T11:25:35.941Z",
 "notice": {
 "areas": [
@@ -312015,6 +312032,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F341-26": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-28T12:01:38.921Z",
 "notice": {
 "areas": [
@@ -312071,6 +312089,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F343-26": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-28T12:01:33.257Z",
 "notice": {
 "areas": [
@@ -312131,6 +312150,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F344-26": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-28T12:01:24.770Z",
 "notice": {
 "areas": [
@@ -312187,6 +312207,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F347-26": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-29T10:25:24.656Z",
 "notice": {
 "areas": [
@@ -312243,6 +312264,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F348-26": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-29T10:25:32.866Z",
 "notice": {
 "areas": [
@@ -312303,6 +312325,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F357-26": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-30T09:47:32.963Z",
 "notice": {
 "areas": [
@@ -312363,6 +312386,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-10%2F358-26": {
+"gone": "2026-11-14",
 "lastmod": "2026-10-30T09:47:24.641Z",
 "notice": {
 "areas": [
