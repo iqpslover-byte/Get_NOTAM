@@ -1,5 +1,5 @@
 {
-"count": 3006,
+"count": 3009,
 "notices": [
 {
 "areas": [
@@ -262873,7 +262873,7 @@
 "markers": [],
 "name": "54442",
 "page": "https://space-notices.com/notice/lnm-54442",
-"raw": "$3f",
+"raw": "$40",
 "reason": "Hazardous operations will be conducted for Space X SDA-T1A Launch Operations",
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
@@ -277736,6 +277736,35 @@
 "cancelled": false,
 "dates": [
 {
+"end": "2026-11-16T00:00:00.000Z",
+"start": "2026-11-15T20:00:00.000Z"
+}
+],
+"height": null,
+"id": "starbase-road-delay-2581d87d-0375-4f42-bf59-5162f7cf009c",
+"kind": "ROAD_DELAY",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [],
+"name": "Nov 15 Pad -> Production",
+"page": "https://space-notices.com/notice/starbase-road-delay-2581d87d-0375-4f42-bf59-5162f7cf009c",
+"raw": "Description: Pad to Production\nDate: November 15 2:00 PM to November 15 6:00 PM",
+"reason": "Pad to Production",
+"source": {
+"link": "https://www.starbase.texas.gov/beach-road-access",
+"name": "City of Starbase"
+},
+"updated": "2026-11-15T18:03:31.427Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
 "end": "2026-11-15T00:14:00.000Z",
 "start": "2026-11-14T20:56:00.000Z"
 },
@@ -279110,7 +279139,7 @@
 ]
 ]
 ],
-"cancelled": false,
+"cancelled": true,
 "dates": [
 {
 "end": "2026-11-16T17:56:00.000Z",
@@ -279135,7 +279164,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83095338",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-15T15:42:56.936Z"
+"updated": "2026-11-15T16:31:34.891Z"
 },
 {
 "areas": [
@@ -282039,6 +282068,39 @@
 "cancelled": false,
 "dates": [
 {
+"end": "2026-11-18T14:31:00.000Z",
+"start": "2026-11-18T07:01:00.000Z"
+},
+{
+"end": "2026-11-19T14:31:00.000Z",
+"start": "2026-11-19T07:01:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-gt-257-gm-minuteman-iii",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "other-vsfb-operation-W6407",
+"title": "VSFB Operation W6407"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-gt-257-gm-minuteman-iii",
+"raw": "GT 257-GM MINUTEMAN III, VANDENBERG SFB, CA\nPRIMARY:\t11/18/26\t0701Z-1431Z\nBACKUP:\t\t11/19/26\t0701Z-1431Z",
+"reason": "GT 257-GM MINUTEMAN III, VANDENBERG SFB, CA",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-15T20:38:42.691Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
 "end": "2026-11-14T18:39:00.000Z",
 "start": "2026-11-14T17:32:00.000Z"
 },
@@ -283384,6 +283446,39 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-13T21:08:44.193Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-18T21:32:00.000Z",
+"start": "2026-11-18T16:49:00.000Z"
+},
+{
+"end": "2026-11-19T21:23:00.000Z",
+"start": "2026-11-19T16:40:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-spacex-ussf-266",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-ussf-266",
+"title": "USSF-266"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-ussf-266",
+"raw": "SPACEX USSF-266, VANDENBERG SFB, CA\nPRIMARY:\t11/18/26\t1649Z-2132Z\nBACKUP:\t\t11/19/26\t1640Z-2123Z",
+"reason": "SPACEX USSF-266, VANDENBERG SFB, CA",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-15T20:24:39.245Z"
 },
 {
 "areas": [
