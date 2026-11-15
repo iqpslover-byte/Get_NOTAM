@@ -106149,6 +106149,106 @@
 },
 "via": "backfill"
 },
+"https://space-notices.com/notice/nav-warning-HYDROPAC%203352%2F26": {
+"lastmod": "2026-11-15T12:21:02.321Z",
+"notice": {
+"areas": [
+[
+[
+12.9833,
+116.15
+],
+[
+13.3167,
+116.5833
+],
+[
+12.4667,
+117.2833
+],
+[
+12.1167,
+116.8333
+],
+[
+12.9833,
+116.15
+]
+],
+[
+[
+7.9667,
+120.0667
+],
+[
+8.3,
+120.5167
+],
+[
+7.4333,
+121.1833
+],
+[
+7.1,
+120.75
+],
+[
+7.9667,
+120.0667
+]
+],
+[
+[
+7.9667,
+119.9667
+],
+[
+8.4167,
+120.55
+],
+[
+7.55,
+121.2167
+],
+[
+7.1,
+120.6333
+],
+[
+7.9667,
+119.9667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-20T16:00:00.000Z",
+"start": "2026-11-20T10:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3352/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3352/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203352%2F26",
+"raw": "151203Z NOV 26\nHYDROPAC 3352/26\nSOUTH CHINA SEA.\nSULU SEA.\nPHILIPPINES.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   201000Z TO 201600Z NOV IN AREAS BOUND BY:\n   A. 12-59.40N 116-09.00E, 13-19.80N 116-35.40E,\n      12-28.20N 117-17.40E, 12-07.80N 116-50.40E.\n   B. 07-58.80N 120-04.80E, 08-18.60N 120-31.20E,\n      07-26.40N 121-11.40E, 07-06.60N 120-45.00E.\n   C. 07-58.20N 119-58.20E, 08-25.20N 120-33.00E,\n      07-33.00N 121-13.20E, 07-06.60N 120-38.40E.\n2. CANCEL THIS MSG 201700Z NOV 26.\n\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3352&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-11-15T12:21:02.321Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/nav-warning-HYDROPAC%203356%2F21": {
 "lastmod": "",
 "notice": {
@@ -247161,6 +247261,90 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-MMFR-B4368%2F26": {
+"lastmod": "2026-11-13T18:40:34.677Z",
+"notice": {
+"areas": [
+[
+[
+25.9167,
+-97.2
+],
+[
+26.0,
+-97.0
+],
+[
+26.0,
+-96.4167
+],
+[
+25.9667,
+-96.4833
+],
+[
+25.9167,
+-97.2
+],
+[
+25.9167,
+-97.2
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-15T00:14:00.000Z",
+"start": "2026-11-14T21:08:00.000Z"
+},
+{
+"end": "2026-11-16T00:14:00.000Z",
+"start": "2026-11-15T21:08:00.000Z"
+},
+{
+"end": "2026-11-17T00:14:00.000Z",
+"start": "2026-11-16T21:08:00.000Z"
+},
+{
+"end": "2026-11-18T00:14:00.000Z",
+"start": "2026-11-17T21:08:00.000Z"
+},
+{
+"end": "2026-11-19T00:14:00.000Z",
+"start": "2026-11-18T21:08:00.000Z"
+},
+{
+"end": "2026-11-20T00:14:00.000Z",
+"start": "2026-11-19T21:08:00.000Z"
+},
+{
+"end": "2026-11-21T00:14:00.000Z",
+"start": "2026-11-20T21:08:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MMFR-B4368/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-starship-starlink-31-2-starship-flight-15",
+"title": "Starlink Group 31-2 (Starship Flight 15)"
+}
+],
+"markers": [],
+"name": "B4368/26",
+"page": "https://space-notices.com/notice/notam-MMFR-B4368%2F26",
+"raw": "B4368/26 NOTAMN\r\r\nQ) MMFR/QRDCA/IV/BO/W/000/999/\r\r\nA) MMFR\r\r\nB) 2611142108\r\r\nC) 2611210014\r\r\nD) DLY 2108-0014\r\r\nE) DANGEROUS AREA FOR REENTRY OF ROCKET SPACEX STARSHIP FLT-15\r\r\n   LATERAL LIMIT AREA FORMED BY THE UNION OF THE FLW POINTS:\r\r\n   AREA-C6\r\r\n   2555N 09712W - 2600N 09700W - 2600N 09625W - 2558N 09629W - 2555N\r\r\n   09712W\r\r\n   MMFR\r\r\nF) SFC\r\r\nG) UNL",
+"reason": "DANGEROUS AREA FOR REENTRY OF ROCKET SPACEX STARSHIP FLT-15",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83081585",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-13T18:40:34.677Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-MMFR-B4383%2F26": {
 "lastmod": "2026-11-13T20:43:35.307Z",
 "notice": {
@@ -294874,6 +295058,98 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZDC-11%2F129-26": {
+"lastmod": "2026-11-15T15:42:56.936Z",
+"notice": {
+"areas": [
+[
+[
+28.6167,
+-80.6833
+],
+[
+30.6167,
+-79.6
+],
+[
+34.4833,
+-75.4833
+],
+[
+36.8167,
+-72.4
+],
+[
+40.5667,
+-67.15
+],
+[
+40.7833,
+-66.6
+],
+[
+40.2333,
+-64.9
+],
+[
+39.7333,
+-64.9
+],
+[
+38.15,
+-67.4
+],
+[
+34.5667,
+-71.65
+],
+[
+29.5667,
+-78.0667
+],
+[
+28.6167,
+-79.7667
+],
+[
+28.45,
+-80.6
+],
+[
+28.6167,
+-80.6833
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-11-14T19:11:00.000Z",
+"start": "2026-11-14T17:32:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZDC-11/129-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "11/129",
+"page": "https://space-notices.com/notice/notam-ZDC-11%2F129-26",
+"raw": "!CARF 11/129 ZDC AIRSPACE DCC EROP A1174 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283700N0804100W TO 303700N0793600W TO 342900N0752900W TO 364900N0722400W TO 403400N0670900W TO 404700N0663600W TO 401400N0645400W TO 394400N0645400W TO 380900N0672400W TO 343400N0713900W TO 293400N0780400W TO 283700N0794600W TO 282700N0803600W TO POINT OF ORIGIN. AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY. CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS. SFC-UNL 2611141732-2611141911",
+"reason": "EROP A1174",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83064693",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-15T15:42:56.936Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-ZDC-11%2F151-26": {
 "lastmod": "2026-11-12T18:27:37.018Z",
 "notice": {
@@ -294963,6 +295239,190 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-12T18:27:37.018Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZDC-11%2F176-26": {
+"lastmod": "2026-11-15T15:42:25.207Z",
+"notice": {
+"areas": [
+[
+[
+28.6167,
+-80.6833
+],
+[
+30.6167,
+-79.6
+],
+[
+34.4833,
+-75.4833
+],
+[
+36.8167,
+-72.4
+],
+[
+40.5667,
+-67.15
+],
+[
+40.7833,
+-66.6
+],
+[
+40.2333,
+-64.9
+],
+[
+39.7333,
+-64.9
+],
+[
+38.15,
+-67.4
+],
+[
+34.5667,
+-71.65
+],
+[
+29.5667,
+-78.0667
+],
+[
+28.6167,
+-79.7667
+],
+[
+28.45,
+-80.6
+],
+[
+28.6167,
+-80.6833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-16T18:28:00.000Z",
+"start": "2026-11-16T16:50:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZDC-11/176-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "11/176",
+"page": "https://space-notices.com/notice/notam-ZDC-11%2F176-26",
+"raw": "!CARF 11/176 ZDC AIRSPACE DCC EROP A1174 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283700N0804100W TO 303700N0793600W TO 342900N0752900W TO 364900N0722400W TO 403400N0670900W TO 404700N0663600W TO 401400N0645400W TO 394400N0645400W TO 380900N0672400W TO 343400N0713900W TO 293400N0780400W TO 283700N0794600W TO 282700N0803600W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS 2611161650-2611161828",
+"reason": "EROP A1174",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83088667",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-15T15:42:25.207Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZDC-11%2F184-26": {
+"lastmod": "2026-11-15T12:07:19.372Z",
+"notice": {
+"areas": [
+[
+[
+28.6167,
+-80.6833
+],
+[
+30.6167,
+-79.6
+],
+[
+34.4833,
+-75.4833
+],
+[
+36.8167,
+-72.4
+],
+[
+40.5667,
+-67.15
+],
+[
+40.7833,
+-66.6
+],
+[
+40.2333,
+-64.9
+],
+[
+39.7333,
+-64.9
+],
+[
+38.15,
+-67.4
+],
+[
+34.5667,
+-71.65
+],
+[
+29.5667,
+-78.0667
+],
+[
+28.6167,
+-79.7667
+],
+[
+28.45,
+-80.6
+],
+[
+28.6167,
+-80.6833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-17T18:07:00.000Z",
+"start": "2026-11-17T16:28:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZDC-11/184-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "11/184",
+"page": "https://space-notices.com/notice/notam-ZDC-11%2F184-26",
+"raw": "!CARF 11/184 ZDC AIRSPACE DCC EROP A1174 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283700N0804100W TO 303700N0793600W TO 342900N0752900W TO 364900N0722400W TO 403400N0670900W TO 404700N0663600W TO 401400N0645400W TO 394400N0645400W TO 380900N0672400W TO 343400N0713900W TO 293400N0780400W TO 283700N0794600W TO 282700N0803600W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL 2611171628-2611171807",
+"reason": "EROP A1174",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83093927",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-15T12:07:19.372Z"
 },
 "via": "sitemap"
 },
@@ -305969,6 +306429,98 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZJX-11%2F134-26": {
+"lastmod": "2026-11-12T14:14:05.321Z",
+"notice": {
+"areas": [
+[
+[
+28.6167,
+-80.6833
+],
+[
+30.6167,
+-79.6
+],
+[
+34.4833,
+-75.4833
+],
+[
+36.8167,
+-72.4
+],
+[
+40.5667,
+-67.15
+],
+[
+40.7833,
+-66.6
+],
+[
+40.2333,
+-64.9
+],
+[
+39.7333,
+-64.9
+],
+[
+38.15,
+-67.4
+],
+[
+34.5667,
+-71.65
+],
+[
+29.5667,
+-78.0667
+],
+[
+28.6167,
+-79.7667
+],
+[
+28.45,
+-80.6
+],
+[
+28.6167,
+-80.6833
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-11-14T19:11:00.000Z",
+"start": "2026-11-14T17:32:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZJX-11/134-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "11/134",
+"page": "https://space-notices.com/notice/notam-ZJX-11%2F134-26",
+"raw": "!CARF 11/134 ZJX AIRSPACE DCC EROP A1174 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283700N0804100W TO 303700N0793600W TO 342900N0752900W TO 364900N0722400W TO 403400N0670900W TO 404700N0663600W TO 401400N0645400W TO 394400N0645400W TO 380900N0672400W TO 343400N0713900W TO 293400N0780400W TO 283700N0794600W TO 282700N0803600W TO POINT OF ORIGIN. AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY. CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS. SFC-UNL 2611141732-2611141911",
+"reason": "EROP A1174",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83064755",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-12T14:14:05.321Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-ZJX-11%2F155-26": {
 "lastmod": "2026-11-12T18:41:00.846Z",
 "notice": {
@@ -306058,6 +306610,190 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-12T18:41:00.846Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZJX-11%2F179-26": {
+"lastmod": "2026-11-14T15:06:44.591Z",
+"notice": {
+"areas": [
+[
+[
+28.6167,
+-80.6833
+],
+[
+30.6167,
+-79.6
+],
+[
+34.4833,
+-75.4833
+],
+[
+36.8167,
+-72.4
+],
+[
+40.5667,
+-67.15
+],
+[
+40.7833,
+-66.6
+],
+[
+40.2333,
+-64.9
+],
+[
+39.7333,
+-64.9
+],
+[
+38.15,
+-67.4
+],
+[
+34.5667,
+-71.65
+],
+[
+29.5667,
+-78.0667
+],
+[
+28.6167,
+-79.7667
+],
+[
+28.45,
+-80.6
+],
+[
+28.6167,
+-80.6833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-16T18:28:00.000Z",
+"start": "2026-11-16T16:50:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZJX-11/179-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "11/179",
+"page": "https://space-notices.com/notice/notam-ZJX-11%2F179-26",
+"raw": "!CARF 11/179 ZJX AIRSPACE ZJX AIRSPACE DCC EROP A1174 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283700N0804100W TO 303700N0793600W TO 342900N0752900W TO 364900N0722400W TO 403400N0670900W TO 404700N0663600W TO 401400N0645400W TO 394400N0645400W TO 380900N0672400W TO 343400N0713900W TO 293400N0780400W TO 283700N0794600W TO 282700N0803600W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS 2611161650-2611161828 2611161650-2611161828",
+"reason": "EROP A1174",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83088725",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-14T15:06:44.591Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZJX-11%2F185-26": {
+"lastmod": "2026-11-15T12:07:15.311Z",
+"notice": {
+"areas": [
+[
+[
+28.6167,
+-80.6833
+],
+[
+30.6167,
+-79.6
+],
+[
+34.4833,
+-75.4833
+],
+[
+36.8167,
+-72.4
+],
+[
+40.5667,
+-67.15
+],
+[
+40.7833,
+-66.6
+],
+[
+40.2333,
+-64.9
+],
+[
+39.7333,
+-64.9
+],
+[
+38.15,
+-67.4
+],
+[
+34.5667,
+-71.65
+],
+[
+29.5667,
+-78.0667
+],
+[
+28.6167,
+-79.7667
+],
+[
+28.45,
+-80.6
+],
+[
+28.6167,
+-80.6833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-17T18:07:00.000Z",
+"start": "2026-11-17T16:28:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZJX-11/185-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "11/185",
+"page": "https://space-notices.com/notice/notam-ZJX-11%2F185-26",
+"raw": "!CARF 11/185 ZJX AIRSPACE DCC EROP A1174 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283700N0804100W TO 303700N0793600W TO 342900N0752900W TO 364900N0722400W TO 403400N0670900W TO 404700N0663600W TO 401400N0645400W TO 394400N0645400W TO 380900N0672400W TO 343400N0713900W TO 293400N0780400W TO 283700N0794600W TO 282700N0803600W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL 2611171628-2611171807",
+"reason": "EROP A1174",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83093925",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-15T12:07:15.311Z"
 },
 "via": "sitemap"
 },
@@ -314651,6 +315387,142 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-12T18:39:40.836Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZLA-11%2F191-26": {
+"lastmod": "2026-11-15T12:25:02.697Z",
+"notice": {
+"areas": [
+[
+[
+32.45,
+-119.3833
+],
+[
+32.5,
+-119.3167
+],
+[
+31.7333,
+-118.8333
+],
+[
+31.6333,
+-119.05
+],
+[
+32.45,
+-119.3833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-18T07:38:00.000Z",
+"start": "2026-11-18T03:14:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-11/191-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-317",
+"title": "USSF-317"
+}
+],
+"markers": [],
+"name": "11/191",
+"page": "https://space-notices.com/notice/notam-ZLA-11%2F191-26",
+"raw": "!CARF 11/191 ZLA AIRSPACE DCC SX USSF317 R-6 26-73 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 322700N1192300W TO 323000N1191900W TO 314400N1185000W TO 313800N1190300W TO POINT OF ORIGIN SFC-UNL 2611180314-2611180738",
+"reason": "SX USSF317 R-6 26-73",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83094022",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-15T12:25:02.697Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZLA-11%2F192-26": {
+"lastmod": "2026-11-15T12:34:01.783Z",
+"notice": {
+"areas": [
+[
+[
+32.7167,
+-119.5167
+],
+[
+32.75,
+-119.4667
+],
+[
+33.2167,
+-119.65
+],
+[
+34.1167,
+-120.1167
+],
+[
+34.5667,
+-120.3833
+],
+[
+34.6667,
+-120.5
+],
+[
+34.65,
+-120.6333
+],
+[
+34.5333,
+-120.6333
+],
+[
+34.3333,
+-120.5333
+],
+[
+32.9,
+-119.7
+],
+[
+32.7167,
+-119.5167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-18T07:36:00.000Z",
+"start": "2026-11-18T03:14:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-11/192-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-317",
+"title": "USSF-317"
+}
+],
+"markers": [],
+"name": "11/192",
+"page": "https://space-notices.com/notice/notam-ZLA-11%2F192-26",
+"raw": "!CARF 11/192 ZLA AIRSPACE DCC SX USSF317 R-6 26-73 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 324300N1193100W TO 324500N1192800W TO 331300N1193900W TO 340700N1200700W TO 343400N1202300W TO 344000N1203000W TO 343900N1203800W TO 343200N1203800W TO 342000N1203200W TO 325400N1194200W TO POINT OF ORIGIN SFC-UNL 2611180314-2611180736",
+"reason": "SX USSF317 R-6 26-73",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83094040",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-15T12:34:01.783Z"
 },
 "via": "sitemap"
 },
@@ -328974,6 +329846,98 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZMA-11%2F130-26": {
+"lastmod": "2026-11-12T14:08:12.419Z",
+"notice": {
+"areas": [
+[
+[
+28.6167,
+-80.6833
+],
+[
+30.6167,
+-79.6
+],
+[
+34.4833,
+-75.4833
+],
+[
+36.8167,
+-72.4
+],
+[
+40.5667,
+-67.15
+],
+[
+40.7833,
+-66.6
+],
+[
+40.2333,
+-64.9
+],
+[
+39.7333,
+-64.9
+],
+[
+38.15,
+-67.4
+],
+[
+34.5667,
+-71.65
+],
+[
+29.5667,
+-78.0667
+],
+[
+28.6167,
+-79.7667
+],
+[
+28.45,
+-80.6
+],
+[
+28.6167,
+-80.6833
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-11-14T19:11:00.000Z",
+"start": "2026-11-14T17:32:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZMA-11/130-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "11/130",
+"page": "https://space-notices.com/notice/notam-ZMA-11%2F130-26",
+"raw": "!CARF 11/130 ZMA AIRSPACE DCC EROP A1174 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283700N0804100W TO 303700N0793600W TO 342900N0752900W TO 364900N0722400W TO 403400N0670900W TO 404700N0663600W TO 401400N0645400W TO 394400N0645400W TO 380900N0672400W TO 343400N0713900W TO 293400N0780400W TO 283700N0794600W TO 282700N0803600W TO POINT OF ORIGIN. AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY. CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRI. SFC-UNL 2611141732-2611141911",
+"reason": "EROP A1174",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83064710",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-12T14:08:12.419Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-ZMA-11%2F131-26": {
 "lastmod": "2026-11-12T14:14:28.724Z",
 "notice": {
@@ -329694,6 +330658,154 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZMA-11%2F177-26": {
+"lastmod": "2026-11-15T15:42:19.045Z",
+"notice": {
+"areas": [
+[
+[
+29.2333,
+-80.0333
+],
+[
+29.8167,
+-79.4333
+],
+[
+29.6333,
+-79.2167
+],
+[
+29.0667,
+-79.8333
+],
+[
+29.2333,
+-80.0333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-16T17:28:00.000Z",
+"start": "2026-11-16T16:50:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZMA-11/177-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "11/177",
+"page": "https://space-notices.com/notice/notam-ZMA-11%2F177-26",
+"raw": "!CARF 11/177 ZMA AIRSPACE DCC EROP A1174 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 291400N0800200W TO 294900N0792600W TO 293800N0791300W TO 290400N0795000W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS 2611161650-2611161728",
+"reason": "EROP A1174",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83088692",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-15T15:42:19.045Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZMA-11%2F178-26": {
+"lastmod": "2026-11-14T15:03:39.740Z",
+"notice": {
+"areas": [
+[
+[
+28.6167,
+-80.6833
+],
+[
+30.6167,
+-79.6
+],
+[
+34.4833,
+-75.4833
+],
+[
+36.8167,
+-72.4
+],
+[
+40.5667,
+-67.15
+],
+[
+40.7833,
+-66.6
+],
+[
+40.2333,
+-64.9
+],
+[
+39.7333,
+-64.9
+],
+[
+38.15,
+-67.4
+],
+[
+34.5667,
+-71.65
+],
+[
+29.5667,
+-78.0667
+],
+[
+28.6167,
+-79.7667
+],
+[
+28.45,
+-80.6
+],
+[
+28.6167,
+-80.6833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-16T18:28:00.000Z",
+"start": "2026-11-16T16:50:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZMA-11/178-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "11/178",
+"page": "https://space-notices.com/notice/notam-ZMA-11%2F178-26",
+"raw": "!CARF 11/178 ZMA AIRSPACE DCC EROP A1174 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283700N0804100W TO 303700N0793600W TO 342900N0752900W TO 364900N0722400W TO 403400N0670900W TO 404700N0663600W TO 401400N0645400W TO 394400N0645400W TO 380900N0672400W TO 343400N0713900W TO 293400N0780400W TO 283700N0794600W TO 282700N0803600W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS 2611161650-2611161828",
+"reason": "EROP A1174",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83088690",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-14T15:03:39.740Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-ZMA-11%2F181": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -329755,6 +330867,154 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-04-23T14:04:24.726Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZMA-11%2F186-26": {
+"lastmod": "2026-11-15T12:07:11.203Z",
+"notice": {
+"areas": [
+[
+[
+28.6167,
+-80.6833
+],
+[
+30.6167,
+-79.6
+],
+[
+34.4833,
+-75.4833
+],
+[
+36.8167,
+-72.4
+],
+[
+40.5667,
+-67.15
+],
+[
+40.7833,
+-66.6
+],
+[
+40.2333,
+-64.9
+],
+[
+39.7333,
+-64.9
+],
+[
+38.15,
+-67.4
+],
+[
+34.5667,
+-71.65
+],
+[
+29.5667,
+-78.0667
+],
+[
+28.6167,
+-79.7667
+],
+[
+28.45,
+-80.6
+],
+[
+28.6167,
+-80.6833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-17T18:07:00.000Z",
+"start": "2026-11-17T16:28:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZMA-11/186-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "11/186",
+"page": "https://space-notices.com/notice/notam-ZMA-11%2F186-26",
+"raw": "!CARF 11/186 ZMA AIRSPACE DCC EROP A1174 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283700N0804100W TO 303700N0793600W TO 342900N0752900W TO 364900N0722400W TO 403400N0670900W TO 404700N0663600W TO 401400N0645400W TO 394400N0645400W TO 380900N0672400W TO 343400N0713900W TO 293400N0780400W TO 283700N0794600W TO 282700N0803600W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL 2611171628-2611171807",
+"reason": "EROP A1174",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83093923",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-15T12:07:11.203Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZMA-11%2F189-26": {
+"lastmod": "2026-11-15T12:20:58.139Z",
+"notice": {
+"areas": [
+[
+[
+29.2333,
+-80.0333
+],
+[
+29.8167,
+-79.4333
+],
+[
+29.6333,
+-79.2167
+],
+[
+29.0667,
+-79.8333
+],
+[
+29.2333,
+-80.0333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-17T17:07:00.000Z",
+"start": "2026-11-17T16:28:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZMA-11/189-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "11/189",
+"page": "https://space-notices.com/notice/notam-ZMA-11%2F189-26",
+"raw": "!CARF 11/189 ZMA AIRSPACE DCC EROP A1174 STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 291400N0800200W TO 294900N0792600W TO 293800N0791300W TO 290400N0795000W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL 2611171628-2611171707",
+"reason": "EROP A1174",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83093960",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-15T12:20:58.139Z"
 },
 "via": "sitemap"
 },
@@ -330888,6 +332148,98 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZNY-11%2F135-26": {
+"lastmod": "2026-11-12T14:14:00.721Z",
+"notice": {
+"areas": [
+[
+[
+28.6167,
+-80.6833
+],
+[
+30.6167,
+-79.6
+],
+[
+34.4833,
+-75.4833
+],
+[
+36.8167,
+-72.4
+],
+[
+40.5667,
+-67.15
+],
+[
+40.7833,
+-66.6
+],
+[
+40.2333,
+-64.9
+],
+[
+39.7333,
+-64.9
+],
+[
+38.15,
+-67.4
+],
+[
+34.5667,
+-71.65
+],
+[
+29.5667,
+-78.0667
+],
+[
+28.6167,
+-79.7667
+],
+[
+28.45,
+-80.6
+],
+[
+28.6167,
+-80.6833
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-11-14T19:11:00.000Z",
+"start": "2026-11-14T17:32:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZNY-11/135-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "11/135",
+"page": "https://space-notices.com/notice/notam-ZNY-11%2F135-26",
+"raw": "!CARF 11/135 ZNY AIRSPACE DCC EROP A1174 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283700N0804100W TO 303700N0793600W TO 342900N0752900W TO 364900N0722400W TO 403400N0670900W TO 404700N0663600W TO 401400N0645400W TO 394400N0645400W TO 380900N0672400W TO 343400N0713900W TO 293400N0780400W TO 283700N0794600W TO 282700N0803600W TO POINT OF ORIGIN. AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY. CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS. SFC-UNL 2611141732-2611141911",
+"reason": "EROP A1174",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83064753",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-12T14:14:00.721Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-ZNY-11%2F153-26": {
 "lastmod": "2026-11-12T18:27:41.063Z",
 "notice": {
@@ -330977,6 +332329,190 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-12T18:27:41.063Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZNY-11%2F175-26": {
+"lastmod": "2026-11-14T15:03:35.641Z",
+"notice": {
+"areas": [
+[
+[
+28.6167,
+-80.6833
+],
+[
+30.6167,
+-79.6
+],
+[
+34.4833,
+-75.4833
+],
+[
+36.8167,
+-72.4
+],
+[
+40.5667,
+-67.15
+],
+[
+40.7833,
+-66.6
+],
+[
+40.2333,
+-64.9
+],
+[
+39.7333,
+-64.9
+],
+[
+38.15,
+-67.4
+],
+[
+34.5667,
+-71.65
+],
+[
+29.5667,
+-78.0667
+],
+[
+28.6167,
+-79.7667
+],
+[
+28.45,
+-80.6
+],
+[
+28.6167,
+-80.6833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-16T18:28:00.000Z",
+"start": "2026-11-16T16:50:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZNY-11/175-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "11/175",
+"page": "https://space-notices.com/notice/notam-ZNY-11%2F175-26",
+"raw": "!CARF 11/175 ZNY AIRSPACE DCC EROP A1174 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283700N0804100W TO 303700N0793600W TO 342900N0752900W TO 364900N0722400W TO 403400N0670900W TO 404700N0663600W TO 401400N0645400W TO 394400N0645400W TO 380900N0672400W TO 343400N0713900W TO 293400N0780400W TO 283700N0794600W TO 282700N0803600W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS 2611161650-2611161828",
+"reason": "EROP A1174",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83088671",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-14T15:03:35.641Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZNY-11%2F187-26": {
+"lastmod": "2026-11-15T12:07:06.601Z",
+"notice": {
+"areas": [
+[
+[
+28.6167,
+-80.6833
+],
+[
+30.6167,
+-79.6
+],
+[
+34.4833,
+-75.4833
+],
+[
+36.8167,
+-72.4
+],
+[
+40.5667,
+-67.15
+],
+[
+40.7833,
+-66.6
+],
+[
+40.2333,
+-64.9
+],
+[
+39.7333,
+-64.9
+],
+[
+38.15,
+-67.4
+],
+[
+34.5667,
+-71.65
+],
+[
+29.5667,
+-78.0667
+],
+[
+28.6167,
+-79.7667
+],
+[
+28.45,
+-80.6
+],
+[
+28.6167,
+-80.6833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-17T18:07:00.000Z",
+"start": "2026-11-17T16:28:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZNY-11/187-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "11/187",
+"page": "https://space-notices.com/notice/notam-ZNY-11%2F187-26",
+"raw": "!CARF 11/187 ZNY AIRSPACE DCC EROP A1174 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283700N0804100W TO 303700N0793600W TO 342900N0752900W TO 364900N0722400W TO 403400N0670900W TO 404700N0663600W TO 401400N0645400W TO 394400N0645400W TO 380900N0672400W TO 343400N0713900W TO 293400N0780400W TO 283700N0794600W TO 282700N0803600W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL 2611171628-2611171807",
+"reason": "EROP A1174",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83093920",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-15T12:07:06.601Z"
 },
 "via": "sitemap"
 },
@@ -339253,6 +340789,70 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZWY-11%2F127-26": {
+"lastmod": "2026-11-15T15:42:49.237Z",
+"notice": {
+"areas": [
+[
+[
+43.6333,
+-59.4
+],
+[
+44.2833,
+-57.7667
+],
+[
+44.8833,
+-55.6833
+],
+[
+44.5167,
+-55.3333
+],
+[
+42.9833,
+-57.3833
+],
+[
+42.5833,
+-59.0333
+],
+[
+43.6333,
+-59.4
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-11-13T19:00:00.000Z",
+"start": "2026-11-13T17:54:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZWY-11/127-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "11/127",
+"page": "https://space-notices.com/notice/notam-ZWY-11%2F127-26",
+"raw": "!CARF 11/127 ZWY AIRSPACE DCC EROP A1174 STNR ALT RESERVATION AREA C WI AN AREA DEFINED AS 433800N0592400W TO 441700N0574600W TO 445300N0554100W TO 443100N0552000W TO 425900N0572300W TO 423500N0590200W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY. CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS. SFC-UNL 2611131754-2611131900",
+"reason": "EROP A1174",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83064682",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-15T15:42:49.237Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-ZWY-11%2F128-26": {
 "lastmod": "2026-11-12T14:05:24.276Z",
 "notice": {
@@ -339345,6 +340945,162 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZWY-11%2F133-26": {
+"lastmod": "2026-11-15T15:42:43.854Z",
+"notice": {
+"areas": [
+[
+[
+43.6333,
+-59.4
+],
+[
+44.2833,
+-57.7667
+],
+[
+44.8833,
+-55.6833
+],
+[
+44.5167,
+-55.3333
+],
+[
+42.9833,
+-57.3833
+],
+[
+42.5833,
+-59.0333
+],
+[
+43.6333,
+-59.4
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-11-14T18:39:00.000Z",
+"start": "2026-11-14T17:32:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZWY-11/133-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "11/133",
+"page": "https://space-notices.com/notice/notam-ZWY-11%2F133-26",
+"raw": "!CARF 11/133 ZWY AIRSPACE DCC EROP A1174 STNR ALT RESERVATION AREA C WI AN AREA DEFINED AS 433800N0592400W TO 441700N0574600W TO 445300N0554100W TO 443100N0552000W TO 425900N0572300W TO 423500N0590200W TO POINT OF ORIGIN. AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY. CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS. SFC-UNL 2611141732-2611141839",
+"reason": "EROP A1174",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83064758",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-15T15:42:43.854Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZWY-11%2F136-26": {
+"lastmod": "2026-11-12T14:14:10.061Z",
+"notice": {
+"areas": [
+[
+[
+28.6167,
+-80.6833
+],
+[
+30.6167,
+-79.6
+],
+[
+34.4833,
+-75.4833
+],
+[
+36.8167,
+-72.4
+],
+[
+40.5667,
+-67.15
+],
+[
+40.7833,
+-66.6
+],
+[
+40.2333,
+-64.9
+],
+[
+39.7333,
+-64.9
+],
+[
+38.15,
+-67.4
+],
+[
+34.5667,
+-71.65
+],
+[
+29.5667,
+-78.0667
+],
+[
+28.6167,
+-79.7667
+],
+[
+28.45,
+-80.6
+],
+[
+28.6167,
+-80.6833
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-11-14T19:11:00.000Z",
+"start": "2026-11-14T17:32:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZWY-11/136-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "11/136",
+"page": "https://space-notices.com/notice/notam-ZWY-11%2F136-26",
+"raw": "!CARF 11/136 ZWY AIRSPACE DCC EROP A1174 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283700N0804100W TO 303700N0793600W TO 342900N0752900W TO 364900N0722400W TO 403400N0670900W TO 404700N0663600W TO 401400N0645400W TO 394400N0645400W TO 380900N0672400W TO 343400N0713900W TO 293400N0780400W TO 283700N0794600W TO 282700N0803600W TO POINT OF ORIGIN. AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY. CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS. SFC-UNL 2611141732-2611141911",
+"reason": "EROP A1174",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83064788",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-12T14:14:10.061Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-ZWY-11%2F154-26": {
 "lastmod": "2026-11-12T18:41:04.844Z",
 "notice": {
@@ -339434,6 +341190,70 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-12T18:41:04.844Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZWY-11%2F159-26": {
+"lastmod": "2026-11-15T15:42:31.732Z",
+"notice": {
+"areas": [
+[
+[
+43.6333,
+-59.4
+],
+[
+44.2833,
+-57.7667
+],
+[
+44.8833,
+-55.6833
+],
+[
+44.5167,
+-55.3333
+],
+[
+42.9833,
+-57.3833
+],
+[
+42.5833,
+-59.0333
+],
+[
+43.6333,
+-59.4
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-15T18:18:00.000Z",
+"start": "2026-11-15T17:11:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZWY-11/159-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "11/159",
+"page": "https://space-notices.com/notice/notam-ZWY-11%2F159-26",
+"raw": "!CARF 11/159 ZWY AIRSPACE DCC EROP A1174 STNR ALT RESERVATION AREA C WI AN AREA DEFINED AS 433800N0592400W TO 441700N0574600W TO 445300N0554100W TO 443100N0552000W TO 425900N0572300W TO 423500N0590200W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL 2611151711-2611151818",
+"reason": "EROP A1174",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83068438",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-15T15:42:31.732Z"
 },
 "via": "sitemap"
 },
@@ -340157,6 +341977,318 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZWY-11%2F180-26": {
+"lastmod": "2026-11-14T15:15:44.025Z",
+"notice": {
+"areas": [
+[
+[
+28.6167,
+-80.6833
+],
+[
+30.6167,
+-79.6
+],
+[
+34.4833,
+-75.4833
+],
+[
+36.8167,
+-72.4
+],
+[
+40.5667,
+-67.15
+],
+[
+40.7833,
+-66.6
+],
+[
+40.2333,
+-64.9
+],
+[
+39.7333,
+-64.9
+],
+[
+38.15,
+-67.4
+],
+[
+34.5667,
+-71.65
+],
+[
+29.5667,
+-78.0667
+],
+[
+28.6167,
+-79.7667
+],
+[
+28.45,
+-80.6
+],
+[
+28.6167,
+-80.6833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-16T18:28:00.000Z",
+"start": "2026-11-16T16:50:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZWY-11/180-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "11/180",
+"page": "https://space-notices.com/notice/notam-ZWY-11%2F180-26",
+"raw": "!CARF 11/180 ZWY AIRSPACE DCC EROP A1174 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283700N0804100W TO 303700N0793600W TO 342900N0752900W TO 364900N0722400W TO 403400N0670900W TO 404700N0663600W TO 401400N0645400W TO 394400N0645400W TO 380900N0672400W TO 343400N0713900W TO 293400N0780400W TO 283700N0794600W TO 282700N0803600W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS 2611161650-2611161828",
+"reason": "EROP A1174",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83088808",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-14T15:15:44.025Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZWY-11%2F181-26": {
+"lastmod": "2026-11-15T15:42:05.300Z",
+"notice": {
+"areas": [
+[
+[
+43.6333,
+-59.4
+],
+[
+44.2833,
+-57.7667
+],
+[
+44.8833,
+-55.6833
+],
+[
+44.5167,
+-55.3333
+],
+[
+42.9833,
+-57.3833
+],
+[
+42.5833,
+-59.0333
+],
+[
+43.6333,
+-59.4
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-11-16T17:56:00.000Z",
+"start": "2026-11-16T16:50:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZWY-11/181-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "11/181",
+"page": "https://space-notices.com/notice/notam-ZWY-11%2F181-26",
+"raw": "!CARF 11/181 ZWY AIRSPACE DCC EROP A1174 STNR ALT RESERVATION AREA C WI AN AREA DEFINED AS 433800N0592400W TO 441700N0574600W TO 445300N0554100W TO 443100N0552000W TO 425900N0572300W TO 423500N0590200W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS 2611161650-2611161756",
+"reason": "EROP A1174",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83088806",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-15T15:42:05.300Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZWY-11%2F183-26": {
+"lastmod": "2026-11-15T15:04:47.388Z",
+"notice": {
+"areas": [
+[
+[
+43.6333,
+-59.4
+],
+[
+44.2833,
+-57.7667
+],
+[
+44.8833,
+-55.6833
+],
+[
+44.5167,
+-55.3333
+],
+[
+42.9833,
+-57.3833
+],
+[
+42.5833,
+-59.0333
+],
+[
+43.6333,
+-59.4
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-17T17:35:00.000Z",
+"start": "2026-11-17T16:28:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZWY-11/183-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "11/183",
+"page": "https://space-notices.com/notice/notam-ZWY-11%2F183-26",
+"raw": "!CARF 11/183 ZWY AIRSPACE DCC EROP A1174 STNR ALT RESERVATION AREA C WI AN AREA DEFINED AS 433800N0592400W TO 441700N0574600W TO 445300N0554100W TO 443100N0552000W TO 425900N0572300W TO 423500N0590200W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL 2611171628-2611171735",
+"reason": "EROP A1174",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83093910",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-15T15:04:47.388Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZWY-11%2F188-26": {
+"lastmod": "2026-11-15T12:21:08.358Z",
+"notice": {
+"areas": [
+[
+[
+28.6167,
+-80.6833
+],
+[
+30.6167,
+-79.6
+],
+[
+34.4833,
+-75.4833
+],
+[
+36.8167,
+-72.4
+],
+[
+40.5667,
+-67.15
+],
+[
+40.7833,
+-66.6
+],
+[
+40.2333,
+-64.9
+],
+[
+39.7333,
+-64.9
+],
+[
+38.15,
+-67.4
+],
+[
+34.5667,
+-71.65
+],
+[
+29.5667,
+-78.0667
+],
+[
+28.6167,
+-79.7667
+],
+[
+28.45,
+-80.6
+],
+[
+28.6167,
+-80.6833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-17T18:07:00.000Z",
+"start": "2026-11-17T16:28:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZWY-11/188-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "11/188",
+"page": "https://space-notices.com/notice/notam-ZWY-11%2F188-26",
+"raw": "!CARF 11/188 ZWY AIRSPACE DCC EROP A1174 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 283700N0804100W TO 303700N0793600W TO 342900N0752900W TO 364900N0722400W TO 403400N0670900W TO 404700N0663600W TO 401400N0645400W TO 394400N0645400W TO 380900N0672400W TO 343400N0713900W TO 293400N0780400W TO 283700N0794600W TO 282700N0803600W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL 2611171628-2611171807",
+"reason": "EROP A1174",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83093919",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-15T12:21:08.358Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-ZWY-11%2F192": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -340396,6 +342528,70 @@
 "updated": "2026-04-23T14:04:24.726Z"
 },
 "via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZWY-11%2F195-26": {
+"lastmod": "2026-11-15T15:42:56.936Z",
+"notice": {
+"areas": [
+[
+[
+43.6333,
+-59.4
+],
+[
+44.2833,
+-57.7667
+],
+[
+44.8833,
+-55.6833
+],
+[
+44.5167,
+-55.3333
+],
+[
+42.9833,
+-57.3833
+],
+[
+42.5833,
+-59.0333
+],
+[
+43.6333,
+-59.4
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-16T17:56:00.000Z",
+"start": "2026-11-16T16:50:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZWY-11/195-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-vulcan-vc6l-amazon-leo-lv-01",
+"title": "Amazon Leo (LV-01)"
+}
+],
+"markers": [],
+"name": "11/195",
+"page": "https://space-notices.com/notice/notam-ZWY-11%2F195-26",
+"raw": "!CARF 11/195 ZWY AIRSPACE DCC EROP A1174 STNR ALT RESERVATION AREA C WI AN AREA DEFINED AS 433800N0592400W TO 441700N0574600W TO 445300N0554100W TO 443100N0552000W TO 425900N0572300W TO 423500N0590200W TO POINT OF ORIGIN AREA OUTSIDE US CONTROLLED AIRSPACE IS FOR INFO ONLY SFC-UNL CAUTION SPACE LAUNCH / HAZARDOUS OPS AND POSSIBILITY OF FALLING SPACE DEBRIS 2611161650-2611161756",
+"reason": "EROP A1174",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83095338",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-15T15:42:56.936Z"
+},
+"via": "entry"
 },
 "https://space-notices.com/notice/notam-ZWY-11%2F234": {
 "lastmod": "2026-04-23T14:04:24.726Z",
