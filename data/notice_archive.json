@@ -1,5 +1,5 @@
 {
-"count": 3009,
+"count": 3017,
 "notices": [
 {
 "areas": [
@@ -280710,6 +280710,162 @@
 "areas": [
 [
 [
+34.2667,
+-124.55
+],
+[
+34.6167,
+-124.6167
+],
+[
+34.9,
+-121.9833
+],
+[
+34.55,
+-121.9333
+],
+[
+34.2667,
+-124.55
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-18T13:25:00.000Z",
+"start": "2026-11-18T07:01:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-11/199-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-vsfb-operation-W6407",
+"title": "VSFB Operation W6407"
+}
+],
+"markers": [],
+"name": "11/199",
+"page": "https://space-notices.com/notice/notam-ZAK-11%2F199-26",
+"raw": "!CARF 11/199 ZAK AIRSPACE DCC TAUREN 26-1/ STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 341600N1243300W TO 343700N1243700W TO 345400N1215900W TO 343300N1215600W TO POINT OF ORIGIN SFC-UNL 2611180701-2611181325",
+"reason": "TAUREN 26-1/",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83102418",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-15T20:38:42.691Z"
+},
+{
+"areas": [
+[
+[
+34.2667,
+-124.55
+],
+[
+34.6167,
+-124.6167
+],
+[
+34.9,
+-121.9833
+],
+[
+34.55,
+-121.9333
+],
+[
+34.2667,
+-124.55
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-18T13:25:00.000Z",
+"start": "2026-11-18T07:01:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZOA-11/200-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-vsfb-operation-W6407",
+"title": "VSFB Operation W6407"
+}
+],
+"markers": [],
+"name": "11/200",
+"page": "https://space-notices.com/notice/notam-ZOA-11%2F200-26",
+"raw": "!CARF 11/200 ZOA AIRSPACE DCC TAUREN 26-1/ STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 341600N1243300W TO 343700N1243700W TO 345400N1215900W TO 343300N1215600W TO POINT OF ORIGIN SFC-UNL 2611180701-2611181325",
+"reason": "TAUREN 26-1/",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83102416",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-15T20:38:42.691Z"
+},
+{
+"areas": [
+[
+[
+34.8667,
+-121.2667
+],
+[
+34.9,
+-120.55
+],
+[
+34.8,
+-120.55
+],
+[
+34.7333,
+-121.2667
+],
+[
+34.8667,
+-121.2667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-18T13:38:00.000Z",
+"start": "2026-11-18T07:01:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-11/201-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-vsfb-operation-W6407",
+"title": "VSFB Operation W6407"
+}
+],
+"markers": [],
+"name": "11/201",
+"page": "https://space-notices.com/notice/notam-ZLA-11%2F201-26",
+"raw": "!CARF 11/201 ZLA AIRSPACE DCC TAUREN 26-1/ STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 345200N1211600W TO 345400N1203300W TO 344800N1203300W TO 344400N1211600W TO POINT OF ORIGIN SFC-UNL 2611180701-2611181338",
+"reason": "TAUREN 26-1/",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83102414",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-15T20:38:42.691Z"
+},
+{
+"areas": [
+[
+[
 33.5667,
 110.5167
 ],
@@ -286769,6 +286925,118 @@
 116.15
 ],
 [
+13.3333,
+116.5833
+],
+[
+12.4667,
+117.2833
+],
+[
+12.1333,
+116.8333
+],
+[
+12.9833,
+116.15
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-20T12:17:00.000Z",
+"start": "2026-11-20T11:51:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RPHI-B6120/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "B6120/26",
+"page": "https://space-notices.com/notice/notam-RPHI-B6120%2F26",
+"raw": "B6120/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/1244N11643E038\r\nA) RPHI B) 2611201151 C) 2611201217\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.\r\nEST FALL AREA OF UNBURNED DEBRIS WI:\r\n125900N 1160900E -\r\n132000N 1163500E -\r\n122800N 1171700E - \r\n120800N 1165000E -\r\n125900N 1160900E\r\n(168NM WEST OF FRANCISCO B. REYES PRINCIPAL AP).\r\nF) SFC G) UNL",
+"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83098515",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-16T03:42:21.777Z"
+},
+{
+"areas": [
+[
+[
+7.9667,
+119.9667
+],
+[
+8.4167,
+120.55
+],
+[
+7.55,
+121.2167
+],
+[
+7.4333,
+121.1833
+],
+[
+7.1167,
+120.75
+],
+[
+7.1,
+120.6333
+],
+[
+7.9667,
+119.9667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-20T12:28:00.000Z",
+"start": "2026-11-20T11:52:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-RPHI-B6122/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "B6122/26",
+"page": "https://space-notices.com/notice/notam-RPHI-B6122%2F26",
+"raw": "B6122/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/0745N12036E041\r\nA) RPHI B) 2611201152 C) 2611201228\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.\r\nEST FALL AREA OF UNBURNED DEBRIS WI:\r\n075800N 1195800E - \r\n082500N 1203300E - \r\n073300N 1211300E - \r\n072600N 1211100E - \r\n070700N 1204500E -\r\n070600N 1203800E - \r\n075800N 1195800E\r\n(129NM SOUTHEAST OF PUERTO PRINCESA INTL AP).\r\nF) SFC G) UNL",
+"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83098545",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-16T05:40:21.682Z"
+},
+{
+"areas": [
+[
+[
+12.9833,
+116.15
+],
+[
 13.3167,
 116.5833
 ],
@@ -287871,6 +288139,110 @@
 "name": "US Coast Guard"
 },
 "updated": "2026-11-12T19:00:56.024Z"
+},
+{
+"areas": [
+[
+[
+28.45,
+108.5667
+],
+[
+28.4,
+108.8833
+],
+[
+27.9833,
+108.7833
+],
+[
+28.05,
+108.4667
+],
+[
+28.45,
+108.5667
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-21T04:15:00.000Z",
+"start": "2026-11-21T03:46:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZPKM-A5992/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5992/26",
+"page": "https://space-notices.com/notice/notam-ZPKM-A5992%2F26",
+"raw": "A5992/26 NOTAMN\r\nQ)ZPKM/QRDCA/IV/BO/W/000/999/2813N10840E016\r\nA)ZPKM B)2611210346 C)2611210415 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN282700E1083400-N282400E1085300-N275900E1084700-N280300E1082800, \r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83099199",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-16T05:40:21.693Z"
+},
+{
+"areas": [
+[
+[
+27.9333,
+108.4167
+],
+[
+27.85,
+108.7833
+],
+[
+27.2167,
+108.6333
+],
+[
+27.2833,
+108.2667
+],
+[
+27.9333,
+108.4167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-21T04:19:00.000Z",
+"start": "2026-11-21T03:47:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZPKM-A5993/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A5993/26",
+"page": "https://space-notices.com/notice/notam-ZPKM-A5993%2F26",
+"raw": "A5993/26 NOTAMN\r\nQ)ZPKM/QRDCA/IV/BO/W/000/999/2734N10831E022\r\nA)ZPKM B)2611210347 C)2611210419 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN275600E1082500-N275100E1084700-N271300E1083800-N271700E1081600\r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83099198",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-16T05:40:21.693Z"
 },
 {
 "areas": [
@@ -290111,6 +290483,94 @@
 "name": "Cadena OIS"
 },
 "updated": "2026-11-13T17:00:56.560Z"
+},
+{
+"areas": [
+[
+[
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-38.35,
+-115.0667
+],
+[
+-49.15,
+-107.3667
+],
+[
+-59.15,
+-95.5667
+],
+[
+-59.9667,
+-99.0833
+],
+[
+-44.5667,
+-114.2167
+],
+[
+-27.9833,
+-122.7333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-21T15:31:00.000Z",
+"start": "2026-11-21T14:14:00.000Z"
+},
+{
+"end": "2026-11-22T15:17:00.000Z",
+"start": "2026-11-22T14:00:00.000Z"
+},
+{
+"end": "2026-11-23T15:03:00.000Z",
+"start": "2026-11-23T13:46:00.000Z"
+},
+{
+"end": "2026-11-24T14:49:00.000Z",
+"start": "2026-11-24T13:32:00.000Z"
+},
+{
+"end": "2026-11-25T14:36:00.000Z",
+"start": "2026-11-25T13:19:00.000Z"
+},
+{
+"end": "2026-11-26T14:22:00.000Z",
+"start": "2026-11-26T13:05:00.000Z"
+},
+{
+"end": "2026-11-27T14:08:00.000Z",
+"start": "2026-11-27T12:51:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3356/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-f9-nrol-136",
+"title": "NROL-136"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3356/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203356%2F26",
+"raw": "160656Z NOV 26\nHYDROPAC 3356/26\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   211414Z TO 211531Z, 221400Z TO 221517Z,  \n   231346Z TO 231503Z, 241332Z TO 241449Z,  \n   251319Z TO 251436Z, 261305Z TO 261422Z  \n   AND 271251Z TO 271408Z NOV\n   IN AREA BOUND BY\n   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,\n   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,\n   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,\n   44-34.00S 114-13.00W.\n2. CANCEL THIS MSG 271508Z NOV 26.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3356&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-11-16T07:02:10.797Z"
 },
 {
 "areas": [
