@@ -13751,7 +13751,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209154-26": {
-"lastmod": "2026-11-16T19:12:22.896Z",
+"lastmod": "2026-11-16T21:36:19.295Z",
 "notice": {
 "areas": [
 [
@@ -13940,9 +13940,9 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-16T19:12:22.896Z"
+"updated": "2026-11-16T21:36:19.295Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-blueorigin-ng-2": {
 "lastmod": "2026-04-23T14:04:24.726Z",
@@ -27596,7 +27596,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-58217": {
-"lastmod": "2026-11-10T23:30:30.802Z",
+"lastmod": "2026-11-16T20:20:37.717Z",
 "notice": {
 "areas": [
 [
@@ -27755,6 +27755,26 @@
 {
 "end": "2026-11-19T07:24:00.000Z",
 "start": "2026-11-19T03:00:00.000Z"
+},
+{
+"end": "2026-11-20T07:10:00.000Z",
+"start": "2026-11-20T02:46:00.000Z"
+},
+{
+"end": "2026-11-21T06:56:00.000Z",
+"start": "2026-11-21T02:32:00.000Z"
+},
+{
+"end": "2026-11-22T06:42:00.000Z",
+"start": "2026-11-22T02:18:00.000Z"
+},
+{
+"end": "2026-11-23T06:29:00.000Z",
+"start": "2026-11-23T04:00:00.000Z"
+},
+{
+"end": "2026-11-24T06:15:00.000Z",
+"start": "2026-11-24T03:46:00.000Z"
 }
 ],
 "height": null,
@@ -27769,18 +27789,18 @@
 "markers": [],
 "name": "58217",
 "page": "https://space-notices.com/notice/lnm-58217",
-"raw": "Hazardous operations will be conducted for Space X, R-6 Launch Operations. Hazardous operation areas are bounded by the following coordinates and times:\nHazard Area A: \n32.08333333N, -119.13333333W\n32.5N, -119.3W\n33.25N, -119.63333333W\n34.2N, -120.1W\n34.51666667N, -120.3W\n34.66666667N, -120.63333333W\n34.6N, -120.65W\n34.45N, -120.61666667W\n34.31666667N, -120.56666667W\n32.08333333N, -119.15W (TO BEGINNING)\n             \n130423Z NOV TO 130846Z NOV 2026---- (PRIMARY) \n140409Z NOV TO 140832Z NOV 2026---- (BACKUP DAY) \n150355Z NOV TO 150818Z NOV 2026---- (BACKUP DAY) \n160341Z NOV TO 160804Z NOV 2026---- (BACKUP DAY) \n170328Z NOV TO 170751Z NOV 2026---- (BACKUP DAY) \n180314Z NOV TO 180737Z NOV 2026---- (BACKUP DAY) \n190300Z NOV TO 190723Z NOV 2026---- (BACKUP DAY) \n\nHazard Area B:\n30.76666667N, -118.25W\n31.38333333N, -118.78333333W\n30.43333333N, -118.51666667W\n29.58333333N, -118.2W\n29.86666667N, -117.9W\n29.8N, -117.65W (TO BEGINNING)\n            \n130423Z NOV TO 130847Z NOV 2026---- (PRIMARY) \n140409Z NOV TO 140833Z NOV 2026---- (BACKUP DAY) \n150355Z NOV TO 150819Z NOV 2026---- (BACKUP DAY) \n160341Z NOV TO 160805Z NOV 2026---- (BACKUP DAY) \n170328Z NOV TO 170752Z NOV 2026---- (BACKUP DAY) \n180314Z NOV TO 180738Z NOV 2026---- (BACKUP DAY) \n190300Z NOV TO 190724Z NOV 2026---- (BACKUP DAY) \n\nHazard Area C:\n29.03333333N, -117.98333333W\n29.25N, -118.03333333W\n29.4N, -118.13333333W\n29.58333333N, -118.2W\n29.86666667N, -117.9W\n29.8N, -117.65W\n29.6N, -117.26666667W\n28.83333333N, -117.31666667W\n28.25N, -117.31666667W\n28.26666667N, -117.35W\n28.83333333N, -117.81666667W (TO BEGINNING)\n\n130423Z NOV TO 130906Z NOV 2026---- (PRIMARY) \n140409Z NOV TO 140852Z NOV 2026---- (BACKUP DAY) \n150355Z NOV TO 150838Z NOV 2026---- (BACKUP DAY) \n160341Z NOV TO 160824Z NOV 2026---- (BACKUP DAY) \n170328Z NOV TO 170811Z NOV 2026---- (BACKUP DAY) \n180314Z NOV TO 180757Z NOV 2026---- (BACKUP DAY) \n190300Z NOV TO 190743Z NOV 2026---- (BACKUP DAY) \n\nMariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16.",
-"reason": "Hazardous operations will be conducted for Space X R-6 Launch Operations",
+"raw": "Hazardous operations will be conducted for Space X, R-6 Launch Operations. Hazardous operation areas are bounded by the following coordinates and times:\nHazard Area A: \n32.08333333N, -119.13333333W\n32.5N, -119.3W\n33.25N, -119.63333333W\n34.2N, -120.1W\n34.51666667N, -120.3W\n34.66666667N, -120.63333333W\n34.6N, -120.65W\n34.45N, -120.61666667W\n34.31666667N, -120.56666667W\n32.08333333N, -119.15W (TO BEGINNING)\n             \n130423Z NOV TO 130846Z NOV 2026---- (PRIMARY) \n140409Z NOV TO 140832Z NOV 2026---- (BACKUP DAY) \n150355Z NOV TO 150818Z NOV 2026---- (BACKUP DAY) \n160341Z NOV TO 160804Z NOV 2026---- (BACKUP DAY) \n170328Z NOV TO 170751Z NOV 2026---- (BACKUP DAY) \n180314Z NOV TO 180737Z NOV 2026---- (PRIMARY)\n190300Z NOV TO 190723Z NOV 2026---- (BACKUP DAY)\n200246Z NOV TO 200709Z NOV 2026---- (BACKUP DAY)\n210232Z NOV TO 210655Z NOV 2026---- (BACKUP DAY)\n220218Z NOV TO 220641Z NOV 2026---- (BACKUP DAY)\n230400Z NOV TO 230628Z NOV 2026---- (BACKUP DAY)\n240346Z NOV TO 240614Z NOV 2026---- (BACKUP DAY)\n\nHazard Area B:\n30.76666667N, -118.25W\n31.38333333N, -118.78333333W\n30.43333333N, -118.51666667W\n29.58333333N, -118.2W\n29.86666667N, -117.9W\n29.8N, -117.65W (TO BEGINNING)\n            \n130423Z NOV TO 130847Z NOV 2026---- (PRIMARY) \n140409Z NOV TO 140833Z NOV 2026---- (BACKUP DAY) \n150355Z NOV TO 150819Z NOV 2026---- (BACKUP DAY) \n160341Z NOV TO 160805Z NOV 2026---- (BACKUP DAY) \n170328Z NOV TO 170752Z NOV 2026---- (BACKUP DAY) \n180314Z NOV TO 180738Z NOV 2026---- (PRIMARY)\n190300Z NOV TO 190724Z NOV 2026---- (BACKUP DAY)\n200246Z NOV TO 200710Z NOV 2026---- (BACKUP DAY)\n210232Z NOV TO 210656Z NOV 2026---- (BACKUP DAY)\n220218Z NOV TO 220642Z NOV 2026---- (BACKUP DAY)\n230400Z NOV TO 230629Z NOV 2026---- (BACKUP DAY)\n240346Z NOV TO 240615Z NOV 2026---- (BACKUP DAY)\n\nHazard Area C:\n29.03333333N, -117.98333333W\n29.25N, -118.03333333W\n29.4N, -118.13333333W\n29.58333333N, -118.2W\n29.86666667N, -117.9W\n29.8N, -117.65W\n29.6N, -117.26666667W\n28.83333333N, -117.31666667W\n28.25N, -117.31666667W\n28.26666667N, -117.35W\n28.83333333N, -117.81666667W (TO BEGINNING)\n\n130423Z NOV TO 130906Z NOV 2026---- (PRIMARY) \n140409Z NOV TO 140852Z NOV 2026---- (BACKUP DAY) \n150355Z NOV TO 150838Z NOV 2026---- (BACKUP DAY) \n160341Z NOV TO 160824Z NOV 2026---- (BACKUP DAY) \n170328Z NOV TO 170811Z NOV 2026---- (BACKUP DAY) \n180314Z NOV TO 180757Z NOV 2026---- (PRIMARY)\n190300Z NOV TO 190743Z NOV 2026---- (BACKUP DAY)\n200246Z NOV TO 200729Z NOV 2026---- (BACKUP DAY)\n210232Z NOV TO 210715Z NOV 2026---- (BACKUP DAY)\n220218Z NOV TO 220701Z NOV 2026---- (BACKUP DAY)\n230400Z NOV TO 230648Z NOV 2026---- (BACKUP DAY)\n240346Z NOV TO 240634Z NOV 2026---- (BACKUP DAY)\n\nMariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16.",
+"reason": "Hazardous operations will be conducted for Space X, R-6 Launch Operations",
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-10T23:30:30.802Z"
+"updated": "2026-11-16T20:20:37.717Z"
 },
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-58218": {
-"lastmod": "2026-11-11T01:02:22.285Z",
+"lastmod": "2026-11-16T21:16:33.250Z",
 "notice": {
 "areas": [
 [
@@ -27927,8 +27947,36 @@
 "start": "2026-11-21T16:22:00.000Z"
 },
 {
-"end": "2026-11-22T20:56:00.000Z",
+"end": "2026-11-22T21:56:00.000Z",
 "start": "2026-11-22T16:13:00.000Z"
+},
+{
+"end": "2026-11-23T20:47:00.000Z",
+"start": "2026-11-23T16:04:00.000Z"
+},
+{
+"end": "2026-11-24T20:38:00.000Z",
+"start": "2026-11-24T15:55:00.000Z"
+},
+{
+"end": "2026-11-25T20:29:00.000Z",
+"start": "2026-11-25T15:46:00.000Z"
+},
+{
+"end": "2026-11-26T20:20:00.000Z",
+"start": "2026-11-26T15:37:00.000Z"
+},
+{
+"end": "2026-11-27T20:11:00.000Z",
+"start": "2026-11-27T15:28:00.000Z"
+},
+{
+"end": "2026-11-28T20:02:00.000Z",
+"start": "2026-11-28T15:19:00.000Z"
+},
+{
+"end": "2026-11-29T19:53:00.000Z",
+"start": "2026-11-29T15:10:00.000Z"
 }
 ],
 "height": null,
@@ -27943,13 +27991,13 @@
 "markers": [],
 "name": "58218",
 "page": "https://space-notices.com/notice/lnm-58218",
-"raw": "Hazardous operations will be conducted for Space X, TH-3. Hazardous operation areas are bounded by the following coordinates and times:\nHazard Area A: \n34.46666667N, -120.35W\n34.66666667N, -120.61666667W\n34.63333333N, -120.65W\n34.51666667N, -120.65W\n34.33333333N, -120.63333333W\n33.28333333N, -120.35W\n33.21666667N, -120.26666667W\n32.61666667N, -120.15W\n32.01666667N, -120.03333333W\n32N, -120W\n32.1N, -120W\n33.23333333N, -120.21666667W\n33.96666667N, -120.23333333 W(TO BEGINNING)\n\n161707Z NOV TO 162131Z NOV 2026---- (PRIMARY) \n171658Z NOV TO 172122Z NOV 2026---- (BACKUP DAY) \n181649Z NOV TO 182113Z NOV 2026---- (BACKUP DAY) \n191640Z NOV TO 192104Z NOV 2026---- (BACKUP DAY) \n201631Z NOV TO 202055Z NOV 2026---- (BACKUP DAY) \n211622Z NOV TO 212046Z NOV 2026---- (BACKUP DAY) \n221613Z NOV TO 222037Z NOV 2026---- (BACKUP DAY) \n\nHazard Area B:\n30.61666667N, -119.75W\n29.1N, -119.78333333W\n28.95N, -119.91666667W\n28.68333333N, -119.88333333W\n28.3N, -119.38333333W\n27.71666667N, -119.3W\n27.7N, -119.25W\n28.3N, -119.06666667W\n28.65N, -118.71666667W\n28.91666667N, -118.76666667W\n29.15N, -119.06666667W\n30.55N, -119.66666667W (TO BEGINNING)\n\n161707Z NOV TO 162150Z NOV 2026---- (PRIMARY) \n171658Z NOV TO 172141Z NOV 2026---- (BACKUP DAY) \n181649Z NOV TO 182132Z NOV 2026---- (BACKUP DAY) \n191640Z NOV TO 192123Z NOV 2026---- (BACKUP DAY) \n201631Z NOV TO 202114Z NOV 2026---- (BACKUP DAY) \n211622Z NOV TO 212105Z NOV 2026---- (BACKUP DAY) \n221613Z NOV TO 222056Z NOV 2026---- (BACKUP DAY) \n212250Z OCT TO 220333Z OCT 2026---- (BACKUP DAY) \n\nMariners are strongly advised to remain clear of these areas for the duration of operations. For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16.",
+"raw": "$3f",
 "reason": "Hazardous operations will be conducted for Space X TH-3",
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-11T01:02:22.285Z"
+"updated": "2026-11-16T21:16:33.250Z"
 },
 "via": "sitemap"
 },
@@ -105696,7 +105744,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%203309%2F26": {
-"lastmod": "2026-11-16T13:18:52.788Z",
+"lastmod": "2026-11-16T21:59:45.325Z",
 "notice": {
 "areas": [
 [
@@ -105771,9 +105819,9 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3309&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-11-16T13:18:52.788Z"
+"updated": "2026-11-16T21:59:45.325Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%20331%2F22": {
 "lastmod": "",
@@ -106290,7 +106338,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%203328%2F26": {
-"lastmod": "2026-11-16T13:18:52.788Z",
+"lastmod": "2026-11-16T21:58:42.393Z",
 "notice": {
 "areas": [
 [
@@ -106397,9 +106445,9 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3328&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-11-16T13:18:52.788Z"
+"updated": "2026-11-16T21:58:42.393Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%203340%2F22": {
 "lastmod": "",
@@ -322016,6 +322064,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLHW-A5561%2F26": {
+"gone": "2026-11-17",
 "lastmod": "2026-10-31T14:25:45.479Z",
 "notice": {
 "areas": [
@@ -335673,6 +335722,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZPKM-A5562%2F26": {
+"gone": "2026-11-17",
 "lastmod": "2026-10-31T14:25:40.648Z",
 "notice": {
 "areas": [
