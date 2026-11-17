@@ -9761,7 +9761,7 @@
 "markers": [],
 "name": "CGD-SW BNM 9121-26",
 "page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209121-26",
-"raw": "$40",
+"raw": "$43",
 "reason": "Re-Entry - NASA Crew-12 Reentry",
 "source": {
 "link": "https://www.navcen.uscg.gov/chart",
@@ -13944,6 +13944,166 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/bnm-CGD-SW%20BNM%209155-26": {
+"lastmod": "2026-11-17T16:26:21.356Z",
+"notice": {
+"areas": [
+[
+[
+29.616667,
+-118.033333
+],
+[
+29.516667,
+-117.983333
+],
+[
+29.533333,
+-118.05
+],
+[
+29.616667,
+-118.033333
+]
+],
+[
+[
+31.033333,
+-118.616667
+],
+[
+31.033333,
+-118.333333
+],
+[
+30.683333,
+-117.766667
+],
+[
+30.433333,
+-117.7
+],
+[
+30.066667,
+-118.016667
+],
+[
+30.05,
+-118.333333
+],
+[
+30.4,
+-118.866667
+],
+[
+30.666667,
+-118.933333
+],
+[
+31.033333,
+-118.616667
+]
+],
+[
+[
+31.183333,
+-118.95
+],
+[
+32.733333,
+-119.766667
+],
+[
+34.6,
+-120.75
+],
+[
+34.65,
+-120.7
+],
+[
+34.666667,
+-120.666667
+],
+[
+34.683333,
+-120.633333
+],
+[
+34.6,
+-120.366667
+],
+[
+31.383333,
+-118.616667
+],
+[
+31.016667,
+-118.616667
+],
+[
+30.95,
+-118.683333
+],
+[
+31.183333,
+-118.95
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-21T13:25:00.000Z",
+"start": "2026-11-21T12:30:00.000Z"
+},
+{
+"end": "2026-11-22T13:11:00.000Z",
+"start": "2026-11-22T12:16:00.000Z"
+},
+{
+"end": "2026-11-23T12:57:00.000Z",
+"start": "2026-11-23T12:02:00.000Z"
+},
+{
+"end": "2026-11-24T12:43:00.000Z",
+"start": "2026-11-24T11:48:00.000Z"
+},
+{
+"end": "2026-11-25T12:30:00.000Z",
+"start": "2026-11-25T11:35:00.000Z"
+},
+{
+"end": "2026-11-26T12:16:00.000Z",
+"start": "2026-11-26T11:21:00.000Z"
+},
+{
+"end": "2026-11-27T12:02:00.000Z",
+"start": "2026-11-27T11:07:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SW BNM 9155-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "launch-f9-nrol-136",
+"title": "NROL-136"
+}
+],
+"markers": [],
+"name": "CGD-SW BNM 9155-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209155-26",
+"raw": "Launch Hazard Area\nMission: SpaceX NROL-136\nMessage Id: CGD-SW BNM 9155-26\n\n\n21/1230 NOV 26 to 21/1325 NOV 26. \n22/1216 NOV 26 to 22/1311 NOV 26. \n23/1202 NOV 26 to 23/1257 NOV 26. \n24/1148 NOV 26 to 24/1243 NOV 26. \n25/1135 NOV 26 to 25/1230 NOV 26. \n26/1121 NOV 26 to 26/1216 NOV 26. \n27/1107 NOV 26 to 27/1202 NOV 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
+"reason": "Launch Hazard Area - SpaceX NROL-136",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-17T16:26:21.356Z"
+},
+"via": "entry"
+},
 "https://space-notices.com/notice/infopage-blueorigin-ng-2": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -17061,18 +17221,18 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-ussf-317--r6": {
-"lastmod": "2026-11-16T16:44:37.430Z",
+"lastmod": "2026-11-17T16:36:36.301Z",
 "notice": {
 "areas": [],
 "cancelled": false,
 "dates": [
 {
-"end": "2026-11-19T07:43:00.000Z",
-"start": "2026-11-19T03:00:00.000Z"
-},
-{
 "end": "2026-11-20T07:29:00.000Z",
 "start": "2026-11-20T02:46:00.000Z"
+},
+{
+"end": "2026-11-21T07:15:00.000Z",
+"start": "2026-11-21T02:32:00.000Z"
 }
 ],
 "height": null,
@@ -17087,13 +17247,13 @@
 "markers": [],
 "name": "FAA Operations Advisory",
 "page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-ussf-317--r6",
-"raw": "SPACEX USSF-317 / R6, VANDENBERG SFB, CA\nPRIMARY:\t11/19/26\t0300Z-0743Z\nBACKUP:\t\t11/20/26\t0246Z-0729Z",
+"raw": "SPACEX USSF-317 / R6, VANDENBERG SFB, CA\nPRIMARY:\t11/20/26\t0246Z-0729Z\nBACKUP:\t\t11/21/26\t0232Z-0715Z",
 "reason": "SPACEX USSF-317 / R6, VANDENBERG SFB, CA",
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-16T16:44:37.430Z"
+"updated": "2026-11-17T16:36:36.301Z"
 },
 "via": "sitemap"
 },
@@ -22972,7 +23132,7 @@
 "markers": [],
 "name": "54442",
 "page": "https://space-notices.com/notice/lnm-54442",
-"raw": "$40",
+"raw": "$42",
 "reason": "Hazardous operations will be conducted for Space X SDA-T1A Launch Operations",
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
@@ -28393,6 +28553,166 @@
 "updated": "2026-11-12T19:00:56.024Z"
 },
 "via": "sitemap"
+},
+"https://space-notices.com/notice/lnm-58668": {
+"lastmod": "2026-11-17T16:26:21.356Z",
+"notice": {
+"areas": [
+[
+[
+31.183333,
+-118.95
+],
+[
+32.733333,
+-119.766667
+],
+[
+34.6,
+-120.75
+],
+[
+34.65,
+-120.7
+],
+[
+34.666667,
+-120.666667
+],
+[
+34.683333,
+-120.633333
+],
+[
+34.6,
+-120.366667
+],
+[
+31.383333,
+-118.616667
+],
+[
+31.016667,
+-118.616667
+],
+[
+30.95,
+-118.683333
+],
+[
+31.183333,
+-118.95
+]
+],
+[
+[
+31.033333,
+-118.616667
+],
+[
+31.033333,
+-118.333333
+],
+[
+30.683333,
+-117.766667
+],
+[
+30.433333,
+-117.7
+],
+[
+30.066667,
+-118.016667
+],
+[
+30.05,
+-118.333333
+],
+[
+30.4,
+-118.866667
+],
+[
+30.666667,
+-118.933333
+],
+[
+31.033333,
+-118.616667
+]
+],
+[
+[
+29.616667,
+-118.033333
+],
+[
+29.516667,
+-117.983333
+],
+[
+29.533333,
+-118.05
+],
+[
+29.616667,
+-118.033333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-21T13:43:00.000Z",
+"start": "2026-11-21T12:30:00.000Z"
+},
+{
+"end": "2026-11-22T13:29:00.000Z",
+"start": "2026-11-22T12:16:00.000Z"
+},
+{
+"end": "2026-11-23T13:15:00.000Z",
+"start": "2026-11-23T12:02:00.000Z"
+},
+{
+"end": "2026-11-24T13:01:00.000Z",
+"start": "2026-11-24T11:48:00.000Z"
+},
+{
+"end": "2026-11-25T12:48:00.000Z",
+"start": "2026-11-25T11:35:00.000Z"
+},
+{
+"end": "2026-11-26T12:34:00.000Z",
+"start": "2026-11-26T11:21:00.000Z"
+},
+{
+"end": "2026-11-27T12:20:00.000Z",
+"start": "2026-11-27T11:07:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-58668",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-f9-nrol-136",
+"title": "NROL-136"
+}
+],
+"markers": [],
+"name": "58668",
+"page": "https://space-notices.com/notice/lnm-58668",
+"raw": "Hazardous operations will be conducted for SpaceX, NROL-136 Launch Operations. Hazardous operation areas are bounded by the following coordinates and times:\nHazard Area A: \n31.18333333N, -118.95W\n32.73333333N, -119.76666667W\n34.6N, -120.75W\n34.65N, -120.7W\n34.66666667N, -120.66666667W\n34.68333333N, -120.63333333W\n34.6N, -120.36666667W\n31.38333333N, -118.61666667W\n31.01666667N, -118.61666667W\n30.95N, -118.68333333W (TO BEGINNING)\n             \n211230Z NOV TO 211325Z NOV 2026---- (PRIMARY)\n221216Z NOV TO 221311Z NOV 2026---- (BACKUP DAY)\n231202Z NOV TO 231257Z NOV 2026---- (BACKUP DAY)\n241148Z NOV TO 241243Z NOV 2026---- (BACKUP DAY)\n251135Z NOV TO 251230Z NOV 2026---- (BACKUP DAY)\n261121Z NOV TO 261216Z NOV 2026---- (BACKUP DAY)\n271107Z NOV TO 271202Z NOV 2026---- (BACKUP DAY)\n\nHazard Area B:\n31.03333333N, -118.61666667W\n31.03333333N, -118.33333333W\n30.68333333N, -117.76666667W\n30.43333333N, -117.7W\n30.06666667N, -118.01666667W\n30.05N, -118.33333333W\n30.4N, -118.86666667W\n30.66666667N, -118.93333333W (TO BEGINNING)\n            \n211230Z NOV TO 211343Z NOV 2026---- (PRIMARY)\n221216Z NOV TO 221329Z NOV 2026---- (BACKUP DAY)\n231202Z NOV TO 231315Z NOV 2026---- (BACKUP DAY)\n241148Z NOV TO 241301Z NOV 2026---- (BACKUP DAY)\n251135Z NOV TO 251248Z NOV 2026---- (BACKUP DAY)\n261121Z NOV TO 261234Z NOV 2026---- (BACKUP DAY)\n271107Z NOV TO 271220Z NOV 2026---- (BACKUP DAY)\n\nHazard Area C:\n29.61666667N, -118.03333333W\n29.51666667N, -117.98333333W\n29.53333333N, -118.05W\n\n211230Z NOV TO 211325Z NOV 2026---- (PRIMARY)\n221216Z NOV TO 221311Z NOV 2026---- (BACKUP DAY)\n231202Z NOV TO 231257Z NOV 2026---- (BACKUP DAY)\n241148Z NOV TO 241243Z NOV 2026---- (BACKUP DAY)\n251135Z NOV TO 251230Z NOV 2026---- (BACKUP DAY)\n261121Z NOV TO 261216Z NOV 2026---- (BACKUP DAY)\n271107Z NOV TO 271202Z NOV 2026---- (BACKUP DAY)\n\nMariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16.",
+"reason": "Hazardous operations will be conducted for SpaceX NROL-136 Launch Operations",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-17T16:26:21.356Z"
+},
+"via": "entry"
 },
 "https://space-notices.com/notice/nav-warning-HYDROARC%2010%2F24": {
 "lastmod": "",
@@ -258258,7 +258578,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1488%2F26": {
-"lastmod": "2026-11-17T12:02:25.194Z",
+"lastmod": "2026-11-17T13:30:26.953Z",
 "notice": {
 "areas": [
 [
@@ -258333,9 +258653,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83116501",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-17T12:02:25.194Z"
+"updated": "2026-11-17T13:30:26.953Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NZZC-B4420%2F26": {
 "gone": "2026-09-26",
@@ -274253,7 +274573,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SCIZ-W4011%2F26": {
-"lastmod": "2026-11-17T12:02:25.194Z",
+"lastmod": "2026-11-17T14:28:34.971Z",
 "notice": {
 "areas": [
 [
@@ -274344,12 +274664,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83117351",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-17T12:02:25.194Z"
+"updated": "2026-11-17T14:28:34.971Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SCIZ-W4013%2F26": {
-"lastmod": "2026-11-16T14:32:38.026Z",
+"lastmod": "2026-11-17T14:34:23.822Z",
 "notice": {
 "areas": [
 [
@@ -274440,9 +274760,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83117546",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-16T14:32:38.026Z"
+"updated": "2026-11-17T14:34:23.822Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SMPM-A0368%2F26": {
 "lastmod": "2026-09-27T19:52:14.739Z",
@@ -295123,6 +295443,266 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-04-23T14:04:24.726Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZAK-11%2F261-26": {
+"lastmod": "2026-11-17T17:44:17.749Z",
+"notice": {
+"areas": [
+[
+[
+20.6,
+-133.65
+],
+[
+24.8667,
+-129.85
+],
+[
+27.75,
+-127.05
+],
+[
+28.65,
+-125.35
+],
+[
+28.2667,
+-124.9167
+],
+[
+27.9333,
+-123.85
+],
+[
+27.55,
+-123.4167
+],
+[
+27.1167,
+-123.3167
+],
+[
+25.5,
+-124.1667
+],
+[
+22.6167,
+-126.9
+],
+[
+18.35,
+-130.65
+],
+[
+19.3833,
+-131.9
+],
+[
+19.55,
+-132.4
+],
+[
+20.6,
+-133.65
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-20T22:55:00.000Z",
+"start": "2026-11-20T22:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-11/261-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "11/261",
+"page": "https://space-notices.com/notice/notam-ZAK-11%2F261-26",
+"raw": "!CARF 11/261 ZAK AIRSPACE DCC CRS-35 REENTRY 20 NOV ASCENDING ISS STNR ALT RESERVATION WI AN AREA DEFINED AS 203600N1333900W TO 245200N1295100W TO 274500N1270300W TO 283900N1252100W TO 281600N1245500W TO 275600N1235100W TO 273300N1232500W TO 270700N1231900W TO 253000N1241000W TO 223700N1265400W TO 182100N1303900W TO 192300N1315400W TO 193300N1322400W TO POINT OF ORIGIN SFC-UNL 2611202200-2611202255",
+"reason": "CRS-35 REENTRY 20 NOV ASCENDING ISS",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83120277",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-17T17:44:17.749Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZAK-11%2F267-26": {
+"lastmod": "2026-11-17T20:56:21.401Z",
+"notice": {
+"areas": [
+[
+[
+44.1167,
+-138.4167
+],
+[
+45.5,
+-137.35
+],
+[
+45.0,
+-135.6
+],
+[
+41.95,
+-129.3167
+],
+[
+39.6167,
+-125.3333
+],
+[
+38.1333,
+-124.05
+],
+[
+37.75,
+-123.9333
+],
+[
+37.3333,
+-124.35
+],
+[
+38.0,
+-126.4167
+],
+[
+38.95,
+-128.0833
+],
+[
+41.1833,
+-132.0833
+],
+[
+44.1167,
+-138.4167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-19T07:25:00.000Z",
+"start": "2026-11-19T06:35:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-11/267-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "11/267",
+"page": "https://space-notices.com/notice/notam-ZAK-11%2F267-26",
+"raw": "!CARF 11/267 ZAK AIRSPACE DCC CRS-35 REENTRY 19 NOV DESCENDING ISS STNR ALT RESERVATION WI AN AREA DEFINED AS 440700N1382500W TO 453000N1372100W TO 450000N1353600W TO 415700N1291900W TO 393700N1252000W TO 380800N1240300W TO 374500N1235600W TO 372000N1242100W TO 380000N1262500W TO 385700N1280500W TO 411100N1320500W TO POINT OF ORIGIN SFC-UNL 2611190635-2611190725",
+"reason": "CRS-35 REENTRY 19 NOV DESCENDING ISS",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83122355",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-17T20:56:21.401Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZAK-11%2F269-26": {
+"lastmod": "2026-11-17T21:00:33.296Z",
+"notice": {
+"areas": [
+[
+[
+44.1167,
+-138.4167
+],
+[
+45.5,
+-137.35
+],
+[
+45.0,
+-135.6
+],
+[
+41.95,
+-129.3167
+],
+[
+39.6167,
+-125.3333
+],
+[
+38.1333,
+-124.05
+],
+[
+37.75,
+-123.9333
+],
+[
+37.3333,
+-124.35
+],
+[
+38.0,
+-126.4167
+],
+[
+38.95,
+-128.0833
+],
+[
+41.1833,
+-132.0833
+],
+[
+44.1167,
+-138.4167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-20T07:00:00.000Z",
+"start": "2026-11-20T06:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZAK-11/269-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "11/269",
+"page": "https://space-notices.com/notice/notam-ZAK-11%2F269-26",
+"raw": "!CARF 11/269 ZAK AIRSPACE DCC CRS-35 REENTRY 20 NOV DESCENDING ISS STNR ALT RESERVATION WI AN AREA DEFINED AS 440700N1382500W TO 453000N1372100W TO 450000N1353600W TO 415700N1291900W TO 393700N1252000W TO 380800N1240300W TO 374500N1235600W TO 372000N1242100W TO 380000N1262500W TO 385700N1280500W TO 411100N1320500W TO POINT OF ORIGIN SFC-UNL 2611200615-2611200700",
+"reason": "CRS-35 REENTRY 20 NOV DESCENDING ISS",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83122415",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-17T21:00:33.296Z"
 },
 "via": "sitemap"
 },
@@ -318124,6 +318704,142 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZLA-11%2F245-26": {
+"lastmod": "2026-11-17T15:38:28.742Z",
+"notice": {
+"areas": [
+[
+[
+32.7167,
+-119.5167
+],
+[
+32.75,
+-119.4667
+],
+[
+33.2167,
+-119.65
+],
+[
+34.1167,
+-120.1167
+],
+[
+34.5667,
+-120.3833
+],
+[
+34.6667,
+-120.5
+],
+[
+34.65,
+-120.6333
+],
+[
+34.5333,
+-120.6333
+],
+[
+34.3333,
+-120.5333
+],
+[
+32.9,
+-119.7
+],
+[
+32.7167,
+-119.5167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-21T06:54:00.000Z",
+"start": "2026-11-21T02:32:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-11/245-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-317",
+"title": "USSF-317"
+}
+],
+"markers": [],
+"name": "11/245",
+"page": "https://space-notices.com/notice/notam-ZLA-11%2F245-26",
+"raw": "!CARF 11/245 ZLA AIRSPACE DCC SX USSF317 R-6 26-73 ADD ON DAYS STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 324300N1193100W TO 324500N1192800W TO 331300N1193900W TO 340700N1200700W TO 343400N1202300W TO 344000N1203000W TO 343900N1203800W TO 343200N1203800W TO 342000N1203200W TO 325400N1194200W TO POINT OF ORIGIN SFC-UNL 2611210232-2611210654",
+"reason": "SX USSF317 R-6 26-73 ADD ON DAYS",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83118412",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-17T15:38:28.742Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZLA-11%2F247-26": {
+"lastmod": "2026-11-17T15:38:17.777Z",
+"notice": {
+"areas": [
+[
+[
+32.45,
+-119.3833
+],
+[
+32.5,
+-119.3167
+],
+[
+31.7333,
+-118.8333
+],
+[
+31.6333,
+-119.05
+],
+[
+32.45,
+-119.3833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-21T06:56:00.000Z",
+"start": "2026-11-21T02:32:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-11/247-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-317",
+"title": "USSF-317"
+}
+],
+"markers": [],
+"name": "11/247",
+"page": "https://space-notices.com/notice/notam-ZLA-11%2F247-26",
+"raw": "!CARF 11/247 ZLA AIRSPACE DCC SX USSF317 R-6 26-73 ADD ON DAYS STNR ALT RESERVATION AREA B WI AN AREA DEFINED AS 322700N1192300W TO 323000N1191900W TO 314400N1185000W TO 313800N1190300W TO POINT OF ORIGIN SFC-UNL 2611210232-2611210656",
+"reason": "SX USSF317 R-6 26-73 ADD ON DAYS",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83118409",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-17T15:38:17.777Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-ZLHW-A0063%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -336379,6 +337095,174 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZOA-11%2F266-26": {
+"lastmod": "2026-11-17T20:56:27.470Z",
+"notice": {
+"areas": [
+[
+[
+44.1167,
+-138.4167
+],
+[
+45.5,
+-137.35
+],
+[
+45.0,
+-135.6
+],
+[
+41.95,
+-129.3167
+],
+[
+39.6167,
+-125.3333
+],
+[
+38.1333,
+-124.05
+],
+[
+37.75,
+-123.9333
+],
+[
+37.3333,
+-124.35
+],
+[
+38.0,
+-126.4167
+],
+[
+38.95,
+-128.0833
+],
+[
+41.1833,
+-132.0833
+],
+[
+44.1167,
+-138.4167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-19T07:25:00.000Z",
+"start": "2026-11-19T06:35:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZOA-11/266-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "11/266",
+"page": "https://space-notices.com/notice/notam-ZOA-11%2F266-26",
+"raw": "!CARF 11/266 ZOA AIRSPACE DCC CRS-35 REENTRY 19 NOV DESCENDING ISS STNR ALT RESERVATION WI AN AREA DEFINED AS 440700N1382500W TO 453000N1372100W TO 450000N1353600W TO 415700N1291900W TO 393700N1252000W TO 380800N1240300W TO 374500N1235600W TO 372000N1242100W TO 380000N1262500W TO 385700N1280500W TO 411100N1320500W TO POINT OF ORIGIN SFC-UNL 2611190635-2611190725",
+"reason": "CRS-35 REENTRY 19 NOV DESCENDING ISS",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83122359",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-17T20:56:27.470Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZOA-11%2F268-26": {
+"lastmod": "2026-11-17T21:00:27.751Z",
+"notice": {
+"areas": [
+[
+[
+44.1167,
+-138.4167
+],
+[
+45.5,
+-137.35
+],
+[
+45.0,
+-135.6
+],
+[
+41.95,
+-129.3167
+],
+[
+39.6167,
+-125.3333
+],
+[
+38.1333,
+-124.05
+],
+[
+37.75,
+-123.9333
+],
+[
+37.3333,
+-124.35
+],
+[
+38.0,
+-126.4167
+],
+[
+38.95,
+-128.0833
+],
+[
+41.1833,
+-132.0833
+],
+[
+44.1167,
+-138.4167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-20T07:00:00.000Z",
+"start": "2026-11-20T06:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZOA-11/268-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "11/268",
+"page": "https://space-notices.com/notice/notam-ZOA-11%2F268-26",
+"raw": "!CARF 11/268 ZOA AIRSPACE DCC CRS-35 REENTRY 20 NOV DESCENDING ISS STNR ALT RESERVATION WI AN AREA DEFINED AS 440700N1382500W TO 453000N1372100W TO 450000N1353600W TO 415700N1291900W TO 393700N1252000W TO 380800N1240300W TO 374500N1235600W TO 372000N1242100W TO 380000N1262500W TO 385700N1280500W TO 411100N1320500W TO POINT OF ORIGIN SFC-UNL 2611200615-2611200700",
+"reason": "CRS-35 REENTRY 20 NOV DESCENDING ISS",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83122408",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-17T21:00:27.751Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-ZPKM-A0660%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",
 "notice": {
@@ -348129,6 +349013,39 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/starbase-road-delay-98633da6-e12a-4318-9af6-2cb30b2ab364": {
+"lastmod": "2026-11-17T17:48:01.782Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-18T10:00:00.000Z",
+"start": "2026-11-18T05:59:00.000Z"
+}
+],
+"height": null,
+"id": "starbase-road-delay-98633da6-e12a-4318-9af6-2cb30b2ab364",
+"kind": "ROAD_DELAY",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [],
+"name": "Nov 18 Massey's -> Production",
+"page": "https://space-notices.com/notice/starbase-road-delay-98633da6-e12a-4318-9af6-2cb30b2ab364",
+"raw": "Description: Masseys to Production\nDate: November 17 11:59 PM to November 18 4:00 AM",
+"reason": "Masseys to Production",
+"source": {
+"link": "https://www.starbase.texas.gov/beach-road-access",
+"name": "City of Starbase"
+},
+"updated": "2026-11-17T17:48:01.782Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/starbase-road-delay-b0cd16c0-e74a-4139-8d30-5ee02d6b6cbf": {
 "lastmod": "2026-10-31T19:40:03.979Z",
 "notice": {
@@ -348196,7 +349113,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/starbase-road-delay-ed92e376-62ed-4643-8e90-2dc3971f70c5": {
-"lastmod": "2026-11-16T16:21:51.026Z",
+"lastmod": "2026-11-17T14:17:31.531Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -348224,9 +349141,9 @@
 "link": "https://www.starbase.texas.gov/beach-road-access",
 "name": "City of Starbase"
 },
-"updated": "2026-11-16T16:21:51.026Z"
+"updated": "2026-11-17T14:17:31.531Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/starbase-road-delay-f257b002-1c14-408d-a36d-123dd9417e5b": {
 "lastmod": "2026-10-30T13:27:01.395Z",
@@ -359658,6 +360575,1086 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-10-08T14:50:12.157Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tfr-ZLA-6%2F8293": {
+"lastmod": "2026-11-17T18:45:45.809Z",
+"notice": {
+"areas": [
+[
+[
+33.7833,
+-119.25
+],
+[
+33.75,
+-119.3
+],
+[
+33.6,
+-119.3
+],
+[
+33.55,
+-119.2333
+],
+[
+33.55,
+-119.1167
+],
+[
+33.6167,
+-119.0333
+],
+[
+33.75,
+-119.0333
+],
+[
+33.7833,
+-119.0833
+],
+[
+33.7833,
+-119.25
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-19T07:05:00.000Z",
+"start": "2026-11-19T06:45:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "tfr-ZLA-6/8293",
+"kind": "TFR",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "FDC 6/8293",
+"page": "https://space-notices.com/notice/tfr-ZLA-6%2F8293",
+"raw": "!FDC 6/8293 ZLA CA..AIRSPACE LOS ANGELES, CA.. AIRSPACE SPACE REENTRY/RECOVERY OPS ADVISORY. WI AN AREA DEFINED AS 334700N1191500W (VTU192022.2) TO 334500N1191800W (VTU195025.2) TO 333600N1191800W (VTU187033.3) TO 333300N1191400W (VTU180035.1) TO 333300N1190700W (VTU171034) TO 333700N1190200W (VTU163029.9) TO 334500N1190200W (VTU163021.9) TO 334700N1190500W (VTU170019.9) TO POINT OF ORIGIN SFC-UNL EFFECTIVE 2611190645 UTC (2245 LOCAL 11/19/26) UNTIL 2611190705 UTC (2305 LOCAL 11/19/26). SPACE OPS AREA: ACFT ADVISED TO AVOID DEFINED AREA DUE TO SPACE OPS. A. FLT LIMITATION IN THE PROXIMITY OF SPACE FLT OPS, OPS BY FAA CERT PILOTS OR U.S. REG ACFT ARE PROHIBITED WI THE DEFINED AIRSPACE. B. ACFT SUPPORTING THE RECOVERY OF THE SPACE VEHICLE ARE EXEMPT FM THIS ADVISORY. C. PILOTS MUST CONSULT ALL NOTAMS REGARDING THIS OPS AND MAY CONTACT ZLA FOR CURRENT AIRSPACE STATUS. LOS ANGELES /ZLA/ ARTCC, TEL 661-265-8205, IS THE FAA CDN FACILITY. 2611190645-2611190705EST",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83120873",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-17T18:45:45.809Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tfr-ZLA-6%2F8349": {
+"lastmod": "2026-11-17T21:05:38.757Z",
+"notice": {
+"areas": [
+[
+[
+32.7,
+-117.8
+],
+[
+32.6667,
+-117.85
+],
+[
+32.5167,
+-117.85
+],
+[
+32.4667,
+-117.7833
+],
+[
+32.4667,
+-117.6667
+],
+[
+32.5333,
+-117.5833
+],
+[
+32.6667,
+-117.5833
+],
+[
+32.7,
+-117.6333
+],
+[
+32.7,
+-117.8
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-20T06:40:00.000Z",
+"start": "2026-11-20T06:20:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "tfr-ZLA-6/8349",
+"kind": "TFR",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "FDC 6/8349",
+"page": "https://space-notices.com/notice/tfr-ZLA-6%2F8349",
+"raw": "!FDC 6/8349 ZLA CA..AIRSPACE SAN DIEGO, CA.. AIRSPACE SPACE REENTRY/RECOVERY OPS ADVISORY. WI AN AREA DEFINED AS 324200N1174800W (MZB246029.5) TO 324000N1175100W (MZB243032.4) TO 323100N1175100W (MZB228035.4) TO 322800N1174700W (MZB221034) TO 322800N1174000W (MZB215029.3) TO 323200N1173500W (MZB216023.5) TO 324000N1173500W (MZB234019.4) TO 324200N1173800W (MZB242021.2) TO THE POINT OF ORIGIN SFC-UNL EFFECTIVE 2611200620 UTC (2220 LOCAL 11/20/26) UNTIL 2611200640 UTC (2240 LOCAL 11/20/26). SPACE OPS AREA: ACFT ADVISED TO AVOID DEFINED AREA DUE TO SPACE OPS. A. FLT LIMITATION IN THE PROXIMITY OF SPACE FLT OPS, OPS BY FAA CERT PILOTS OR U.S. REG ACFT ARE PROHIBITED WI THE DEFINED AIRSPACE. B. ACFT SUPPORTING THE RECOVERY OF THE SPACE VEHICLE ARE EXEMPT FM THIS ADVISORY. C. PILOTS MUST CONSULT ALL NOTAMS REGARDING THIS OPS AND MAY CONTACT ZLA FOR CURRENT AIRSPACE STATUS. LOS ANGELES /ZLA/ ARTCC TEL 661-265-8205 IS THE CDN FACILITY. 2611200620-2611200640",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83122218",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-17T21:05:38.757Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tfr-ZLA-6%2F8350": {
+"lastmod": "2026-11-17T21:04:59.220Z",
+"notice": {
+"areas": [
+[
+[
+33.1167,
+-117.8333
+],
+[
+33.0833,
+-117.9
+],
+[
+32.9333,
+-117.9
+],
+[
+32.8833,
+-117.8333
+],
+[
+32.8833,
+-117.7167
+],
+[
+32.95,
+-117.6333
+],
+[
+33.0833,
+-117.6333
+],
+[
+33.1167,
+-117.6833
+],
+[
+33.1167,
+-117.8333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-20T22:30:00.000Z",
+"start": "2026-11-20T22:10:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "tfr-ZLA-6/8350",
+"kind": "TFR",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "FDC 6/8350",
+"page": "https://space-notices.com/notice/tfr-ZLA-6%2F8350",
+"raw": "!FDC 6/8350 ZLA CA..AIRSPACE OCEANSIDE, CA.. AIRSPACE SPACE REENTRY/RECOVERY OPS ADVISORY. WI AN AREA DEFINED AS 330700N1175000W (OCN236022.2) TO 330500N1175400W (OCN234026.1) TO 325600N1175400W (OCN218030.5) TO 325300N1175000W (OCN210030) TO 325300N1174300W (MZB269025.6) TO 325700N1173800W (OCN197020.5) TO 330500N1173800W (OCN214014.4) TO 330700N1174100W (OCN226015.3) TO POINT OF ORIGIN SFC-UNL EFFECTIVE 2611202210 UTC (1410 LOCAL 11/20/26) UNTIL 2611202230 UTC (1430 LOCAL 11/20/26). SPACE OPS AREA: ACFT ADVISED TO AVOID DEFINED AREA DUE TO SPACE OPS. A. FLT LIMITATION IN THE PROXIMITY OF SPACE FLT OPS, OPS BY FAA CERT PILOTS OR U.S. REG ACFT ARE PROHIBITED WI THE DEFINED AIRSPACE. B. ACFT SUPPORTING THE RECOVERY OF THE SPACE VEHICLE ARE EXEMPT FM THIS ADVISORY. C. PILOTS MUST CONSULT ALL NOTAMS REGARDING THIS OPS AND MAY CONTACT ZLA FOR CURRENT AIRSPACE STATUS. LOS ANGELES /ZLA/ ARTCC, TEL 661-265-8205, IS THE FAA CDN FACILITY. 2611202210-2611202230",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83122233",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-17T21:04:59.220Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tfr-ZLA-6%2F8351": {
+"lastmod": "2026-11-17T21:05:45.427Z",
+"notice": {
+"areas": [
+[
+[
+32.7,
+-117.8
+],
+[
+32.6667,
+-117.85
+],
+[
+32.5167,
+-117.85
+],
+[
+32.4667,
+-117.7833
+],
+[
+32.4667,
+-117.6667
+],
+[
+32.5333,
+-117.5833
+],
+[
+32.6667,
+-117.5833
+],
+[
+32.7,
+-117.6333
+],
+[
+32.7,
+-117.8
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-19T09:05:00.000Z",
+"start": "2026-11-19T07:05:00.000Z"
+}
+],
+"height": "5000FT",
+"id": "tfr-ZLA-6/8351",
+"kind": "TFR",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "FDC 6/8351",
+"page": "https://space-notices.com/notice/tfr-ZLA-6%2F8351",
+"raw": "!FDC 6/8351 ZLA CA..AIRSPACE SAN DIEGO, CA.. AIRSPACE SPACE REENTRY/RECOVERY OPS ADVISORY. WI AN AREA DEFINED AS 324200N1174800W (MZB246029.5) TO 324000N1175100W (MZB243032.4) TO 323100N1175100W (MZB228035.4) TO 322800N1174700W (MZB221034) TO 322800N1174000W (MZB215029.3) TO 323200N1173500W (MZB216023.5) TO 324000N1173500W (MZB234019.4) TO 324200N1173800W (MZB242021.2) TO THE POINT OF ORIGIN SFC-5000FT MSL EFFECTIVE 2611190705 UTC (2305 LOCAL 11/18/26) UNTIL 2611190905 UTC (0105 LOCAL 11/19/26). SPACE OPS AREA: ACFT ADVISED TO AVOID DEFINED AREA DUE TO SPACE OPS. A. FLT LIMITATION IN THE PROXIMITY OF SPACE FLT OPS, OPS BY FAA CERT PILOTS OR U.S. REG ACFT ARE PROHIBITED WI THE DEFINED AIRSPACE. B. ACFT SUPPORTING THE RECOVERY OF THE SPACE VEHICLE ARE EXEMPT FM THIS ADVISORY. C. PILOTS MUST CONSULT ALL NOTAMS REGARDING THIS OPS AND MAY CONTACT ZLA FOR CURRENT AIRSPACE STATUS. LOS ANGELES /ZLA/ ARTCC, TEL 661-265-8205, IS THE FAA CDN FACILITY. 2611190705-2611190905",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83122247",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-17T21:05:45.427Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tfr-ZLA-6%2F8352": {
+"lastmod": "2026-11-17T21:06:20.499Z",
+"notice": {
+"areas": [
+[
+[
+33.1167,
+-117.8333
+],
+[
+33.0833,
+-117.9
+],
+[
+32.9333,
+-117.9
+],
+[
+32.8833,
+-117.8333
+],
+[
+32.8833,
+-117.7167
+],
+[
+32.95,
+-117.6333
+],
+[
+33.0833,
+-117.6333
+],
+[
+33.1167,
+-117.6833
+],
+[
+33.1167,
+-117.8333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-19T07:00:00.000Z",
+"start": "2026-11-19T06:40:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "tfr-ZLA-6/8352",
+"kind": "TFR",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "FDC 6/8352",
+"page": "https://space-notices.com/notice/tfr-ZLA-6%2F8352",
+"raw": "!FDC 6/8352 ZLA CA..AIRSPACE OCEANSIDE, CA.. AIRSPACE SPACE REENTRY/RECOVERY OPS ADVISORY WI AN AREA DEFINED AS 330700N1175000W (OCN236022.2) TO 330500N1175400W (OCN234026.1) TO 325600N1175400W (OCN218030.5) TO 325300N1175000W (OCN210030) TO 325300N1174300W (MZB269025.6) TO 325700N1173800W (OCN197020.5) TO 330500N1173800W (OCN214014.4) TO 330700N1174100W (OCN226015.3) TO POINT OF ORIGIN SFC-UNL EFFECTIVE 2611190640 UTC (2240 LOCAL 11/19/26) UNTIL 2611190700 UTC (2300 LOCAL 11/19/26). SPACE OPS AREA: ACFT ADVISED TO AVOID DEFINED AREA DUE TO SPACE OPS. A. FLT LIMITATION IN THE PROXIMITY OF SPACE FLT OPS, OPS BY FAA CERT PILOTS OR U.S. REG ACFT ARE PROHIBITED WI THE DEFINED AIRSPACE. B. ACFT SUPPORTING THE RECOVERY OF THE SPACE VEHICLE ARE EXEMPT FM THIS ADVISORY. C. PILOTS MUST CONSULT ALL NOTAMS REGARDING THIS OPS AND MAY CONTACT ZLA FOR CURRENT AIRSPACE STATUS. LOS ANGELES /ZLA/ ARTCC, TEL 661-265-8205, IS THE FAA CDN FACILITY. 2611190640-2611190700",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83122264",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-17T21:06:20.499Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tfr-ZLA-6%2F8353": {
+"lastmod": "2026-11-17T21:06:04.901Z",
+"notice": {
+"areas": [
+[
+[
+32.7,
+-117.8
+],
+[
+32.6667,
+-117.85
+],
+[
+32.5167,
+-117.85
+],
+[
+32.4667,
+-117.7833
+],
+[
+32.4667,
+-117.6667
+],
+[
+32.5333,
+-117.5833
+],
+[
+32.6667,
+-117.5833
+],
+[
+32.7,
+-117.6333
+],
+[
+32.7,
+-117.8
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-20T08:40:00.000Z",
+"start": "2026-11-20T06:40:00.000Z"
+}
+],
+"height": "5000FT",
+"id": "tfr-ZLA-6/8353",
+"kind": "TFR",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "FDC 6/8353",
+"page": "https://space-notices.com/notice/tfr-ZLA-6%2F8353",
+"raw": "!FDC 6/8353 ZLA CA..AIRSPACE SAN DIEGO, CA.. AIRSPACE SPACE REENTRY/RECOVERY OPS ADVISORY. WI AN AREA DEFINED AS 324200N1174800W (MZB246029.5) TO 324000N1175100W (MZB243032.4) TO 323100N1175100W (MZB228035.4) TO 322800N1174700W (MZB221034) TO 322800N1174000W (MZB215029.3) TO 323200N1173500W (MZB216023.5) TO 324000N1173500W (MZB234019.4) TO 324200N1173800W (MZB242021.2) TO THE POINT OF ORIGIN SFC-5000FT MSL EFFECTIVE 2611200640 UTC (2240 LOCAL 11/19/26) UNTIL 2611200840 UTC (0040 LOCAL 11/20/26). SPACE OPS AREA: ACFT ADVISED TO AVOID DEFINED AREA DUE TO SPACE OPS. A. FLT LIMITATION IN THE PROXIMITY OF SPACE FLT OPS, OPS BY FAA CERT PILOTS OR U.S. REG ACFT ARE PROHIBITED WI THE DEFINED AIRSPACE. B. ACFT SUPPORTING THE RECOVERY OF THE SPACE VEHICLE ARE EXEMPT FM THIS ADVISORY. C. PILOTS MUST CONSULT ALL NOTAMS REGARDING THIS OPS AND MAY CONTACT ZLA FOR CURRENT AIRSPACE STATUS. LOS ANGELES /ZLA/ ARTCC, TEL 661-265-8205, IS THE FAA CDN FACILITY. 2611200640-2611200840",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83122261",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-17T21:06:04.901Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tfr-ZLA-6%2F8354": {
+"lastmod": "2026-11-17T21:06:23.527Z",
+"notice": {
+"areas": [
+[
+[
+32.7,
+-117.8
+],
+[
+32.6667,
+-117.85
+],
+[
+32.5167,
+-117.85
+],
+[
+32.4667,
+-117.7833
+],
+[
+32.4667,
+-117.6667
+],
+[
+32.5333,
+-117.5833
+],
+[
+32.6667,
+-117.5833
+],
+[
+32.7,
+-117.6333
+],
+[
+32.7,
+-117.8
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-19T07:05:00.000Z",
+"start": "2026-11-19T06:45:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "tfr-ZLA-6/8354",
+"kind": "TFR",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "FDC 6/8354",
+"page": "https://space-notices.com/notice/tfr-ZLA-6%2F8354",
+"raw": "!FDC 6/8354 ZLA CA..AIRSPACE SAN DIEGO, CA.. AIRSPACE SPACE REENTRY/RECOVERY OPS ADVISORY. WI AN AREA DEFINED AS 324200N1174800W (MZB246029.5) TO 324000N1175100W (MZB243032.4) TO 323100N1175100W (MZB228035.4) TO 322800N1174700W (MZB221034) TO 322800N1174000W (MZB215029.3) TO 323200N1173500W (MZB216023.5) TO 324000N1173500W (MZB234019.4) TO 324200N1173800W (MZB242021.2) TO THE POINT OF ORIGIN SFC-UNL EFFECTIVE 2611190645 UTC (2245 LOCAL 11/19/26) UNTIL 2611190705 UTC (2305 LOCAL 11/19/26). SPACE OPS AREA: ACFT ADVISED TO AVOID DEFINED AREA DUE TO SPACE OPS. A. FLT LIMITATION IN THE PROXIMITY OF SPACE FLT OPS, OPS BY FAA CERT PILOTS OR U.S. REG ACFT ARE PROHIBITED WI THE DEFINED AIRSPACE. B. ACFT SUPPORTING THE RECOVERY OF THE SPACE VEHICLE ARE EXEMPT FM THIS ADVISORY. C. PILOTS MUST CONSULT ALL NOTAMS REGARDING THIS OPS AND MAY CONTACT ZLA FOR CURRENT AIRSPACE STATUS. LOS ANGELES /ZLA/ ARTCC TEL 661-265-8205 IS THE CDN FACILITY. 2611190645-2611190705",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83122271",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-17T21:06:23.527Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tfr-ZLA-6%2F8355": {
+"lastmod": "2026-11-17T21:06:30.483Z",
+"notice": {
+"areas": [
+[
+[
+33.1167,
+-117.8333
+],
+[
+33.0833,
+-117.9
+],
+[
+32.9333,
+-117.9
+],
+[
+32.8833,
+-117.8333
+],
+[
+32.8833,
+-117.7167
+],
+[
+32.95,
+-117.6333
+],
+[
+33.0833,
+-117.6333
+],
+[
+33.1167,
+-117.6833
+],
+[
+33.1167,
+-117.8333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-19T09:00:00.000Z",
+"start": "2026-11-19T07:00:00.000Z"
+}
+],
+"height": "5000FT",
+"id": "tfr-ZLA-6/8355",
+"kind": "TFR",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "FDC 6/8355",
+"page": "https://space-notices.com/notice/tfr-ZLA-6%2F8355",
+"raw": "!FDC 6/8355 ZLA CA..AIRSPACE OCEANSIDE, CA.. AIRSPACE SPACE REENTRY/RECOVERY OPS ADVISORY WI AN AREA DEFINED AS 330700N1175000W (OCN236022.2) TO 330500N1175400W (OCN234026.1) TO 325600N1175400W (OCN218030.5) TO 325300N1175000W (OCN210030) TO 325300N1174300W (MZB269025.6) TO 325700N1173800W (OCN197020.5) TO 330500N1173800W (OCN214014.4) TO 330700N1174100W (OCN226015.3) TO POINT OF ORIGIN SFC-5000FT MSL EFFECTIVE 2611190700 UTC (2300 LOCAL 11/18/26) UNTIL 2611190900 UTC (0100 LOCAL 11/19/26). SPACE OPS AREA: ACFT ADVISED TO AVOID DEFINED AREA DUE TO SPACE OPS. A. FLT LIMITATION IN THE PROXIMITY OF SPACE FLT OPS, OPS BY FAA CERT PILOTS OR U.S. REG ACFT ARE PROHIBITED WI THE DEFINED AIRSPACE. B. ACFT SUPPORTING THE RECOVERY OF THE SPACE VEHICLE ARE EXEMPT FM THIS ADVISORY. C. PILOTS MUST CONSULT ALL NOTAMS REGARDING THIS OPS AND MAY CONTACT ZLA FOR CURRENT AIRSPACE STATUS. LOS ANGELES /ZLA/ ARTCC, TEL 661-265-8205, IS THE FAA CDN FACILITY. 2611190700-2611190900",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83122269",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-17T21:06:30.483Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tfr-ZLA-6%2F8356": {
+"lastmod": "2026-11-17T21:05:51.021Z",
+"notice": {
+"areas": [
+[
+[
+33.7833,
+-119.25
+],
+[
+33.75,
+-119.3
+],
+[
+33.6,
+-119.3
+],
+[
+33.55,
+-119.2333
+],
+[
+33.55,
+-119.1167
+],
+[
+33.6167,
+-119.0333
+],
+[
+33.75,
+-119.0333
+],
+[
+33.7833,
+-119.0833
+],
+[
+33.7833,
+-119.25
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-19T09:05:00.000Z",
+"start": "2026-11-19T07:05:00.000Z"
+}
+],
+"height": "5000FT",
+"id": "tfr-ZLA-6/8356",
+"kind": "TFR",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "FDC 6/8356",
+"page": "https://space-notices.com/notice/tfr-ZLA-6%2F8356",
+"raw": "!FDC 6/8356 ZLA CA..AIRSPACE LOS ANGELES, CA.. AIRSPACE SPACE REENTRY/RECOVERY OPS ADVISORY WI AN AREA DEFINED AS 334700N1191500W (VTU192022.2) TO 334500N1191800W (VTU195025.2) TO 333600N1191800W (VTU187033.3) TO 333300N1191400W (VTU180035.1) TO 333300N1190700W (VTU171034) TO 333700N1190200W (VTU163029.9) TO 334500N1190200W (VTU163021.9) TO 334700N1190500W (VTU170019.9) TO POINT OF ORIGIN SFC-5000FT MSL EFFECTIVE 2611190705 UTC (2305 LOCAL 11/18/26) UNTIL 2611190905 UTC (0105 LOCAL 11/19/26). SPACE OPS AREA: ACFT ADVISED TO AVOID DEFINED AREA DUE TO SPACE OPS. A. FLT LIMITATION IN THE PROXIMITY OF SPACE FLT OPS, OPS BY FAA CERT PILOTS OR U.S. REG ACFT ARE PROHIBITED WI THE DEFINED AIRSPACE. B. ACFT SUPPORTING THE RECOVERY OF THE SPACE VEHICLE ARE EXEMPT FM THIS ADVISORY. C. PILOTS MUST CONSULT ALL NOTAMS REGARDING THIS OPS AND MAY CONTACT ZLA FOR CURRENT AIRSPACE STATUS. LOS ANGELES /ZLA/ ARTCC, TEL 661-265-8205, IS THE FAA CDN FACILITY. 2611190705-2611190905",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83122291",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-17T21:05:51.021Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tfr-ZLA-6%2F8357": {
+"lastmod": "2026-11-17T21:04:50.048Z",
+"notice": {
+"areas": [
+[
+[
+33.7833,
+-119.25
+],
+[
+33.75,
+-119.3
+],
+[
+33.6,
+-119.3
+],
+[
+33.55,
+-119.2333
+],
+[
+33.55,
+-119.1167
+],
+[
+33.6167,
+-119.0333
+],
+[
+33.75,
+-119.0333
+],
+[
+33.7833,
+-119.0833
+],
+[
+33.7833,
+-119.25
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-21T00:35:00.000Z",
+"start": "2026-11-20T22:35:00.000Z"
+}
+],
+"height": "5000FT",
+"id": "tfr-ZLA-6/8357",
+"kind": "TFR",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "FDC 6/8357",
+"page": "https://space-notices.com/notice/tfr-ZLA-6%2F8357",
+"raw": "!FDC 6/8357 ZLA CA..AIRSPACE LOS ANGELES, CA.. AIRSPACE SPACE REENTRY/RECOVERY OPS ADVISORY. WI AN AREA DEFINED AS 334700N1191500W (VTU192022.2) TO 334500N1191800W (VTU195025.2) TO 333600N1191800W (VTU187033.3) TO 333300N1191400W (VTU180035.1) TO 333300N1190700W (VTU171034) TO 333700N1190200W (VTU163029.9) TO 334500N1190200W (VTU163021.9) TO 334700N1190500W (VTU170019.9) TO POINT OF ORIGIN SFC-5000FT MSL EFFECTIVE 2611202235 UTC (1435 LOCAL 11/20/26) UNTIL 2611210035 UTC (1635 LOCAL 11/20/26). SPACE OPS AREA: ACFT ADVISED TO AVOID DEFINED AREA DUE TO SPACE OPS. A. FLT LIMITATION IN THE PROXIMITY OF SPACE FLT OPS, OPS BY FAA CERT PILOTS OR U.S. REG ACFT ARE PROHIBITED WI THE DEFINED AIRSPACE. B. ACFT SUPPORTING THE RECOVERY OF THE SPACE VEHICLE ARE EXEMPT FM THIS ADVISORY. C. PILOTS MUST CONSULT ALL NOTAMS REGARDING THIS OPS AND MAY CONTACT ZLA FOR CURRENT AIRSPACE STATUS. LOS ANGELES /ZLA/ ARTCC, TEL 661-265-8205, IS THE FAA CDN FACILITY. 2611202235-2611210035",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83122288",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-17T21:04:50.048Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tfr-ZLA-6%2F8364": {
+"lastmod": "2026-11-17T21:05:55.776Z",
+"notice": {
+"areas": [
+[
+[
+33.1167,
+-117.8333
+],
+[
+33.0833,
+-117.9
+],
+[
+32.9333,
+-117.9
+],
+[
+32.8833,
+-117.8333
+],
+[
+32.8833,
+-117.7167
+],
+[
+32.95,
+-117.6333
+],
+[
+33.0833,
+-117.6333
+],
+[
+33.1167,
+-117.6833
+],
+[
+33.1167,
+-117.8333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-20T06:40:00.000Z",
+"start": "2026-11-20T06:20:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "tfr-ZLA-6/8364",
+"kind": "TFR",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "FDC 6/8364",
+"page": "https://space-notices.com/notice/tfr-ZLA-6%2F8364",
+"raw": "!FDC 6/8364 ZLA CA..AIRSPACE OCEANSIDE, CA.. AIRSPACE SPACE REENTRY/RECOVERY OPS ADVISORY WI AN AREA DEFINED AS 330700N1175000W (OCN236022.2) TO 330500N1175400W (OCN234026.1) TO 325600N1175400W (OCN218030.5) TO 325300N1175000W (OCN210030) TO 325300N1174300W (MZB269025.6) TO 325700N1173800W (OCN197020.5) TO 330500N1173800W (OCN214014.4) TO 330700N1174100W (OCN226015.3) TO POINT OF ORIGIN SFC-UNL EFFECTIVE 2611200620 UTC (2220 LOCAL 11/20/26) UNTIL 261120640 UTC (2240 LOCAL 11/20/26). SPACE OPS AREA: ACFT ADVISED TO AVOID DEFINED AREA DUE TO SPACE OPS. A. FLT LIMITATION IN THE PROXIMITY OF SPACE FLT OPS, OPS BY FAA CERT PILOTS OR U.S. REG ACFT ARE PROHIBITED WI THE DEFINED AIRSPACE. B. ACFT SUPPORTING THE RECOVERY OF THE SPACE VEHICLE ARE EXEMPT FM THIS ADVISORY. C. PILOTS MUST CONSULT ALL NOTAMS REGARDING THIS OPS AND MAY CONTACT ZLA FOR CURRENT AIRSPACE STATUS. LOS ANGELES /ZLA/ ARTCC, TEL 661-265-8205, IS THE FAA CDN FACILITY. 2611200620-2611200640",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83122312",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-17T21:05:55.776Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tfr-ZLA-6%2F8368": {
+"lastmod": "2026-11-17T21:04:53.495Z",
+"notice": {
+"areas": [
+[
+[
+32.7,
+-117.8
+],
+[
+32.6667,
+-117.85
+],
+[
+32.5167,
+-117.85
+],
+[
+32.4667,
+-117.7833
+],
+[
+32.4667,
+-117.6667
+],
+[
+32.5333,
+-117.5833
+],
+[
+32.6667,
+-117.5833
+],
+[
+32.7,
+-117.6333
+],
+[
+32.7,
+-117.8
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-21T00:25:00.000Z",
+"start": "2026-11-20T22:25:00.000Z"
+}
+],
+"height": "5000FT",
+"id": "tfr-ZLA-6/8368",
+"kind": "TFR",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "FDC 6/8368",
+"page": "https://space-notices.com/notice/tfr-ZLA-6%2F8368",
+"raw": "!FDC 6/8368 ZLA CA..AIRSPACE SAN DIEGO, CA.. AIRSPACE SPACE REENTRY/RECOVERY OPS ADVISORY. WI AN AREA DEFINED AS 324200N1174800W (MZB246029.5) TO 324000N1175100W (MZB243032.4) TO 323100N1175100W (MZB228035.4) TO 322800N1174700W (MZB221034) TO 322800N1174000W (MZB215029.3) TO 323200N1173500W (MZB216023.5) TO 324000N1173500W (MZB234019.4) TO 324200N1173800W (MZB242021.2) TO THE POINT OF ORIGIN SFC-5000FT MSL EFFECTIVE 2611202225 UTC (1425 LOCAL 11/20/26) UNTIL 2611210025 UTC (1625 LOCAL 11/20/26). SPACE OPS AREA: ACFT ADVISED TO AVOID DEFINED AREA DUE TO SPACE OPS. A. FLT LIMITATION IN THE PROXIMITY OF SPACE FLT OPS, OPS BY FAA CERT PILOTS OR U.S. REG ACFT ARE PROHIBITED WI THE DEFINED AIRSPACE. B. ACFT SUPPORTING THE RECOVERY OF THE SPACE VEHICLE ARE EXEMPT FM THIS ADVISORY. C. PILOTS MUST CONSULT ALL NOTAMS REGARDING THIS OPS AND MAY CONTACT ZLA FOR CURRENT AIRSPACE STATUS. LOS ANGELES /ZLA/ ARTCC, TEL 661-265-8205, IS THE FAA CDN FACILITY. 2611202225-2611210025",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83122307",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-17T21:04:53.495Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tfr-ZLA-6%2F8372": {
+"lastmod": "2026-11-17T21:05:03.637Z",
+"notice": {
+"areas": [
+[
+[
+33.1167,
+-117.8333
+],
+[
+33.0833,
+-117.9
+],
+[
+32.9333,
+-117.9
+],
+[
+32.8833,
+-117.8333
+],
+[
+32.8833,
+-117.7167
+],
+[
+32.95,
+-117.6333
+],
+[
+33.0833,
+-117.6333
+],
+[
+33.1167,
+-117.6833
+],
+[
+33.1167,
+-117.8333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-21T00:30:00.000Z",
+"start": "2026-11-20T22:30:00.000Z"
+}
+],
+"height": "5000FT",
+"id": "tfr-ZLA-6/8372",
+"kind": "TFR",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "FDC 6/8372",
+"page": "https://space-notices.com/notice/tfr-ZLA-6%2F8372",
+"raw": "!FDC 6/8372 ZLA CA..AIRSPACE OCEANSIDE, CA.. AIRSPACE SPACE REENTRY/RECOVERY OPS ADVISORY. WI AN AREA DEFINED AS 330700N1175000W (OCN236022.2) TO 330500N1175400W (OCN234026.1) TO 325600N1175400W (OCN218030.5) TO 325300N1175000W (OCN210030) TO 325300N1174300W (MZB269025.6) TO 325700N1173800W (OCN197020.5) TO 330500N1173800W (OCN214014.4) TO 330700N1174100W (OCN226015.3) TO POINT OF ORIGIN SFC-5000FT MSL EFFECTIVE 2611202230 UTC (1430 LOCAL 11/20/26) UNTIL 2611210030 UTC (1630 LOCAL 11/20/26). SPACE OPS AREA: ACFT ADVISED TO AVOID DEFINED AREA DUE TO SPACE OPS. A. FLT LIMITATION IN THE PROXIMITY OF SPACE FLT OPS, OPS BY FAA CERT PILOTS OR U.S. REG ACFT ARE PROHIBITED WI THE DEFINED AIRSPACE. B. ACFT SUPPORTING THE RECOVERY OF THE SPACE VEHICLE ARE EXEMPT FM THIS ADVISORY. C. PILOTS MUST CONSULT ALL NOTAMS REGARDING THIS OPS AND MAY CONTACT ZLA FOR CURRENT AIRSPACE STATUS. LOS ANGELES /ZLA/ ARTCC, TEL 661-265-8205, IS THE FAA CDN FACILITY. 2611202230-2611210030",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83122321",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-17T21:05:03.637Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tfr-ZLA-6%2F8376": {
+"lastmod": "2026-11-17T21:06:02.007Z",
+"notice": {
+"areas": [
+[
+[
+33.1167,
+-117.8333
+],
+[
+33.0833,
+-117.9
+],
+[
+32.9333,
+-117.9
+],
+[
+32.8833,
+-117.8333
+],
+[
+32.8833,
+-117.7167
+],
+[
+32.95,
+-117.6333
+],
+[
+33.0833,
+-117.6333
+],
+[
+33.1167,
+-117.6833
+],
+[
+33.1167,
+-117.8333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-20T08:40:00.000Z",
+"start": "2026-11-20T06:40:00.000Z"
+}
+],
+"height": "5000FT",
+"id": "tfr-ZLA-6/8376",
+"kind": "TFR",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "FDC 6/8376",
+"page": "https://space-notices.com/notice/tfr-ZLA-6%2F8376",
+"raw": "!FDC 6/8376 ZLA CA..AIRSPACE OCEANSIDE, CA.. AIRSPACE SPACE REENTRY/RECOVERY OPS ADVISORY WI AN AREA DEFINED AS 330700N1175000W (OCN236022.2) TO 330500N1175400W (OCN234026.1) TO 325600N1175400W (OCN218030.5) TO 325300N1175000W (OCN210030) TO 325300N1174300W (MZB269025.6) TO 325700N1173800W (OCN197020.5) TO 330500N1173800W (OCN214014.4) TO 330700N1174100W (OCN226015.3) TO POINT OF ORIGIN SFC-5000FT MSL EFFECTIVE 2611200640 UTC (2240 LOCAL 11/19/26) UNTIL 2611200840 UTC (0040 LOCAL 11/20/26). SPACE OPS AREA: ACFT ADVISED TO AVOID DEFINED AREA DUE TO SPACE OPS. A. FLT LIMITATION IN THE PROXIMITY OF SPACE FLT OPS, OPS BY FAA CERT PILOTS OR U.S. REG ACFT ARE PROHIBITED WI THE DEFINED AIRSPACE. B. ACFT SUPPORTING THE RECOVERY OF THE SPACE VEHICLE ARE EXEMPT FM THIS ADVISORY. C. PILOTS MUST CONSULT ALL NOTAMS REGARDING THIS OPS AND MAY CONTACT ZLA FOR CURRENT AIRSPACE STATUS. LOS ANGELES /ZLA/ ARTCC, TEL 661-265-8205, IS THE FAA CDN FACILITY. 2611200640-2611200840",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83122318",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-17T21:06:02.007Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tfr-ZLA-6%2F8377": {
+"lastmod": "2026-11-17T21:04:56.722Z",
+"notice": {
+"areas": [
+[
+[
+33.7833,
+-119.25
+],
+[
+33.75,
+-119.3
+],
+[
+33.6,
+-119.3
+],
+[
+33.55,
+-119.2333
+],
+[
+33.55,
+-119.1167
+],
+[
+33.6167,
+-119.0333
+],
+[
+33.75,
+-119.0333
+],
+[
+33.7833,
+-119.0833
+],
+[
+33.7833,
+-119.25
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-20T22:35:00.000Z",
+"start": "2026-11-20T22:15:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "tfr-ZLA-6/8377",
+"kind": "TFR",
+"launches": [
+{
+"id": "other-crs-35-splashdown",
+"title": "SpaceX CRS-35"
+}
+],
+"markers": [],
+"name": "FDC 6/8377",
+"page": "https://space-notices.com/notice/tfr-ZLA-6%2F8377",
+"raw": "!FDC 6/8377 ZLA CA..AIRSPACE LOS ANGELES, CA.. AIRSPACE SPACE REENTRY/RECOVERY OPS ADVISORY WI AN AREA DEFINED AS 334700N1191500W (VTU192022.2) TO 334500N1191800W (VTU195025.2) TO 333600N1191800W (VTU187033.3) TO 333300N1191400W (VTU180035.1) TO 333300N1190700W (VTU171034) TO 333700N1190200W (VTU163029.9) TO 334500N1190200W (VTU163021.9) TO 334700N1190500W (VTU170019.9) TO POINT OF ORIGIN SFC-UNL EFFECTIVE 2611202215 UTC (1415 LOCAL 11/20/26) UNTIL 2611202235 UTC (1435 LOCAL 11/20/26). SPACE OPS AREA: ACFT ADVISED TO AVOID DEFINED AREA DUE TO SPACE OPS. A. FLT LIMITATION IN THE PROXIMITY OF SPACE FLT OPS, OPS BY FAA CERT PILOTS OR U.S. REG ACFT ARE PROHIBITED WI THE DEFINED AIRSPACE. B. ACFT SUPPORTING THE RECOVERY OF THE SPACE VEHICLE ARE EXEMPT FM THIS ADVISORY. C. PILOTS MUST CONSULT ALL NOTAMS REGARDING THIS OPS AND MAY CONTACT ZLA FOR CURRENT AIRSPACE STATUS. LOS ANGELES /ZLA/ ARTCC, TEL 661-265-8205, IS THE FAA CDN FACILITY. 2611202215-2611202235",
+"reason": "SPACE OPS AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83122336",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-17T21:04:56.722Z"
 },
 "via": "sitemap"
 },
