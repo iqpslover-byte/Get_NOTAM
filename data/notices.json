@@ -1,6 +1,6 @@
 {
-"count": 487,
-"generated_utc": "2026-11-17T23:11:00Z",
+"count": 488,
+"generated_utc": "2026-11-18T04:43:56Z",
 "notices": [
 {
 "areas": [
@@ -29940,7 +29940,7 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-17T16:26:21.356Z"
+"updated": "2026-11-17T21:36:22.148Z"
 },
 {
 "areas": [],
@@ -30149,7 +30149,141 @@
 "link": "https://www.navcen.uscg.gov/msi",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-17T16:26:21.356Z"
+"updated": "2026-11-17T21:16:33.132Z"
+},
+{
+"areas": [
+[
+[
+31.75,
+-118.8
+],
+[
+31.3833,
+-118.6333
+],
+[
+31.0333,
+-118.6167
+],
+[
+31.0333,
+-118.3333
+],
+[
+30.6833,
+-117.7667
+],
+[
+30.4333,
+-117.7
+],
+[
+30.0667,
+-118.0167
+],
+[
+30.05,
+-118.3333
+],
+[
+30.4,
+-118.8667
+],
+[
+30.6667,
+-118.9333
+],
+[
+30.9333,
+-118.7
+],
+[
+31.1667,
+-118.95
+],
+[
+31.5667,
+-119.1833
+],
+[
+31.75,
+-118.8
+]
+],
+[
+[
+29.4833,
+-117.9833
+],
+[
+29.4833,
+-118.0167
+],
+[
+29.6,
+-118.0667
+],
+[
+29.6167,
+-118.0667
+],
+[
+29.6333,
+-118.05
+],
+[
+29.4833,
+-117.9833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-21T13:43:00.000Z",
+"start": "2026-11-21T12:30:00.000Z"
+},
+{
+"end": "2026-11-22T13:29:00.000Z",
+"start": "2026-11-22T12:16:00.000Z"
+},
+{
+"end": "2026-11-23T13:15:00.000Z",
+"start": "2026-11-23T12:02:00.000Z"
+},
+{
+"end": "2026-11-24T13:01:00.000Z",
+"start": "2026-11-24T11:48:00.000Z"
+},
+{
+"end": "2026-11-26T12:34:00.000Z",
+"start": "2026-11-26T11:21:00.000Z"
+},
+{
+"end": "2026-11-27T12:20:00.000Z",
+"start": "2026-11-27T11:07:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MMFR-B4576/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-nrol-136",
+"title": "NROL-136"
+}
+],
+"markers": [],
+"name": "B4576/26",
+"page": "https://space-notices.com/notice/notam-MMFR-B4576%2F26",
+"raw": "B4576/26 NOTAMN\r\r\nQ) MMFR/QRDCA/IV/BO/W/000/999/\r\r\nA) MMFR\r\r\nB) 2611211230\r\r\nC) 2611271220\r\r\nD) 21 1230-1343, 22 1216-1329, 23 1202- 1315, 24 1148-1301, 25\r\r\n   1335-1248, 26 1121-1234, 27 1107-1220\r\r\nE) DANGEROUS AREA FOR ROCKET LAUNCH SPACEX NROL-136 STAGE 1\r\r\n   LATERAL LIMIT AREA FORMED BY THE UNION OF THE FLW POINTS: \r\r\n   AREA-1:\r\r\n    3145N 11848W - 3123N 11838W - 3102N 11837W - 3102N 11820W - \r\r\n   3041N 11746W - 3026N 11742W - 3004N 11801W - 3003N 11820W - 3024N\r\r\n   11852W - 3040N 11856W - 3056N 11842W - 3110N 11857W - 3134N 11911W -\r\r\n   3145N 11848W\r\r\n   AREA-2:\r\r\n   2929N 11759W - 2929N 11801W - 2936N 11804W - 2937N 11804W - \r\r\n   2938N 11803W - 2929N 11759W\r\r\n   FIR MEXICO MMFR\r\r\nF) SFC\r\r\nG) UNL",
+"reason": "DANGEROUS AREA FOR ROCKET LAUNCH SPACEX NROL-136 STAGE 1",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83124148",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-18T00:08:26.676Z"
 },
 {
 "areas": [
@@ -37955,5 +38089,5 @@
 "pending": 10,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3666
+"total_known": 3667
 }
