@@ -1,6 +1,6 @@
 {
-"count": 515,
-"generated_utc": "2026-11-18T22:23:32Z",
+"count": 516,
+"generated_utc": "2026-11-19T03:52:33Z",
 "notices": [
 {
 "areas": [
@@ -24838,6 +24838,35 @@
 "updated": "2026-11-17T21:06:02.007Z"
 },
 {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-20T10:00:00.000Z",
+"start": "2026-11-20T05:59:00.000Z"
+}
+],
+"height": null,
+"id": "starbase-road-delay-727b353e-ce4a-4cb9-bcee-c9ee1db2c755",
+"kind": "ROAD_DELAY",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [],
+"name": "Nov 20 Production -> Massey's",
+"page": "https://space-notices.com/notice/starbase-road-delay-727b353e-ce4a-4cb9-bcee-c9ee1db2c755",
+"raw": "Description: Production to Masseys\nDate: November 19 11:59 PM to November 20 4:00 AM",
+"reason": "Production to Masseys",
+"source": {
+"link": "https://www.starbase.texas.gov/beach-road-access",
+"name": "City of Starbase"
+},
+"updated": "2026-11-19T01:36:01.726Z"
+},
+{
 "areas": [
 [
 [
@@ -27931,7 +27960,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83136550",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-18T19:56:19.172Z"
+"updated": "2026-11-18T21:59:22.005Z"
 },
 {
 "areas": [
@@ -27999,7 +28028,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83136667",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-18T19:56:19.172Z"
+"updated": "2026-11-18T21:59:40.020Z"
 },
 {
 "areas": [
@@ -28067,7 +28096,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83136707",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-18T19:56:19.172Z"
+"updated": "2026-11-18T21:59:34.607Z"
 },
 {
 "areas": [
@@ -28263,7 +28292,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83136685",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-18T19:56:19.172Z"
+"updated": "2026-11-18T21:55:35.043Z"
 },
 {
 "areas": [
@@ -28331,7 +28360,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83136675",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-18T19:56:19.172Z"
+"updated": "2026-11-18T21:55:17.464Z"
 },
 {
 "areas": [
@@ -28399,7 +28428,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83136731",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-18T19:56:19.172Z"
+"updated": "2026-11-18T21:55:23.971Z"
 },
 {
 "areas": [
@@ -29043,7 +29072,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83136670",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-18T19:56:19.172Z"
+"updated": "2026-11-18T21:55:12.500Z"
 },
 {
 "areas": [
@@ -29339,7 +29368,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83136756",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-18T19:56:19.172Z"
+"updated": "2026-11-18T21:55:08.136Z"
 },
 {
 "areas": [
@@ -40478,5 +40507,5 @@
 "pending": 12,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3695
+"total_known": 3696
 }
