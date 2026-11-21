@@ -1,5 +1,5 @@
 {
-"count": 3122,
+"count": 3116,
 "notices": [
 {
 "areas": [
@@ -264951,330 +264951,6 @@
 "areas": [
 [
 [
-40.25,
-100.0
-],
-[
-40.2167,
-100.3667
-],
-[
-39.6167,
-100.2333
-],
-[
-39.6667,
-99.8833
-],
-[
-40.25,
-100.0
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-11-06T23:50:00.000Z",
-"start": "2026-11-06T23:28:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLHW-A5672/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-ceres-2-unknown-payload-e91d1da2",
-"title": "Unknown Payload"
-}
-],
-"markers": [],
-"name": "A5672/26",
-"page": "https://space-notices.com/notice/notam-ZLHW-A5672%2F26",
-"raw": "A5672/26 NOTAMN\r\nQ)ZLHW/QRDCA/IV/BO/W/000/999/3956N10007E020\r\nA)ZLHW B)2611062328 C)2611062350 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED \r\nBY:N401500E1000000-N401300E1002200-N393700E1001400-N394000E0995300,\r\nVERTICAL LIMITS:SFC-UNL.CIVIL ACFT ARE FORBIDDEN TO FLY INTO THE \r\nAREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82945881",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-11-02T12:36:30.470Z"
-},
-{
-"areas": [
-[
-[
-30.7667,
-97.65
-],
-[
-30.8333,
-97.3
-],
-[
-32.05,
-97.6
-],
-[
-31.9833,
-97.95
-],
-[
-30.7667,
-97.65
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-11-06T23:57:00.000Z",
-"start": "2026-11-06T23:29:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLHW-A5673/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-ceres-2-unknown-payload-e91d1da2",
-"title": "Unknown Payload"
-}
-],
-"markers": [],
-"name": "A5673/26",
-"page": "https://space-notices.com/notice/notam-ZLHW-A5673%2F26",
-"raw": "A5673/26 NOTAMN\r\nQ)ZXXX/QRDCA/IV/BO/W/000/999/3124N09737E039\r\nA)ZLHW ZPKM B)2611062329 C)2611062357 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED \r\nBY:N304600E0973900-N305000E0971800-N320300E0973600-N315900E0975700,\r\nVERTICAL LIMITS:SFC-UNL.CIVIL ACFT ARE FORBIDDEN TO FLY INTO THE \r\nAREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA ESTABLISHED",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82945879",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-11-02T12:36:37.274Z"
-},
-{
-"areas": [
-[
-[
-0.9167,
-90.05
-],
-[
-0.6,
-91.6
-],
-[
--2.0,
-91.0833
-],
-[
--2.0,
-89.4667
-],
-[
-0.9167,
-90.05
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-11-07T00:10:00.000Z",
-"start": "2026-11-06T23:31:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-VCCF-A0582/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-ceres-2-unknown-payload-e91d1da2",
-"title": "Unknown Payload"
-}
-],
-"markers": [],
-"name": "A0582/26",
-"page": "https://space-notices.com/notice/notam-VCCF-A0582%2F26",
-"raw": "A0582/26 NOTAMN \r\nQ)VCCF/QRDCA/IV/BO/W/000/999/0041S09032E101\r\nA)VCCF B)2611062331 C)2611070010\r\nE)IN VIEW OF DNG ZONE DECLARED BY CAA CHINA DUE TO AEROSPACE FLT\r\nACTIVITY, FLW AREA WI COLOMBO FIR BOUNDED BY GIVEN COORD DECLARED AS\r\nA TEMPO DNG AREA.\r\n005535N 0900321E-003637N 0913629E-020000S 0910520E-020000S 0892810E-\r\n005535N 0900321E\r\nDRG THIS PERIOD FLW ATS RTE SEGMENTS ARE NOT AVBL IN COLOMBO FIR.\r\n01. L897 NOT AVBL BTN &apos;MATLU&apos; AND &apos;KETIV&apos;\r\n02. N628 NOT AVBL BTN &apos;BASEV&apos; AND &apos;KETIV&apos;\r\n03. L774 NOT AVBL BTN &apos;ELATI&apos; AND &apos;KETIV&apos;\r\n04. N640 NOT AVBL BTN &apos;BASEV&apos; AND &apos;ELATI&apos;\r\nF)SFC G)UNL",
-"reason": "IN VIEW OF DNG ZONE DECLARED BY CAA CHINA DUE TO AEROSPACE FLT ACTIVITY",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82950704",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-11-02T14:06:18.909Z"
-},
-{
-"areas": [
-[
-[
--8.4833,
-89.5
-],
-[
--8.2667,
-88.6167
-],
-[
--2.0,
-89.8333
-],
-[
--2.0,
-90.6
-],
-[
--2.0,
-90.75
-],
-[
--8.4833,
-89.5
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-11-07T00:10:00.000Z",
-"start": "2026-11-06T23:31:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-YMMM-E4059/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-ceres-2-unknown-payload-e91d1da2",
-"title": "Unknown Payload"
-}
-],
-"markers": [],
-"name": "E4059/26",
-"page": "https://space-notices.com/notice/notam-YMMM-E4059%2F26",
-"raw": "E4059/26 NOTAMN\r\nQ) YMMM/QRDCA/IV/BO/W/000/999/0512S08951E200\r\nA) YMMM\r\nB) 2611062331 C) 2611070010\r\nD) DAILY 2331-0010\r\nE) TEMPO DANGER AREA ACT\r\nDUE CHINESE AEROSPACE FLIGHT ACTIVITIES WILL TAKE PLACE\r\nFLW RECEIVED FM CIVIL AVIATION ADMINISTRATION OF CHINA:\r\nTHE FLIGHT SAFETY OF ACFT MAY BE AFFECTED IN THE FOLLOWING &apos;AREA PH&apos;\r\nBOUNDED BY 082930S 0893021E - 081617S 0883700E - 020000S 0895007E -\r\n020000S 0903600E - 020000S 0904500E - 082930S 0893021E TO BEGINNING.\r\nF) SFC G) UNL",
-"reason": "CHINESE AEROSPACE FLIGHT ACTIVITIES",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82947127",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-11-02T10:12:39.375Z"
-},
-{
-"areas": [
-[
-[
--2.0,
-89.8333
-],
-[
--2.0,
-90.6
-],
-[
--2.0,
-90.75
-],
-[
--8.45,
-89.4667
-],
-[
--8.2833,
-88.55
-],
-[
--2.0,
-89.8333
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-11-07T00:10:00.000Z",
-"start": "2026-11-06T23:31:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-YMMM-E4164/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-ceres-2-unknown-payload-e91d1da2",
-"title": "Unknown Payload"
-}
-],
-"markers": [],
-"name": "E4164/26",
-"page": "https://space-notices.com/notice/notam-YMMM-E4164%2F26",
-"raw": "E4164/26 NOTAMN\r\nQ) YMMM/QRDCA/IV/BO/W/000/999/0509S08939E210\r\nA) YMMM\r\nB) 2611062331 C) 2611070010\r\nE) TEMPO DANGER AREA ACT\r\nDUE CHINESE AEROSPACE FLIGHT ACTIVITIES WILL TAKE PLACE\r\nFLW RECEIVED FM CIVIL AVIATION ADMINISTRATION OF CHINA:\r\nTHE FLIGHT SAFETY OF ACFT MAY BE AFFECTED IN THE FOLLOWING &apos;AREA PH&apos;\r\nBOUNDED BY 020000S 0895007E - 020000S 0903600E - 020000S 0904500E -\r\n082700S 0892800E - 081700S 0883300E TO BEGINNING\r\nF) SFC G) UNL",
-"reason": "CHINESE AEROSPACE FLIGHT ACTIVITIES",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83004514",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-11-06T10:29:45.143Z"
-},
-{
-"areas": [
-[
-[
-5.9167,
-90.05
-],
-[
-0.6,
-91.6
-],
-[
--2.0,
-91.0833
-],
-[
--2.0,
-89.4667
-],
-[
-0.9167,
-90.05
-],
-[
-5.9167,
-90.05
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-11-07T01:00:00.000Z",
-"start": "2026-11-06T23:31:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-VCCF-A0580/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-ceres-2-unknown-payload-e91d1da2",
-"title": "Unknown Payload"
-}
-],
-"markers": [],
-"name": "A0580/26",
-"page": "https://space-notices.com/notice/notam-VCCF-A0580%2F26",
-"raw": "A0580/26 NOTAMN \r\nQ)VCCF/QRDCA/IV/BO/W/000/999/0041S09032E101\r\nA)VCCF B)2611062331 C)2611070100\r\nE)IN VIEW OF DNG ZONE DECLARED BY CAA CHINA DUE TO AEROSPACE FLT\r\nACTIVITY, FLW AREA WI COLOMBO FIR BOUNDED BY GIVEN COORD DECLARED AS\r\nA TEMPO DNG AREA.\r\n0055535N 0900321E-003637N 0913629E-020000S 0910520E-020000S 0892810E-\r\n005535N 0900321E\r\nDRG THIS PERIOD FLW ATS RTE SEGMENTS ARE NOT AVBL IN COLOMBO FIR.\r\n01. L897 NOT AVBL BTN &apos;MATLU&apos; AND &apos;KETIV&apos;\r\n02. N628 NOT AVBL BTN &apos;BASEV&apos; AND &apos;KETIV&apos;\r\n03. L774 NOT AVBL BTN &apos;ELATI&apos; AND &apos;KETIV&apos;\r\n04. N640 NOT AVBL BTN &apos;BASEV&apos; AND &apos;ELATI&apos;\r\nF)SFC G)UNL",
-"reason": "IN VIEW OF DNG ZONE DECLARED BY CAA CHINA DUE TO AEROSPACE FLT ACTIVITY",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82948992",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-11-02T11:17:52.376Z"
-},
-{
-"areas": [
-[
-[
 32.7167,
 -119.5167
 ],
@@ -266532,74 +266208,6 @@
 "areas": [
 [
 [
-0.9,
-90.05
-],
-[
-0.6,
-91.5833
-],
-[
--2.0,
-91.0667
-],
-[
--2.0,
-89.4667
-],
-[
-0.9,
-90.05
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-11-05T02:00:00.000Z",
-"start": "2026-11-04T21:00:00.000Z"
-},
-{
-"end": "2026-11-06T02:00:00.000Z",
-"start": "2026-11-05T21:00:00.000Z"
-},
-{
-"end": "2026-11-07T02:00:00.000Z",
-"start": "2026-11-06T21:00:00.000Z"
-},
-{
-"end": "2026-11-08T02:00:00.000Z",
-"start": "2026-11-07T21:00:00.000Z"
-},
-{
-"end": "2026-11-09T02:00:00.000Z",
-"start": "2026-11-08T21:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-VCCF-A0569/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-ceres-2-unknown-payload-e91d1da2",
-"title": "Unknown Payload"
-}
-],
-"markers": [],
-"name": "A0569/26",
-"page": "https://space-notices.com/notice/notam-VCCF-A0569%2F26",
-"raw": "A0569/26 NOTAMN \r\nQ)VCCF/QRDCA/IV/BO/W/000/999/0042S09033E101\r\nA)VCCF B)2611042100 C)2611090200\r\nD)2100-0200\r\nE)IN VIEW OF DNG ZONE DECLARED BY CAA CHINA DUE TO AEROSPACE FLT\r\nACTIVITY, FLW AREA WI COLOMBO FIR BOUNDED BY GIVEN COORD DECLARED AS\r\nA TEMPO DNG AREA.\r\n005419N 0900316E-003654N 0913533E-020000S 0910420E-020000S 0892832E-\r\n005419N 0900316E\r\nDRG THIS PERIOD FLW ATS RTE SEGMENTS ARE NOT AVBL IN COLOMBO FIR.\r\n01. L897 NOT AVBL BTN &apos;MATLU&apos; AND &apos;KETIV&apos;\r\n02. N628 NOT AVBL BTN &apos;BASEV&apos; AND &apos;KETIV&apos;\r\n03. L774 NOT AVBL BTN &apos;ELATI&apos; AND &apos;KETIV&apos;\r\n04. N640 NOT AVBL BTN &apos;BASEV&apos; AND &apos;ELATI&apos;\r\nF)SFC G)UNL",
-"reason": "IN VIEW OF DNG ZONE DECLARED BY CAA CHINA DUE TO AEROSPACE FLT ACTIVITY",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82893046",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-31T14:26:50.246Z"
-},
-{
-"areas": [
-[
-[
 -30.0,
 -121.8833
 ],
@@ -266964,82 +266572,6 @@
 "name": "City of Starbase"
 },
 "updated": "2026-11-09T17:00:31.472Z"
-},
-{
-"areas": [
-[
-[
--8.4833,
-89.5
-],
-[
--8.2667,
-88.6167
-],
-[
--2.0,
-89.8333
-],
-[
--2.0,
-90.6
-],
-[
--2.0,
-90.75
-],
-[
--8.4833,
-89.5
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-11-05T02:00:00.000Z",
-"start": "2026-11-04T21:00:00.000Z"
-},
-{
-"end": "2026-11-06T02:00:00.000Z",
-"start": "2026-11-05T21:00:00.000Z"
-},
-{
-"end": "2026-11-07T02:00:00.000Z",
-"start": "2026-11-06T21:00:00.000Z"
-},
-{
-"end": "2026-11-08T02:00:00.000Z",
-"start": "2026-11-07T21:00:00.000Z"
-},
-{
-"end": "2026-11-09T02:00:00.000Z",
-"start": "2026-11-08T21:00:00.000Z"
-},
-{
-"end": "2026-11-10T02:00:00.000Z",
-"start": "2026-11-09T21:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-YMMM-E3971/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-ceres-2-unknown-payload-e91d1da2",
-"title": "Unknown Payload"
-}
-],
-"markers": [],
-"name": "E3971/26",
-"page": "https://space-notices.com/notice/notam-YMMM-E3971%2F26",
-"raw": "E3971/26 NOTAMN\r\nQ) YMMM/QRDCA/IV/BO/W/000/999/0512S08951E200\r\nA) YMMM\r\nB) 2611042100 C) 2611100200\r\nD) DAILY 2100-0200\r\nE) TEMPO DANGER AREA ACT\r\nDUE CHINESE AEROSPACE FLIGHT ACTIVITIES WILL TAKE PLACE\r\nFLW RECEIVED FM CIVIL AVIATION ADMINISTRATION OF CHINA:\r\nTHE FLIGHT SAFETY OF ACFT MAY BE AFFECTED IN THE FOLLOWING &apos;AREA PH&apos;\r\nBOUNDED BY 082930S 0893021E - 081617S 0883700E - 020000S 0895007E -\r\n020000S 0903600E - 020000S 0904500E - 082930S 0893021E TO BEGINNING\r\nF) SFC G) UNL",
-"reason": "CHINESE AEROSPACE FLIGHT ACTIVITIES WILL TAKE PLACE",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82891400",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-31T14:26:12.951Z"
 },
 {
 "areas": [
@@ -269753,7 +269285,7 @@
 "markers": [],
 "name": "57067",
 "page": "https://space-notices.com/notice/lnm-57067",
-"raw": "$3f",
+"raw": "$41",
 "reason": "Hazardous operations will be conducted for Space X R-4 Launch Operations",
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
@@ -294759,7 +294291,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83163015",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-19T20:32:40.440Z"
+"updated": "2026-11-20T20:34:22.665Z"
 },
 {
 "areas": [
@@ -296222,7 +295754,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83163270",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-20T17:00:17.665Z"
+"updated": "2026-11-20T21:10:22.951Z"
 },
 {
 "areas": [
@@ -299520,6 +299052,74 @@
 "areas": [
 [
 [
+-30.0,
+-135.85
+],
+[
+-27.8,
+-136.2167
+],
+[
+-27.3167,
+-133.1667
+],
+[
+-30.0,
+-132.5833
+],
+[
+-30.0,
+-135.85
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-24T22:18:00.000Z",
+"start": "2026-11-24T17:40:00.000Z"
+},
+{
+"end": "2026-11-25T22:09:00.000Z",
+"start": "2026-11-25T17:31:00.000Z"
+},
+{
+"end": "2026-11-26T22:00:00.000Z",
+"start": "2026-11-26T17:22:00.000Z"
+},
+{
+"end": "2026-11-27T21:51:00.000Z",
+"start": "2026-11-27T17:13:00.000Z"
+},
+{
+"end": "2026-11-29T21:33:00.000Z",
+"start": "2026-11-29T16:55:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1510/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-266",
+"title": "USSF-266"
+}
+],
+"markers": [],
+"name": "A1510/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1510%2F26",
+"raw": "A1510/26 NOTAMN\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2847S13424W130\r\nA) NTTT\r\nB) 2611241740 C) 2611292133\r\nD) 24 1740-2218, 25 1731-2209, 26 1722-2200, 27 1713-2151, 28\r\n 1704-2142, 29 1655-2133\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX\r\nUSSF266-TH3 IN TAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING\r\nPOINTS :\r\n3000S 13551W, 2748S 13613W, 2719S 13310W, 3000S 13235W, \r\n3000S 13551W\r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : NZZO, SCIZ\r\n\r\nTHE FRENCH VERSION OF THIS NOTAM IS C2843/26.\r\nF) SFC G) UNL",
+"reason": "SPACE DEBRIS RETURN OF SPACEX USSF266-TH3",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83164351",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-20T23:16:22.653Z"
+},
+{
+"areas": [
+[
+[
 -59.7,
 -127.7167
 ],
@@ -301058,7 +300658,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83163232",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-20T18:20:22.589Z"
+"updated": "2026-11-20T21:00:26.288Z"
 },
 {
 "areas": [
@@ -302441,6 +302041,40 @@
 "name": "Texas Commission on Environmental Quality"
 },
 "updated": "2026-10-12T14:10:17.615Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-12-31T00:00:00.000Z",
+"start": "2026-11-20T00:00:00.000Z"
+}
+],
+"height": null,
+"id": "tceq-water-quality-permit-TXR15AAD1",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.922291,
+-97.411994
+]
+],
+"name": "TXR15AAD1",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR15AAD1",
+"raw": null,
+"reason": "ILLINOIS PARKING SITE",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR15AAD1&lgl_id=33574309&pita_id=33574312&phys_id=33574311&princ_id=641482642005192&affil_role=2&reg_ent_id=967608292026324&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-11-20T23:03:59.662Z"
 },
 {
 "areas": [],
