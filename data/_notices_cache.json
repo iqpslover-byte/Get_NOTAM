@@ -16814,18 +16814,18 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-nrol-136": {
-"lastmod": "2026-11-16T14:32:36.632Z",
+"lastmod": "2026-11-21T14:42:39.314Z",
 "notice": {
 "areas": [],
 "cancelled": false,
 "dates": [
 {
-"end": "2026-11-21T13:43:00.000Z",
-"start": "2026-11-21T12:30:00.000Z"
-},
-{
 "end": "2026-11-22T13:29:00.000Z",
 "start": "2026-11-22T12:16:00.000Z"
+},
+{
+"end": "2026-11-23T13:15:00.000Z",
+"start": "2026-11-23T12:02:00.000Z"
 }
 ],
 "height": null,
@@ -16840,13 +16840,13 @@
 "markers": [],
 "name": "FAA Operations Advisory",
 "page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-nrol-136",
-"raw": "SPACEX NROL 136, VANDENBERG SFB, CA\nPRIMARY:\t11/21/26\t1230Z-1343Z\nBACKUP:\t\t11/22/26\t1216Z-1329Z",
+"raw": "SPACEX NROL 136, VANDENBERG SFB, CA\nPRIMARY:\t11/22/26\t1216Z-1329Z\nBACKUP:\t\t11/23/26\t1202Z-1315Z",
 "reason": "SPACEX NROL 136, VANDENBERG SFB, CA",
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-16T14:32:36.632Z"
+"updated": "2026-11-21T14:42:39.314Z"
 },
 "via": "sitemap"
 },
@@ -103995,6 +103995,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%203225%2F26": {
+"gone": "2026-11-21",
 "lastmod": "2026-11-20T11:43:00.786Z",
 "notice": {
 "areas": [
@@ -264672,6 +264673,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NZZO-B5464%2F26": {
+"gone": "2026-11-21",
 "lastmod": "2026-11-20T11:42:38.869Z",
 "notice": {
 "areas": [
@@ -322539,7 +322541,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-11%2F316-26": {
-"lastmod": "2026-11-20T21:10:22.992Z",
+"lastmod": "2026-11-21T11:01:36.139Z",
 "notice": {
 "areas": [
 [
@@ -322606,12 +322608,12 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83167786",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-20T21:10:22.992Z"
+"updated": "2026-11-21T11:01:36.139Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-11%2F322-26": {
-"lastmod": "2026-11-20T23:16:37.691Z",
+"lastmod": "2026-11-21T11:01:18.159Z",
 "notice": {
 "areas": [
 [
@@ -322682,9 +322684,9 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83167851",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-20T23:16:37.691Z"
+"updated": "2026-11-21T11:01:18.159Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLHW-A0063%2F26": {
 "lastmod": "2026-04-23T14:04:24.726Z",

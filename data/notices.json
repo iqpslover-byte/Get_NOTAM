@@ -1,6 +1,6 @@
 {
-"count": 518,
-"generated_utc": "2026-11-21T11:49:55Z",
+"count": 516,
+"generated_utc": "2026-11-21T19:49:32Z",
 "notices": [
 {
 "areas": [
@@ -2744,184 +2744,6 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-20T11:43:20.511Z"
-},
-{
-"areas": [
-[
-[
--59.7,
--180.0
-],
-[
--58.65,
--161.6833
-],
-[
--57.4667,
--126.0167
-],
-[
--60.3833,
--122.0667
-],
-[
--61.5167,
--161.2667
-],
-[
--62.55,
--180.0
-],
-[
--59.7,
--180.0
-]
-],
-[
-[
--59.7,
-165.8167
-],
-[
--59.7,
-180.0
-],
-[
--62.55,
-180.0
-],
-[
--62.55,
-162.55
-],
-[
--59.7,
-165.8167
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-11-07T20:00:00.000Z",
-"start": "2026-11-07T07:00:00.000Z"
-},
-{
-"end": "2026-11-08T20:00:00.000Z",
-"start": "2026-11-08T07:00:00.000Z"
-},
-{
-"end": "2026-11-09T20:00:00.000Z",
-"start": "2026-11-09T07:00:00.000Z"
-},
-{
-"end": "2026-11-10T20:00:00.000Z",
-"start": "2026-11-10T07:00:00.000Z"
-},
-{
-"end": "2026-11-11T20:00:00.000Z",
-"start": "2026-11-11T07:00:00.000Z"
-}
-],
-"height": null,
-"id": "nav-warning-HYDROPAC 3225/26",
-"kind": "NAVWARNING",
-"launches": [
-{
-"id": "launch-soyuz-21bfregat-glonass-k1-kosmos-2621",
-"title": "Glonass-K1? (Kosmos 2621?)"
-}
-],
-"markers": [],
-"name": "HYDROPAC 3225/26",
-"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203225%2F26",
-"raw": "061030Z NOV 26\nHYDROPAC 3225/26\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   0700Z TO 2000Z DAILY 07 THRU 11 NOV\n   IN AREAS BOUND BY:\n   A. 59-42.60S 180-00.00W, 58-39.87S 161-41.05W,\n      57-28.80S 126-01.20W, 60-23.40S 122-04.80W,\n      61-31.90S 161-16.02W, 62-33.00S 180-00.00W.\n   B. 59-42.60S 165-49.20E, 59-42.60S 180-00.00E,\n      62-33.00S 180-00.00E, 62-33.00S 162-33.60E.\n2. CANCEL THIS MSG 112100Z NOV 26.//\n\n",
-"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
-"source": {
-"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3225&createdOn=26&category=14&output=html",
-"name": "US National Geospatial-Intelligence Agency"
-},
-"updated": "2026-11-20T11:43:00.786Z"
-},
-{
-"areas": [
-[
-[
--58.25,
--131.0
-],
-[
--61.6833,
--131.0
-],
-[
--61.5167,
--161.2667
-],
-[
--62.6,
-163.0
-],
-[
--62.2,
-163.0
-],
-[
--59.7,
-165.8167
-],
-[
--58.65,
--161.6833
-],
-[
--58.25,
--131.0
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-11-07T21:00:00.000Z",
-"start": "2026-11-07T07:00:00.000Z"
-},
-{
-"end": "2026-11-08T21:00:00.000Z",
-"start": "2026-11-08T07:00:00.000Z"
-},
-{
-"end": "2026-11-09T21:00:00.000Z",
-"start": "2026-11-09T07:00:00.000Z"
-},
-{
-"end": "2026-11-10T21:00:00.000Z",
-"start": "2026-11-10T07:00:00.000Z"
-},
-{
-"end": "2026-11-11T21:00:00.000Z",
-"start": "2026-11-11T07:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-NZZO-B5464/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-soyuz-21bfregat-glonass-k1-kosmos-2621",
-"title": "Glonass-K1? (Kosmos 2621?)"
-}
-],
-"markers": [],
-"name": "B5464/26",
-"page": "https://space-notices.com/notice/notam-NZZO-B5464%2F26",
-"raw": "B5464/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/6026S16152W999\r\nA) NZZO B) 2611070700 C) 2611112100\r\nD) DAILY 0700-2100\r\nE) TEMPO DANGER AREA NZD095 (AUCKLAND OCEANIC FIR) IS PRESCRIBED AS\r\nFLW:\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING\r\n58 15 00 S 131 00 00 W\r\n61 41 15 S 131 00 00 W\r\n61 31 54 S 161 16 01 W\r\n62 36 00 S 163 00 00 E\r\n62 12 00 S 163 00 00 E\r\n59 42 36 S 165 49 12 E\r\n58 39 52 S 161 41 03 W\r\n58 15 00 S 131 00 00 W\r\nACTIVITY: SPACE LAUNCH AND DEBRIS RETURN\r\nUSING AGENCY: FOREIGN SPACE AGENCY\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED\r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION.\r\nF) SFC G) UNL",
-"reason": "SPACE LAUNCH AND DEBRIS RETURN",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83010724",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-11-20T11:42:38.869Z"
 },
 {
 "areas": [
@@ -26544,39 +26366,6 @@
 "updated": "2026-11-19T15:09:17.948Z"
 },
 {
-"areas": [],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-11-21T13:43:00.000Z",
-"start": "2026-11-21T12:30:00.000Z"
-},
-{
-"end": "2026-11-22T13:29:00.000Z",
-"start": "2026-11-22T12:16:00.000Z"
-}
-],
-"height": null,
-"id": "infopage-faa-operations-advisory-spacex-nrol-136",
-"kind": "INFOPAGE",
-"launches": [
-{
-"id": "launch-f9-nrol-136",
-"title": "NROL-136"
-}
-],
-"markers": [],
-"name": "FAA Operations Advisory",
-"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-nrol-136",
-"raw": "SPACEX NROL 136, VANDENBERG SFB, CA\nPRIMARY:\t11/21/26\t1230Z-1343Z\nBACKUP:\t\t11/22/26\t1216Z-1329Z",
-"reason": "SPACEX NROL 136, VANDENBERG SFB, CA",
-"source": {
-"link": "https://www.fly.faa.gov/adv/adv_spt",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-11-16T14:32:36.632Z"
-},
-{
 "areas": [
 [
 [
@@ -27869,7 +27658,40 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83167786",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-20T21:10:22.992Z"
+"updated": "2026-11-21T11:01:36.139Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-22T13:29:00.000Z",
+"start": "2026-11-22T12:16:00.000Z"
+},
+{
+"end": "2026-11-23T13:15:00.000Z",
+"start": "2026-11-23T12:02:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-spacex-nrol-136",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-nrol-136",
+"title": "NROL-136"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-nrol-136",
+"raw": "SPACEX NROL 136, VANDENBERG SFB, CA\nPRIMARY:\t11/22/26\t1216Z-1329Z\nBACKUP:\t\t11/23/26\t1202Z-1315Z",
+"reason": "SPACEX NROL 136, VANDENBERG SFB, CA",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-21T14:42:39.314Z"
 },
 {
 "areas": [
@@ -28077,7 +27899,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83167851",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-20T23:16:37.691Z"
+"updated": "2026-11-21T11:01:18.159Z"
 },
 {
 "areas": [
