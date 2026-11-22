@@ -17546,18 +17546,18 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-ussf-266th3": {
-"lastmod": "2026-11-19T20:32:39.259Z",
+"lastmod": "2026-11-22T14:42:39.068Z",
 "notice": {
 "areas": [],
 "cancelled": false,
 "dates": [
 {
-"end": "2026-11-23T20:47:00.000Z",
-"start": "2026-11-23T16:04:00.000Z"
+"end": "2026-11-24T20:38:00.000Z",
+"start": "2026-11-24T16:04:00.000Z"
 },
 {
-"end": "2026-11-24T20:38:00.000Z",
-"start": "2026-11-24T15:55:00.000Z"
+"end": "2026-11-25T20:29:00.000Z",
+"start": "2026-11-25T15:45:00.000Z"
 }
 ],
 "height": null,
@@ -17572,13 +17572,13 @@
 "markers": [],
 "name": "FAA Operations Advisory",
 "page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-ussf-266th3",
-"raw": "SPACEX USSF 266/TH3, VANDENBERG SFB, CA\nPRIMARY:\t11/23/26\t1604Z-2047Z\nBACKUP:\t\t11/24/26\t1555Z-2038Z",
+"raw": "SPACEX USSF 266/TH3, VANDENBERG SFB, CA\nPRIMARY:\t11/24/26\t1604Z-2038Z\nBACKUP:\t\t11/25/26\t1545Z-2029Z",
 "reason": "SPACEX USSF 266/TH3, VANDENBERG SFB, CA",
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-19T20:32:39.259Z"
+"updated": "2026-11-22T14:42:39.068Z"
 },
 "via": "sitemap"
 },
@@ -17766,7 +17766,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-stratolaunch-ingrid": {
-"lastmod": "2026-11-22T13:08:20.293Z",
+"lastmod": "2026-11-22T14:50:11.804Z",
 "notice": {
 "areas": [],
 "cancelled": false,
@@ -17798,9 +17798,9 @@
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-22T13:08:20.293Z"
+"updated": "2026-11-22T14:50:11.804Z"
 },
-"via": "entry"
+"via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-transporter-18": {
 "gone": "2026-10-15",
