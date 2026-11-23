@@ -1,5 +1,5 @@
 {
-"count": 3097,
+"count": 3107,
 "notices": [
 {
 "areas": [
@@ -287459,6 +287459,74 @@
 -120.4
 ],
 [
+31.7833,
+-118.8667
+],
+[
+31.6167,
+-119.1833
+],
+[
+32.7667,
+-119.7833
+],
+[
+34.5,
+-120.6833
+],
+[
+34.65,
+-120.65
+],
+[
+34.6667,
+-120.5667
+],
+[
+34.65,
+-120.4833
+],
+[
+34.5667,
+-120.4
+]
+]
+],
+"cancelled": true,
+"dates": [
+{
+"end": "2026-11-21T13:25:00.000Z",
+"start": "2026-11-21T12:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-11/280-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-nrol-136",
+"title": "NROL-136"
+}
+],
+"markers": [],
+"name": "11/280",
+"page": "https://space-notices.com/notice/notam-ZLA-11%2F280-26",
+"raw": "!CARF 11/280 ZLA AIRSPACE DCC SX NROL-136 26-74 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 343400N1202400W TO 314700N1185200W TO 313700N1191100W TO 324600N1194700W TO 343000N1204100W TO 343900N1203900W TO 344000N1203400W TO 343900N1202900W TO POINT OF ORIGIN SFC-UNL 2611211230-2611211325",
+"reason": "SX NROL-136 26-74",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83134084",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-18T17:51:31.692Z"
+},
+{
+"areas": [
+[
+[
+34.5667,
+-120.4
+],
+[
 31.75,
 -118.8
 ],
@@ -289615,51 +289683,6 @@
 "updated": "2026-11-11T01:14:33.612Z"
 },
 {
-"areas": [],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-11-18T21:32:00.000Z",
-"start": "2026-11-18T16:49:00.000Z"
-},
-{
-"end": "2026-11-19T21:23:00.000Z",
-"start": "2026-11-19T16:40:00.000Z"
-},
-{
-"end": "2026-11-20T21:14:00.000Z",
-"start": "2026-11-20T16:31:00.000Z"
-},
-{
-"end": "2026-11-21T21:05:00.000Z",
-"start": "2026-11-21T16:22:00.000Z"
-},
-{
-"end": "2026-11-22T20:56:00.000Z",
-"start": "2026-11-22T16:13:00.000Z"
-}
-],
-"height": null,
-"id": "infopage-cadenaois-advisory-2862",
-"kind": "INFOPAGE",
-"launches": [
-{
-"id": "launch-f9-ussf-266",
-"title": "USSF-266"
-}
-],
-"markers": [],
-"name": "Cadena OIS Advisory 2862",
-"page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2862",
-"raw": "Backup Launch Day\t18 NOV\t1649Z-2132Z\nBackup Launch Day\t19 NOV\t1640Z-2123Z\nBackup Launch Day\t20 NOV\t1631Z-2114Z\nBackup Launch Day\t21 NOV\t1622Z-2105Z\nBackup Launch Day\t22 NOV\t1613Z-2056Z\n",
-"reason": "SpaceX USSF266-TH3",
-"source": {
-"link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
-"name": "Cadena OIS"
-},
-"updated": "2026-11-12T16:18:58.431Z"
-},
-{
 "areas": [
 [
 [
@@ -291789,6 +291812,35 @@
 "updated": "2026-11-17T14:28:34.971Z"
 },
 {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-24T10:00:00.000Z",
+"start": "2026-11-24T05:59:00.000Z"
+}
+],
+"height": null,
+"id": "starbase-road-delay-fcb9fa3e-dca8-447c-8aa7-0b756579f5c3",
+"kind": "ROAD_DELAY",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [],
+"name": "Nov 24 Massey's -> Production",
+"page": "https://space-notices.com/notice/starbase-road-delay-fcb9fa3e-dca8-447c-8aa7-0b756579f5c3",
+"raw": "Description: Masseys to Production\nDate: November 23 11:59 PM to November 24 4:00 AM",
+"reason": "Masseys to Production",
+"source": {
+"link": "https://www.starbase.texas.gov/beach-road-access",
+"name": "City of Starbase"
+},
+"updated": "2026-11-23T16:19:00.891Z"
+},
+{
 "areas": [
 [
 [
@@ -291857,13 +291909,77 @@
 "updated": "2026-11-22T11:01:23.460Z"
 },
 {
-"areas": [],
+"areas": [
+[
+[
+14.0167,
+-47.1833
+],
+[
+12.9333,
+-45.6167
+],
+[
+11.7167,
+-46.45
+],
+[
+10.0667,
+-47.8
+],
+[
+10.0,
+-48.0
+],
+[
+9.8833,
+-49.1833
+],
+[
+10.45,
+-50.0167
+],
+[
+12.95,
+-48.0167
+],
+[
+14.0167,
+-47.1833
+]
+]
+],
 "cancelled": false,
 "dates": [
 {
-"end": "2026-11-23T20:00:00.000Z",
-"start": "2026-11-23T14:00:00.000Z"
+"end": "2026-11-24T13:00:00.000Z",
+"start": "2026-11-24T06:20:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-TTZP-A1901/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-ariane-64-block-2-amazon-leo-le-04",
+"title": "Amazon Leo (LE-04)"
+}
+],
+"markers": [],
+"name": "A1901/26",
+"page": "https://space-notices.com/notice/notam-TTZP-A1901%2F26",
+"raw": "A1901/26 NOTAMN\r\nQ) TTZP/QRDCA/IV/BO/W/000/999/1450N05112W999\r\nA) TTZP\r\nB) 2611240620 C) 2611241300\r\nE) DANGER AREA ACTIVATED WITHIN TTZP DUE TO THE ARIANE 6 LAUNCH\r\nVA271.\r\nTHE PIARCO ACC STRONGLY CAUTIONS AIRCRAFT NOT TO OPERATE WITHIN THE\r\nDANGER AREA BOUNDED BY COORDINATES:\r\n1401N04711W - 1256N04537W - 1143N04627W - 1004N04748W - 1000N04800W\r\n- 0953N04911W - 1027N05001W - 1257N04801W - 1401N04711W \r\nBACK UP DATES: 261125 TO 261203\r\nF) SFC G) UNL",
+"reason": "THE ARIANE 6 LAUNCH VA271",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83186730",
+"name": "US Federal Aviation Administration"
 },
+"updated": "2026-11-23T14:15:30.319Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
 {
 "end": "2026-11-24T19:00:00.000Z",
 "start": "2026-11-24T14:00:00.000Z"
@@ -291881,13 +291997,13 @@
 "markers": [],
 "name": "FAA Operations Advisory",
 "page": "https://space-notices.com/notice/infopage-faa-operations-advisory-stratolaunch-ingrid",
-"raw": "STRATOLAUNCH INGRID, MOJAVE AIR AND SPACEPORT, CA\nPRIMARY:\t11/23/26\t1400Z-2000Z\nBACKUP:\t\t11/24/26\t1400Z-1900Z",
+"raw": "STRATOLAUNCH INGRID, MOJAVE AIR AND SPACEPORT, CA\nPRIMARY:\t11/24/26\t1400Z-1900Z",
 "reason": "STRATOLAUNCH INGRID, MOJAVE SPACEPORT, CA",
 "source": {
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-22T14:50:11.804Z"
+"updated": "2026-11-23T12:44:36.101Z"
 },
 {
 "areas": [
@@ -292555,7 +292671,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83184256",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-22T13:08:20.293Z"
+"updated": "2026-11-23T10:51:17.913Z"
 },
 {
 "areas": [],
@@ -292744,7 +292860,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83183838",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-20T11:44:36.443Z"
+"updated": "2026-11-23T10:29:38.130Z"
 },
 {
 "areas": [
@@ -292796,7 +292912,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83183835",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-20T11:44:36.443Z"
+"updated": "2026-11-23T10:29:32.909Z"
 },
 {
 "areas": [
@@ -296776,6 +296892,55 @@
 "updated": "2026-11-16T21:36:19.295Z"
 },
 {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-24T20:38:00.000Z",
+"start": "2026-11-24T15:55:00.000Z"
+},
+{
+"end": "2026-11-25T20:29:00.000Z",
+"start": "2026-11-25T15:46:00.000Z"
+},
+{
+"end": "2026-11-26T20:20:00.000Z",
+"start": "2026-11-26T15:37:00.000Z"
+},
+{
+"end": "2026-11-27T20:11:00.000Z",
+"start": "2026-11-27T15:28:00.000Z"
+},
+{
+"end": "2026-11-28T20:02:00.000Z",
+"start": "2026-11-28T15:19:00.000Z"
+},
+{
+"end": "2026-11-29T19:53:00.000Z",
+"start": "2026-11-29T15:10:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-cadenaois-advisory-2862",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-ussf-266",
+"title": "USSF-266"
+}
+],
+"markers": [],
+"name": "Cadena OIS Advisory 2862",
+"page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2862",
+"raw": "Backup Launch Day\t24 NOV\t1555Z-2038Z\nBackup Launch Day\t25 NOV\t1546Z-2029Z\nBackup Launch Day\t26 NOV\t1537Z-2020Z\nBackup Launch Day\t27 NOV\t1528Z-2011Z\nBackup Launch Day\t28 NOV\t1519Z-2002Z\nBackup Launch Day\t29 NOV\t1510Z-1953Z\n",
+"reason": "SpaceX USSF266-TH3",
+"source": {
+"link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
+"name": "Cadena OIS"
+},
+"updated": "2026-11-23T15:35:58.307Z"
+},
+{
 "areas": [
 [
 [
@@ -297562,6 +297727,39 @@
 "name": "Texas Commission on Environmental Quality"
 },
 "updated": "2026-10-12T14:09:18.512Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-29T09:22:00.000Z",
+"start": "2026-11-29T04:39:00.000Z"
+},
+{
+"end": "2026-11-30T07:09:00.000Z",
+"start": "2026-11-30T02:26:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-spacex-r-7",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-ussf-380",
+"title": "USSF-380"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-r-7",
+"raw": "SPACEX R-7, VANDENBERG SFB, CA\nPRIMARY:\t11/29/26\t0439Z-0922Z\nBACKUP:\t\t11/30/26\t0226Z-0709Z",
+"reason": "SPACEX R-7, VANDENBERG SFB, CA",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-23T17:48:36.488Z"
 },
 {
 "areas": [
@@ -298585,6 +298783,94 @@
 "areas": [
 [
 [
+30.5833,
+-31.0167
+],
+[
+30.0333,
+-30.4
+],
+[
+26.85,
+-33.95
+],
+[
+27.3667,
+-34.5833
+],
+[
+30.5833,
+-31.0167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-24T15:39:00.000Z",
+"start": "2026-11-24T10:12:00.000Z"
+},
+{
+"end": "2026-11-25T15:39:00.000Z",
+"start": "2026-11-25T10:12:00.000Z"
+},
+{
+"end": "2026-11-26T15:39:00.000Z",
+"start": "2026-11-26T10:12:00.000Z"
+},
+{
+"end": "2026-11-27T15:39:00.000Z",
+"start": "2026-11-27T10:12:00.000Z"
+},
+{
+"end": "2026-11-28T15:39:00.000Z",
+"start": "2026-11-28T10:12:00.000Z"
+},
+{
+"end": "2026-11-29T15:39:00.000Z",
+"start": "2026-11-29T10:12:00.000Z"
+},
+{
+"end": "2026-11-30T15:39:00.000Z",
+"start": "2026-11-30T10:12:00.000Z"
+},
+{
+"end": "2026-12-01T15:39:00.000Z",
+"start": "2026-12-01T10:12:00.000Z"
+},
+{
+"end": "2026-12-02T15:39:00.000Z",
+"start": "2026-12-02T10:12:00.000Z"
+},
+{
+"end": "2026-12-03T15:39:00.000Z",
+"start": "2026-12-03T10:12:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-LPPO-A6727/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-ariane-64-block-2-amazon-leo-le-04",
+"title": "Amazon Leo (LE-04)"
+}
+],
+"markers": [],
+"name": "A6727/26",
+"page": "https://space-notices.com/notice/notam-LPPO-A6727%2F26",
+"raw": "A6727/26 NOTAMN\r\nQ) LPPO/QWMLW/IV/BO /W /000/999/2844N03232W139\r\nA) LPPO B) 2611241012 C) 2612031539\r\nD) DAILY 1012-1539\r\nE) ROCKET LAUNCH ARIANE 6 VA271 WILL TAKE PLACE AREA BOUNDED BY:\r\n303500N 0310100W - 300200N 0302400W - 265100N 0335700W - 272200N \r\n0343500W - 303500N 0310100W.\r\nF) SFC G) UNL",
+"reason": "ROCKET LAUNCH ARIANE 6 VA271",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83187676",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-23T15:13:21.672Z"
+},
+{
+"areas": [
+[
+[
 -2.3667,
 -104.0667
 ],
@@ -298949,6 +299235,86 @@
 -121.8833
 ],
 [
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-28.7167,
+-120.0
+],
+[
+-30.0,
+-120.0
+],
+[
+-30.0,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-28T11:18:00.000Z",
+"start": "2026-11-28T06:40:00.000Z"
+},
+{
+"end": "2026-11-29T11:04:00.000Z",
+"start": "2026-11-29T06:26:00.000Z"
+},
+{
+"end": "2026-11-30T08:51:00.000Z",
+"start": "2026-11-30T04:13:00.000Z"
+},
+{
+"end": "2026-12-01T08:38:00.000Z",
+"start": "2026-12-01T04:00:00.000Z"
+},
+{
+"end": "2026-12-02T10:22:00.000Z",
+"start": "2026-12-02T05:44:00.000Z"
+},
+{
+"end": "2026-12-03T08:10:00.000Z",
+"start": "2026-12-03T03:32:00.000Z"
+},
+{
+"end": "2026-12-04T09:55:00.000Z",
+"start": "2026-12-04T05:17:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1518/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-380",
+"title": "USSF-380"
+}
+],
+"markers": [],
+"name": "A1518/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1518%2F26",
+"raw": "A1518/26 NOTAMN\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2858S12112W113\r\nA) NTTT\r\nB) 2611280640 C) 2612040955\r\nD) 28 0640-1118,\r\n29 0626-1104,\r\n30 0413-0851,\r\n01 0400-0838,\r\n02 0544-1022,\r\n03 0332-0810,\r\n04 0517-0955\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX R-7\r\nIN TAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING POINTS :\r\n3000S 12153W, 2759S 12244W, 2709S 12043W, 2843S 12000W, \r\n3000S 12000W, 3000S 12153W \r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : SCIZ.\r\n\r\nTHE FRENCH VERSION OF THIS NOTAM IS C2855/26.\r\nF) SFC G) UNL",
+"reason": "TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX R-7",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83192302",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-23T17:48:36.488Z"
+},
+{
+"areas": [
+[
+[
+-30.0,
+-121.8833
+],
+[
 -30.0,
 -120.0
 ],
@@ -299032,6 +299398,495 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-20T18:20:22.561Z"
+},
+{
+"areas": [
+[
+[
+32.083333,
+-119.133333
+],
+[
+32.5,
+-119.3
+],
+[
+33.25,
+-119.633333
+],
+[
+34.2,
+-120.1
+],
+[
+34.516667,
+-120.3
+],
+[
+34.666667,
+-120.633333
+],
+[
+34.6,
+-120.65
+],
+[
+34.45,
+-120.616667
+],
+[
+34.316667,
+-120.566667
+],
+[
+32.083333,
+-119.15
+],
+[
+32.083333,
+-119.133333
+]
+],
+[
+[
+30.766667,
+-118.25
+],
+[
+31.383333,
+-118.783333
+],
+[
+30.433333,
+-118.516667
+],
+[
+29.583333,
+-118.2
+],
+[
+29.866667,
+-117.9
+],
+[
+29.8,
+-117.65
+],
+[
+30.766667,
+-118.25
+]
+],
+[
+[
+29.033333,
+-117.983333
+],
+[
+29.25,
+-118.033333
+],
+[
+29.4,
+-118.133333
+],
+[
+29.583333,
+-118.2
+],
+[
+29.866667,
+-117.9
+],
+[
+29.8,
+-117.65
+],
+[
+29.6,
+-117.266667
+],
+[
+28.833333,
+-117.316667
+],
+[
+28.25,
+-117.316667
+],
+[
+28.266667,
+-117.35
+],
+[
+28.833333,
+-117.816667
+],
+[
+29.033333,
+-117.983333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-29T09:03:00.000Z",
+"start": "2026-11-29T04:39:00.000Z"
+},
+{
+"end": "2026-11-30T06:50:00.000Z",
+"start": "2026-11-30T02:26:00.000Z"
+},
+{
+"end": "2026-12-01T06:37:00.000Z",
+"start": "2026-12-01T02:13:00.000Z"
+},
+{
+"end": "2026-12-02T08:21:00.000Z",
+"start": "2026-12-02T03:57:00.000Z"
+},
+{
+"end": "2026-12-03T06:09:00.000Z",
+"start": "2026-12-03T01:45:00.000Z"
+},
+{
+"end": "2026-12-04T07:54:00.000Z",
+"start": "2026-12-04T03:30:00.000Z"
+},
+{
+"end": "2026-12-05T05:41:00.000Z",
+"start": "2026-12-05T01:17:00.000Z"
+}
+],
+"height": null,
+"id": "lnm-58973",
+"kind": "LNM",
+"launches": [
+{
+"id": "launch-f9-ussf-380",
+"title": "USSF-380"
+}
+],
+"markers": [],
+"name": "58973",
+"page": "https://space-notices.com/notice/lnm-58973",
+"raw": "Hazardous operations will be conducted for Space X, R-7 Launch Operations. Hazardous operation areas are bounded by the following coordinates and times:\nHazard Area A: \n32.08333333N, -119.13333333W\n32.5N, -119.3W\n33.25N, -119.63333333W\n34.2N, -120.1W\n34.51666667N, -120.3W\n34.66666667N, -120.63333333W\n34.6N, -120.65W\n34.45N, -120.61666667W\n34.31666667N, -120.56666667W\n32.08333333N, -119.15W (TO BEGINNING)\n             \n290439Z NOV TO 290902Z NOV 2026---- (PRIMARY) \n300226Z NOV TO 300649Z NOV 2026---- (BACKUP DAY) \n010213Z DEC TO 010636Z DEC 2026---- (BACKUP DAY) \n020357Z DEC TO 020820Z DEC 2026---- (BACKUP DAY) \n030145Z DEC TO 030608Z DEC 2026---- (BACKUP DAY) \n040330Z DEC TO 040753Z DEC 2026---- (BACKUP DAY) \n050117Z DEC TO 050540Z DEC 2026---- (BACKUP DAY) \n\nHazard Area B:\n30.76666667N, -118.25W\n31.38333333N, -118.78333333W\n30.43333333N, -118.51666667W\n29.58333333N, -118.2W\n29.86666667N, -117.9W\n29.8N, -117.65W (TO BEGINNING)\n            \n290439Z NOV TO 290903Z NOV 2026---- (PRIMARY) \n300226Z NOV TO 300650Z NOV 2026---- (BACKUP DAY) \n010213Z DEC TO 010637Z DEC 2026---- (BACKUP DAY) \n020357Z DEC TO 020821Z DEC 2026---- (BACKUP DAY) \n030145Z DEC TO 030609Z DEC 2026---- (BACKUP DAY) \n040330Z DEC TO 040754Z DEC 2026---- (BACKUP DAY) \n050117Z DEC TO 050541Z DEC 2026---- (BACKUP DAY) \n\nHazard Area C:\n29.03333333N, -117.98333333W\n29.25N, -118.03333333W\n29.4N, -118.13333333W\n29.58333333N, -118.2W\n29.86666667N, -117.9W\n29.8N, -117.65W\n29.6N, -117.26666667W\n28.83333333N, -117.31666667W\n28.25N, -117.31666667W\n28.26666667N, -117.35W\n28.83333333N, -117.81666667W (TO BEGINNING)\n\n290439Z NOV TO 290922Z NOV 2026---- (PRIMARY) \n300226Z NOV TO 300709Z NOV 2026---- (BACKUP DAY) \n010213Z DEC TO 010656Z DEC 2026---- (BACKUP DAY) \n020357Z DEC TO 020840Z DEC 2026---- (BACKUP DAY) \n030145Z DEC TO 030628Z DEC 2026---- (BACKUP DAY) \n040330Z DEC TO 040813Z DEC 2026---- (BACKUP DAY) \n050117Z DEC TO 050600Z DEC 2026---- (BACKUP DAY) \n\nMariners are advised to remain clear of these areas for the duration of operations. For more details or comments contact Space X at regulatory@spacex.com or on VHF-FM Chan. 05, 06 or 16.",
+"reason": "Hazardous operations will be conducted for Space X, R-7 Launch Operations",
+"source": {
+"link": "https://www.navcen.uscg.gov/msi",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-23T17:48:36.440Z"
+},
+{
+"areas": [
+[
+[
+29.033333,
+-117.983333
+],
+[
+29.25,
+-118.033333
+],
+[
+29.4,
+-118.133333
+],
+[
+29.583333,
+-118.2
+],
+[
+29.866667,
+-117.9
+],
+[
+29.8,
+-117.65
+],
+[
+29.6,
+-117.266667
+],
+[
+28.833333,
+-117.316667
+],
+[
+28.25,
+-117.316667
+],
+[
+28.266667,
+-117.35
+],
+[
+28.833333,
+-117.816667
+],
+[
+29.033333,
+-117.983333
+]
+],
+[
+[
+30.766667,
+-118.25
+],
+[
+31.383333,
+-118.783333
+],
+[
+30.433333,
+-118.516667
+],
+[
+29.583333,
+-118.2
+],
+[
+29.866667,
+-117.9
+],
+[
+29.8,
+-117.65
+],
+[
+30.766667,
+-118.25
+]
+],
+[
+[
+32.083333,
+-119.133333
+],
+[
+32.5,
+-119.3
+],
+[
+33.25,
+-119.633333
+],
+[
+34.2,
+-120.1
+],
+[
+34.516667,
+-120.3
+],
+[
+34.666667,
+-120.633333
+],
+[
+34.6,
+-120.65
+],
+[
+34.45,
+-120.616667
+],
+[
+34.316667,
+-120.566667
+],
+[
+32.083333,
+-119.15
+],
+[
+32.083333,
+-119.133333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-29T09:22:00.000Z",
+"start": "2026-11-29T04:39:00.000Z"
+},
+{
+"end": "2026-11-30T07:09:00.000Z",
+"start": "2026-11-30T02:26:00.000Z"
+},
+{
+"end": "2026-12-01T06:56:00.000Z",
+"start": "2026-12-01T02:13:00.000Z"
+},
+{
+"end": "2026-12-02T08:40:00.000Z",
+"start": "2026-12-02T03:57:00.000Z"
+},
+{
+"end": "2026-12-03T06:28:00.000Z",
+"start": "2026-12-03T01:45:00.000Z"
+},
+{
+"end": "2026-12-04T08:13:00.000Z",
+"start": "2026-12-04T03:30:00.000Z"
+},
+{
+"end": "2026-12-05T06:00:00.000Z",
+"start": "2026-12-05T01:17:00.000Z"
+}
+],
+"height": null,
+"id": "bnm-CGD-SW BNM 9158-26",
+"kind": "BNM",
+"launches": [
+{
+"id": "launch-f9-ussf-380",
+"title": "USSF-380"
+}
+],
+"markers": [],
+"name": "CGD-SW BNM 9158-26",
+"page": "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209158-26",
+"raw": "Launch Hazard Area\nMission: SpaceX R-7 Launch Operations\nMessage Id: CGD-SW BNM 9158-26\n\n\n29/0439 NOV 26 to 29/0922 NOV 26. \n30/0226 NOV 26 to 30/0709 NOV 26. \n01/0213 DEC 26 to 01/0656 DEC 26. \n02/0357 DEC 26 to 02/0840 DEC 26. \n03/0145 DEC 26 to 03/0628 DEC 26. \n04/0330 DEC 26 to 04/0813 DEC 26. \n05/0117 DEC 26 to 05/0600 DEC 26. \n(All times in Zulu unless otherwise noted.)\n\n\n",
+"reason": "Launch Hazard Area - SpaceX R-7 Launch Operations",
+"source": {
+"link": "https://www.navcen.uscg.gov/chart",
+"name": "US Coast Guard"
+},
+"updated": "2026-11-23T17:48:36.488Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-29T16:43:00.000Z",
+"start": "2026-11-29T15:40:00.000Z"
+},
+{
+"end": "2026-11-30T16:18:00.000Z",
+"start": "2026-11-30T14:15:00.000Z"
+},
+{
+"end": "2026-12-01T15:55:00.000Z",
+"start": "2026-12-01T14:52:00.000Z"
+},
+{
+"end": "2026-12-02T15:33:00.000Z",
+"start": "2026-12-02T14:29:00.000Z"
+},
+{
+"end": "2026-12-03T15:10:00.000Z",
+"start": "2026-12-03T14:07:00.000Z"
+},
+{
+"end": "2026-12-04T14:44:00.000Z",
+"start": "2026-12-04T13:41:00.000Z"
+},
+{
+"end": "2026-12-05T14:22:00.000Z",
+"start": "2026-12-05T13:18:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-cadenaois-advisory-2903",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-cygnus-crs-2-ng-25",
+"title": "Cygnus CRS-2 NG-25"
+}
+],
+"markers": [],
+"name": "Cadena OIS Advisory 2903",
+"page": "https://space-notices.com/notice/infopage-cadenaois-advisory-2903",
+"raw": "Primary Launch Day\tNOV 29\t1540Z-1643Z\nBackup Launch Day\tNOV 30\t1415Z-1618Z\nBackup Launch Day\tDEC 01\t1452Z-1555Z\nBackup Launch Day\tDEC 02\t1429Z-1533Z\nBackup Launch Day\tDEC 03\t1407Z-1510Z\nBackup Launch Day\tDEC 04\t1341Z-1444Z\nBackup Launch Day\tDEC 05\t1318Z-1422Z\n",
+"reason": "SpaceX Cygnus NG-25",
+"source": {
+"link": "https://compass.atfm.aero/vpublic_anspdetail.jsp?view=4",
+"name": "Cadena OIS"
+},
+"updated": "2026-11-23T15:46:13.684Z"
+},
+{
+"areas": [
+[
+[
+-27.5,
+-149.8
+],
+[
+-29.5167,
+-147.8333
+],
+[
+-30.0,
+-148.35
+],
+[
+-30.0,
+-152.6333
+],
+[
+-27.5,
+-149.8
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-29T17:37:00.000Z",
+"start": "2026-11-29T16:46:00.000Z"
+},
+{
+"end": "2026-11-30T17:12:00.000Z",
+"start": "2026-11-30T16:20:00.000Z"
+},
+{
+"end": "2026-12-01T16:49:00.000Z",
+"start": "2026-12-01T15:58:00.000Z"
+},
+{
+"end": "2026-12-02T16:27:00.000Z",
+"start": "2026-12-02T15:35:00.000Z"
+},
+{
+"end": "2026-12-03T16:04:00.000Z",
+"start": "2026-12-03T15:13:00.000Z"
+},
+{
+"end": "2026-12-04T15:38:00.000Z",
+"start": "2026-12-04T14:47:00.000Z"
+},
+{
+"end": "2026-12-05T15:16:00.000Z",
+"start": "2026-12-05T14:24:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1517/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-cygnus-crs-2-ng-25",
+"title": "Cygnus CRS-2 NG-25"
+}
+],
+"markers": [],
+"name": "A1517/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1517%2F26",
+"raw": "A1517/26 NOTAMN\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2908S15000W160\r\nA) NTTT\r\nB) 2611291646 C) 2612051516\r\nD) 29 1646-1737,\r\n30 1620-1712,\r\n01 1558-1649,\r\n02 1535-1627,\r\n03 1513-1604,\r\n04 1447-1538,\r\n05 1424-1516\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX CYGNUS\r\nNG-25 IN TAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING POINTS : \r\n2730S 14948W, 2931S 14750W, 3000S 14821W, 3000S 15238W, \r\n2730S 14948W \r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : NZZO\r\n\r\nTHE FRENCH VERSION OF THIS NOTAM IS C2854/26.\r\nF) SFC G) UNL",
+"reason": "SPACE DEBRIS RETURN OF SPACEX CYGNUS NG-25",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83192150",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-23T15:46:13.684Z"
 },
 {
 "areas": [],
