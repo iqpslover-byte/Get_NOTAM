@@ -1,5 +1,5 @@
 {
-"count": 3099,
+"count": 3094,
 "notices": [
 {
 "areas": [
@@ -262873,7 +262873,7 @@
 "markers": [],
 "name": "54442",
 "page": "https://space-notices.com/notice/lnm-54442",
-"raw": "$42",
+"raw": "$41",
 "reason": "Hazardous operations will be conducted for Space X SDA-T1A Launch Operations",
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
@@ -264187,58 +264187,6 @@
 "areas": [
 [
 [
-9.2667,
-118.95
-],
-[
-9.4667,
-119.2167
-],
-[
-8.95,
-119.6
-],
-[
-8.75,
-119.3333
-],
-[
-9.2667,
-118.95
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-11-05T21:39:00.000Z",
-"start": "2026-11-05T21:10:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-RPHI-B5826/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-long-march-12-satnet-leo-group-tbd",
-"title": "SatNet LEO Group TBD?"
-}
-],
-"markers": [],
-"name": "B5826/26",
-"page": "https://space-notices.com/notice/notam-RPHI-B5826%2F26",
-"raw": "B5826/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/0907N11917E023\r\nA) RPHI B) 2611052110 C) 2611052139\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.\r\nEST FALL AREA OF UNBURNED DEBRIS WI:\r\n091600N 1185700E -\r\n092800N 1191300E -\r\n085700N 1193600E -\r\n084500N 1192000E -\r\n091600N 1185700E\r\n(27NM SOUTHEAST OF PUERTO PRINCESA INTL AP).\r\nF) SFC G) UNL",
-"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82919890",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-31T14:29:06.736Z"
-},
-{
-"areas": [
-[
-[
 26.03884,
 -97.1558
 ],
@@ -264626,80 +264574,6 @@
 "updated": "2026-11-06T18:12:03.103Z"
 },
 {
-"areas": [
-[
-[
-9.2667,
-118.9833
-],
-[
-9.4,
-119.15
-],
-[
-9.1,
-119.3667
-],
-[
-8.9833,
-119.2
-],
-[
-9.2667,
-118.9833
-]
-],
-[
-[
-9.2667,
-118.95
-],
-[
-9.4667,
-119.2
-],
-[
-8.95,
-119.6
-],
-[
-8.75,
-119.3167
-],
-[
-9.2667,
-118.95
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-11-08T00:00:00.000Z",
-"start": "2026-11-08T18:00:00.000Z"
-}
-],
-"height": null,
-"id": "nav-warning-HYDROPAC 3199/26",
-"kind": "NAVWARNING",
-"launches": [
-{
-"id": "launch-long-march-12-satnet-leo-group-tbd",
-"title": "SatNet LEO Group TBD?"
-}
-],
-"markers": [],
-"name": "HYDROPAC 3199/26",
-"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203199%2F26",
-"raw": "031453Z NOV 26\nHYDROPAC 3199/26\nSULU SEA.\nPHILIPPINES.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   081800Z TO 080000Z NOV IN AREAS BOUND BY:\n   A. 09-16.80N 118-59.40E, 09-24.00N 119-09.00E,\n      09-06.00N 119-22.20E, 08-59.40N 119-12.60E.\n   B. 09-16.20N 118-57.00E, 09-28.20N 119-12.60E,\n      08-57.00N 119-36.00E, 08-45.00N 119-19.80E.\n2. CANCEL HYDROPAC 3189/26.\n3. CANCEL THIS MSG 090100Z NOV 26.\n\n",
-"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
-"source": {
-"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3199&createdOn=26&category=14&output=html",
-"name": "US National Geospatial-Intelligence Agency"
-},
-"updated": "2026-11-03T19:54:32.263Z"
-},
-{
 "areas": [],
 "cancelled": false,
 "dates": [
@@ -264727,132 +264601,6 @@
 "name": "City of Starbase"
 },
 "updated": "2026-11-06T18:12:03.245Z"
-},
-{
-"areas": [
-[
-[
-9.2667,
-118.95
-],
-[
-9.4667,
-119.2167
-],
-[
-8.95,
-119.6
-],
-[
-8.75,
-119.3333
-],
-[
-9.2667,
-118.95
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-11-08T20:47:00.000Z",
-"start": "2026-11-08T20:17:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-RPHI-B5920/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-long-march-12-satnet-leo-group-tbd",
-"title": "SatNet LEO Group TBD?"
-}
-],
-"markers": [],
-"name": "B5920/26",
-"page": "https://space-notices.com/notice/notam-RPHI-B5920%2F26",
-"raw": "B5920/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/0907N11917E023\r\nA) RPHI B) 2611082017 C) 2611082047\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.\r\nEST FALL AREA OF UNBURNED DEBRIS WI:\r\n091600N 1185700E -\r\n092800N 1191300E -\r\n085700N 1193600E -\r\n084500N 1192000E -\r\n091600N 1185700E\r\n(29NM SOUTHEAST OF PUERTO PRINCESA INTL AP).\r\nF) SFC G) UNL",
-"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82963710",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-11-03T12:27:42.237Z"
-},
-{
-"areas": [
-[
-[
-9.2667,
-118.9833
-],
-[
-9.4,
-119.15
-],
-[
-9.1,
-119.3667
-],
-[
-8.9833,
-119.2
-],
-[
-9.2667,
-118.9833
-]
-],
-[
-[
-9.2667,
-118.95
-],
-[
-9.4667,
-119.2
-],
-[
-8.95,
-119.6
-],
-[
-8.75,
-119.3167
-],
-[
-9.2667,
-118.95
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-11-09T00:00:00.000Z",
-"start": "2026-11-08T18:00:00.000Z"
-}
-],
-"height": null,
-"id": "nav-warning-HYDROPAC 3200/26",
-"kind": "NAVWARNING",
-"launches": [
-{
-"id": "launch-long-march-12-satnet-leo-group-tbd",
-"title": "SatNet LEO Group TBD?"
-}
-],
-"markers": [],
-"name": "HYDROPAC 3200/26",
-"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203200%2F26",
-"raw": "031706Z NOV 26\nHYDROPAC 3200/26\nSULU SEA.\nPHILIPPINES.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   081800Z TO 090000Z NOV IN AREAS BOUND BY:\n   A. 09-16.80N 118-59.40E, 09-24.00N 119-09.00E,\n      09-06.00N 119-22.20E, 08-59.40N 119-12.60E.\n   B. 09-16.20N 118-57.00E, 09-28.20N 119-12.60E,\n      08-57.00N 119-36.00E, 08-45.00N 119-19.80E.\n2. CANCEL HYDROPAC 3199/26.\n3. CANCEL THIS MSG 090100Z NOV 26.\n",
-"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
-"source": {
-"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3200&createdOn=26&category=14&output=html",
-"name": "US National Geospatial-Intelligence Agency"
-},
-"updated": "2026-11-03T19:54:20.089Z"
 },
 {
 "areas": [
@@ -264977,74 +264725,6 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-08T09:11:05.232Z"
-},
-{
-"areas": [
-[
-[
-9.2667,
-118.95
-],
-[
-9.4667,
-119.2167
-],
-[
-8.95,
-119.6
-],
-[
-8.75,
-119.3333
-],
-[
-9.2667,
-118.95
-]
-]
-],
-"cancelled": true,
-"dates": [
-{
-"end": "2026-11-05T23:00:00.000Z",
-"start": "2026-11-05T20:00:00.000Z"
-},
-{
-"end": "2026-11-06T23:00:00.000Z",
-"start": "2026-11-06T20:00:00.000Z"
-},
-{
-"end": "2026-11-07T23:00:00.000Z",
-"start": "2026-11-07T20:00:00.000Z"
-},
-{
-"end": "2026-11-08T23:00:00.000Z",
-"start": "2026-11-08T20:00:00.000Z"
-},
-{
-"end": "2026-11-09T23:00:00.000Z",
-"start": "2026-11-09T20:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-RPHI-B5731/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-long-march-12-satnet-leo-group-tbd",
-"title": "SatNet LEO Group TBD?"
-}
-],
-"markers": [],
-"name": "B5731/26",
-"page": "https://space-notices.com/notice/notam-RPHI-B5731%2F26",
-"raw": "B5731/26 NOTAMN\r\nQ) RPHI/QWMLW/IV/BO /W /000/999/0907N11917E023\r\nA) RPHI B) 2611052000 C) 2611092300\r\nD) 2000-2300\r\nE) SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA.\r\nEST FALL AREA OF UNBURNED DEBRIS WI:\r\n091600N 1185700E -\r\n092800N 1191300E -\r\n085700N 1193600E -\r\n084500N 1192000E -\r\n091600N 1185700E\r\n(27NM SOUTHEAST OF PUERTO PRINCESA INTL AP).\r\nF) SFC G) UNL",
-"reason": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82842293",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-31T14:29:27.091Z"
 },
 {
 "areas": [],

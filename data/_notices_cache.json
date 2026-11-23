@@ -23605,7 +23605,7 @@
 "markers": [],
 "name": "54442",
 "page": "https://space-notices.com/notice/lnm-54442",
-"raw": "$42",
+"raw": "$41",
 "reason": "Hazardous operations will be conducted for Space X SDA-T1A Launch Operations",
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
@@ -103554,6 +103554,7 @@
 "via": "backfill"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%203199%2F26": {
+"gone": "2026-11-23",
 "lastmod": "2026-11-03T19:54:32.263Z",
 "notice": {
 "areas": [
@@ -103632,6 +103633,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%203200%2F26": {
+"gone": "2026-11-23",
 "lastmod": "2026-11-03T19:54:20.089Z",
 "notice": {
 "areas": [
@@ -273393,6 +273395,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RPHI-B5731%2F26": {
+"gone": "2026-11-23",
 "lastmod": "2026-10-31T14:29:27.091Z",
 "notice": {
 "areas": [
@@ -273465,6 +273468,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RPHI-B5826%2F26": {
+"gone": "2026-11-23",
 "lastmod": "2026-10-31T14:29:06.736Z",
 "notice": {
 "areas": [
@@ -273733,6 +273737,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-RPHI-B5920%2F26": {
+"gone": "2026-11-23",
 "lastmod": "2026-11-03T12:27:42.237Z",
 "notice": {
 "areas": [
