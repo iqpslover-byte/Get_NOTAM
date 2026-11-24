@@ -1,6 +1,6 @@
 {
-"count": 530,
-"generated_utc": "2026-11-24T07:07:27Z",
+"count": 536,
+"generated_utc": "2026-11-24T19:07:53Z",
 "notices": [
 {
 "areas": [],
@@ -3730,7 +3730,7 @@
 "markers": [],
 "name": "57067",
 "page": "https://space-notices.com/notice/lnm-57067",
-"raw": "$41",
+"raw": "$3e",
 "reason": "Hazardous operations will be conducted for Space X R-4 Launch Operations",
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
@@ -29351,6 +29351,35 @@
 "updated": "2026-11-20T10:59:31.546Z"
 },
 {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-25T10:00:00.000Z",
+"start": "2026-11-25T05:59:00.000Z"
+}
+],
+"height": null,
+"id": "starbase-road-delay-a5ca9891-d84b-498b-b7ea-edf76243c485",
+"kind": "ROAD_DELAY",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [],
+"name": "Nov 25 Port -> Massey's",
+"page": "https://space-notices.com/notice/starbase-road-delay-a5ca9891-d84b-498b-b7ea-edf76243c485",
+"raw": "Description: Port of Brownsville to Masseys\nDate: November 24 11:59 PM to November 25 4:00 AM",
+"reason": "Port of Brownsville to Masseys",
+"source": {
+"link": "https://www.starbase.texas.gov/beach-road-access",
+"name": "City of Starbase"
+},
+"updated": "2026-11-23T16:19:00.903Z"
+},
+{
 "areas": [
 [
 [
@@ -29558,6 +29587,78 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-20T11:40:51.449Z"
+},
+{
+"areas": [
+[
+[
+32.3167,
+-120.1
+],
+[
+32.35,
+-120.05
+],
+[
+33.1667,
+-120.2
+],
+[
+33.8333,
+-120.25
+],
+[
+34.5667,
+-120.4333
+],
+[
+34.6667,
+-120.5167
+],
+[
+34.65,
+-120.65
+],
+[
+34.35,
+-120.6167
+],
+[
+33.1667,
+-120.3333
+],
+[
+32.3167,
+-120.1
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-26T20:01:00.000Z",
+"start": "2026-11-26T15:37:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-11/340-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-266",
+"title": "USSF-266"
+}
+],
+"markers": [],
+"name": "11/340",
+"page": "https://space-notices.com/notice/notam-ZLA-11%2F340-26",
+"raw": "!CARF 11/340 ZLA AIRSPACE DCC SX USSF266/TH-3 26-75 STNR ALT RESERVATION WI AN AREA DEFINED AS 321900N1200600W TO 322100N1200300W TO 331000N1201200W TO 335000N1201500W TO 343400N1202600W TO 344000N1203100W TO 343900N1203900W TO 342100N1203700W TO 331000N1202000W TO POINT OF ORIGIN SFC-UNL 2611261537-2611262001",
+"reason": "SX USSF266/TH-3 26-75",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83197746",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-24T11:14:17.680Z"
 },
 {
 "areas": [
@@ -33939,7 +34040,7 @@
 "markers": [],
 "name": "58218",
 "page": "https://space-notices.com/notice/lnm-58218",
-"raw": "$41",
+"raw": "$3e",
 "reason": "Hazardous operations will be conducted for Space X TH-3",
 "source": {
 "link": "https://www.navcen.uscg.gov/msi",
@@ -35185,8 +35286,8 @@
 "kind": "INFOPAGE",
 "launches": [
 {
-"id": "collection-cape-canaveral-construction",
-"title": "Cape Canaveral"
+"id": "launch-f9-cygnus-crs-2-ng-25",
+"title": "Cygnus CRS-2 NG-25"
 }
 ],
 "markers": [],
@@ -35198,7 +35299,7 @@
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-24T00:28:35.476Z"
+"updated": "2026-11-24T10:27:15.450Z"
 },
 {
 "areas": [],
@@ -35315,6 +35416,114 @@
 "areas": [
 [
 [
+6.7833,
+108.6
+],
+[
+6.6833,
+109.0667
+],
+[
+5.6167,
+108.8
+],
+[
+5.7333,
+108.35
+],
+[
+6.7833,
+108.6
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-12-01T02:13:00.000Z",
+"start": "2026-12-01T01:40:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-WSJC-A3591/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-kinetica-1-unknown-payload-8b46d360",
+"title": "Unknown Payload"
+}
+],
+"markers": [],
+"name": "A3591/26",
+"page": "https://space-notices.com/notice/notam-WSJC-A3591%2F26",
+"raw": "A3591/26 NOTAMN\r\nQ)WSJC/QRALW/IV/BO/W/000/999/0621N10844E037\r\nA)WSJC B)2612010140 C)2612010213\r\nE)UNBURNED DEBRIS EXPECTED TO FALL WI\r\n0647N10836E-0641N10904E-0537N10848E-0544N10821E-0647N10836E\r\nDUE TO AEROSPACE FLT ACT BY CHINA. RMK/ATS ROUTE L625 BTN GUTUP AND\r\nAKMON NOT AVBL.\r\nF)SFC G)UNL",
+"reason": "UNBURNED DEBRIS EXPECTED TO FALL DUE TO AEROSPACE FLT ACT BY CHINA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83198781",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-24T14:09:50.638Z"
+},
+{
+"areas": [
+[
+[
+6.9333,
+108.6
+],
+[
+6.8167,
+109.1
+],
+[
+5.75,
+108.8333
+],
+[
+5.8667,
+108.3833
+],
+[
+6.9333,
+108.6333
+],
+[
+6.9333,
+108.6
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-12-01T02:28:00.000Z",
+"start": "2026-12-01T01:41:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-WSJC-A3590/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-kinetica-1-unknown-payload-8b46d360",
+"title": "Unknown Payload"
+}
+],
+"markers": [],
+"name": "A3590/26",
+"page": "https://space-notices.com/notice/notam-WSJC-A3590%2F26",
+"raw": "A3590/26 NOTAMN\r\nQ)WSJC/QRALW/IV/BO/W/000/999/0621N10844E037\r\nA)WSJC B)2612010141 C)2612010228\r\nE)UNBURNED DEBRIS EXPECTED TO FALL WI\r\n0656N10836E-0649N10906E-0545N10850E-0552N10823E-0656N10838E\r\nDUE TO AEROSPACE FLT ACT BY CHINA. RMK/ATS ROUTE L625 BTN GUTUP AND\r\nAKMON NOT AVBL.\r\nF)SFC G)UNL",
+"reason": "UNBURNED DEBRIS EXPECTED TO FALL WI",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83198768",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-24T14:09:53.291Z"
+},
+{
+"areas": [
+[
+[
 -38.6667,
 95.7167
 ],
@@ -35361,7 +35570,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83195542",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-23T10:29:38.130Z"
+"updated": "2026-11-24T06:28:21.896Z"
 },
 {
 "areas": [
@@ -35852,6 +36061,39 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-18T15:05:26.143Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-12-03T00:13:00.000Z",
+"start": "2026-12-02T20:30:00.000Z"
+},
+{
+"end": "2026-12-03T23:59:00.000Z",
+"start": "2026-12-03T20:16:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-spacex-nrol-132",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "launch-f9-nrol-132",
+"title": "NROL-132"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-nrol-132",
+"raw": "SPACEX NROL-132, VANDENBERG SFB, CA\nPRIMARY:\t12/02/26\t2030Z-0013Z\nBACKUP:\t\t12/03/26\t2016Z-2359Z",
+"reason": "SPACEX NROL-132, VANDENBERG SFB, CA",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-24T16:30:40.369Z"
 },
 {
 "areas": [
@@ -36781,6 +37023,78 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-23T20:43:23.072Z"
+},
+{
+"areas": [
+[
+[
+-25.2167,
+-157.0
+],
+[
+-28.9,
+-151.0333
+],
+[
+-29.6167,
+-151.6667
+],
+[
+-28.1667,
+-154.2667
+],
+[
+-26.4667,
+-157.0
+],
+[
+-25.2167,
+-157.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-12-01T16:00:00.000Z",
+"start": "2026-12-01T08:00:00.000Z"
+},
+{
+"end": "2026-12-02T16:00:00.000Z",
+"start": "2026-12-02T08:00:00.000Z"
+},
+{
+"end": "2026-12-03T16:00:00.000Z",
+"start": "2026-12-03T08:00:00.000Z"
+},
+{
+"end": "2026-12-04T16:00:00.000Z",
+"start": "2026-12-04T08:00:00.000Z"
+},
+{
+"end": "2026-12-05T16:00:00.000Z",
+"start": "2026-12-05T08:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1516/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "A1516/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1516%2F26",
+"raw": "A1516/26 NOTAMN\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2731S15414W230\r\nA) NTTT\r\nB) 2612010800 C) 2612051600\r\nD) 01-05 0800-1600\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF CAAC\r\nSPACECRAFT IN TAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING\r\nPOINTS:\r\n2513S 15700W, 2854S 15102W, 2937S 15140W, 2810S 15416W, \r\n2628S 15700W, 2513S 15700W \r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : NZZO \r\n\r\nTHE FRENCH VERSION OF THIS NOTAM IS C2852/26.\r\nF) SFC G) UNL",
+"reason": "SPACE DEBRIS RETURN OF CAAC SPACECRAFT",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83189447",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-24T11:07:47.989Z"
 },
 {
 "areas": [],
@@ -41348,5 +41662,5 @@
 "pending": 11,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3752
+"total_known": 3758
 }
