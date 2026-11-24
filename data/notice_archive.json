@@ -1,5 +1,5 @@
 {
-"count": 3107,
+"count": 3110,
 "notices": [
 {
 "areas": [
@@ -296625,6 +296625,66 @@
 "areas": [
 [
 [
+-30.0,
+-152.6333
+],
+[
+-30.0,
+-148.35
+],
+[
+-37.4,
+-157.3167
+],
+[
+-44.35,
+-168.8667
+],
+[
+-42.3333,
+-171.25
+],
+[
+-35.4,
+-159.5333
+],
+[
+-30.0,
+-152.6333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-29T17:40:00.000Z",
+"start": "2026-11-29T16:45:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B5727/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-cygnus-crs-2-ng-25",
+"title": "Cygnus CRS-2 NG-25"
+}
+],
+"markers": [],
+"name": "B5727/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B5727%2F26",
+"raw": "B5727/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3643S15853W674\r\nA) NZZO B) 2611291645 C) 2611291740\r\nE) TEMPO DANGER AREA NZD028 (AUCKLAND OCEANIC FIR) IS PRESCRIBED AS\r\nFLW:\r\nALL THAT AIRSPACE BOUNDED BY A LINE JOINING\r\n30 00 00 S 152 38 00 W\r\n30 00 00 S 148 21 00 W\r\n37 24 00 S 157 19 00 W\r\n44 21 00 S 168 52 00 W\r\n42 20 00 S 171 15 00 W\r\n35 24 00 S 159 32 00 W\r\n30 00 00 S 152 38 00 W\r\nACTIVITY: SPACE DEBRIS RETURN\r\nUSING AGENCY: FOREIGN SPACE AGENCY\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED\r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "SPACE DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83194340",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-24T01:54:22.021Z"
+},
+{
+"areas": [
+[
+[
 29.85,
 -119.8167
 ],
@@ -297759,7 +297819,7 @@
 "link": "https://www.fly.faa.gov/adv/adv_spt",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-23T17:48:36.488Z"
+"updated": "2026-11-23T20:28:41.870Z"
 },
 {
 "areas": [
@@ -298363,6 +298423,39 @@
 "cancelled": false,
 "dates": [
 {
+"end": "2026-11-29T16:43:00.000Z",
+"start": "2026-11-29T15:40:00.000Z"
+},
+{
+"end": "2026-11-30T16:18:00.000Z",
+"start": "2026-11-30T15:14:00.000Z"
+}
+],
+"height": null,
+"id": "infopage-faa-operations-advisory-spacex-cygnus-ng-25",
+"kind": "INFOPAGE",
+"launches": [
+{
+"id": "collection-cape-canaveral-construction",
+"title": "Cape Canaveral"
+}
+],
+"markers": [],
+"name": "FAA Operations Advisory",
+"page": "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-cygnus-ng-25",
+"raw": "SPACEX CYGNUS NG-25, CAPE CANAVERAL SFS FL\nPRIMARY:\t11/29/26\t1540Z-1643Z\nBACKUP:\t\t11/30/26\t1514Z-1618Z",
+"reason": "SPACEX CYGNUS NG-25, CAPE CANAVERAL SFS FL",
+"source": {
+"link": "https://www.fly.faa.gov/adv/adv_spt",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-24T00:28:35.476Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
 "end": "2026-11-30T23:00:00.000Z",
 "start": "2026-07-27T10:00:00.000Z"
 }
@@ -298468,6 +298561,58 @@
 "name": "US National Geospatial-Intelligence Agency"
 },
 "updated": "2026-10-28T19:33:20.776Z"
+},
+{
+"areas": [
+[
+[
+-38.6667,
+95.7167
+],
+[
+-38.8333,
+96.3833
+],
+[
+-42.2667,
+94.9
+],
+[
+-42.1,
+94.2167
+],
+[
+-38.6667,
+95.7167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-12-01T02:30:00.000Z",
+"start": "2026-12-01T01:42:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-YMMM-F4755/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "F4755/26",
+"page": "https://space-notices.com/notice/notam-YMMM-F4755%2F26",
+"raw": "F4755/26 NOTAMN\r\nQ) YMMM/QWMLW/IV/BO/W/000/999/4028S09519E120\r\nA) YMMM\r\nB) 2612010142 C) 2612010230\r\nE) CHINESE AEROSPACE FLIGHT ACTIVITIES WILL TAKE PLACE\r\nFLW RECEIVED FROM CIVIL AVIATION ADMINISTRATION OF CHINA:\r\nDUE TO AEROSPACE FLIGHT ACTIVITIES, THE FLIGHT SAFETY OF THE AIRCRAFT\r\nIN THE FOLLOWING AREA MAY BE AFFECTED:\r\n3840S09543E, 3850S09623E, 4216S09454E, 4206S09413E.\r\nF) SFC G) UNL",
+"reason": "CHINESE AEROSPACE FLIGHT ACTIVITIES WILL TAKE PLACE",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83195542",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-23T10:29:38.130Z"
 },
 {
 "areas": [
@@ -299305,7 +299450,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83192302",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-23T17:48:36.488Z"
+"updated": "2026-11-23T20:57:21.984Z"
 },
 {
 "areas": [
@@ -299757,7 +299902,7 @@
 "link": "https://www.navcen.uscg.gov/chart",
 "name": "US Coast Guard"
 },
-"updated": "2026-11-23T17:48:36.488Z"
+"updated": "2026-11-23T18:08:19.045Z"
 },
 {
 "areas": [],
@@ -299886,7 +300031,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83192150",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-23T15:46:13.684Z"
+"updated": "2026-11-23T20:43:23.072Z"
 },
 {
 "areas": [],
