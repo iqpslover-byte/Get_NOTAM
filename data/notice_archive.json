@@ -1,5 +1,5 @@
 {
-"count": 3116,
+"count": 3129,
 "notices": [
 {
 "areas": [
@@ -292628,7 +292628,7 @@
 "link": "https://www.starbase.texas.gov/beach-road-access",
 "name": "City of Starbase"
 },
-"updated": "2026-11-23T16:19:00.903Z"
+"updated": "2026-11-24T18:17:30.784Z"
 },
 {
 "areas": [
@@ -292910,6 +292910,166 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-24T11:14:17.680Z"
+},
+{
+"areas": [
+[
+[
+-38.8,
+179.1
+],
+[
+-39.4667,
+179.1
+],
+[
+-39.6167,
+177.65
+],
+[
+-39.1,
+177.6
+],
+[
+-39.1,
+177.9
+],
+[
+-38.8,
+179.1
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-27T01:35:00.000Z",
+"start": "2026-11-26T23:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZC-B5735/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-electron-night-owls-never-sleep-strix-launch-14",
+"title": "Night Owls Never Sleep (StriX Launch 14)"
+}
+],
+"markers": [],
+"name": "B5735/26",
+"page": "https://space-notices.com/notice/notam-NZZC-B5735%2F26",
+"raw": "B5735/26 NOTAMN\r\nQ) NZZC/QRDCA/IV/BO /W /000/999/3913S17823E043\r\nA) NZZC B) 2611262330 C) 2611270135\r\nE) TEMPO DANGER AREA NZD025 (MAHIA EAST CAPE) IS PRESCRIBED AS FLW: \r\nEXCLUDING THAT AREA CO-INCIDENT WITH NZR401, ALL THAT AIRSPACE \r\nBOUNDED BY A LINE JOINING:\r\n38 48 00.00 S 179 06 00.00 E\r\n39 28 48.00 S 179 06 36.00 E\r\n39 37 48.00 S 177 39 00.00 E\r\n39 06 00.00 S 177 36 00.00 E\r\n39 06 00.00 S 177 54 00.00 E\r\n38 48 00.00 S 179 06 00.00 E\r\nACTIVITY: ROCKET LAUNCH\r\nUSING AGENCY: ROCKET LAB LIMITED, RANGE CONTROL CENTRE,\r\nTEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A\r\nDELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET LAUNCH",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83205598",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-24T22:59:16.906Z"
+},
+{
+"areas": [
+[
+[
+-37.0,
+-173.2
+],
+[
+-38.6,
+-172.8
+],
+[
+-39.3,
+-176.95
+],
+[
+-37.7,
+-177.3
+],
+[
+-37.0,
+-173.2
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-27T01:35:00.000Z",
+"start": "2026-11-26T23:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B5736/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-electron-night-owls-never-sleep-strix-launch-14",
+"title": "Night Owls Never Sleep (StriX Launch 14)"
+}
+],
+"markers": [],
+"name": "B5736/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B5736%2F26",
+"raw": "B5736/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3810S17503W115\r\nA) NZZO B) 2611262330 C) 2611270135\r\nE) TEMPO DANGER AREA NZD026 (AUCKLAND OCEANIC FIR) IS PRESCRIBED AS\r\nFLW: ALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n37 00 00.00 S 173 12 00.00 W\r\n38 36 00.00 S 172 48 00.00 W\r\n39 18 00.00 S 176 57 00.00 W\r\n37 42 00.00 S 177 18 00.00 W\r\n37 00 00.00 S 173 12 00.00 W\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED, RANGE CONTROL CENTRE,\r\nTEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A \r\nDELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83205608",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-24T22:59:16.906Z"
+},
+{
+"areas": [
+[
+[
+-34.4,
+-161.0
+],
+[
+-36.0,
+-160.3
+],
+[
+-37.3,
+-165.4
+],
+[
+-35.6,
+-165.8
+],
+[
+-34.4,
+-161.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-27T01:35:00.000Z",
+"start": "2026-11-26T23:30:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B5737/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-electron-night-owls-never-sleep-strix-launch-14",
+"title": "Night Owls Never Sleep (StriX Launch 14)"
+}
+],
+"markers": [],
+"name": "B5737/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B5737%2F26",
+"raw": "B5737/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3554S16308W141\r\nA) NZZO B) 2611262330 C) 2611270135\r\nE) TEMPO DANGER AREA NZD027 (AUCKLAND OCEANIC FIR) IS PRESCRIBED AS \r\nFLW:ALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n34 24 00.00 S 161 00 00.00 W\r\n36 00 00.00 S 160 18 00.00 W\r\n37 18 00.00 S 165 24 00.00 W\r\n35 36 00.00 S 165 48 00.00 W\r\n34 24 00.00 S 161 00 00.00 W\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED, RANGE CONTROL CENTRE,\r\nTEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED \r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83205618",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-24T22:59:16.906Z"
 },
 {
 "areas": [
@@ -294957,6 +295117,166 @@
 "name": "US Coast Guard"
 },
 "updated": "2026-11-10T01:04:32.136Z"
+},
+{
+"areas": [
+[
+[
+-38.8,
+179.1
+],
+[
+-39.4667,
+179.1
+],
+[
+-39.6167,
+177.65
+],
+[
+-39.1,
+177.6
+],
+[
+-39.1,
+177.9
+],
+[
+-38.8,
+179.1
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-28T01:20:00.000Z",
+"start": "2026-11-27T23:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZC-B5739/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-electron-night-owls-never-sleep-strix-launch-14",
+"title": "Night Owls Never Sleep (StriX Launch 14)"
+}
+],
+"markers": [],
+"name": "B5739/26",
+"page": "https://space-notices.com/notice/notam-NZZC-B5739%2F26",
+"raw": "B5739/26 NOTAMN\r\nQ) NZZC/QRDCA/IV/BO /W /000/999/3913S17823E043\r\nA) NZZC B) 2611272300 C) 2611280120\r\nE) TEMPO DANGER AREA NZD025 (MAHIA EAST CAPE) IS PRESCRIBED AS FLW: \r\nEXCLUDING THAT AREA CO-INCIDENT WITH NZR401, ALL THAT AIRSPACE \r\nBOUNDED BY A LINE JOINING:\r\n38 48 00.00 S 179 06 00.00 E\r\n39 28 48.00 S 179 06 36.00 E\r\n39 37 48.00 S 177 39 00.00 E\r\n39 06 00.00 S 177 36 00.00 E\r\n39 06 00.00 S 177 54 00.00 E\r\n38 48 00.00 S 179 06 00.00 E\r\nACTIVITY: ROCKET LAUNCH\r\nUSING AGENCY: ROCKET LAB LIMITED, RANGE CONTROL CENTRE,\r\nTEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A\r\nDELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET LAUNCH",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83205717",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-24T22:59:16.906Z"
+},
+{
+"areas": [
+[
+[
+-37.0,
+-173.2
+],
+[
+-38.6,
+-172.8
+],
+[
+-39.3,
+-176.95
+],
+[
+-37.7,
+-177.3
+],
+[
+-37.0,
+-173.2
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-28T01:20:00.000Z",
+"start": "2026-11-27T23:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B5740/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-electron-night-owls-never-sleep-strix-launch-14",
+"title": "Night Owls Never Sleep (StriX Launch 14)"
+}
+],
+"markers": [],
+"name": "B5740/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B5740%2F26",
+"raw": "B5740/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3810S17503W115\r\nA) NZZO B) 2611272300 C) 2611280120\r\nE) TEMPO DANGER AREA NZD026 (AUCKLAND OCEANIC FIR) IS PRESCRIBED AS\r\nFLW: ALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n37 00 00.00 S 173 12 00.00 W\r\n38 36 00.00 S 172 48 00.00 W\r\n39 18 00.00 S 176 57 00.00 W\r\n37 42 00.00 S 177 18 00.00 W\r\n37 00 00.00 S 173 12 00.00 W\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED, RANGE CONTROL CENTRE,\r\nTEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A \r\nDELEGATED AUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83205720",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-24T22:59:16.906Z"
+},
+{
+"areas": [
+[
+[
+-34.4,
+-161.0
+],
+[
+-36.0,
+-160.3
+],
+[
+-37.3,
+-165.4
+],
+[
+-35.6,
+-165.8
+],
+[
+-34.4,
+-161.0
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-28T01:20:00.000Z",
+"start": "2026-11-27T23:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NZZO-B5741/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-electron-night-owls-never-sleep-strix-launch-14",
+"title": "Night Owls Never Sleep (StriX Launch 14)"
+}
+],
+"markers": [],
+"name": "B5741/26",
+"page": "https://space-notices.com/notice/notam-NZZO-B5741%2F26",
+"raw": "B5741/26 NOTAMN\r\nQ) NZZO/QRDCA/IV/BO /W /000/999/3554S16308W141\r\nA) NZZO B) 2611272300 C) 2611280120\r\nE) TEMPO DANGER AREA NZD027 (AUCKLAND OCEANIC FIR) IS PRESCRIBED AS \r\nFLW:ALL THAT AIRSPACE BOUNDED BY A LINE JOINING:\r\n34 24 00.00 S 161 00 00.00 W\r\n36 00 00.00 S 160 18 00.00 W\r\n37 18 00.00 S 165 24 00.00 W\r\n35 36 00.00 S 165 48 00.00 W\r\n34 24 00.00 S 161 00 00.00 W\r\nACTIVITY: ROCKET DEBRIS RETURN\r\nUSING AGENCY: ROCKET LAB LIMITED, RANGE CONTROL CENTRE,\r\nTEL +64 28 255 11638\r\nPRESCRIBED PURSUANT TO CIVIL AVIATION RULE PART 71 UNDER A DELEGATED \r\nAUTHORITY ISSUED BY THE DIRECTOR OF CIVIL AVIATION\r\nF) SFC G) UNL",
+"reason": "ROCKET DEBRIS RETURN",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83205722",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-24T22:59:16.906Z"
 },
 {
 "areas": [
@@ -299702,6 +300022,78 @@
 -121.8833
 ],
 [
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-28.7167,
+-120.0
+],
+[
+-30.0,
+-120.0
+],
+[
+-30.0,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-29T11:04:00.000Z",
+"start": "2026-11-29T06:26:00.000Z"
+},
+{
+"end": "2026-11-30T08:51:00.000Z",
+"start": "2026-11-30T04:13:00.000Z"
+},
+{
+"end": "2026-12-01T08:38:00.000Z",
+"start": "2026-12-01T04:00:00.000Z"
+},
+{
+"end": "2026-12-02T10:22:00.000Z",
+"start": "2026-12-02T05:44:00.000Z"
+},
+{
+"end": "2026-12-04T09:55:00.000Z",
+"start": "2026-12-04T05:17:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1527/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-380",
+"title": "USSF-380"
+}
+],
+"markers": [],
+"name": "A1527/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1527%2F26",
+"raw": "A1527/26 NOTAMN\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2858S12112W113\r\nA) NTTT\r\nB) 2611290626 C) 2612040955\r\nD) 29 0626-1104, 30 0413-0851, 01 0400-0838, 02 0544-1022, 03\r\n 0332-0810, 04 0517-0955\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX R-7\r\nIN TAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING POINTS :\r\n3000S 12153W, 2759S 12244W, 2709S 12043W, 2843S 12000W, \r\n3000S 12000W, 3000S 12153W \r\nTHIS ACTIVITY ALSO IMPACTS THE FOLLOWING FIR : SCIZ.\r\n\r\nTHE FRENCH VERSION OF THIS NOTAM IS C2866/26.\r\nF) SFC G) UNL",
+"reason": "TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX R-7",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83202867",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-24T19:11:23.131Z"
+},
+{
+"areas": [
+[
+[
+-30.0,
+-121.8833
+],
+[
 -30.0,
 -120.0
 ],
@@ -300147,6 +300539,94 @@
 "updated": "2026-11-23T18:08:19.045Z"
 },
 {
+"areas": [
+[
+[
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-38.35,
+-115.0667
+],
+[
+-49.15,
+-107.3667
+],
+[
+-59.15,
+-95.5667
+],
+[
+-59.9667,
+-99.0833
+],
+[
+-44.5667,
+-114.2167
+],
+[
+-27.9833,
+-122.7333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-29T11:04:00.000Z",
+"start": "2026-11-29T06:26:00.000Z"
+},
+{
+"end": "2026-11-30T08:15:00.000Z",
+"start": "2026-11-30T04:13:00.000Z"
+},
+{
+"end": "2026-12-01T08:38:00.000Z",
+"start": "2026-12-01T04:00:00.000Z"
+},
+{
+"end": "2026-12-02T10:22:00.000Z",
+"start": "2026-12-02T05:44:00.000Z"
+},
+{
+"end": "2026-12-03T08:10:00.000Z",
+"start": "2026-12-03T03:32:00.000Z"
+},
+{
+"end": "2026-12-04T09:55:00.000Z",
+"start": "2026-12-04T05:17:00.000Z"
+},
+{
+"end": "2026-12-05T07:42:00.000Z",
+"start": "2026-12-05T03:04:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3461/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-f9-ussf-380",
+"title": "USSF-380"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3461/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203461%2F26",
+"raw": "240612Z NOV 26\nHYDROPAC 3461/26.\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS SPACE BEBRIS\n   290626Z TO 291104Z, 300413Z TO 300815Z NOV, \n   010400Z TO 010838Z, 020544Z TO 021022Z, \n   030332Z TO 030810Z, 040517Z TO 040955Z\n   AND 050304Z TO 050742Z DEC \n   IN AREA BOUND BY\n   27-59.00S 122-44.00W, 27-09.00S 120-43.00W,\n   38-21.00S 115-04.00W, 49-09.00S 107-22.00W,\n   59-09.00S 095-34.00W, 59-58.00S 099-05.00W,\n   44-34.00S 114-13.00W.\n2. CANCEL THIS MSG 050842Z DEC 26.\n",
+"reason": "HAZARDOUS OPERATIONS SPACE BEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3461&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-11-24T23:15:56.113Z"
+},
+{
 "areas": [],
 "cancelled": false,
 "dates": [
@@ -300198,6 +300678,208 @@
 "name": "Cadena OIS"
 },
 "updated": "2026-11-23T15:46:13.684Z"
+},
+{
+"areas": [
+[
+[
+28.6167,
+-80.6
+],
+[
+28.8833,
+-80.25
+],
+[
+28.7667,
+-80.1333
+],
+[
+28.5167,
+-80.4167
+],
+[
+28.5,
+-80.55
+],
+[
+28.6167,
+-80.6
+]
+],
+[
+[
+30.5,
+-78.4
+],
+[
+31.8,
+-77.1667
+],
+[
+31.9333,
+-77.0167
+],
+[
+31.95,
+-76.4667
+],
+[
+31.85,
+-76.2833
+],
+[
+31.4833,
+-76.2667
+],
+[
+31.35,
+-76.4333
+],
+[
+30.4333,
+-78.3333
+],
+[
+30.5,
+-78.4
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-29T16:43:00.000Z",
+"start": "2026-11-29T15:40:00.000Z"
+},
+{
+"end": "2026-11-30T16:18:00.000Z",
+"start": "2026-11-30T15:14:00.000Z"
+},
+{
+"end": "2026-12-01T15:55:00.000Z",
+"start": "2026-12-01T14:52:00.000Z"
+},
+{
+"end": "2026-12-02T15:33:00.000Z",
+"start": "2026-12-02T14:29:00.000Z"
+},
+{
+"end": "2026-12-03T15:10:00.000Z",
+"start": "2026-12-03T14:07:00.000Z"
+},
+{
+"end": "2026-12-04T14:44:00.000Z",
+"start": "2026-12-04T13:41:00.000Z"
+},
+{
+"end": "2026-12-05T14:22:00.000Z",
+"start": "2026-12-05T13:18:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-NAVAREA IV 1141/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-f9-cygnus-crs-2-ng-25",
+"title": "Cygnus CRS-2 NG-25"
+}
+],
+"markers": [],
+"name": "NAVAREA IV 1141/26",
+"page": "https://space-notices.com/notice/nav-warning-NAVAREA%20IV%201141%2F26",
+"raw": "240653Z NOV 26\nNAVAREA IV 1141/26.\nNORTH ATLANTIC.\nFLORIDA.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING\n   291540Z TO 291643Z NOV, ALTERNATE\n   301514Z TO 301618Z NOV, 011452Z TO 011555Z,\n   021429Z TO 021533Z, 031407Z TO 031510Z,\n   041341Z TO 041444Z AND \n   051318Z TO 051422Z DEC IN AREAS BOUND BY:\n   A. 28-37.95N 080-36.92W, 28-53.00N 080-15.00W,\n      28-46.00N 080-08.00W, 28-31.00N 080-25.00W,\n      28-30.98N 080-33.27W.\n   B. 30-30.00N 078-24.00W, 31-48.00N 077-10.00W,\n      31-56.00N 077-01.00W, 31-57.00N 076-28.00W,\n      31-51.00N 076-17.00W, 31-29.00N 076-16.00W,\n      31-21.00N 076-26.00W, 30-26.00N 078-20.00W.\n2. CANCEL THIS MSG 051522Z DEC 26.\n",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=1141&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-11-24T23:11:58.366Z"
+},
+{
+"areas": [
+[
+[
+-27.5,
+-149.8
+],
+[
+-29.5167,
+-147.8333
+],
+[
+-37.4,
+-157.3167
+],
+[
+-44.35,
+-168.8667
+],
+[
+-42.3333,
+-171.25
+],
+[
+-35.4,
+-159.5333
+],
+[
+-27.5,
+-149.8
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-29T17:37:00.000Z",
+"start": "2026-11-29T16:46:00.000Z"
+},
+{
+"end": "2026-11-30T17:12:00.000Z",
+"start": "2026-11-30T16:20:00.000Z"
+},
+{
+"end": "2026-12-01T16:49:00.000Z",
+"start": "2026-12-01T15:58:00.000Z"
+},
+{
+"end": "2026-12-02T16:27:00.000Z",
+"start": "2026-12-02T15:35:00.000Z"
+},
+{
+"end": "2026-12-03T16:04:00.000Z",
+"start": "2026-12-03T15:13:00.000Z"
+},
+{
+"end": "2026-12-04T15:38:00.000Z",
+"start": "2026-12-04T14:47:00.000Z"
+},
+{
+"end": "2026-12-05T15:16:00.000Z",
+"start": "2026-12-05T14:24:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3462/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-f9-cygnus-crs-2-ng-25",
+"title": "Cygnus CRS-2 NG-25"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3462/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203462%2F26",
+"raw": "240643Z NOV 26\nHYDROPAC 3462/26.\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   291646Z TO 291737Z, 301620Z TO 301712Z NOV,\n   011558Z TO 011649Z, 021535Z TO 021627Z,\n   031513Z TO 031604Z, 041447Z TO 041538Z,\n   AND 051424Z TO 051516Z DEC\n   IN AREA BOUND BY\n   27-30.00S 149-48.00W, 29-31.00S 147-50.00W,\n   37-24.00S 157-19.00W, 44-21.00S 168-52.00W,\n   42-20.00S 171-15.00W, 35-24.00S 159-32.00W.\n2. CANCEL THIS MSG 051616Z DEC 26.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3462&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-11-24T23:16:28.057Z"
 },
 {
 "areas": [
@@ -300346,6 +301028,136 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-24T11:07:47.989Z"
+},
+{
+"areas": [
+[
+[
+-39.2,
+177.75
+],
+[
+-39.15,
+177.95
+],
+[
+-39.0,
+178.5833
+],
+[
+-39.35,
+178.6667
+],
+[
+-39.4,
+177.8
+],
+[
+-39.2,
+177.75
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-12-09T19:45:00.000Z",
+"start": "2026-11-26T22:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3472/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-electron-night-owls-never-sleep-strix-launch-14",
+"title": "Night Owls Never Sleep (StriX Launch 14)"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3472/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203472%2F26",
+"raw": "242243Z NOV 26\nHYDROPAC 3472/26.\nSOUTH PACIFIC.\nNEW ZEALAND.\n1. HAZARDOUS OPERATIONS, ROCKET LAUNCHING \n   262200Z NOV TO 091945Z DEC IN AREA BOUND BY\n   39-12.00S 177-45.00E, 39-09.00S 177-57.00E,\n   39-00.37S 178-35.57E, 39-21.37S 178-40.15E,\n   39-24.00S 177-48.00E.\n2. CANCEL HYDROPAC 3446/26.\n3. CANCEL THIS MSG 092045Z DEC 26.\n",
+"reason": "HAZARDOUS OPERATIONS, ROCKET LAUNCHING",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3472&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-11-24T22:57:00.985Z"
+},
+{
+"areas": [
+[
+[
+-37.7,
+-177.3
+],
+[
+-37.0,
+-173.2
+],
+[
+-38.6,
+-172.8
+],
+[
+-39.3,
+-176.95
+],
+[
+-37.7,
+-177.3
+]
+],
+[
+[
+-35.6,
+-165.8
+],
+[
+-34.4,
+-161.0
+],
+[
+-36.0,
+-160.3
+],
+[
+-37.3,
+-165.4
+],
+[
+-35.6,
+-165.8
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-12-09T19:45:00.000Z",
+"start": "2026-11-26T22:00:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3473/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "launch-electron-night-owls-never-sleep-strix-launch-14",
+"title": "Night Owls Never Sleep (StriX Launch 14)"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3473/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203473%2F26",
+"raw": "242254Z NOV 26\nHYDROPAC 3473/26.\nSOUTH PACIFIC.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS\n   262200Z NOV TO 091945Z DEC\n   IN AREAS BOUND BY:\n   A. 37-42.00S 177-18.00W, 37-00.00S 173-12.00W,\n      38-36.00S 172-48.00W, 39-18.00S 176-57.00W.\n   B. 35-36.00S 165-48.00W, 34-24.00S 161-00.00W,\n      36-00.00S 160-18.00W, 37-18.00S 165-24.00W.\n2. CANCEL HYDROPAC 3445/26.\n3. CANCEL THIS MSG 092045Z DEC 26.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3473&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-11-24T22:59:16.906Z"
 },
 {
 "areas": [],
@@ -300644,7 +301456,7 @@
 ]
 ]
 ],
-"cancelled": false,
+"cancelled": true,
 "dates": [
 {
 "end": "2026-11-23T12:08:00.000Z",
@@ -300789,7 +301601,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=4&msgSqncNumber=1118&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-11-18T20:33:47.387Z"
+"updated": "2026-11-24T23:12:58.741Z"
 },
 {
 "areas": [
@@ -301182,7 +301994,7 @@
 ]
 ]
 ],
-"cancelled": false,
+"cancelled": true,
 "dates": [
 {
 "end": "2026-11-23T15:43:00.000Z",
@@ -301327,7 +302139,7 @@
 "link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3395&createdOn=26&category=14&output=html",
 "name": "US National Geospatial-Intelligence Agency"
 },
-"updated": "2026-11-18T20:32:11.934Z"
+"updated": "2026-11-24T23:20:36.887Z"
 },
 {
 "areas": [
@@ -302038,6 +302850,40 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-08-09T22:15:45.648Z"
+},
+{
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2027-06-30T00:00:00.000Z",
+"start": "2026-11-26T00:00:00.000Z"
+}
+],
+"height": null,
+"id": "tceq-water-quality-permit-TXR15AAP4",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.920586,
+-97.368653
+]
+],
+"name": "TXR15AAP4",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR15AAP4",
+"raw": null,
+"reason": "SOUTH LAYDOWN SITE",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR15AAP4&lgl_id=33595524&pita_id=33595527&phys_id=33595526&princ_id=641482642005192&affil_role=2&reg_ent_id=729645792026328&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-11-25T00:12:11.632Z"
 },
 {
 "areas": [],
