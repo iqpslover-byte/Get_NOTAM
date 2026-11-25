@@ -1,6 +1,6 @@
 {
-"count": 548,
-"generated_utc": "2026-11-25T13:32:05Z",
+"count": 551,
+"generated_utc": "2026-11-25T22:49:22Z",
 "notices": [
 {
 "areas": [],
@@ -29537,6 +29537,35 @@
 "updated": "2026-11-20T11:40:51.449Z"
 },
 {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-26T10:00:00.000Z",
+"start": "2026-11-26T05:59:00.000Z"
+}
+],
+"height": null,
+"id": "starbase-road-delay-83ff5ae2-ae9e-425d-ae5a-6f35d2eb7d4c",
+"kind": "ROAD_DELAY",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [],
+"name": "Nov 26 Production -> Massey's",
+"page": "https://space-notices.com/notice/starbase-road-delay-83ff5ae2-ae9e-425d-ae5a-6f35d2eb7d4c",
+"raw": "Description: Production to Masseys\nDate: November 25 11:59 PM to November 26 4:00 AM",
+"reason": "Production to Masseys",
+"source": {
+"link": "https://www.starbase.texas.gov/beach-road-access",
+"name": "City of Starbase"
+},
+"updated": "2026-11-25T16:00:05.166Z"
+},
+{
 "areas": [
 [
 [
@@ -37730,6 +37759,190 @@
 "areas": [
 [
 [
+31.6333,
+-119.05
+],
+[
+31.7333,
+-118.8333
+],
+[
+29.8,
+-117.65
+],
+[
+29.6,
+-117.2667
+],
+[
+28.8333,
+-117.3167
+],
+[
+28.25,
+-117.3167
+],
+[
+28.2333,
+-117.3333
+],
+[
+28.8333,
+-117.8167
+],
+[
+29.0333,
+-117.9833
+],
+[
+29.25,
+-118.0333
+],
+[
+29.4,
+-118.1333
+],
+[
+29.5833,
+-118.2
+],
+[
+31.6333,
+-119.05
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-12-03T00:13:00.000Z",
+"start": "2026-12-02T20:30:00.000Z"
+},
+{
+"end": "2026-12-03T23:59:00.000Z",
+"start": "2026-12-03T20:16:00.000Z"
+},
+{
+"end": "2026-12-04T23:45:00.000Z",
+"start": "2026-12-04T20:02:00.000Z"
+},
+{
+"end": "2026-12-05T23:31:00.000Z",
+"start": "2026-12-05T19:48:00.000Z"
+},
+{
+"end": "2026-12-06T23:17:00.000Z",
+"start": "2026-12-06T19:34:00.000Z"
+},
+{
+"end": "2026-12-07T23:03:00.000Z",
+"start": "2026-12-07T19:02:00.000Z"
+},
+{
+"end": "2026-12-08T22:49:00.000Z",
+"start": "2026-12-08T19:06:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-MMFR-B4981/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-nrol-132",
+"title": "NROL-132"
+}
+],
+"markers": [],
+"name": "B4981/26",
+"page": "https://space-notices.com/notice/notam-MMFR-B4981%2F26",
+"raw": "B4981/26 NOTAMN\r\r\nQ) MMFR/QRDCA/IV/BO/W/000/999/\r\r\nA) MMFR\r\r\nB) 2612022030\r\r\nC) 2612082249\r\r\nD) 02 2030-0013, 03 2016-2359, 04 2002-2345, 05 1948-2331, 06 1934-2317,\r\r\n   07 1902-2303, 08 1906-2249\r\r\nE) DANGEROUS AREA FOR SPACEX NROL-132 STAGE 1 REENTRY\r\r\n   LATERAL LIMIT AREA FORMED BY THE UNION OF THE FOLLOWING POINT:\r\r\n   \r\r\n   3138N 11903W - 3144N 11850W - 2948N 11739W - 2936N 11716W - 2850N\r\r\n   11719W - 2815N 11719W - 2814N 11720W - 2850N 11749W - 2902N 11759W -\r\r\n   2915N 11802W - 2924N 11808W - 2935N 11812W - 3138N 11903W\r\r\n   FIR MEXICO MMFR\r\r\nF) SFC\r\r\nG) UNL",
+"reason": "DANGEROUS AREA FOR SPACEX NROL-132 STAGE 1 REENTRY",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83214861",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-24T16:30:41.305Z"
+},
+{
+"areas": [
+[
+[
+-30.0,
+-121.8833
+],
+[
+-27.9833,
+-122.7333
+],
+[
+-27.15,
+-120.7167
+],
+[
+-28.7167,
+-120.0
+],
+[
+-30.0,
+-120.0
+],
+[
+-30.0,
+-121.8833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-12-03T01:55:00.000Z",
+"start": "2026-12-02T22:17:00.000Z"
+},
+{
+"end": "2026-12-04T01:41:00.000Z",
+"start": "2026-12-03T22:03:00.000Z"
+},
+{
+"end": "2026-12-05T01:27:00.000Z",
+"start": "2026-12-04T21:49:00.000Z"
+},
+{
+"end": "2026-12-06T01:13:00.000Z",
+"start": "2026-12-05T21:35:00.000Z"
+},
+{
+"end": "2026-12-08T00:45:00.000Z",
+"start": "2026-12-07T21:07:00.000Z"
+},
+{
+"end": "2026-12-09T00:31:00.000Z",
+"start": "2026-12-08T20:53:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-NTTT-A1538/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-nrol-132",
+"title": "NROL-132"
+}
+],
+"markers": [],
+"name": "A1538/26",
+"page": "https://space-notices.com/notice/notam-NTTT-A1538%2F26",
+"raw": "A1538/26 NOTAMN\r\nQ) NTTT/QRDCA/IV/BO/W/000/999/2858S12112W113\r\nA) NTTT\r\nB) 2612022217 C) 2612090031\r\nD) 02 2217-0155, 03 2203-0141, 04 2149-0127, 05 2135-0113, 06\r\n 2121-0059, 07 2107-0045, 08 2053-0031\r\nE) TEMPORARY DANGER AREA DUE TO SPACE DEBRIS RETURN OF SPACEX\r\n NROL-132 IN TAHITI FIR WITHIN AN AREA BOUNDED BY FOLLOWING\r\n POINTS:  \r\n3000S 12153W - 2759S 12244W - 2709S 12043W - 2843S 12000W - 3000S\r\n 12000W - 3000S 12153W\r\nTHIS ACTIVITY ALSO IMPACTS SCIZ FIR.\r\nTHE FRENCH VERSION OF THIS NOTAM IS C2890/26\r\nF) SFC G) UNL",
+"reason": "SPACE DEBRIS RETURN OF SPACEX NROL-132",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83215050",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-24T16:30:41.305Z"
+},
+{
+"areas": [
+[
+[
 -39.2,
 177.75
 ],
@@ -42453,8 +42666,8 @@
 "updated": "2026-10-12T14:08:59.809Z"
 }
 ],
-"pending": 11,
+"pending": 13,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3771
+"total_known": 3774
 }
