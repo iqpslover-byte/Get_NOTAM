@@ -1,5 +1,5 @@
 {
-"count": 3129,
+"count": 3128,
 "notices": [
 {
 "areas": [
@@ -265524,58 +265524,6 @@
 "areas": [
 [
 [
-35.7667,
-98.8
-],
-[
-35.7167,
-99.0167
-],
-[
-35.35,
-98.9333
-],
-[
-35.3833,
-98.7
-],
-[
-35.7667,
-98.8
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-11-11T12:05:00.000Z",
-"start": "2026-11-11T11:32:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-ZLHW-A5728/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "launch-long-march-2d-cas-pathfinder-1",
-"title": "CAS Pathfinder-1"
-}
-],
-"markers": [],
-"name": "A5728/26",
-"page": "https://space-notices.com/notice/notam-ZLHW-A5728%2F26",
-"raw": "A5728/26 NOTAMN\r\nQ)ZLHW/QRDCA/IV/BO/W/000/999/3533N09852E013\r\nA)ZLHW B)2611111132 C)2611111205 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED \r\nBY:N354600E0984800-N354300E0990100-N352100E0985600-N352300E0984200,\r\nVERTICAL LIMITS:SFC-UNL.CIVIL ACFT ARE FORBIDDEN TO FLY INTO THE \r\nAREA.\r\nF)SFC G)UNL",
-"reason": "A TEMPORARY DANGER AREA",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82974470",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-11-20T11:43:20.511Z"
-},
-{
-"areas": [
-[
-[
 32.083333,
 -119.133333
 ],
@@ -292965,7 +292913,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83205598",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-24T22:59:16.906Z"
+"updated": "2026-11-25T02:14:29.553Z"
 },
 {
 "areas": [
@@ -293017,7 +292965,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83205608",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-24T22:59:16.906Z"
+"updated": "2026-11-25T02:18:25.498Z"
 },
 {
 "areas": [
@@ -293069,7 +293017,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83205618",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-24T22:59:16.906Z"
+"updated": "2026-11-25T02:36:25.842Z"
 },
 {
 "areas": [
@@ -295172,7 +295120,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83205717",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-24T22:59:16.906Z"
+"updated": "2026-11-25T02:50:29.406Z"
 },
 {
 "areas": [
@@ -295224,7 +295172,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83205720",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-24T22:59:16.906Z"
+"updated": "2026-11-25T02:54:25.563Z"
 },
 {
 "areas": [
@@ -295276,7 +295224,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83205722",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-24T22:59:16.906Z"
+"updated": "2026-11-25T02:54:33.956Z"
 },
 {
 "areas": [
