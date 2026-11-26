@@ -11480,6 +11480,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209136-26": {
+"gone": "2026-11-26",
 "lastmod": "2026-11-02T19:20:44.211Z",
 "notice": {
 "areas": [
@@ -13641,6 +13642,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/bnm-CGD-SW%20BNM%209153-26": {
+"gone": "2026-11-26",
 "lastmod": "2026-11-14T14:06:38.901Z",
 "notice": {
 "areas": [
@@ -17208,6 +17210,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/infopage-faa-operations-advisory-spacex-r-5": {
+"gone": "2026-11-26",
 "lastmod": "2026-11-10T18:26:36.933Z",
 "notice": {
 "areas": [],
@@ -26873,6 +26876,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/lnm-57659": {
+"gone": "2026-11-26",
 "lastmod": "2026-11-02T18:46:22.434Z",
 "notice": {
 "areas": [
@@ -104478,6 +104482,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%203207%2F26": {
+"gone": "2026-11-26",
 "lastmod": "2026-11-04T11:35:24.862Z",
 "notice": {
 "areas": [
@@ -111277,6 +111282,84 @@
 "updated": ""
 },
 "via": "backfill"
+},
+"https://space-notices.com/notice/nav-warning-HYDROPAC%203489%2F26": {
+"lastmod": "2026-11-26T12:17:36.841Z",
+"notice": {
+"areas": [
+[
+[
+6.9167,
+108.6333
+],
+[
+6.8,
+109.0833
+],
+[
+5.75,
+108.8167
+],
+[
+5.8667,
+108.3833
+],
+[
+6.9167,
+108.6333
+]
+],
+[
+[
+6.7667,
+108.6
+],
+[
+6.6667,
+109.05
+],
+[
+5.6167,
+108.7833
+],
+[
+5.7333,
+108.35
+],
+[
+6.7667,
+108.6
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-12-01T06:00:00.000Z",
+"start": "2026-12-01T00:01:00.000Z"
+}
+],
+"height": null,
+"id": "nav-warning-HYDROPAC 3489/26",
+"kind": "NAVWARNING",
+"launches": [
+{
+"id": "collection-chinese-unknown",
+"title": "Chinese Notices"
+}
+],
+"markers": [],
+"name": "HYDROPAC 3489/26",
+"page": "https://space-notices.com/notice/nav-warning-HYDROPAC%203489%2F26",
+"raw": "261212Z NOV 26\nHYDROPAC 3489/26\nSOUTH CHINA SEA.\nINDONESIA.\n1. HAZARDOUS OPERATIONS, SPACE DEBRIS 010001Z TO\n   010600Z DEC IN AREAS BOUND BY:\n   A. 06-55.18N 108-38.95E, 06-48.60N 109-05.30E,\n      05-45.81N 108-49.39E, 05-52.38N 108-23.09E.\n   B. 06-46.82N 108-36.86E, 06-40.24N 109-03.20E,\n      05-37.45N 108-47.30E, 05-44.02N 108-21.01E.\n2. CANCEL THIS MSG 010700Z DEC 26.\n",
+"reason": "HAZARDOUS OPERATIONS, SPACE DEBRIS",
+"source": {
+"link": "https://msi.nga.mil/queryResults?publications/smaps?navArea=P&msgSqncNumber=3489&createdOn=26&category=14&output=html",
+"name": "US National Geospatial-Intelligence Agency"
+},
+"updated": "2026-11-26T12:17:36.841Z"
+},
+"via": "sitemap"
 },
 "https://space-notices.com/notice/nav-warning-HYDROPAC%20349%2F22": {
 "lastmod": "",
@@ -250381,6 +250464,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-MMFR-B3981%2F26": {
+"gone": "2026-11-26",
 "lastmod": "2026-11-05T01:11:22.467Z",
 "notice": {
 "areas": [
@@ -260549,6 +260633,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1403%2F26": {
+"gone": "2026-11-26",
 "lastmod": "2026-11-02T19:51:29.997Z",
 "notice": {
 "areas": [
@@ -260791,6 +260876,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1430%2F26": {
+"gone": "2026-11-26",
 "lastmod": "2026-11-05T17:58:23.146Z",
 "notice": {
 "areas": [
@@ -261139,6 +261225,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1447%2F26": {
+"gone": "2026-11-26",
 "lastmod": "2026-11-10T02:16:35.832Z",
 "notice": {
 "areas": [
@@ -261219,6 +261306,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1449%2F26": {
+"gone": "2026-11-26",
 "lastmod": "2026-11-10T20:57:06.492Z",
 "notice": {
 "areas": [
@@ -262059,7 +262147,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-NTTT-A1516%2F26": {
-"lastmod": "2026-11-24T11:07:47.989Z",
+"lastmod": "2026-11-26T11:51:37.087Z",
 "notice": {
 "areas": [
 [
@@ -262117,8 +262205,8 @@
 "kind": "NOTAM",
 "launches": [
 {
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
+"id": "launch-kuaizhou-11-unknown-payload-e2523821",
+"title": "Unknown Payload"
 }
 ],
 "markers": [],
@@ -262130,7 +262218,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83189447",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-24T11:07:47.989Z"
+"updated": "2026-11-26T11:51:37.087Z"
 },
 "via": "sitemap"
 },
@@ -278170,6 +278258,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-SCIZ-W3774%2F26": {
+"gone": "2026-11-26",
 "lastmod": "2026-11-02T17:50:41.971Z",
 "notice": {
 "areas": [
@@ -295044,7 +295133,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-YMMM-F4755%2F26": {
-"lastmod": "2026-11-24T06:28:21.896Z",
+"lastmod": "2026-11-26T11:52:02.114Z",
 "notice": {
 "areas": [
 [
@@ -295082,8 +295171,8 @@
 "kind": "NOTAM",
 "launches": [
 {
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
+"id": "launch-kinetica-1-unknown-payload-8b46d360",
+"title": "Unknown Payload"
 }
 ],
 "markers": [],
@@ -295095,7 +295184,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83195542",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-24T06:28:21.896Z"
+"updated": "2026-11-26T11:52:02.114Z"
 },
 "via": "sitemap"
 },
@@ -322479,6 +322568,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-11%2F067-26": {
+"gone": "2026-11-26",
 "lastmod": "2026-11-07T10:57:28.771Z",
 "notice": {
 "areas": [
@@ -322559,6 +322649,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-11%2F068-26": {
+"gone": "2026-11-26",
 "lastmod": "2026-11-07T10:57:17.712Z",
 "notice": {
 "areas": [
@@ -322615,6 +322706,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-11%2F071-26": {
+"gone": "2026-11-26",
 "lastmod": "2026-11-08T13:02:13.240Z",
 "notice": {
 "areas": [
@@ -322695,6 +322787,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-11%2F072-26": {
+"gone": "2026-11-26",
 "lastmod": "2026-11-08T13:02:15.096Z",
 "notice": {
 "areas": [
@@ -322751,6 +322844,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-11%2F080-26": {
+"gone": "2026-11-26",
 "lastmod": "2026-11-09T22:14:19.270Z",
 "notice": {
 "areas": [
@@ -322831,6 +322925,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-11%2F081-26": {
+"gone": "2026-11-26",
 "lastmod": "2026-11-09T22:26:19.760Z",
 "notice": {
 "areas": [
@@ -323023,6 +323118,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-11%2F107-26": {
+"gone": "2026-11-26",
 "lastmod": "2026-11-11T12:31:00.685Z",
 "notice": {
 "areas": [
@@ -323103,6 +323199,7 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/notam-ZLA-11%2F109-26": {
+"gone": "2026-11-26",
 "lastmod": "2026-11-11T12:45:01.280Z",
 "notice": {
 "areas": [
@@ -325475,6 +325572,142 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-24T11:14:17.680Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZLA-11%2F343-26": {
+"lastmod": "2026-11-26T11:56:27.307Z",
+"notice": {
+"areas": [
+[
+[
+32.7167,
+-119.5167
+],
+[
+32.75,
+-119.4667
+],
+[
+33.2167,
+-119.65
+],
+[
+34.1167,
+-120.1167
+],
+[
+34.5667,
+-120.3833
+],
+[
+34.6667,
+-120.5
+],
+[
+34.65,
+-120.6333
+],
+[
+34.5333,
+-120.6333
+],
+[
+34.3333,
+-120.5333
+],
+[
+32.9,
+-119.7
+],
+[
+32.7167,
+-119.5167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-29T09:01:00.000Z",
+"start": "2026-11-29T04:39:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-11/343-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-380",
+"title": "USSF-380"
+}
+],
+"markers": [],
+"name": "11/343",
+"page": "https://space-notices.com/notice/notam-ZLA-11%2F343-26",
+"raw": "!CARF 11/343 ZLA AIRSPACE DCC SX USSF380_R-7 26-76 STNR ALT RESERVATION AREA A WI AN AREA DEFINED AS 324300N1193100W TO 324500N1192800W TO 331300N1193900W TO 340700N1200700W TO 343400N1202300W TO 344000N1203000W TO 343900N1203800W TO 343200N1203800W TO 342000N1203200W TO 325400N1194200W TO POINT OF ORIGIN SFC-UNL 2611290439-2611290901",
+"reason": "SX USSF380_R-7 26-76",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83220359",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-26T11:56:27.307Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZLA-11%2F344-26": {
+"lastmod": "2026-11-26T11:56:17.750Z",
+"notice": {
+"areas": [
+[
+[
+32.45,
+-119.3833
+],
+[
+32.5,
+-119.3167
+],
+[
+31.7333,
+-118.8333
+],
+[
+31.6333,
+-119.05
+],
+[
+32.45,
+-119.3833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-29T09:03:00.000Z",
+"start": "2026-11-29T04:39:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLA-11/344-26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-f9-ussf-380",
+"title": "USSF-380"
+}
+],
+"markers": [],
+"name": "11/344",
+"page": "https://space-notices.com/notice/notam-ZLA-11%2F344-26",
+"raw": "!CARF 11/344 ZLA AIRSPACE DCC SX USSF380_R-7 26-76 STNR ALT RESERVATION \nAREA B WI AN AREA DEFINED AS 322700N1192300W TO 323000N1191900W TO 314400N1185000W TO 313800N1190300W TO POINT OF ORIGIN SFC-UNL 2611290439-2611290903",
+"reason": "SX USSF380_R-7 26-76",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83220365",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-26T11:56:17.750Z"
 },
 "via": "sitemap"
 },
@@ -330942,6 +331175,62 @@
 "name": "US Federal Aviation Administration"
 },
 "updated": "2026-11-20T10:59:05.970Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/notam-ZLHW-A6107%2F26": {
+"lastmod": "2026-11-26T11:52:18.549Z",
+"notice": {
+"areas": [
+[
+[
+38.1333,
+107.9333
+],
+[
+37.95,
+108.0
+],
+[
+37.85,
+107.55
+],
+[
+38.0333,
+107.4833
+],
+[
+38.1333,
+107.9333
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-27T13:15:00.000Z",
+"start": "2026-11-27T12:53:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZLHW-A6107/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-long-march-6a-unknown-payload-a6421db3",
+"title": "Unknown Payload"
+}
+],
+"markers": [],
+"name": "A6107/26",
+"page": "https://space-notices.com/notice/notam-ZLHW-A6107%2F26",
+"raw": "A6107/26 NOTAMN\r\nQ)ZLHW/QRDCA/IV/BO/W/000/999/3800N10745E012\r\nA)ZLHW B)2611271253 C)2611271315 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN380800E1075600-N375700E1080000-N375100E1073300-N380200E1072900,\r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83156528",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-26T11:52:18.549Z"
 },
 "via": "sitemap"
 },
@@ -344815,6 +345104,62 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/notam-ZPKM-A6106%2F26": {
+"lastmod": "2026-11-26T11:52:24.644Z",
+"notice": {
+"areas": [
+[
+[
+27.9333,
+108.4167
+],
+[
+27.85,
+108.7833
+],
+[
+27.2167,
+108.6333
+],
+[
+27.2833,
+108.2667
+],
+[
+27.9333,
+108.4167
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-29T04:19:00.000Z",
+"start": "2026-11-29T03:47:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ZPKM-A6106/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "launch-long-march-6c-unknown-payload-13270554",
+"title": "Unknown Payload"
+}
+],
+"markers": [],
+"name": "A6106/26",
+"page": "https://space-notices.com/notice/notam-ZPKM-A6106%2F26",
+"raw": "A6106/26 NOTAMN\r\nQ)ZPKM/QRDCA/IV/BO/W/000/999/2734N10831E022\r\nA)ZPKM B)2611290347 C)2611290419 \r\nE) A TEMPORARY DANGER AREA ESTABLISHED BOUNDED BY:\r\nN275600E1082500-N275100E1084700-N271300E1083800-N271700E1081600\r\nBACK TO START.VERTICAL LIMITS:SFC-UNL.\r\nAIRCRAFT ARE FORBIDDEN TO FLY INTO THE AREA.\r\nF)SFC G)UNL",
+"reason": "A TEMPORARY DANGER AREA",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83156520",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-26T11:52:24.644Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/notam-ZSHA-A1767%2F26": {
 "lastmod": "2026-05-23T23:24:07.103Z",
 "notice": {
@@ -356150,6 +356495,39 @@
 },
 "via": "sitemap"
 },
+"https://space-notices.com/notice/starbase-road-delay-4549b2c7-029f-464b-847c-bfb089d4232b": {
+"lastmod": "2026-11-26T06:07:01.397Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-26T10:00:00.000Z",
+"start": "2026-11-26T05:59:00.000Z"
+}
+],
+"height": null,
+"id": "starbase-road-delay-4549b2c7-029f-464b-847c-bfb089d4232b",
+"kind": "ROAD_DELAY",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [],
+"name": "Nov 26 Production -> Massey's",
+"page": "https://space-notices.com/notice/starbase-road-delay-4549b2c7-029f-464b-847c-bfb089d4232b",
+"raw": "Description: Production to Masseys\nDate: November 25 11:59 PM to November 26 4:00 AM",
+"reason": "Production to Masseys",
+"source": {
+"link": "https://www.starbase.texas.gov/beach-road-access",
+"name": "City of Starbase"
+},
+"updated": "2026-11-26T06:07:01.397Z"
+},
+"via": "sitemap"
+},
 "https://space-notices.com/notice/starbase-road-delay-4776fa70-faa0-488d-aa01-6de62cf30e54": {
 "lastmod": "2026-11-06T18:12:03.103Z",
 "notice": {
@@ -356349,10 +356727,10 @@
 "via": "sitemap"
 },
 "https://space-notices.com/notice/starbase-road-delay-83ff5ae2-ae9e-425d-ae5a-6f35d2eb7d4c": {
-"lastmod": "2026-11-25T16:00:05.166Z",
+"lastmod": "2026-11-26T05:38:00.281Z",
 "notice": {
 "areas": [],
-"cancelled": false,
+"cancelled": true,
 "dates": [
 {
 "end": "2026-11-26T10:00:00.000Z",
@@ -356377,7 +356755,7 @@
 "link": "https://www.starbase.texas.gov/beach-road-access",
 "name": "City of Starbase"
 },
-"updated": "2026-11-25T16:00:05.166Z"
+"updated": "2026-11-26T05:38:00.281Z"
 },
 "via": "sitemap"
 },
@@ -357352,6 +357730,44 @@
 "name": "Texas Commission on Environmental Quality"
 },
 "updated": "2026-10-12T14:10:17.615Z"
+},
+"via": "sitemap"
+},
+"https://space-notices.com/notice/tceq-water-quality-permit-TXR1574ZY": {
+"lastmod": "2026-11-26T11:54:50.244Z",
+"notice": {
+"areas": [],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-12-31T00:00:00.000Z",
+"start": "2026-11-11T00:00:00.000Z"
+}
+],
+"height": null,
+"id": "tceq-water-quality-permit-TXR1574ZY",
+"kind": "WATER_QUALITY_PERMIT",
+"launches": [
+{
+"id": "collection-starbase-tx-construction-testing",
+"title": "Starbase, Tx"
+}
+],
+"markers": [
+[
+25.993697,
+-97.461942
+]
+],
+"name": "TXR1574ZY",
+"page": "https://space-notices.com/notice/tceq-water-quality-permit-TXR1574ZY",
+"raw": null,
+"reason": "511 PARKING LAYDOWN SITE",
+"source": {
+"link": "https://www2.tceq.texas.gov/wq_dpa/index.cfm?fuseaction=home.permit_summary&lgl_ident_txt=TXR1574ZY&lgl_id=33546689&pita_id=33546692&phys_id=33546691&princ_id=641482642005192&affil_role=2&reg_ent_id=273410492026322&permit_type_code=SWC&return_to=permit_list_by_cn&cn_number=CN602867657",
+"name": "Texas Commission on Environmental Quality"
+},
+"updated": "2026-11-26T11:54:50.244Z"
 },
 "via": "sitemap"
 },
