@@ -1,5 +1,5 @@
 {
-"count": 3139,
+"count": 3140,
 "notices": [
 {
 "areas": [
@@ -298450,6 +298450,70 @@
 "updated": "2026-11-27T00:32:50.161Z"
 },
 {
+"areas": [
+[
+[
+70.9833,
+14.7833
+],
+[
+70.5,
+17.0667
+],
+[
+69.2,
+16.6667
+],
+[
+69.0833,
+15.9833
+],
+[
+69.4167,
+13.6833
+],
+[
+69.5667,
+12.7833
+],
+[
+70.5,
+12.35
+],
+[
+70.9833,
+14.7833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-30T23:00:00.000Z",
+"start": "2026-11-30T17:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ENOR-B1705/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-andoya-define",
+"title": "Define"
+}
+],
+"markers": [],
+"name": "B1705/26",
+"page": "https://space-notices.com/notice/notam-ENOR-B1705%2F26",
+"raw": "B1705/26 NOTAMN\r\nQ) ENXX/QRDCA/IV/BO /W /000/999/6959N01453E062\r\nA) ENOR ENOB B) 2611301700 C) 2611302300\r\nE) TEMPO DANGER AREA END496Z DEFINEZ ACTIVATED PSN 705915N 0144727E \r\n- 703009N 0170436E - 691203N 0164035E - 690517N 0155945E - 692533N \r\n0134104E - 693437N 0124740E - 703042N 0122105E - (705915N 0144727E). \r\nREAL TIME ACTIVATION 30 MIN NOTICE. CTC ENBD SUP +47 75542904\r\nF) GND G) UNL",
+"reason": "TEMPO DANGER AREA END496Z DEFINEZ",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83234654",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-27T20:19:28.859Z"
+},
+{
 "areas": [],
 "cancelled": false,
 "dates": [
@@ -302102,7 +302166,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83234846",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-25T17:24:18.758Z"
+"updated": "2026-11-27T19:06:23.882Z"
 },
 {
 "areas": [],

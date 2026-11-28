@@ -1,79 +1,7 @@
 {
 "count": 557,
-"generated_utc": "2026-11-27T19:40:31Z",
+"generated_utc": "2026-11-28T02:12:59Z",
 "notices": [
-{
-"areas": [
-[
-[
-30.7667,
-125.75
-],
-[
-30.25,
-126.6
-],
-[
-29.8,
-126.25
-],
-[
-30.3167,
-125.4
-],
-[
-30.7667,
-125.75
-]
-]
-],
-"cancelled": false,
-"dates": [
-{
-"end": "2026-10-23T21:00:00.000Z",
-"start": "2026-10-23T18:00:00.000Z"
-},
-{
-"end": "2026-10-24T21:00:00.000Z",
-"start": "2026-10-24T18:00:00.000Z"
-},
-{
-"end": "2026-10-25T21:00:00.000Z",
-"start": "2026-10-25T18:00:00.000Z"
-},
-{
-"end": "2026-10-26T21:00:00.000Z",
-"start": "2026-10-26T18:00:00.000Z"
-},
-{
-"end": "2026-10-27T21:00:00.000Z",
-"start": "2026-10-27T18:00:00.000Z"
-},
-{
-"end": "2026-10-28T21:00:00.000Z",
-"start": "2026-10-28T18:00:00.000Z"
-}
-],
-"height": "Unlimited",
-"id": "notam-RJJJ-P5062/26",
-"kind": "NOTAM",
-"launches": [
-{
-"id": "collection-chinese-unknown",
-"title": "Chinese Notices"
-}
-],
-"markers": [],
-"name": "P5062/26",
-"page": "https://space-notices.com/notice/notam-RJJJ-P5062%2F26",
-"raw": "P5062/26 NOTAMN\r\nQ)RJJJ/QXXXX/IV/NBO/E/000/999/3017N12600E032\r\nA)RJJJ B)2610231800 C)2610282100\r\nD)1800/2100\r\nE)DUE TO AN AEROSPACE FLIGHT ACTIVITY, THE FLIGHT SAFETY OF THE\r\nAIRCRAFT IN FOLLOWING AREA MAY BE AFFECTED THRU OCT 23-28 2026.\r\n\r\nAREA:\r\n3046N12545E - 3015N12636E - 2948N12615E - 3019N12524E - 3046N12545E\r\n\r\nALTITUDE:\r\nSFC - UNL\r\n\r\nRMK: ATC WILL NOT CLEAR IFR FLT THRU THIS AREA FOR THE FLIGHT SAFETY.\r\nNOTAM VALID TIME IS BASED ON CHINA AEROSPACE FLIGHT ACTIVITY TENT\r\nSCHEDULE PROVIDED BY THE CAA.\r\nTHE EXACT AFFECTED DATE WILL BE NOTIFIED BY FURTHER NOTAM RJJJ ONCE\r\nTHE SCHEDULE IS DETERMINED.\r\nF)SFC G)UNL",
-"reason": "DUE TO AN AEROSPACE FLIGHT ACTIVITY",
-"source": {
-"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82734858",
-"name": "US Federal Aviation Administration"
-},
-"updated": "2026-10-14T03:40:29.498Z"
-},
 {
 "areas": [],
 "cancelled": false,
@@ -35141,6 +35069,70 @@
 "updated": "2026-11-27T00:32:50.161Z"
 },
 {
+"areas": [
+[
+[
+70.9833,
+14.7833
+],
+[
+70.5,
+17.0667
+],
+[
+69.2,
+16.6667
+],
+[
+69.0833,
+15.9833
+],
+[
+69.4167,
+13.6833
+],
+[
+69.5667,
+12.7833
+],
+[
+70.5,
+12.35
+],
+[
+70.9833,
+14.7833
+]
+]
+],
+"cancelled": false,
+"dates": [
+{
+"end": "2026-11-30T23:00:00.000Z",
+"start": "2026-11-30T17:00:00.000Z"
+}
+],
+"height": "Unlimited",
+"id": "notam-ENOR-B1705/26",
+"kind": "NOTAM",
+"launches": [
+{
+"id": "other-andoya-define",
+"title": "Define"
+}
+],
+"markers": [],
+"name": "B1705/26",
+"page": "https://space-notices.com/notice/notam-ENOR-B1705%2F26",
+"raw": "B1705/26 NOTAMN\r\nQ) ENXX/QRDCA/IV/BO /W /000/999/6959N01453E062\r\nA) ENOR ENOB B) 2611301700 C) 2611302300\r\nE) TEMPO DANGER AREA END496Z DEFINEZ ACTIVATED PSN 705915N 0144727E \r\n- 703009N 0170436E - 691203N 0164035E - 690517N 0155945E - 692533N \r\n0134104E - 693437N 0124740E - 703042N 0122105E - (705915N 0144727E). \r\nREAL TIME ACTIVATION 30 MIN NOTICE. CTC ENBD SUP +47 75542904\r\nF) GND G) UNL",
+"reason": "TEMPO DANGER AREA END496Z DEFINEZ",
+"source": {
+"link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83234654",
+"name": "US Federal Aviation Administration"
+},
+"updated": "2026-11-27T20:19:28.859Z"
+},
+{
 "areas": [],
 "cancelled": false,
 "dates": [
@@ -38793,7 +38785,7 @@
 "link": "https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=83234846",
 "name": "US Federal Aviation Administration"
 },
-"updated": "2026-11-25T17:24:18.758Z"
+"updated": "2026-11-27T19:06:23.882Z"
 },
 {
 "areas": [],
@@ -43429,5 +43421,5 @@
 "pending": 13,
 "source": "space-notices.com",
 "source_url": "https://space-notices.com",
-"total_known": 3801
+"total_known": 3802
 }
